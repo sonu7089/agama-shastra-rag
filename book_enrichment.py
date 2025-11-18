@@ -2,6 +2,7 @@ import os
 import re
 import json
 import time
+import shutil
 from pathlib import Path
 from typing import Dict, Optional, List
 import google.generativeai as genai
@@ -25,6 +26,8 @@ class BookDataEnricher:
         self.file_name = Path(pdf_path).stem
         self.output_dir = Path(output_base) / self.file_name
         self.output_dir.mkdir(parents=True, exist_ok=True)
+        self.temp_dir = self.output_dir / "temp"
+        self.temp_pdf_files: List[Path] = []  # Track all temporary PDF files
 
 
     def upload_pdf_to_gemini(self, pdf_path: str):
@@ -103,11 +106,11 @@ class BookDataEnricher:
             pdf_index = book_page + PDF_PAGE_OFFSET - 1
             if 0 <= pdf_index < len(reader.pages):
                 writer.add_page(reader.pages[pdf_index])
-        temp_dir = self.output_dir / "temp"
-        temp_dir.mkdir(exist_ok=True)
-        temp_path = temp_dir / f"{temp_name}.pdf"
+        self.temp_dir.mkdir(parents=True, exist_ok=True)
+        temp_path = self.temp_dir / f"{temp_name}.pdf"
         with open(temp_path, "wb") as f:
             writer.write(f)
+        self.temp_pdf_files.append(temp_path)
         return str(temp_path)
 
 
@@ -126,6 +129,34 @@ class BookDataEnricher:
             print("No valid JSON found in LLM output!")
             print(text)
             raise ValueError("No valid JSON found")
+
+
+    def cleanup_temp_files(self):
+        """Delete all temporary PDF files and the temp directory"""
+        print("\nCleaning up temporary files...")
+        deleted_count = 0
+        
+        # Delete tracked temp PDF files
+        for temp_file in self.temp_pdf_files:
+            try:
+                if temp_file.exists():
+                    temp_file.unlink()
+                    deleted_count += 1
+            except Exception as e:
+                print(f"Warning: Could not delete {temp_file}: {e}")
+        
+        # Delete the entire temp directory if it exists
+        try:
+            if self.temp_dir.exists():
+                shutil.rmtree(self.temp_dir)
+                print(f"Deleted {deleted_count} temporary PDF files and temp directory")
+            else:
+                print(f"Deleted {deleted_count} temporary PDF files")
+        except Exception as e:
+            print(f"Warning: Could not delete temp directory {self.temp_dir}: {e}")
+        
+        # Clear the tracking list
+        self.temp_pdf_files.clear()
 
 
     def safe_process_section(self, section_info: Dict, section_name: str, process_func):
@@ -655,62 +686,69 @@ class BookDataEnricher:
         print("Starting Comprehensive Book Data Enrichment Process")
         print("=" * 60)
         
-        # Upload full PDF and extract structure
-        full_pdf_file = self.upload_pdf_to_gemini(self.pdf_path)
-        structure = self.extract_structure(full_pdf_file)
-        genai.delete_file(full_pdf_file.name)
+        try:
+            # Upload full PDF and extract structure
+            full_pdf_file = self.upload_pdf_to_gemini(self.pdf_path)
+            try:
+                structure = self.extract_structure(full_pdf_file)
+            finally:
+                genai.delete_file(full_pdf_file.name)
+            
+            # Process all front matter
+            if 'preface' in structure:
+                self.safe_process_section(structure['preface'], 'Preface', self.process_preface)
+            
+            if 'foreword' in structure:
+                self.safe_process_section(structure['foreword'], 'Foreword', self.process_foreword)
+            
+            if 'acknowledgments' in structure:
+                self.safe_process_section(structure['acknowledgments'], 'Acknowledgments', self.process_acknowledgments)
+            
+            if 'introduction' in structure:
+                self.safe_process_section(structure['introduction'], 'Introduction', self.process_introduction)
+            
+            # Process chapters
+            if 'chapters' in structure:
+                for idx, chapter in enumerate(structure['chapters'], 1):
+                    try:
+                        self.process_chapter(chapter, idx)
+                        time.sleep(1)
+                    except Exception as e:
+                        print(f"Error processing chapter {idx}: {e}")
+            
+            # Process appendixes
+            if 'appendixes' in structure:
+                for idx, appendix in enumerate(structure['appendixes'], 1):
+                    try:
+                        self.process_appendix(appendix, idx)
+                        time.sleep(1)
+                    except Exception as e:
+                        print(f"Error processing appendix {idx}: {e}")
+            
+            # Process back matter
+            if 'glossary' in structure:
+                self.safe_process_section(structure['glossary'], 'Glossary', self.process_glossary)
+            
+            if 'bibliography' in structure:
+                self.safe_process_section(structure['bibliography'], 'Bibliography', self.process_bibliography)
+            
+            if 'references_and_notes' in structure:
+                self.safe_process_section(structure['references_and_notes'], 'References and Notes', self.process_references)
+            
+            if 'index' in structure:
+                self.safe_process_section(structure['index'], 'Index', self.process_index)
+            
+            # Generate consolidated metadata
+            self.generate_consolidated_metadata()
+            
+            print("\n" + "=" * 60)
+            print("Book Data Enrichment Complete!")
+            print(f"Output saved to: {self.output_dir}")
+            print("=" * 60)
         
-        # Process all front matter
-        if 'preface' in structure:
-            self.safe_process_section(structure['preface'], 'Preface', self.process_preface)
-        
-        if 'foreword' in structure:
-            self.safe_process_section(structure['foreword'], 'Foreword', self.process_foreword)
-        
-        if 'acknowledgments' in structure:
-            self.safe_process_section(structure['acknowledgments'], 'Acknowledgments', self.process_acknowledgments)
-        
-        if 'introduction' in structure:
-            self.safe_process_section(structure['introduction'], 'Introduction', self.process_introduction)
-        
-        # Process chapters
-        if 'chapters' in structure:
-            for idx, chapter in enumerate(structure['chapters'], 1):
-                try:
-                    self.process_chapter(chapter, idx)
-                    time.sleep(1)
-                except Exception as e:
-                    print(f"Error processing chapter {idx}: {e}")
-        
-        # Process appendixes
-        if 'appendixes' in structure:
-            for idx, appendix in enumerate(structure['appendixes'], 1):
-                try:
-                    self.process_appendix(appendix, idx)
-                    time.sleep(1)
-                except Exception as e:
-                    print(f"Error processing appendix {idx}: {e}")
-        
-        # Process back matter
-        if 'glossary' in structure:
-            self.safe_process_section(structure['glossary'], 'Glossary', self.process_glossary)
-        
-        if 'bibliography' in structure:
-            self.safe_process_section(structure['bibliography'], 'Bibliography', self.process_bibliography)
-        
-        if 'references_and_notes' in structure:
-            self.safe_process_section(structure['references_and_notes'], 'References and Notes', self.process_references)
-        
-        if 'index' in structure:
-            self.safe_process_section(structure['index'], 'Index', self.process_index)
-        
-        # Generate consolidated metadata
-        self.generate_consolidated_metadata()
-        
-        print("\n" + "=" * 60)
-        print("Book Data Enrichment Complete!")
-        print(f"Output saved to: {self.output_dir}")
-        print("=" * 60)
+        finally:
+            # Always cleanup temporary files, even if processing fails
+            self.cleanup_temp_files()
 
 
 if __name__ == "__main__":
