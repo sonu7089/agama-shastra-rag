@@ -44,3 +44,20 @@ Thumbs.db
 # Output directories
 Output/
 Agama Shastra/
+
+# Vector database
+chroma_db/
+*.db
+*.sqlite3
+
+# Model cache
+.cache/
+models/
+
+# Streamlit
+.streamlit/
+
+# Temporary files
+temp/
+tmp/
+*.tmp
