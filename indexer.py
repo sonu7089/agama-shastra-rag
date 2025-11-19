@@ -13,8 +13,8 @@ class BookIndexer:
         self.db_path = db_path
         
         # Initialize embedding model
-        print("Loading embedding model...")
-        self.embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
+        print("Loading embedding model (EmbeddingGemma-300M)...")
+        self.embedding_model = SentenceTransformer('google/embeddinggemma-300m')
         
         # Initialize ChromaDB
         self.client = chromadb.PersistentClient(path=db_path)

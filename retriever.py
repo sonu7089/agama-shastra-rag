@@ -8,8 +8,8 @@ class BookRetriever:
         self.db_path = db_path
         
         # Initialize embedding model
-        print("Loading embedding model for retrieval...")
-        self.embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
+        print("Loading embedding model for retrieval (EmbeddingGemma-300M)...")
+        self.embedding_model = SentenceTransformer('google/embeddinggemma-300m')
         
         # Initialize ChromaDB
         try:
@@ -95,6 +95,62 @@ class BookRetriever:
                 formatted_results.append(result)
         
         return formatted_results
+    
+    def retrieve_with_reranking(
+        self,
+        query: str,
+        n_results: int = 5,
+        initial_k: int = 15,
+        filter_by: Optional[Dict[str, str]] = None,
+        use_reranker: bool = True
+    ) -> List[Dict[str, Any]]:
+        """
+        Intelligent retrieval with reranking for better relevance.
+        
+        Process:
+        1. Retrieve initial_k candidates (more than needed)
+        2. Rerank using cross-encoder for precise relevance
+        3. Return top n_results most relevant chunks
+        
+        Args:
+            query: Search query
+            n_results: Number of final results to return
+            initial_k: Number of initial candidates to retrieve (should be > n_results)
+            filter_by: Optional metadata filters
+            use_reranker: Whether to use cross-encoder reranking
+        
+        Returns:
+            List of top n_results most relevant documents
+        """
+        # Retrieve more candidates than needed
+        candidates = self.retrieve_with_context(
+            query, 
+            n_results=initial_k, 
+            filter_by=filter_by
+        )
+        
+        if not candidates:
+            return []
+        
+        # If reranking is disabled or we have fewer candidates than needed, return as-is
+        if not use_reranker or len(candidates) <= n_results:
+            return candidates[:n_results]
+        
+        # Rerank using cross-encoder
+        try:
+            from reranker import ContextReranker
+            
+            # Initialize reranker (will be cached in practice)
+            if not hasattr(self, '_reranker'):
+                self._reranker = ContextReranker()
+            
+            # Rerank and get top n_results
+            reranked = self._reranker.rerank(query, candidates, top_k=n_results)
+            return reranked
+            
+        except Exception as e:
+            print(f"Reranking failed: {e}. Falling back to original retrieval.")
+            return candidates[:n_results]
     
     def retrieve_by_chunk_type(
         self,
