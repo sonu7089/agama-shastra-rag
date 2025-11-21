@@ -10,6 +10,13 @@ import google.generativeai as genai
 
 # Import your existing modules
 # Import your existing modules
+import sys
+from pathlib import Path
+
+# Add project root to sys.path
+root_path = Path(__file__).parent.parent.parent
+sys.path.append(str(root_path))
+
 from src.core.retriever import BookRetriever
 
 # Load environment variables

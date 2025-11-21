@@ -223,7 +223,8 @@ class BookRetriever:
     def multi_query_retrieve(
         self,
         queries: List[str],
-        n_results_per_query: int = 3
+        n_results_per_query: int = 3,
+        filter_by: Optional[Dict[str, str]] = None
     ) -> List[Dict[str, Any]]:
         """
         Retrieve documents for multiple queries and combine results
@@ -231,6 +232,7 @@ class BookRetriever:
         Args:
             queries: List of search queries
             n_results_per_query: Number of results per query
+            filter_by: Optional metadata filters
         
         Returns:
             Combined and deduplicated results
@@ -239,7 +241,7 @@ class BookRetriever:
         seen_ids = set()
         
         for query in queries:
-            results = self.retrieve_with_context(query, n_results=n_results_per_query)
+            results = self.retrieve_with_context(query, n_results=n_results_per_query, filter_by=filter_by)
             
             for result in results:
                 # Create a simple ID based on text content to avoid duplicates
