@@ -241,10 +241,8 @@ Answer:"""
 def main():
     # Header
     col1, col2, col3 = st.columns([1, 2, 1])
-    
     st.markdown('<div class="main-header">Agama Shastra Guru</div>', unsafe_allow_html=True)
-    st.markdown('<div class="sub-header">Seek wisdom from the ancient sacred texts</div>', unsafe_allow_html=True)
-    st.info("🚧 **Under Development** - We are continuously expanding our knowledge base to serve you better.")
+    st.info("**Under Development** - We are working on making response better.")
     
     # Sidebar
     with st.sidebar:
