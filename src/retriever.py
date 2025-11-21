@@ -8,8 +8,11 @@ class BookRetriever:
         self.db_path = db_path
         
         # Initialize embedding model
-        print("Loading embedding model for retrieval (EmbeddingGemma-300M)...")
-        self.embedding_model = SentenceTransformer('google/embeddinggemma-300m')
+        print("Loading embedding model (google/embeddinggemma-300m)...")
+        self.embedding_model = SentenceTransformer(
+            'google/embeddinggemma-300m',
+            trust_remote_code=True
+        )
         
         # Initialize ChromaDB
         try:

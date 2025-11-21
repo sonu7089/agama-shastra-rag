@@ -6,6 +6,10 @@ import os
 from datetime import datetime
 from pathlib import Path
 from dotenv import load_dotenv
+import sys
+# Add src directory to python path
+sys.path.append(str(Path(__file__).parent.parent / "src"))
+
 from retriever import BookRetriever
 
 # Load environment variables

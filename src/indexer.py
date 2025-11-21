@@ -14,7 +14,7 @@ class BookIndexer:
         
         # Initialize embedding model
         print("Loading embedding model (EmbeddingGemma-300M)...")
-        self.embedding_model = SentenceTransformer('google/embeddinggemma-300m')
+        self.embedding_model = SentenceTransformer('google/embeddinggemma-300m', trust_remote_code=True)
         
         # Initialize ChromaDB
         self.client = chromadb.PersistentClient(path=db_path)
