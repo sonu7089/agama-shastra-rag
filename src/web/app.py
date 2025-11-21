@@ -19,7 +19,7 @@ load_dotenv()
 # Page configuration
 st.set_page_config(
     page_title="Agama Shastra Guru",
-    page_icon="🕉️",
+    page_icon="assets/guru_icon.svg",
     layout="centered",
     initial_sidebar_state="collapsed"
 )
@@ -240,7 +240,9 @@ Answer:"""
 
 def main():
     # Header
-    st.markdown('<div class="main-header">🕉️ Agama Shastra Guru</div>', unsafe_allow_html=True)
+    col1, col2, col3 = st.columns([1, 2, 1])
+    
+    st.markdown('<div class="main-header">Agama Shastra Guru</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-header">Seek wisdom from the ancient sacred texts</div>', unsafe_allow_html=True)
     st.info("🚧 **Under Development** - We are continuously expanding our knowledge base to serve you better.")
     
@@ -340,7 +342,8 @@ def main():
     chat_container = st.container()
     with chat_container:
         for message in st.session_state.messages:
-            with st.chat_message(message["role"]):
+            avatar = "assets/user_icon.svg" if message["role"] == "user" else "assets/guru_icon.svg"
+            with st.chat_message(message["role"], avatar=avatar):
                 st.markdown(message["content"])
                 
                 # Show context if available
@@ -357,7 +360,7 @@ def main():
         # Add user message
         st.session_state.messages.append({"role": "user", "content": prompt})
         
-        with st.chat_message("user"):
+        with st.chat_message("user", avatar="assets/user_icon.svg"):
             st.markdown(prompt)
         
         # Retrieve context with intelligent reranking
@@ -429,7 +432,7 @@ def main():
             "context": context_display
         })
         
-        with st.chat_message("assistant"):
+        with st.chat_message("assistant", avatar="assets/guru_icon.svg"):
             st.markdown(response)
             if show_context and needs_context:
                 with st.expander("📖 Retrieved Shastra Excerpts"):
