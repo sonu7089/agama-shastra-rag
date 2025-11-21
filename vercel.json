@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "public": true,
+    "outputDirectory": "web",
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "/web/$1"
+        }
+    ]
+}

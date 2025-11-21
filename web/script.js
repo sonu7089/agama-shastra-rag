@@ -1,3 +1,8 @@
+// Configuration
+const API_URL = window.location.hostname === 'localhost'
+    ? 'http://localhost:8000'
+    : 'https://your-backend-url.onrender.com'; // Update this after deploying backend
+
 const chatContainer = document.getElementById('chat-container');
 const userInput = document.getElementById('user-input');
 const sendBtn = document.getElementById('send-btn');
@@ -61,8 +66,8 @@ async function sendMessage() {
 
     try {
         // 3. Call API
-        console.log('Calling API at http://localhost:8000/chat');
-        const response = await fetch('http://localhost:8000/chat', {
+        console.log('Calling API at', API_URL + '/chat');
+        const response = await fetch(API_URL + '/chat', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
