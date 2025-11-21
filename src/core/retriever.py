@@ -2,8 +2,9 @@ import chromadb
 from sentence_transformers import SentenceTransformer
 from typing import List, Dict, Any, Optional
 import os
+from dotenv import load_dotenv
 
-
+load_dotenv()
 class BookRetriever:
     def __init__(self, db_path: str = "data/chroma_db"):
         self.db_path = db_path

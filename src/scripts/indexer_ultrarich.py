@@ -5,8 +5,9 @@ from typing import List, Dict, Any
 import chromadb
 from sentence_transformers import SentenceTransformer
 from tqdm import tqdm
+from dotenv import load_dotenv
 
-
+load_dotenv()
 class UltraRichBookIndexer:
     """
     Ultra-Rich Book Indexer
@@ -97,6 +98,180 @@ class UltraRichBookIndexer:
                 relevant_events.append(event)
         
         return relevant_events
+    
+    def semantic_chunk_content(self, content: str, max_chars: int = 1800, overlap_chars: int = 200) -> List[str]:
+        """
+        Split content at semantic boundaries (paragraphs) with overlap.
+        
+        Args:
+            content: Text content to chunk
+            max_chars: Maximum characters per chunk
+            overlap_chars: Number of characters to overlap between chunks
+        
+        Returns:
+            List of semantically coherent chunks
+        """
+        if not content or len(content) <= max_chars:
+            return [content] if content else []
+        
+        # Split by double newlines (paragraphs)
+        paragraphs = [p.strip() for p in content.split('\n\n') if p.strip()]
+        
+        if not paragraphs:
+            # Fallback: split by sentences if no paragraphs
+            import re
+            sentences = re.split(r'(?<=[.!?])\s+', content)
+            paragraphs = sentences
+        
+        chunks = []
+        current_chunk = []
+        current_size = 0
+        
+        for para in paragraphs:
+            para_size = len(para)
+            
+            # If single paragraph exceeds max, split it
+            if para_size > max_chars:
+                if current_chunk:
+                    chunks.append('\n\n'.join(current_chunk))
+                    current_chunk = []
+                    current_size = 0
+                
+                # Split large paragraph into smaller pieces
+                words = para.split()
+                temp_chunk = []
+                temp_size = 0
+                
+                for word in words:
+                    word_size = len(word) + 1
+                    if temp_size + word_size > max_chars and temp_chunk:
+                        chunks.append(' '.join(temp_chunk))
+                        # Keep last few words for overlap
+                        overlap_words = temp_chunk[-20:] if len(temp_chunk) > 20 else []
+                        temp_chunk = overlap_words + [word]
+                        temp_size = sum(len(w) + 1 for w in temp_chunk)
+                    else:
+                        temp_chunk.append(word)
+                        temp_size += word_size
+                
+                if temp_chunk:
+                    chunks.append(' '.join(temp_chunk))
+                continue
+            
+            # Check if adding this paragraph exceeds limit
+            if current_size + para_size + 2 > max_chars and current_chunk:
+                chunks.append('\n\n'.join(current_chunk))
+                
+                # Add overlap from previous chunk
+                if overlap_chars > 0 and current_chunk:
+                    overlap_text = current_chunk[-1][-overlap_chars:] if len(current_chunk[-1]) > overlap_chars else current_chunk[-1]
+                    current_chunk = [overlap_text, para]
+                    current_size = len(overlap_text) + para_size + 2
+                else:
+                    current_chunk = [para]
+                    current_size = para_size
+            else:
+                current_chunk.append(para)
+                current_size += para_size + 2  # +2 for \n\n
+        
+        # Add remaining chunk
+        if current_chunk:
+            chunks.append('\n\n'.join(current_chunk))
+        
+        return chunks
+    
+    def deduplicate_entities(self, entities: List[Dict], key: str = 'name') -> List[Dict]:
+        """
+        Remove duplicate entities while preserving first occurrence.
+        
+        Args:
+            entities: List of entity dictionaries
+            key: Key to use for deduplication
+        
+        Returns:
+            Deduplicated list of entities
+        """
+        seen = set()
+        unique = []
+        
+        for entity in entities:
+            identifier = str(entity.get(key, '')).lower().strip()
+            if identifier and identifier not in seen:
+                seen.add(identifier)
+                unique.append(entity)
+        
+        return unique
+    
+    def analyze_chunk_quality(self, chunks: List[Dict]) -> Dict[str, Any]:
+        """
+        Analyze chunk quality and characteristics.
+        
+        Args:
+            chunks: List of chunk dictionaries with 'text' field
+        
+        Returns:
+            Dictionary with quality metrics
+        """
+        if not chunks:
+            return {'error': 'No chunks to analyze'}
+        
+        lengths = [len(chunk['text']) for chunk in chunks]
+        
+        stats = {
+            'total_chunks': len(chunks),
+            'avg_length': sum(lengths) / len(lengths),
+            'max_length': max(lengths),
+            'min_length': min(lengths),
+            'median_length': sorted(lengths)[len(lengths) // 2],
+            'empty_chunks': sum(1 for l in lengths if l < 50),
+            'large_chunks': sum(1 for l in lengths if l > 3000),
+            'optimal_chunks': sum(1 for l in lengths if 500 <= l <= 2000),
+        }
+        
+        return stats
+    
+    def create_cross_reference_chunk(self, chapter_data: Dict, chapter_num: str, book_name: str) -> str:
+        """
+        Create a cross-reference chunk for entity lookup.
+        
+        Args:
+            chapter_data: Chapter data dictionary
+            chapter_num: Chapter number
+            book_name: Book name
+        
+        Returns:
+            Cross-reference text for embedding
+        """
+        chapter_title = chapter_data.get('chapter_title', 'Unknown')
+        entities = []
+        
+        # Collect all entities
+        for figure in chapter_data.get('historical_figures', []):
+            entities.append(f"{figure.get('name', 'Unknown')} (historical figure, {figure.get('role', 'unknown role')})")
+        
+        for event in chapter_data.get('historical_events', []):
+            entities.append(f"{event.get('event', 'Unknown event')} (event, {event.get('date', 'unknown date')})")
+        
+        for term in chapter_data.get('sanskrit_hindi_terms', [])[:10]:  # Limit to 10
+            entities.append(f"{term.get('term', 'Unknown')} (term, {term.get('translation', 'no translation')})")
+        
+        for location in chapter_data.get('geographic_locations', [])[:10]:
+            entities.append(f"{location.get('place', 'Unknown')} (location)")
+        
+        if not entities:
+            return ""
+        
+        parts = [
+            f"Chapter {chapter_num}: {chapter_title} - Entity Index",
+            "",
+            "=== ENTITIES DISCUSSED ===",
+            '\n'.join(f"• {entity}" for entity in entities),
+            "",
+            "=== SOURCE ===",
+            f"Book: {book_name}, Chapter {chapter_num} (Cross-Reference Index)"
+        ]
+        
+        return '\n'.join(parts)
     
     # ==================== CHUNK CREATION FUNCTIONS ====================
     
@@ -264,29 +439,53 @@ class UltraRichBookIndexer:
     
     # ==================== INDEXING FUNCTIONS ====================
     
-    def batch_add_chunks(self, chunks: List[Dict]):
-        """Add multiple chunks to the collection in batch"""
+    
+    def batch_add_chunks(self, chunks: List[Dict], batch_size: int = 32):
+        """
+        Add multiple chunks to the collection in optimized batches.
+        
+        Args:
+            chunks: List of chunk dictionaries
+            batch_size: Number of chunks to process at once (optimal for most GPUs/CPUs)
+        """
         if not chunks:
             return
         
-        ids = [chunk['id'] for chunk in chunks]
-        texts = [chunk['text'] for chunk in chunks]
-        metadatas = [chunk['metadata'] for chunk in chunks]
+        total_chunks = len(chunks)
         
-        # Generate embeddings
-        print(f"  Generating embeddings for {len(chunks)} chunks...")
-        embeddings = self.embedding_model.encode(texts, show_progress_bar=False).tolist()
-        
-        # Add to collection
-        self.collection.add(
-            embeddings=embeddings,
-            documents=texts,
-            metadatas=metadatas,
-            ids=ids
-        )
+        # Process in batches for better memory management
+        for i in range(0, total_chunks, batch_size):
+            batch = chunks[i:i + batch_size]
+            batch_num = (i // batch_size) + 1
+            total_batches = (total_chunks + batch_size - 1) // batch_size
+            
+            ids = [chunk['id'] for chunk in batch]
+            texts = [chunk['text'] for chunk in batch]
+            metadatas = [chunk['metadata'] for chunk in batch]
+            
+            # Generate embeddings for this batch
+            if total_batches > 1:
+                print(f"    Embedding batch {batch_num}/{total_batches} ({len(batch)} chunks)...")
+            else:
+                print(f"    Generating embeddings for {len(batch)} chunks...")
+            
+            embeddings = self.embedding_model.encode(
+                texts, 
+                show_progress_bar=False,
+                batch_size=min(batch_size, len(texts))
+            ).tolist()
+            
+            # Add to collection
+            self.collection.add(
+                embeddings=embeddings,
+                documents=texts,
+                metadatas=metadatas,
+                ids=ids
+            )
+    
     
     def index_chapter(self, book_name: str, chapter_file: Path):
-        """Index a single chapter with ultra-rich chunks"""
+        """Index a single chapter with ultra-rich chunks and semantic splitting"""
         chapter_data = self.load_json_file(chapter_file)
         if not chapter_data:
             return
@@ -309,33 +508,127 @@ class UltraRichBookIndexer:
                 'book_name': book_name,
                 'chapter_number': str(chapter_num),
                 'chapter_title': chapter_title,
-                'chunk_type': 'chapter_summary'
+                'chunk_type': 'chapter_summary',
+                'granularity': 'chapter'
             }
         })
         
-        # 2. Index each section with inline metadata
-        for idx, section in enumerate(chapter_data.get('sections', [])):
-            section_text = self.create_enriched_section_chunk(
-                section, chapter_data, chapter_num, book_name
-            )
-            
+        # 2. Add cross-reference chunk for entity lookup
+        cross_ref_text = self.create_cross_reference_chunk(chapter_data, chapter_num, book_name)
+        if cross_ref_text:
             chunks_to_add.append({
-                'id': f"{book_name}_ch{chapter_num}_sec{idx}",
-                'text': section_text,
+                'id': f"{book_name}_ch{chapter_num}_crossref",
+                'text': cross_ref_text,
                 'metadata': {
                     'book_name': book_name,
                     'chapter_number': str(chapter_num),
                     'chapter_title': chapter_title,
-                    'section_number': section.get('section_number', str(idx)),
-                    'section_title': section.get('section_title', ''),
-                    'chunk_type': 'section_content',
-                    'page_range': section.get('page_range', 'unknown')
+                    'chunk_type': 'cross_reference',
+                    'granularity': 'chapter'
                 }
             })
         
-        # 3. Batch add all chunks
+        # 3. Index each section with semantic chunking
+        for idx, section in enumerate(chapter_data.get('sections', [])):
+            section_content = section.get('content', '')
+            section_num = section.get('section_number', str(idx))
+            section_title = section.get('section_title', 'Unknown')
+            
+            # Check if section content is too large
+            if len(section_content) > 2500:
+                # Use semantic chunking for large sections
+                content_chunks = self.semantic_chunk_content(section_content, max_chars=1800, overlap_chars=200)
+                
+                for chunk_idx, content_chunk in enumerate(content_chunks):
+                    # Create metadata-enriched chunk
+                    chunk_parts = [
+                        f"Chapter {chapter_num}: {chapter_title}",
+                        f"Section {section_num}: {section_title}",
+                        f"Part {chunk_idx + 1} of {len(content_chunks)}",
+                        "",
+                        "=== CONTENT ===",
+                        content_chunk,
+                        ""
+                    ]
+                    
+                    # Add summary only to first chunk
+                    if chunk_idx == 0 and section.get('summary'):
+                        chunk_parts.extend([
+                            "=== SECTION SUMMARY ===",
+                            section['summary'],
+                            ""
+                        ])
+                    
+                    # Add key concepts only to first chunk
+                    if chunk_idx == 0 and section.get('key_concepts'):
+                        chunk_parts.append("=== KEY CONCEPTS ===")
+                        for concept in section['key_concepts'][:5]:
+                            chunk_parts.append(f"• {concept}")
+                        chunk_parts.append("")
+                    
+                    # Add relevant terms (deduplicated)
+                    section_terms = self.deduplicate_entities(
+                        self.extract_section_terms(section, chapter_data), 
+                        key='term'
+                    )
+                    if section_terms and chunk_idx == 0:
+                        chunk_parts.append("=== RELEVANT TERMS ===")
+                        for term in section_terms[:5]:
+                            chunk_parts.append(f"• {term.get('term', '')} - {term.get('translation', '')}")
+                        chunk_parts.append("")
+                    
+                    chunk_parts.extend([
+                        "=== SOURCE ===",
+                        f"Book: {book_name}, Ch {chapter_num}, Sec {section_num}, Part {chunk_idx + 1}/{len(content_chunks)}, Pages {section.get('page_range', 'N/A')}"
+                    ])
+                    
+                    chunks_to_add.append({
+                        'id': f"{book_name}_ch{chapter_num}_sec{idx}_part{chunk_idx}",
+                        'text': '\n'.join(chunk_parts),
+                        'metadata': {
+                            'book_name': book_name,
+                            'chapter_number': str(chapter_num),
+                            'chapter_title': chapter_title,
+                            'section_number': section_num,
+                            'section_title': section_title,
+                            'chunk_type': 'section_content',
+                            'granularity': 'subsection',
+                            'part_number': chunk_idx + 1,
+                            'total_parts': len(content_chunks),
+                            'page_range': section.get('page_range', 'unknown')
+                        }
+                    })
+            else:
+                # Use original enriched chunk for smaller sections
+                section_text = self.create_enriched_section_chunk(
+                    section, chapter_data, chapter_num, book_name
+                )
+                
+                chunks_to_add.append({
+                    'id': f"{book_name}_ch{chapter_num}_sec{idx}",
+                    'text': section_text,
+                    'metadata': {
+                        'book_name': book_name,
+                        'chapter_number': str(chapter_num),
+                        'chapter_title': chapter_title,
+                        'section_number': section_num,
+                        'section_title': section_title,
+                        'chunk_type': 'section_content',
+                        'granularity': 'section',
+                        'page_range': section.get('page_range', 'unknown')
+                    }
+                })
+        
+        # 4. Analyze chunk quality
+        quality_stats = self.analyze_chunk_quality(chunks_to_add)
+        
+        # 5. Batch add all chunks
         self.batch_add_chunks(chunks_to_add)
+        
         print(f"    ✓ Added {len(chunks_to_add)} chunks for Chapter {chapter_num}")
+        print(f"      📊 Avg: {quality_stats['avg_length']:.0f} chars, "
+              f"Range: {quality_stats['min_length']}-{quality_stats['max_length']}, "
+              f"Optimal: {quality_stats['optimal_chunks']}/{quality_stats['total_chunks']}")
     
     def index_appendix(self, book_name: str, appendix_file: Path):
         """Index appendix with topic-based chunks"""
@@ -502,23 +795,70 @@ class UltraRichBookIndexer:
         print("=" * 60)
     
     def get_stats(self):
-        """Get indexing statistics"""
+        """Get comprehensive indexing statistics"""
         total_docs = self.collection.count()
         print(f"\n📊 Index Statistics:")
         print(f"  Total documents: {total_docs}")
         
         if total_docs > 0:
-            # Sample documents to show chunk types
-            sample = self.collection.peek(limit=min(20, total_docs))
+            # Sample more documents for better statistics
+            sample_size = min(100, total_docs)
+            sample = self.collection.peek(limit=sample_size)
+            
             chunk_types = {}
+            granularities = {}
+            books = set()
+            
             if sample and 'metadatas' in sample:
                 for metadata in sample['metadatas']:
+                    # Count chunk types
                     chunk_type = metadata.get('chunk_type', 'unknown')
                     chunk_types[chunk_type] = chunk_types.get(chunk_type, 0) + 1
+                    
+                    # Count granularities
+                    granularity = metadata.get('granularity', 'unknown')
+                    granularities[granularity] = granularities.get(granularity, 0) + 1
+                    
+                    # Collect book names
+                    if 'book_name' in metadata:
+                        books.add(metadata['book_name'])
             
-            print(f"\n  Chunk type distribution (sample):")
-            for chunk_type, count in sorted(chunk_types.items()):
-                print(f"    • {chunk_type}: {count}")
+            print(f"\n  📚 Books indexed: {len(books)}")
+            for book in sorted(books):
+                print(f"    • {book}")
+            
+            print(f"\n  📑 Chunk type distribution (from {sample_size} sample):")
+            for chunk_type, count in sorted(chunk_types.items(), key=lambda x: x[1], reverse=True):
+                percentage = (count / sample_size) * 100
+                print(f"    • {chunk_type}: {count} ({percentage:.1f}%)")
+            
+            if granularities and 'unknown' not in granularities or len(granularities) > 1:
+                print(f"\n  🔍 Granularity levels:")
+                for granularity, count in sorted(granularities.items(), key=lambda x: x[1], reverse=True):
+                    percentage = (count / sample_size) * 100
+                    print(f"    • {granularity}: {count} ({percentage:.1f}%)")
+            
+            # Analyze chunk sizes from sample
+            if sample and 'documents' in sample:
+                docs = sample['documents']
+                lengths = [len(doc) for doc in docs]
+                
+                print(f"\n  📏 Chunk size analysis (from {len(docs)} sample):")
+                print(f"    • Average: {sum(lengths) / len(lengths):.0f} chars")
+                print(f"    • Min: {min(lengths)} chars")
+                print(f"    • Max: {max(lengths)} chars")
+                print(f"    • Median: {sorted(lengths)[len(lengths) // 2]} chars")
+                
+                # Quality distribution
+                optimal = sum(1 for l in lengths if 500 <= l <= 2000)
+                large = sum(1 for l in lengths if l > 2000)
+                small = sum(1 for l in lengths if l < 500)
+                
+                print(f"\n  ✅ Quality distribution:")
+                print(f"    • Optimal (500-2000 chars): {optimal} ({(optimal/len(lengths)*100):.1f}%)")
+                print(f"    • Large (>2000 chars): {large} ({(large/len(lengths)*100):.1f}%)")
+                print(f"    • Small (<500 chars): {small} ({(small/len(lengths)*100):.1f}%)")
+
 
 
 if __name__ == "__main__":

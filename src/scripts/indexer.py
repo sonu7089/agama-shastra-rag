@@ -5,6 +5,10 @@ from typing import List, Dict, Any
 import chromadb
 from sentence_transformers import SentenceTransformer
 from tqdm import tqdm
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 
 class BookIndexer:
