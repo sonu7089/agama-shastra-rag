@@ -57,10 +57,20 @@ Streamlit-based web interface for conversational interaction with your books.
 pip install -r requirements.txt
 ```
 
-2. Get your Gemini API key:
-   - Visit https://makersuite.google.com/app/apikey
+2. Get your **HuggingFace Token** (required for embedding model):
+   - Visit [https://huggingface.co/google/embeddinggemma-300m](https://huggingface.co/google/embeddinggemma-300m)
+   - Click "Request Access" and accept the terms
+   - Once approved, create a token at [https://huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)
+   - Copy the token
+
+3. Get your **Gemini API key**:
+   - Visit [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
    - Create a new API key
-   - Save it securely
+   - Copy the key
+
+4. Create a `.env` file:
+   - Copy `.env.example` to `.env`
+   - Add your `HF_TOKEN` and `GEMINI_API_KEY`
 
 ## Usage
 
@@ -349,14 +359,29 @@ User Response
 
 ## 🔧 Configuration
 
-Create a `.env` file:
+Create a `.env` file (copy from `.env.example`):
 
 ```bash
+# HuggingFace Token (required for accessing gated models like embeddinggemma-300m)
+# Get your token from: https://huggingface.co/settings/tokens
+HF_TOKEN=your_huggingface_token_here
+
+# Gemini API Key (required for LLM responses)
+# Get your API key from: https://aistudio.google.com/app/apikey
 GEMINI_API_KEY=your_gemini_api_key_here
+
+# PDF Processing Configuration
 PDF_PATH=path/to/your/book.pdf
 OUTPUT_DIR=Output
 PDF_PAGE_OFFSET=0
 ```
+
+**Important**: The `HF_TOKEN` is required because this project uses Google's `embeddinggemma-300m` model, which is a gated repository on HuggingFace. To get access:
+
+1. Visit [https://huggingface.co/google/embeddinggemma-300m](https://huggingface.co/google/embeddinggemma-300m)
+2. Click "Request Access" and accept the terms
+3. Once approved, create a token at [https://huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)
+4. Add the token to your `.env` file
 
 ## Integration with RAG Systems
 

@@ -20,7 +20,14 @@ class UltraRichBookIndexer:
         
         # Initialize embedding model
         print("Loading embedding model (google/embeddinggemma-300m)...")
-        self.embedding_model = SentenceTransformer('google/embeddinggemma-300m', trust_remote_code=True)
+        hf_token = os.getenv('HF_TOKEN')
+        if not hf_token:
+            raise ValueError("HF_TOKEN not found in environment variables. Please set it in your .env file.")
+        self.embedding_model = SentenceTransformer(
+            'google/embeddinggemma-300m', 
+            trust_remote_code=True,
+            token=hf_token
+        )
         
         # Initialize ChromaDB
         self.client = chromadb.PersistentClient(path=db_path)

@@ -1,6 +1,7 @@
 import chromadb
 from sentence_transformers import SentenceTransformer
 from typing import List, Dict, Any, Optional
+import os
 
 
 class BookRetriever:
@@ -9,9 +10,13 @@ class BookRetriever:
         
         # Initialize embedding model
         print("Loading embedding model (google/embeddinggemma-300m)...")
+        hf_token = os.getenv('HF_TOKEN')
+        if not hf_token:
+            raise ValueError("HF_TOKEN not found in environment variables. Please set it in your .env file.")
         self.embedding_model = SentenceTransformer(
             'google/embeddinggemma-300m',
-            trust_remote_code=True
+            trust_remote_code=True,
+            token=hf_token
         )
         
         # Initialize ChromaDB
