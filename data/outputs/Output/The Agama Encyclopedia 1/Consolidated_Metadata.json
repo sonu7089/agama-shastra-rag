@@ -1,0 +1,1294 @@
+{
+  "book_title": "The Agama Encyclopedia 1",
+  "total_chapters": 3,
+  "total_pages": 0,
+  "all_historical_figures": [
+    {
+      "name": "Śiva",
+      "role": "Deity / Originator",
+      "significance": "Believed to be the divine originator of the Śaiva-Āgamas, revealing them to Pārvatī or other recipients.",
+      "dates": "Mythical"
+    },
+    {
+      "name": "Pārvatī",
+      "role": "Deity / Recipient / Originator",
+      "significance": "Believed to be the recipient of wisdom from Śiva in Śaiva-Āgamas and the revealer of wisdom in Śākta-Āgamas.",
+      "dates": "Mythical"
+    },
+    {
+      "name": "Viṣṇu / Vāsudeva",
+      "role": "Deity / Recipient / Originator",
+      "significance": "Believed to be the divine originator of the Vaiṣṇāva-Āgamas and a recipient of wisdom in some Śaiva-Āgamas.",
+      "dates": "Mythical"
+    },
+    {
+      "name": "Matanga",
+      "role": "Recipient",
+      "significance": "Mentioned as a recipient of the Matanga-Parameśvarāgama from Śiva.",
+      "dates": "Mythical"
+    },
+    {
+      "name": "Ruru",
+      "role": "Recipient",
+      "significance": "Mentioned as a recipient of the Rauravāgama from Śiva.",
+      "dates": "Mythical"
+    },
+    {
+      "name": "Śaṅkarṣaṇa",
+      "role": "Originator",
+      "significance": "In Vaiṣṇava tradition, the first 'vyūha' (emanation) from Vāsudeva, from whom the 'Āgama' originated.",
+      "dates": "Mythical"
+    },
+    {
+      "name": "Kātyāyana",
+      "role": "Authority on traditional wisdom",
+      "significance": "Cited for his definition of Tantra as 'the co-occurence of actions'.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Śabara",
+      "role": "Vedic commentator",
+      "significance": "Cited for his definition of Tantra, comparing it to a lamp that serves many students at once.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Kullūka-bhaṭṭa",
+      "role": "Commentator",
+      "significance": "His gloss on Viṣṇu-purāṇa states that Veda and Tantra are the two main streams of Indian thought.",
+      "dates": "c. 1150-1300 CE"
+    },
+    {
+      "name": "Indra, Varuṇa, Sūrya",
+      "role": "Vedic Deities",
+      "significance": "Mentioned as examples of deified natural forces worshipped in the Brāhmaṇa texts for worldly gains.",
+      "dates": "Vedic period"
+    },
+    {
+      "name": "Pāṇini",
+      "role": "Grammarian",
+      "significance": "His work, Aṣṭādhyāyī, mentions icons in households, indicating their existence prior to the Christian era.",
+      "dates": "c. 5th century BCE"
+    },
+    {
+      "name": "Patañjali",
+      "role": "Grammarian/Philosopher",
+      "significance": "His work, Mahābhāṣya, also mentions household icons.",
+      "dates": "c. 2nd century BCE"
+    },
+    {
+      "name": "Kumārila",
+      "role": "Philosopher (Mīmāṃsā school)",
+      "significance": "Author of Tantra-vārtika; condemned Tāntric practices as non-Vedic.",
+      "dates": "c. 7th century CE"
+    },
+    {
+      "name": "Śaṅkara",
+      "role": "Philosopher (Advaita Vedānta)",
+      "significance": "Mounted a severe attack on the non-Vedic approach of Tantra in his Vedānta-sūtra commentary.",
+      "dates": "c. 8th century CE"
+    },
+    {
+      "name": "Vallabha",
+      "role": "Philosopher (Śuddhādvaita)",
+      "significance": "Attacked the Tāntric approach in his Anubhāṣya.",
+      "dates": "1479–1531 CE"
+    },
+    {
+      "name": "Appayya-dīkṣita",
+      "role": "Philosopher/Commentator",
+      "significance": "Attacked the Tāntric approach in his commentary 'Parimala'.",
+      "dates": "1520–1593 CE"
+    },
+    {
+      "name": "Asparārka",
+      "role": "Commentator",
+      "significance": "Commentator on Yājñavalkya-samhitā who argued against wholesale condemnation of Tantra, suggesting some parts are valid.",
+      "dates": "c. 12th century CE"
+    },
+    {
+      "name": "Abhinava-Gupta",
+      "role": "Philosopher (Kashmir Śaivism)",
+      "significance": "Extolled the Bhairava class of āgamas as the best.",
+      "dates": "c. 950–1016 CE"
+    },
+    {
+      "name": "Thāyumānavar",
+      "role": "Śaiva Saint",
+      "significance": "Described the four stages corresponding to the pādas as bud, flower, raw fruit, and ripe fruit.",
+      "dates": "1705–1744 CE"
+    },
+    {
+      "name": "Manu",
+      "role": "Sage / Law-giver",
+      "significance": "Cited for the teaching that one must discharge worldly debts before seeking liberation.",
+      "dates": "Ancient (text dated c. 2nd c. BCE - 2nd c. CE)"
+    },
+    {
+      "name": "Patañjali",
+      "role": "Ancient author/scholar",
+      "significance": "Mentioned as a literary source describing the practice of displaying icons for a living, which points to an early form of professional worship.",
+      "dates": "5th century B.C. (as stated in the text)"
+    },
+    {
+      "name": "Mauryas",
+      "role": "Mercenary priests (as described by Patañjali in the text)",
+      "significance": "Cited as an early example of priests who earned a livelihood by performing worship for wealthy patrons.",
+      "dates": "Post 5th century B.C."
+    },
+    {
+      "name": "Sadāśiva",
+      "role": "Original preceptor/Godhead",
+      "significance": "In Śaivāgama, he is considered the founder of the Āgama tradition and the ultimate source of the teaching lineage, which is passed down through human preceptors.",
+      "dates": "Mythological/Primordial"
+    },
+    {
+      "name": "Heliodorus",
+      "role": "Indo-Greek ambassador",
+      "significance": "Erected a religious column in honour of Vāsudeva at Besnagar, providing one of the earliest inscriptional evidences of the Bhāgavata cult.",
+      "dates": "second century B.C."
+    },
+    {
+      "name": "Gājāyana",
+      "role": "Chieftain",
+      "significance": "Constructed a stone-enclosure for the worship of Saṅkarṣaṇa and Vāsudeva at Ghosuṇḍi.",
+      "dates": "first century B.C."
+    },
+    {
+      "name": "Khāravela",
+      "role": "King of Kalinga",
+      "significance": "Recorded to have repaired temples of different sects, suggesting the existence of temples in the first century.",
+      "dates": "first century A.D. (inferred)"
+    },
+    {
+      "name": "Hāla",
+      "role": "Author",
+      "significance": "His work, Gāthā-saptaśatī, mentions the existence of temples.",
+      "dates": "second century A.D."
+    },
+    {
+      "name": "Skanda-Mahāsena",
+      "role": "Deity",
+      "significance": "A temple dedicated to him is mentioned in the Bilsad inscription.",
+      "dates": "about 415 A.D."
+    },
+    {
+      "name": "Kautilya",
+      "role": "Author",
+      "significance": "His Artha-śāstra prescribes the building of temples for various deities, indicating state involvement in temple construction.",
+      "dates": "Ancient (c. 3rd century B.C.)"
+    },
+    {
+      "name": "Appar, Sambandar and Sundara-mūrti",
+      "role": "Tamil Śaiva saints",
+      "significance": "Their compositions, known as 'tevāram' hymns, were taught in Śiva temples.",
+      "dates": "c. 7th-9th centuries A.D."
+    },
+    {
+      "name": "Āḻvārs",
+      "role": "Tamil Vaiṣṇava saints",
+      "significance": "Their compositions, known as 'prabhandam' hymnology, were taught in Vaiṣṇava shrines.",
+      "dates": "c. 6th-9th centuries A.D."
+    },
+    {
+      "name": "Varuṇa-śakti",
+      "role": "Head of the Koḍiya-maṭha",
+      "significance": "A renowned scholar who headed a major center of learning at the Kedāreśvara temple in Balligāme.",
+      "dates": "Mentioned in inscription dated 1162 A.D."
+    },
+    {
+      "name": "Keśava-deva",
+      "role": "Governor of Banavāsi",
+      "significance": "Built a temple to Keśava in Balligāme and made provisions for thirty-eight scholars to reside there.",
+      "dates": "Medieval period"
+    },
+    {
+      "name": "Śarvesvara-śakti-deva",
+      "role": "Eminent head of the 'Kriyā-śakti-matha'",
+      "significance": "His maṭha is recorded to have had seventy-seven temples attached to it.",
+      "dates": "about 1070 A.D."
+    },
+    {
+      "name": "Tippu Sultan",
+      "role": "Ruler of Mysore",
+      "significance": "Initiated major changes in temple administration in 1788 by resuming temple lands and placing their management under state officials.",
+      "dates": "Ruled 1782-1799"
+    },
+    {
+      "name": "Kṛiṣṇarāja Odayar III",
+      "role": "Nominal head of state (Mysore)",
+      "significance": "Took personal interest in temple affairs and appointed local superintendents after the death of Tippu Sultan.",
+      "dates": "1799-1868"
+    },
+    {
+      "name": "Sir Mark Cubbon",
+      "role": "British Commissioner",
+      "significance": "As commissioner, he influenced the administration of temples in Mysore, at one point taking it out of the Commissioner's office.",
+      "dates": "Mentioned for the year 1861"
+    },
+    {
+      "name": "Sir K. Sheshadri Iyer",
+      "role": "Diwan of the State (Mysore)",
+      "significance": "Found the administration of temples by Deputy Commissioners ineffective and appointed a separate Muzarai Superintendent.",
+      "dates": "Mentioned for the year 1881"
+    }
+  ],
+  "complete_timeline": [
+    {
+      "event": "Inscription from Karnataka mentions volunteer administrators ('dharma-darsis')",
+      "date": "1148 A.D.",
+      "significance": "Evidence for community involvement in temple administration."
+    },
+    {
+      "event": "Inscription describing Varuṇa-śakti and the learning center at Balligāme",
+      "date": "1162 A.D.",
+      "significance": "Provides evidence of temples functioning as universities."
+    },
+    {
+      "event": "Tippu Sultan issues order resuming temple lands",
+      "date": "1788",
+      "significance": "Marks a significant shift towards state control over temple administration in Mysore."
+    },
+    {
+      "event": "Death of Tippu Sultan and reorganization of administration by the British",
+      "date": "1799",
+      "significance": "Led to the inclusion of temple management (Muzarai) as a formal government responsibility."
+    },
+    {
+      "event": "British Commissioner appoints 'pańcāyatdārs' to manage temples",
+      "date": "1847",
+      "significance": "An attempt to involve citizens in temple management under British rule."
+    },
+    {
+      "event": "Commissioner takes over direct supervision of temples",
+      "date": "1852",
+      "significance": "Indicates the failure of the committee system and increased direct government control."
+    },
+    {
+      "event": "Muzarai Regulation (VI of 1913) passed",
+      "date": "1913",
+      "significance": "Brought all places of worship in Mysore under the sole charge of the Government."
+    },
+    {
+      "event": "Mysore Religious and Charitable Institution Act (VII of 1927) passed",
+      "date": "1927",
+      "significance": "Solidified the Government as the chief controlling authority of temples in Mysore."
+    },
+    {
+      "event": "Indus Valley Civilisation",
+      "date": "Ancient (Pre-dates 2500 years before the text's writing)",
+      "significance": "Excavations at Mohenjodaro revealed icons (arcāmūrti), suggesting that the practice of icon worship in homes existed during this period."
+    },
+    {
+      "event": "Rise of syncretic Hinduism",
+      "date": "Around the 11th and 12th centuries",
+      "significance": "Weakened the position of the distinct Āgama-tantra complex, especially practices considered extreme."
+    },
+    {
+      "event": "Advent of iconoclast Muslims in North India",
+      "date": "Early in the 11th century",
+      "significance": "Created unrest and led to the custodians of Āgama literature fleeing to South India and Kaśmīr for refuge and patronage, causing a geographical shift in the tradition's development."
+    },
+    {
+      "event": "Muslim inroad into Kaśmīr",
+      "date": "Late 12th century",
+      "significance": "Led to the decline of the temple-oriented Śaiva-Āgama tradition in Kaśmīr, with only the philosophical portions surviving."
+    },
+    {
+      "event": "Emergence of temple-culture",
+      "date": "Not earlier than the third or fourth century after Christ",
+      "significance": "Marks the period when public temples became a significant part of religious life, creating the context for the codification of Āgama literature."
+    },
+    {
+      "event": "Śarvesvara-śakti-deva's maṭha recorded to have 77 temples",
+      "date": "about 1070 A.D.",
+      "significance": "Shows the extensive association between monastic orders (maṭhas) and temples."
+    },
+    {
+      "event": "Mention of a temple to Skanda-Mahāsena in the Bilsad inscription",
+      "date": "about 415 A.D.",
+      "significance": "Inscriptional evidence for temple existence in the Gupta period."
+    },
+    {
+      "event": "Construction of a temple to Sūrya recorded in the Mandasor inscription",
+      "date": "about 460 A.D.",
+      "significance": "Inscriptional evidence for a temple with a high tower."
+    },
+    {
+      "event": "Construction of earliest surviving structural temples (Bhitargāon, Deogarh)",
+      "date": "fifth century A.D.",
+      "significance": "Marks the beginning of monumental temple architecture in surviving evidence, credited to the Gupta dynasty."
+    },
+    {
+      "event": "Construction of stone-enclosure at Ghosuṇḍi by Gājāyana",
+      "date": "first century B.C.",
+      "significance": "Early inscriptional evidence for a place of worship for Saṅkarṣaṇa and Vāsudeva."
+    },
+    {
+      "event": "Erection of Heliodorus' column at Besnagar",
+      "date": "second century B.C.",
+      "significance": "Earliest inscriptional evidence of a monument dedicated to Vāsudeva by a Bhāgavata enthusiast."
+    }
+  ],
+  "all_geographic_locations": [
+    {
+      "place": "South India",
+      "context": "Became a refuge for custodians of Āgama literature fleeing North India. The Siddhānta-āgama class found favorable conditions for consolidation here.",
+      "significance": "It is now the primary region where temple-context Śaiva-āgama is found and practiced."
+    },
+    {
+      "place": "Kaśmīr",
+      "context": "Served as a refuge for the Śaiva-Āgama tradition until the late 12th century. The Bhairava class of āgamas was prominent here.",
+      "significance": "After Muslim domination, the temple-orientation was lost, but the philosophical portions (Kashmir Śaivism) survived."
+    },
+    {
+      "place": "North India",
+      "context": "The region where Āgama literature almost entirely disappeared due to Vedic opposition and Muslim invasions.",
+      "significance": "The historical heartland where the conflict between Āgama and Nigama traditions played out."
+    },
+    {
+      "place": "Nepāl, Tibet",
+      "context": "Regions where some of the Āgama-tantra literature migrated.",
+      "significance": "Became centers for the preservation and development of Buddhist forms of Āgama/Tantra."
+    },
+    {
+      "place": "China, Japan, Mangolia",
+      "context": "Countries where the Buddhist variety of Āgama, focused on iconic worship (Sādhanā-texts), became prevalent.",
+      "significance": "Shows the wide geographical and cultural reach of Āgamic ideology."
+    },
+    {
+      "place": "Himalayan foot-hills",
+      "context": "Associated with the Nātha-Siddha cult.",
+      "significance": "This area likely served as a conduit for the transmission of Āgamic ideas (primarily Śaiva and Śākta) into Jainism."
+    },
+    {
+      "place": "India",
+      "context": "The location where the practice of worshipping icons at home has existed for over 2500 years.",
+      "significance": "The cultural and geographical origin of the traditions being discussed."
+    },
+    {
+      "place": "Mohenjodaro",
+      "context": "An archaeological site of the Indus Valley Civilisation.",
+      "significance": "Relics found here provide archaeological evidence for ancient icon worship in homes."
+    },
+    {
+      "place": "South Indian temples",
+      "context": "Location where preceptors are known by specific titles.",
+      "significance": "Provides a geographical context for the living tradition and titles of Āgamic masters like Tantri, Āgamika, etc."
+    },
+    {
+      "place": "Besnagar (Vidiśā in Madhya-Pradesh)",
+      "context": "Site of the 2nd century B.C. Brāhmī inscription commemorating a religious column by Heliodorus.",
+      "significance": "Location of one of the earliest pieces of evidence for the Bhāgavata cult."
+    },
+    {
+      "place": "Ghosuṇḍi (in Rajasthan)",
+      "context": "Site of a 1st century B.C. inscription recording the construction of a stone-enclosure for worship.",
+      "significance": "Early evidence for a shrine dedicated to Saṅkarṣaṇa and Vāsudeva."
+    },
+    {
+      "place": "Bhitargāon (near Kanpur in Uttar-Pradesh)",
+      "context": "Location of the earliest surviving structural brick temple, dated to the 5th century A.D.",
+      "significance": "A key archaeological site for early Hindu temple architecture."
+    },
+    {
+      "place": "Deogarh (Uttar-Pradesh)",
+      "context": "Location of the Daśāvatāra stone temple, also from the Gupta period (5th century A.D.).",
+      "significance": "An important early stone temple, though now in ruins."
+    },
+    {
+      "place": "Puri (Orissa)",
+      "context": "Home of the Jagannātha temple.",
+      "significance": "Example of a monumental temple with folk origins and continued mass appeal."
+    },
+    {
+      "place": "Tirumala (Tirupathi) hills, (Andhra Pradesh)",
+      "context": "Home of the Veṅkaṭeśvara temple.",
+      "significance": "Example of a monumental temple with folk origins and continued mass appeal."
+    },
+    {
+      "place": "Madurai (Tamil-Nadu)",
+      "context": "Home of the Mīnākṣi temple.",
+      "significance": "Example of a monumental temple with folk origins and continued mass appeal."
+    },
+    {
+      "place": "Kāñchipuram (Tamil-Nadu)",
+      "context": "Home of the Kāmākṣi temple.",
+      "significance": "Example of a monumental temple with folk origins and continued mass appeal."
+    },
+    {
+      "place": "Calcutta (West Bengal)",
+      "context": "Home of the Kālī temple.",
+      "significance": "Example of a monumental temple with folk origins and continued mass appeal."
+    },
+    {
+      "place": "Varanasi (Uttar Pradesh)",
+      "context": "Home of the Viśvanātha temple.",
+      "significance": "Example of a monumental temple with folk origins and continued mass appeal."
+    },
+    {
+      "place": "Pandharapur (Maharashtra)",
+      "context": "Home of the Viṭhoba temple.",
+      "significance": "Example of a monumental temple with folk origins and continued mass appeal."
+    },
+    {
+      "place": "Guruvāyūr (Kerala)",
+      "context": "Home of the Kṛiṣṇa temple.",
+      "significance": "Example of a monumental temple with folk origins and continued mass appeal."
+    },
+    {
+      "place": "Kollūr (Karnataka)",
+      "context": "Home of the Mūkambika temple.",
+      "significance": "Example of a monumental temple with folk origins and continued mass appeal."
+    },
+    {
+      "place": "Balligāma (Karnataka)",
+      "context": "Site of the Kedāreśvara temple and the Koḍiya-maṭha.",
+      "significance": "A major center of learning (mahā-ghaṭikā-sthāna) in medieval South India."
+    },
+    {
+      "place": "Mysore",
+      "context": "The erstwhile state used as a detailed case study for the evolution of temple administration.",
+      "significance": "Illustrates the transition from local/royal oversight to a structured government department (Muzarai)."
+    }
+  ],
+  "complete_terminology_index": [
+    {
+      "term": "Āgama",
+      "transliteration": "Āgama",
+      "translation": "Ancient tradition; revealed wisdom",
+      "context": "The central subject of the chapter; a body of texts and traditions dealing with worship, philosophy, and ritual."
+    },
+    {
+      "term": "ā + √gam",
+      "transliteration": "ā + gam",
+      "translation": "'to come towards'",
+      "context": "Etymological root of Āgama, signifying knowledge that has 'come down' or been received."
+    },
+    {
+      "term": "dharma",
+      "transliteration": "dharma",
+      "translation": "Righteous conduct, duty",
+      "context": "One of the subjects Āgama provides knowledge about."
+    },
+    {
+      "term": "adharma",
+      "transliteration": "adharma",
+      "translation": "Unrighteous conduct",
+      "context": "The opposite of dharma, which Āgama also clarifies."
+    },
+    {
+      "term": "Vedas",
+      "transliteration": "Vedas",
+      "translation": "The Vedas",
+      "context": "The most ancient Hindu scriptures, also referred to as Nigama, often contrasted with the Āgamas."
+    },
+    {
+      "term": "Śaiva",
+      "transliteration": "Śaiva",
+      "translation": "Related to Śiva",
+      "context": "One of the three main sectarian classifications of Āgamas."
+    },
+    {
+      "term": "Vaiṣṇāva",
+      "transliteration": "Vaiṣṇāva",
+      "translation": "Related to Viṣṇu",
+      "context": "One of the three main sectarian classifications of Āgamas."
+    },
+    {
+      "term": "Śākta",
+      "transliteration": "Śākta",
+      "translation": "Related to Śakti (the Goddess)",
+      "context": "One of the three main sectarian classifications of Āgamas."
+    },
+    {
+      "term": "nāda",
+      "transliteration": "nāda",
+      "translation": "Primordial sound",
+      "context": "The origin of language and the Āgamas, emanating from the absolute Śiva."
+    },
+    {
+      "term": "niṣkala",
+      "transliteration": "niṣkala",
+      "translation": "Undifferentiated, without parts, absolute",
+      "context": "Describes the absolute state of Śiva from which creation and sound emanate."
+    },
+    {
+      "term": "Oṃkāra (praṇava)",
+      "transliteration": "Oṃkāra (praṇava)",
+      "translation": "The syllable 'Om'",
+      "context": "The sacred sound that arose from the primordial nāda."
+    },
+    {
+      "term": "Pāñcarātra",
+      "transliteration": "Pāñcarātra",
+      "translation": "lit. 'Five Nights'",
+      "context": "A major tradition of Vaiṣṇava Āgamas."
+    },
+    {
+      "term": "vyūha",
+      "transliteration": "vyūha",
+      "translation": "Emanation, manifestation",
+      "context": "In Vaiṣṇava Āgama, the emanations of the absolute deity, Vāsudeva."
+    },
+    {
+      "term": "Tantra",
+      "transliteration": "Tantra",
+      "translation": "Loom, warp; system, technique",
+      "context": "A term often used synonymously with Āgama, but more focused on technique and method."
+    },
+    {
+      "term": "Mīmāṃsā",
+      "transliteration": "Mīmāṃsā",
+      "translation": "Investigation, inquiry",
+      "context": "A school of Hindu philosophy focused on Vedic exegesis, mentioned as a 'tantra' in the sense of an organized system."
+    },
+    {
+      "term": "mantra",
+      "transliteration": "mantra",
+      "translation": "Sacred utterance, mystical formula",
+      "context": "Magical word-symbols used in Tāntric and Āgamic worship."
+    },
+    {
+      "term": "yantras",
+      "transliteration": "yantras",
+      "translation": "Mystical diagrams",
+      "context": "Designs used in Tāntric and Āgamic meditation and ritual."
+    },
+    {
+      "term": "tantrāvatāra",
+      "transliteration": "tantrāvatāra",
+      "translation": "The descent of Tantra",
+      "context": "The name typically given to the first chapter of Āgama texts."
+    },
+    {
+      "term": "āgamika / tantrī",
+      "transliteration": "āgamika / tantrī",
+      "translation": "Āgamic priest / Tāntric priest",
+      "context": "Terms for the chief priest in a temple, used interchangeably."
+    },
+    {
+      "term": "ācāra",
+      "transliteration": "ācāra",
+      "translation": "Conduct",
+      "context": "Represented by the syllable 'ā' in an etymological breakdown of 'Āgama'."
+    },
+    {
+      "term": "gati",
+      "transliteration": "gati",
+      "translation": "Future states, destination",
+      "context": "Represented by the syllable 'ga' in an etymological breakdown of 'Āgama'."
+    },
+    {
+      "term": "māhāt-mya",
+      "transliteration": "māhātmya",
+      "translation": "Greatness, glory",
+      "context": "Represented by the syllable 'ma' in an etymological breakdown of 'Āgama'."
+    },
+    {
+      "term": "Nigama",
+      "transliteration": "Nigama",
+      "translation": "The Vedas",
+      "context": "A term used to stand for the Vedic tradition, in contrast to Āgama."
+    },
+    {
+      "term": "bhakti",
+      "transliteration": "bhakti",
+      "translation": "Devotion",
+      "context": "A primary requisite for salvation in the Āgamas."
+    },
+    {
+      "term": "jñāna",
+      "transliteration": "jñāna",
+      "translation": "Wisdom, knowledge",
+      "context": "The final step to emancipation in Āgamas; the primary focus in the Vedānta tradition."
+    },
+    {
+      "term": "karma",
+      "transliteration": "karma",
+      "translation": "Action, ritualistic action",
+      "context": "An approach to the divine, made subordinate to devotion in the Āgamas."
+    },
+    {
+      "term": "pūjādiṣvanurāgah bhaktih",
+      "transliteration": "pūjādiṣvanurāgaḥ bhaktiḥ",
+      "translation": "Devotion is intense interest in worship and so on",
+      "context": "The Āgamic definition of devotion."
+    },
+    {
+      "term": "guru",
+      "transliteration": "guru",
+      "translation": "Teacher, spiritual guide",
+      "context": "A figure of great importance in the Tāntric tradition, who bestows initiation."
+    },
+    {
+      "term": "dīkṣā",
+      "transliteration": "dīkṣā",
+      "translation": "Initiation",
+      "context": "A necessary and symbolic rite in the Tāntric tradition."
+    },
+    {
+      "term": "Smṛti",
+      "transliteration": "Smṛti",
+      "translation": "That which is remembered",
+      "context": "A body of secondary Hindu scriptures that advocated for deity worship, seen as a precursor to Āgama literature."
+    },
+    {
+      "term": "Purāṇas",
+      "transliteration": "Purāṇas",
+      "translation": "Ancient tales",
+      "context": "A genre of texts with popular appeal that had a complex, often antagonistic, relationship with the Āgamas."
+    },
+    {
+      "term": "upacāras",
+      "transliteration": "upacāras",
+      "translation": "Ceremonial services/offerings",
+      "context": "Services to the deity that made worship more impressive in the Āgama tradition."
+    },
+    {
+      "term": "pādas",
+      "transliteration": "pādas",
+      "translation": "Feet, quarters, sections",
+      "context": "The four conventional books or sections of an Āgama text."
+    },
+    {
+      "term": "Jñāna-pāda / Vidyā-pāda",
+      "transliteration": "Jñāna-pāda / Vidyā-pāda",
+      "translation": "Knowledge section",
+      "context": "The first section of an Āgama, dealing with philosophy and theory."
+    },
+    {
+      "term": "Yoga-pāda",
+      "transliteration": "Yoga-pāda",
+      "translation": "Yoga section",
+      "context": "The second section of an Āgama, dealing with spiritual practices for divine communion."
+    },
+    {
+      "term": "Kriyā-pāda",
+      "transliteration": "Kriyā-pāda",
+      "translation": "Action/Ritual section",
+      "context": "The third and most emphasized section of an Āgama, dealing with temple construction, rituals, and worship."
+    },
+    {
+      "term": "Caryā-pāda",
+      "transliteration": "Caryā-pāda",
+      "translation": "Conduct section",
+      "context": "The fourth section of an Āgama, dealing with priestly conduct, observances, and festivals."
+    },
+    {
+      "term": "siddhis",
+      "transliteration": "siddhis",
+      "translation": "Supernormal powers",
+      "context": "The acquisition of these powers is a topic in some Āgama texts, like those of the Vāma class."
+    },
+    {
+      "term": "mokṣa",
+      "transliteration": "mokṣa",
+      "translation": "Liberation",
+      "context": "The ultimate goal of spiritual endeavor, discussed in the Jñāna-pāda."
+    },
+    {
+      "term": "Sāyujya",
+      "transliteration": "Sāyujya",
+      "translation": "Union with the deity",
+      "context": "The highest degree of salvation, said to be the reward of the Vidyā-pāda."
+    },
+    {
+      "term": "Sārūpya",
+      "transliteration": "Sārūpya",
+      "translation": "Obtaining a form similar to the deity",
+      "context": "A level of salvation, the reward of the Yoga-pāda."
+    },
+    {
+      "term": "Sāmīpya",
+      "transliteration": "Sāmīpya",
+      "translation": "Proximity with the deity",
+      "context": "A level of salvation, the reward of the Kriyā-pāda."
+    },
+    {
+      "term": "Sālokya",
+      "transliteration": "Sālokya",
+      "translation": "Abiding in the same world as the deity",
+      "context": "The lowest level of salvation, the reward of the Caryā-pāda."
+    },
+    {
+      "term": "mukti",
+      "transliteration": "mukti",
+      "translation": "Liberation",
+      "context": "One of the two main goals of Āgamic practice, the distant objective."
+    },
+    {
+      "term": "bhukti",
+      "transliteration": "bhukti",
+      "translation": "Enjoyment, worldly prosperity",
+      "context": "One of the two main goals of Āgamic practice, the immediate objective."
+    },
+    {
+      "term": "ātmārtha",
+      "transliteration": "ātmārtha",
+      "translation": "For one's own sake",
+      "context": "Refers to worship performed by a priest for his own spiritual welfare, typically at home."
+    },
+    {
+      "term": "parārtha-pūjā",
+      "transliteration": "parārtha-pūjā",
+      "translation": "Worship for the sake of others",
+      "context": "Refers to the public worship performed by a priest in a temple on behalf of the community."
+    },
+    {
+      "term": "Āgama",
+      "transliteration": "Āgama",
+      "translation": "Traditional texts/doctrine",
+      "context": "The body of scriptures primarily concerned with temple worship, rituals, and philosophy."
+    },
+    {
+      "term": "arcāmūrti",
+      "transliteration": "arcāmūrti",
+      "translation": "Icon for worship",
+      "context": "Refers to the physical icons found in Mohenjodaro excavations that were worshipped in homes."
+    },
+    {
+      "term": "svārtha",
+      "transliteration": "svārtha",
+      "translation": "For one's own interest/benefit",
+      "context": "Describes the interest of the priest who receives money for performing worship."
+    },
+    {
+      "term": "parārtha",
+      "transliteration": "parārtha",
+      "translation": "For the interest/sake of others",
+      "context": "Describes both the interest of the patrons who receive blessings, and the fundamental purpose of temple worship."
+    },
+    {
+      "term": "ātmārtha",
+      "transliteration": "ātmārtha",
+      "translation": "For one's own sake",
+      "context": "Refers to worship carried out by a householder in their own home for personal benefit, primarily salvation."
+    },
+    {
+      "term": "Āgama-brāhmaṇa",
+      "transliteration": "Āgama-brāhmaṇa",
+      "translation": "Āgamic brahmin",
+      "context": "A distinct, close-knit class of temple priests consecrated according to Āgamic rituals."
+    },
+    {
+      "term": "dīkṣā",
+      "transliteration": "dīkṣā",
+      "translation": "Initiation/Consecration",
+      "context": "The specific ritual of consecration that qualifies a brahmin to become a temple priest, distinct from Vedic initiation."
+    },
+    {
+      "term": "samānya-viprā",
+      "transliteration": "samānya-viprā",
+      "translation": "Ordinary brahmins",
+      "context": "Brahmins who are qualified only to worship at home and are not consecrated for temple worship."
+    },
+    {
+      "term": "dākṣita",
+      "transliteration": "dākṣita",
+      "translation": "Consecrated",
+      "context": "Refers to brahmins who have undergone dīkṣā."
+    },
+    {
+      "term": "Śiva-brahmana",
+      "transliteration": "Śiva-brahmana",
+      "translation": "Brahmin of Śiva",
+      "context": "Another term for a consecrated brahmin qualified for temple worship in the Śaiva tradition."
+    },
+    {
+      "term": "kṣudra",
+      "transliteration": "kṣudra",
+      "translation": "Mean/Inferior",
+      "context": "How some texts (like Kāraṇāgama) describe worship for one's own sake (ātmārtha)."
+    },
+    {
+      "term": "bhadra",
+      "transliteration": "bhadra",
+      "translation": "Excellent/Auspicious",
+      "context": "How some texts (like Kāraṇāgama) describe worship for the sake of others (parārtha)."
+    },
+    {
+      "term": "śaktis",
+      "transliteration": "śaktis",
+      "translation": "Powers/Consorts",
+      "context": "The divine feminine consorts of gods, worshipped in temples to secure worldly benefits."
+    },
+    {
+      "term": "dharma",
+      "transliteration": "dharma",
+      "translation": "Virtue/Duty",
+      "context": "One of the three values of normal life sought through temple worship."
+    },
+    {
+      "term": "artha",
+      "transliteration": "artha",
+      "translation": "Wealth",
+      "context": "One of the three values of normal life sought through temple worship."
+    },
+    {
+      "term": "kāma",
+      "transliteration": "kāma",
+      "translation": "Happiness/Desire",
+      "context": "One of the three values of normal life sought through temple worship."
+    },
+    {
+      "term": "śuddha",
+      "transliteration": "śuddha",
+      "translation": "Pure",
+      "context": "A variety of both home worship (of Śiva alone) and temple worship (ending with fire-oblation)."
+    },
+    {
+      "term": "kevala",
+      "transliteration": "kevala",
+      "translation": "Lone",
+      "context": "A variety of home worship."
+    },
+    {
+      "term": "sammiśra",
+      "transliteration": "sammiśra",
+      "translation": "Mixed",
+      "context": "A variety of home worship."
+    },
+    {
+      "term": "jitendriyarchitam",
+      "transliteration": "jitendriyarchitam",
+      "translation": "Worshipped by one with senses restrained",
+      "context": "A requirement for the 'pure' (śuddha) variety of home worship."
+    },
+    {
+      "term": "ācārya",
+      "transliteration": "ācārya",
+      "translation": "Preceptor/Teacher",
+      "context": "A learned master who can conduct worship; also a title for the head priest."
+    },
+    {
+      "term": "sāpekṣa",
+      "transliteration": "sāpekṣa",
+      "translation": "With expectation/motivation",
+      "context": "Describes home worship as being motivated by desires and spiritual benefits."
+    },
+    {
+      "term": "nirapekṣa",
+      "transliteration": "nirapekṣa",
+      "translation": "Without expectation",
+      "context": "Describes the priest's attitude in temple worship; he does not seek personal spiritual benefits from his professional duties."
+    },
+    {
+      "term": "miśra",
+      "transliteration": "miśra",
+      "translation": "Mixed",
+      "context": "A variety of temple worship ending with a daily procession (nityotsavanta)."
+    },
+    {
+      "term": "sankrīṇa",
+      "transliteration": "sankrīṇa",
+      "translation": "Complex",
+      "context": "A variety of temple worship ending with a presentation of pure dance (śuddha-nṛttānta)."
+    },
+    {
+      "term": "cala",
+      "transliteration": "cala",
+      "translation": "Moveable",
+      "context": "Describes the deity worshipped at home."
+    },
+    {
+      "term": "sthāvara",
+      "transliteration": "sthāvara",
+      "translation": "Stationary",
+      "context": "Describes the main deity installed in a temple."
+    },
+    {
+      "term": "guru",
+      "transliteration": "guru",
+      "translation": "Master/Teacher",
+      "context": "The preceptor at whose hands the priest receives consecration."
+    },
+    {
+      "term": "deśika",
+      "transliteration": "deśika",
+      "translation": "Guide/Teacher",
+      "context": "Another term for the preceptor or master."
+    },
+    {
+      "term": "sankara",
+      "transliteration": "sankara",
+      "translation": "Mix-up/Confusion",
+      "context": "An unholy mix-up of different traditions, texts, or rituals, which is strongly forbidden."
+    },
+    {
+      "term": "siddhānta-sankara",
+      "transliteration": "siddhānta-sankara",
+      "translation": "Mix-up of doctrines",
+      "context": "Mixing different sectarian doctrines, like Śaiva and Vaiṣṇava."
+    },
+    {
+      "term": "āgama-sankara",
+      "transliteration": "āgama-sankara",
+      "translation": "Mix-up of texts",
+      "context": "Mixing different textual traditions within the same sect."
+    },
+    {
+      "term": "ācāra-sankara",
+      "transliteration": "ācāra-sankara",
+      "translation": "Mix-up of conducts",
+      "context": "Mixing different conventional practices or rituals from different groups."
+    },
+    {
+      "term": "ācārya-saṅkara",
+      "transliteration": "ācārya-saṅkara",
+      "translation": "Mix-up of preceptors",
+      "context": "Changing preceptors or having multiple masters direct a single ritual sequence."
+    },
+    {
+      "term": "aṅkura",
+      "transliteration": "aṅkura",
+      "translation": "Sprout/Seedling",
+      "context": "Refers to the ceremonial seed-sowing that begins major temple rituals."
+    },
+    {
+      "term": "pratiṣṭhā",
+      "transliteration": "pratiṣṭhā",
+      "translation": "Installation",
+      "context": "The ritual of installing an icon in a temple."
+    },
+    {
+      "term": "utsava",
+      "transliteration": "utsava",
+      "translation": "Festival",
+      "context": "Occasions of special worship in a temple requiring the preceptor's guidance."
+    },
+    {
+      "term": "śuddi",
+      "transliteration": "śuddi",
+      "translation": "Purification",
+      "context": "A temple ritual requiring the preceptor's consultation."
+    },
+    {
+      "term": "punaḥ-pratiṣṭhā",
+      "transliteration": "punaḥ-pratiṣṭhā",
+      "translation": "Re-installation",
+      "context": "The ritual of re-installing a damaged icon, guided by the preceptor."
+    },
+    {
+      "term": "Āgama",
+      "transliteration": "Āgama",
+      "translation": "Traditional doctrine or precept; a collection of scriptures.",
+      "context": "Refers to the vast body of literature that prescribes the rules for temple construction, worship, and rituals. The author identifies it as the major factor in the rise of temple culture."
+    },
+    {
+      "term": "gṛharcā",
+      "transliteration": "gṛharcā",
+      "translation": "Household worship/shrine.",
+      "context": "Used to distinguish private, household worship from public worship in temples."
+    },
+    {
+      "term": "sthala-purāṇas",
+      "transliteration": "sthala-purāṇas",
+      "translation": "Local legends or histories of a place.",
+      "context": "Mentioned as sources that help trace the transformation of humble shrines into magnificent temples."
+    },
+    {
+      "term": "garuḍa-dhvaja",
+      "transliteration": "garuḍa-dhvaja",
+      "translation": "Garuda-flag/column.",
+      "context": "Mentioned in the Besnagar inscription, its presence suggests a shrine to Viṣṇu."
+    },
+    {
+      "term": "pūjā-śilā-prākāra",
+      "transliteration": "pūjā-śilā-prākāra",
+      "translation": "Stone-enclosure for worship.",
+      "context": "Mentioned in the Ghosuṇḍi inscription, suggesting a defined sacred space."
+    },
+    {
+      "term": "Bhāgavata",
+      "transliteration": "Bhāgavata",
+      "translation": "A devotee of Bhagavān (Viṣṇu).",
+      "context": "Refers to the cult whose emphasis on devotion (bhakti) encouraged the creation of public places of worship."
+    },
+    {
+      "term": "bhakti",
+      "transliteration": "bhakti",
+      "translation": "Devotion.",
+      "context": "The devotional approach to Godhead that encouraged congregational worship."
+    },
+    {
+      "term": "Guheśvarī",
+      "transliteration": "Guheśvarī",
+      "translation": "The lady of the cave.",
+      "context": "A common designation for the mother-goddess, linking her worship to caves, which were precursors to the temple sanctum."
+    },
+    {
+      "term": "mūrti",
+      "transliteration": "mūrti",
+      "translation": "Icon, image, form.",
+      "context": "The iconic representation of a divinity."
+    },
+    {
+      "term": "liṅga",
+      "transliteration": "liṅga",
+      "translation": "Sign, symbol.",
+      "context": "The aniconic representation of Śiva."
+    },
+    {
+      "term": "arcā",
+      "transliteration": "arcā",
+      "translation": "Worship-worthy (image).",
+      "context": "The technical term for the consecrated image in a temple or home that is the focus of worship."
+    },
+    {
+      "term": "deha",
+      "transliteration": "deha",
+      "translation": "Body.",
+      "context": "The temple is metaphorically described as the 'body' of the godhead."
+    },
+    {
+      "term": "jīva",
+      "transliteration": "jīva",
+      "translation": "Soul, life-principle.",
+      "context": "The image in the sanctum is described as the 'soul' of the temple."
+    },
+    {
+      "term": "svayam-vyakta",
+      "transliteration": "svayam-vyakta",
+      "translation": "Self-manifested.",
+      "context": "A classification of temples where the image is a self-manifestation of Godhead."
+    },
+    {
+      "term": "mānuṣa",
+      "transliteration": "mānuṣa",
+      "translation": "Human-made.",
+      "context": "A classification for temples built by human beings in recent times."
+    },
+    {
+      "term": "śuddha, miśra, saṃkīrṇa",
+      "transliteration": "śuddha, miśra, saṃkīrṇa",
+      "translation": "Pure, mixed, complex.",
+      "context": "Classifications of temples based on the number of building materials used (one, two, or three respectively)."
+    },
+    {
+      "term": "ṣaḍ-varga",
+      "transliteration": "ṣaḍ-varga",
+      "translation": "Six-membered.",
+      "context": "The term for the six-part vertical division of a South Indian temple."
+    },
+    {
+      "term": "adhiṣ-ṭhāna",
+      "transliteration": "adhiṣ-ṭhāna",
+      "translation": "Basement, plinth.",
+      "context": "The lowest part of the temple's vertical structure."
+    },
+    {
+      "term": "śikhara",
+      "transliteration": "śikhara",
+      "translation": "Spire, tower.",
+      "context": "The superstructure over the sanctum."
+    },
+    {
+      "term": "vimāna",
+      "transliteration": "vimāna",
+      "translation": "Celestial chariot; temple tower.",
+      "context": "A term for the superstructure, sometimes used for the entire sanctum structure."
+    },
+    {
+      "term": "garbha-gṛha",
+      "transliteration": "garbha-gṛha",
+      "translation": "Womb-chamber.",
+      "context": "The sanctum sanctorum of the temple, housing the main deity."
+    },
+    {
+      "term": "maṇḍapa",
+      "transliteration": "maṇḍapa",
+      "translation": "Hall, pavilion.",
+      "context": "Roofed halls, either attached or detached from the main shrine, used for various functions (assembly, dance, marriage, etc.)."
+    },
+    {
+      "term": "prākāra",
+      "transliteration": "prākāra",
+      "translation": "Enclosure wall.",
+      "context": "The surrounding wall of a temple complex."
+    },
+    {
+      "term": "gopura",
+      "transliteration": "gopura",
+      "translation": "Gate-tower.",
+      "context": "The monumental, towered gateway in the prākāra of a temple."
+    },
+    {
+      "term": "prasāda",
+      "transliteration": "prasāda",
+      "translation": "Grace, blessed food.",
+      "context": "Food that has first been offered to the deity (naivedya) and is then distributed to devotees."
+    },
+    {
+      "term": "mahā-ghaṭikā-sthāna",
+      "transliteration": "mahā-ghaṭikā-sthāna",
+      "translation": "Place of a great educational institution; university.",
+      "context": "Refers to temples that functioned as major centers of learning."
+    },
+    {
+      "term": "maṭha",
+      "transliteration": "maṭha",
+      "translation": "Monastery.",
+      "context": "Monastic organizations that were often associated with temples."
+    },
+    {
+      "term": "jātra",
+      "transliteration": "jātra",
+      "translation": "Pilgrimage, festival fair.",
+      "context": "The annual temple festival, which is a major social and economic event."
+    },
+    {
+      "term": "sabhā",
+      "transliteration": "sabhā",
+      "translation": "Assembly, council.",
+      "context": "The administrative council of a temple, consisting of local dignitaries."
+    },
+    {
+      "term": "sthānika",
+      "transliteration": "sthānika",
+      "translation": "Manager, resident head.",
+      "context": "The hereditary administrator or manager of a temple."
+    },
+    {
+      "term": "Muzarai",
+      "transliteration": "Muzarai",
+      "translation": "From Arabic, related to endowments.",
+      "context": "The official name for the government department in Mysore responsible for managing temple and charitable endowments."
+    },
+    {
+      "term": "parārtha",
+      "transliteration": "parārtha",
+      "translation": "For the sake of others.",
+      "context": "Describes public worship performed by a priest for the benefit of the community, as opposed to private worship (ātmārtha)."
+    },
+    {
+      "term": "sannidhi-arcaka",
+      "transliteration": "sannidhi-arcaka",
+      "translation": "Priest of the divine presence.",
+      "context": "The chief priest who performs worship in the sanctum sanctorum."
+    }
+  ],
+  "cross_reference_map": [
+    {
+      "reference_text": "Kāraṇāgama",
+      "target": "External Āgama Text",
+      "page": "3, 5"
+    },
+    {
+      "reference_text": "Ajitāgama (20th patala, 1-7)",
+      "target": "External Āgama Text",
+      "page": "3"
+    },
+    {
+      "reference_text": "Achintyāgama, 2, 5-6",
+      "target": "External Āgama Text",
+      "page": "4"
+    },
+    {
+      "reference_text": "Suprabheda",
+      "target": "External Āgama Text",
+      "page": "5"
+    },
+    {
+      "reference_text": "śaivāgama-paribhāśā-mañjarī, 2, 13",
+      "target": "External Scholarly Text",
+      "page": "8"
+    },
+    {
+      "reference_text": "Mataṅga-pārameśvara, Caryā-pāda, 52, 107-111",
+      "target": "External Āgama Text",
+      "page": "9"
+    },
+    {
+      "reference_text": "Kautilya's Artha-śāstra (3,8)",
+      "target": "External text: Artha-śāstra",
+      "page": "3"
+    },
+    {
+      "reference_text": "Sircar, D.C; Select inscriptions, 211-213",
+      "target": "External text: Select Inscriptions by D.C. Sircar",
+      "page": "6"
+    },
+    {
+      "reference_text": "Gāthā-saptaśatī of Hāla (1,64)",
+      "target": "External text: Gāthā-saptaśatī",
+      "page": "6"
+    },
+    {
+      "reference_text": "Bilsad inscription (ibid., 279)",
+      "target": "External text: Select Inscriptions by D.C. Sircar",
+      "page": "6"
+    },
+    {
+      "reference_text": "Viṣṇu-saṁhitā (29, 55)",
+      "target": "External text: Viṣṇu-saṁhitā",
+      "page": "8"
+    },
+    {
+      "reference_text": "Padma-purāṇa, 39,14-20",
+      "target": "External text: Padma-purāṇa",
+      "page": "9"
+    },
+    {
+      "reference_text": "Pārameśvara-saṁhitā (89,62)",
+      "target": "External text: Pārameśvara-saṁhitā",
+      "page": "9"
+    },
+    {
+      "reference_text": "Śrī-praśna, 5",
+      "target": "External text: Śrī-praśna-saṁhitā",
+      "page": "9"
+    },
+    {
+      "reference_text": "Padma-saṁhitā, 'Kriyā\", 21, 12-14",
+      "target": "External text: Padma-saṁhitā",
+      "page": "9"
+    },
+    {
+      "reference_text": "Viṣṇu-tilaka-saṁhitā. 176",
+      "target": "External text: Viṣṇu-tilaka-saṁhitā",
+      "page": "10"
+    },
+    {
+      "reference_text": "Kāpiñjala-saṁhitā, 10,3-4",
+      "target": "External text: Kāpiñjala-saṁhitā",
+      "page": "10"
+    },
+    {
+      "reference_text": "Mānasāra, 18, 99,100",
+      "target": "External text: Mānasāra",
+      "page": "10"
+    },
+    {
+      "reference_text": "Kāmikāgama, 35, 21",
+      "target": "External text: Kāmikāgama",
+      "page": "10"
+    },
+    {
+      "reference_text": "Mayamata, 22, 57",
+      "target": "External text: Mayamata",
+      "page": "11"
+    },
+    {
+      "reference_text": "Mānasāra (31,1 -134)",
+      "target": "External text: Mānasāra",
+      "page": "13"
+    },
+    {
+      "reference_text": "Mānasāra, 33",
+      "target": "External text: Mānasāra",
+      "page": "14"
+    },
+    {
+      "reference_text": "Artha-śāstra (24)",
+      "target": "External text: Artha-śāstra",
+      "page": "14"
+    },
+    {
+      "reference_text": "Epigraphia Carnatika, Vol. 8, Sorab 276",
+      "target": "External text: Epigraphia Carnatika",
+      "page": "18"
+    }
+  ],
+  "bibliography_network": [],
+  "keywords_by_frequency": []
+}

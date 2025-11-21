@@ -9,10 +9,8 @@ from dotenv import load_dotenv
 import google.generativeai as genai
 
 # Import your existing modules
-# Assuming these are in the same directory or python path
-import sys
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-from retriever import BookRetriever
+# Import your existing modules
+from src.core.retriever import BookRetriever
 
 # Load environment variables
 load_dotenv()
@@ -58,7 +56,7 @@ def get_retriever():
     if state.retriever is None:
         print("Initializing Retriever...")
         try:
-            state.retriever = BookRetriever(db_path="chroma_db")
+            state.retriever = BookRetriever(db_path="data/chroma_db")
             print("Retriever initialized.")
         except Exception as e:
             print(f"Failed to initialize retriever: {e}")

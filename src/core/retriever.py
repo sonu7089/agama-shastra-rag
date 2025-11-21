@@ -4,7 +4,7 @@ from typing import List, Dict, Any, Optional
 
 
 class BookRetriever:
-    def __init__(self, db_path: str = "chroma_db"):
+    def __init__(self, db_path: str = "data/chroma_db"):
         self.db_path = db_path
         
         # Initialize embedding model
@@ -141,7 +141,7 @@ class BookRetriever:
         
         # Rerank using cross-encoder
         try:
-            from reranker import ContextReranker
+            from .reranker import ContextReranker
             
             # Initialize reranker (will be cached in practice)
             if not hasattr(self, '_reranker'):

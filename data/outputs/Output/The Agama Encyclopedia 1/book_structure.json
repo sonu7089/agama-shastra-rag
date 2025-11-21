@@ -1,0 +1,61 @@
+{
+  "preface": {
+    "title": "The Āgama Encyclopaedia",
+    "start_page": 10,
+    "end_page": 10
+  },
+  "introduction": {
+    "title": "Introduction",
+    "start_page": 9,
+    "end_page": 9
+  },
+  "table_of_contents": {
+    "start_page": 11,
+    "end_page": 11
+  },
+  "chapters": [
+    {
+      "chapter_number": "I",
+      "title": "THE ĀGAMA CONTEXT",
+      "start_page": 1,
+      "end_page": 26
+    },
+    {
+      "chapter_number": "II",
+      "title": "ĀGAMA OUTLOOK",
+      "start_page": 27,
+      "end_page": 35
+    },
+    {
+      "chapter_number": "III",
+      "title": "TEMPLE CULTURE",
+      "start_page": 36,
+      "end_page": 67
+    }
+  ],
+  "appendixes": [
+    {
+      "appendix_id": "I",
+      "title": "A NOTE ON TANTRA",
+      "start_page": 68,
+      "end_page": 111
+    },
+    {
+      "appendix_id": "II",
+      "title": "APPENDIX II",
+      "start_page": 112,
+      "end_page": 122
+    },
+    {
+      "appendix_id": "III",
+      "title": "APPENDIX III",
+      "start_page": 123,
+      "end_page": 126
+    }
+  ],
+  "references_and_notes": {
+    "title": "REFERENCES AND NOTES",
+    "start_page": 127,
+    "end_page": 143
+  }
+}

@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 load_dotenv()
 API_KEY = os.getenv("GEMINI_API_KEY")
 PDF_PATH = os.getenv("PDF_PATH")
-OUTPUT_BASE = os.getenv("OUTPUT_DIR", "Output")
+OUTPUT_BASE = os.getenv("OUTPUT_DIR", os.path.join("data", "outputs", "Output"))
 PDF_PAGE_OFFSET = int(os.getenv("PDF_PAGE_OFFSET", "0"))
 
 

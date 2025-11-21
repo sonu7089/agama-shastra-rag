@@ -2,7 +2,7 @@ import os
 import streamlit as st
 import google.generativeai as genai
 from dotenv import load_dotenv
-from retriever import BookRetriever
+from src.core.retriever import BookRetriever
 from typing import List, Dict
 
 # Load environment variables
@@ -41,7 +41,7 @@ st.markdown("""
 
 
 @st.cache_resource
-def initialize_retriever(db_path: str = "chroma_db"):
+def initialize_retriever(db_path: str = "data/chroma_db"):
     """Initialize the retriever (cached)"""
     try:
         retriever = BookRetriever(db_path=db_path)
@@ -213,7 +213,7 @@ def main():
         # Database path
         db_path = st.text_input(
             "Database Path",
-            value="chroma_db",
+            value="data/chroma_db",
             help="Path to ChromaDB database"
         )
         

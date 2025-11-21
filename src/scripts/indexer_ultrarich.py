@@ -14,7 +14,7 @@ class UltraRichBookIndexer:
     instead of fragmenting data into tiny pieces.
     """
     
-    def __init__(self, output_dir: str = "Output", db_path: str = "chroma_db"):
+    def __init__(self, output_dir: str = "data/outputs/Output", db_path: str = "data/chroma_db"):
         self.output_dir = Path(output_dir)
         self.db_path = db_path
         
@@ -518,8 +518,8 @@ if __name__ == "__main__":
     import sys
     
     # Parse command line arguments
-    output_dir = "Output"
-    db_path = "chroma_db"
+    output_dir = "data/outputs/Output"
+    db_path = "data/chroma_db"
     clear_index = False
     
     if len(sys.argv) > 1:
