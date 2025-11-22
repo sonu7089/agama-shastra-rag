@@ -1,0 +1,1621 @@
+{
+  "book_title": "The Agama Encyclopedia 3",
+  "total_chapters": 4,
+  "total_pages": 0,
+  "all_historical_figures": [
+    {
+      "name": "Rāmānuja",
+      "role": "Śrī-vaiṣṇava philosopher and ācārya",
+      "significance": "Not recognized in the Vaikhānasa guru-paramparā. He favoured the Pāñcarātra mode of worship, contrasting with the Vaikhānasa system.",
+      "dates": "1017-1137"
+    },
+    {
+      "name": "Āḻvārs",
+      "role": "Tamil Vaiṣṇava Saints",
+      "significance": "Not recognized or worshipped in the Vaikhānasa tradition; their Tamil hymns are not sung.",
+      "dates": "Earlier than Rāmānuja"
+    },
+    {
+      "name": "Śrīnivāsa-makhin",
+      "role": "Vaikhānasa ācārya and philosopher",
+      "significance": "Authored a commentary on the Brahma-sūtras, the Lakṣmī-Viśiṣṭād-vaita-bhāṣya, establishing the distinct Vaikhānasa philosophical position.",
+      "dates": "1059 A.D."
+    },
+    {
+      "name": "Nātha-muni",
+      "role": "Early Śrī-vaiṣṇava ācārya",
+      "significance": "Leader who helped form the Śrī-vaiṣṇava group; the Vaikhānasa community predates him.",
+      "dates": "824-924 A.D."
+    },
+    {
+      "name": "Yāmuna",
+      "role": "Śrī-vaiṣṇava ācārya, predecessor of Rāmānuja",
+      "significance": "Leader of the Śrī-vaiṣṇava group; the Vaikhānasa community predates him.",
+      "dates": "died 1038"
+    },
+    {
+      "name": "Vikhanas",
+      "role": "Founding sage of the Vaikhānasa tradition",
+      "significance": "Believed to have written the Kalpa-sūtra (for householders) and taught the Daivika-sūtra (for iconic worship).",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Marīci, Atri, Bhrgu, Kāśyapa",
+      "role": "Four disciples of the sage Vikhanas",
+      "significance": "They amplified the teachings of Vikhanas, and many Vaikhānasa texts are attributed to them.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Baudhāyana",
+      "role": "Ancient smṛti-kāra and author of a Dharma-sūtra",
+      "significance": "Acknowledged the Vedic authority of the Vaikhānasa scriptures.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Vallabha",
+      "role": "Philosopher and commentator",
+      "significance": "His commentary Subodhini suggests that the 'Vaidika' worship mentioned in the Bhāgavata-purāṇa refers to the Vaikhānasa tradition.",
+      "dates": "1479–1531 CE (not stated in text, but known)"
+    },
+    {
+      "name": "Vīrarāghava",
+      "role": "Commentator",
+      "significance": "Commented on the Bhāgavata-purāṇa, explaining the two approaches of 'veda' and 'tantra'.",
+      "dates": "..."
+    },
+    {
+      "name": "Manu",
+      "role": "Ancient law-giver",
+      "significance": "His Manu-smṛti counts the Vaikhānasa-sūtra among great authorities.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Gautama",
+      "role": "Ancient author of a Dharma-sūtra",
+      "significance": "Accepts the authoritative character of the Vaikhānasa-sūtra.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Govindasvāmi",
+      "role": "Commentator on Baudhāyana-dharma-sūtra",
+      "significance": "Identified Vaikhānasa as a type of vānaprastha.",
+      "dates": "..."
+    },
+    {
+      "name": "Haradatta",
+      "role": "Commentator",
+      "significance": "Explained the Śrāmaṇaka method of kindling the sacred fire.",
+      "dates": "..."
+    },
+    {
+      "name": "Kullūka-bhaṭṭa",
+      "role": "Commentator on Manu",
+      "significance": "Mentioned the Vaikhānasas had their own ideology and doctrine.",
+      "dates": "..."
+    },
+    {
+      "name": "Kālidāsa",
+      "role": "Celebrated Sanskrit poet and dramatist",
+      "significance": "His play 'Śākuntalam' refers to the Vaikhānasa as a life of austerity and vows.",
+      "dates": "c. 4th-5th century CE (not stated in text)"
+    },
+    {
+      "name": "Hārīta",
+      "role": "Author of a smṛti manual",
+      "significance": "Provided details on the austere life of a Vaikhānasa hermit.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Yajñasvāmi",
+      "role": "Commentator",
+      "significance": "Explained that 'śrāmaṇaka' means the Vaikhānasa-scripture.",
+      "dates": "..."
+    },
+    {
+      "name": "Bodhāyana",
+      "role": "Ancient smṛti writer",
+      "significance": "Described the life of a Vaikhānasa hermit.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Nṛsimha-vājapeya-yāji",
+      "role": "Vaikhānasa scholar",
+      "significance": "Prepared an elaborate gloss on the Gṛhya and Dharma sections of the Vaikhānasa-sūtra, which provides the framework for the Vaikhānasa-āgama.",
+      "dates": "c. 5th or 6th century A.D."
+    },
+    {
+      "name": "Vaidyanātha",
+      "role": "Author",
+      "significance": "His Varṇāśramācāra-kāṇḍa classifies Kalpa-sūtras into two groups, 'earlier' and 'later'.",
+      "dates": "..."
+    },
+    {
+      "name": "J. Gonda",
+      "role": "Indologist/Scholar",
+      "significance": "His analysis on the use of Vedic mantras in Vaikhānasa ritual texts is cited.",
+      "dates": "Modern"
+    },
+    {
+      "name": "T. Gaṇapati Śāstri",
+      "role": "Scholar/Editor",
+      "significance": "Published the Vaikhānasa text in Devanagari characters in 1913.",
+      "dates": "1913"
+    },
+    {
+      "name": "Nārāyaṇa Bhaṭṭācārya",
+      "role": "Editor",
+      "significance": "Edited a Telugu character edition of Vaikhānasa texts in 1915.",
+      "dates": "1915"
+    },
+    {
+      "name": "W. Caland",
+      "role": "Scholar/Editor",
+      "significance": "Published an edition of Vaikhānasa Gṛhya and Dharma-sūtras in 1925 and 1927.",
+      "dates": "1925, 1927"
+    },
+    {
+      "name": "Dr. Eggers",
+      "role": "Scholar/Editor",
+      "significance": "Published the Vaikhānasa-Dharma-sūtras in 1929.",
+      "dates": "1929"
+    },
+    {
+      "name": "R. Pārthasārathi Bhaṭṭācārya",
+      "role": "Editor",
+      "significance": "Edited modern editions of Vaikhānasa texts published by TTD and Vaikhānasa-mahāmaṇḍali.",
+      "dates": "1967, 1984-1987"
+    },
+    {
+      "name": "R. Śrīnivāsācārya",
+      "role": "Editor",
+      "significance": "Edited the Srauta section of the Vaikhānasa-kalpa-sūtra in 1987.",
+      "dates": "1987"
+    },
+    {
+      "name": "Indra",
+      "role": "Vedic deity",
+      "significance": "Frequently associated and identified with Viṣṇu. The Vaikhānasa sages were said to be dear to him.",
+      "dates": "Vedic period"
+    },
+    {
+      "name": "Yāska",
+      "role": "Ancient commentator and etymologist",
+      "significance": "His Nirukta is cited for the etymology of 'Viṣṇu' and the view of a single divinity appearing in multiple forms.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Aurṇavābha",
+      "role": "Old authority cited by Yāska",
+      "significance": "Interpreted Viṣṇu's three strides as the sun's movement at morning, midday, and evening.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Śākapūṇi",
+      "role": "Old master cited by Yāska",
+      "significance": "Interpreted Viṣṇu's three strides as the sun's passage through earth, mid-region, and heaven.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Dīrghatama-aucathya",
+      "role": "Vedic Sage (ṛṣi)",
+      "significance": "Composer of the Ṛgveda hymn (1.155.1) which Vaikhānasas interpret as justifying iconic worship.",
+      "dates": "Vedic period"
+    },
+    {
+      "name": "Sāyaṇa",
+      "role": "Famous commentator on the Vedas",
+      "significance": "His interpretation of 'arcata' as 'acquire well' is cited and rejected by the author in favor of the 'worship' interpretation.",
+      "dates": "14th century CE (not stated in text)"
+    },
+    {
+      "name": "Śaunaka",
+      "role": "Vedic sage",
+      "significance": "His Ṛgvidhāna is cited to support the interpretation of 'arcata' as worship.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Vasiṣṭha",
+      "role": "Great sage of yore",
+      "significance": "Cited as an ancient authority for the worship of Viṣṇu.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Sanaka",
+      "role": "Ascetic sage",
+      "significance": "Cited as an ancient authority for the worship of Viṣṇu.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Śrīnivāsa-makhin",
+      "role": "Vaikhānasa writer, author",
+      "significance": "Authored 'Daśa-vidha-hetu-nirūpaṇam' and 'Tātparya-cintāmaṇi', which are cited as authoritative texts explaining the Vaikhānasa viewpoint.",
+      "dates": "c. 1050 A.D."
+    },
+    {
+      "name": "Vikhanas",
+      "role": "Primordial Sage, Progenitor",
+      "significance": "The divine ancestor of the Vaikhānasa community and author of their foundational scripture, the Vaikhānasa-sūtra. Variously identified with Brahmā, Viṣṇu, or a mind-born sage.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Viṣṇu",
+      "role": "Supreme Deity",
+      "significance": "The central object of worship for the Vaikhānasa community. He is also described as the ultimate source of their scriptural knowledge and in some accounts is identified with Vikhanas himself.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Brahmā",
+      "role": "Creator Deity",
+      "significance": "Frequently identified with the sage Vikhanas, who received the divine knowledge from Viṣṇu and authored the sūtras.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Marīci, Bhṛgu, Atri, Kāśyapa",
+      "role": "Primordial Sages",
+      "significance": "The four hermit sons or disciples of Vikhanas who received the Vaikhānasa teachings and are credited with codifying them and founding the community. They are also considered authors of major Vaikhānasa texts.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Manu",
+      "role": "Sūtra-writer",
+      "significance": "Mentioned as one of the other sūtra-writers who accepted the contents and style of the Vaikhānasa-kalpa-sūtra.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Nara and Nārāyaṇa",
+      "role": "Divine Sages, Incarnations of Viṣṇu",
+      "significance": "In one origin story, they instructed the sage Vikhanas at Badarī to enlighten mankind about iconic worship.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Vasiṣṭha, Aṅgiras, Pulaha, Pulastya, Kratu",
+      "role": "Sages",
+      "significance": "Listed alongside the main four sages as disciples of Vikhanas in the Naimiśa forest.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Nṛsimha-Vājapeya-yāji",
+      "role": "Author/Commentator",
+      "significance": "Cited as the source for details on the worship of Vikhanas and the Viṣṇu-bali ceremony.",
+      "dates": "Unknown"
+    },
+    {
+      "name": "Hārīta",
+      "role": "Sage/Law-giver",
+      "significance": "His view is cited to distinguish Vaikhānasas from professional priests (devalakas).",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Rāmānujācārya",
+      "role": "Śrī-Vaiṣṇava philosopher",
+      "significance": "Mentioned as a guru whom the Vaikhānasas, unlike other Śrī-Vaiṣṇavas, do not recognize.",
+      "dates": "c. 1017–1137 CE"
+    },
+    {
+      "name": "Āḻvārs",
+      "role": "Tamil Vaiṣṇava Saints",
+      "significance": "Mentioned as guides whose hymns (Prabandha) are not recited in Vaikhānasa worship.",
+      "dates": "c. 6th-9th centuries CE"
+    },
+    {
+      "name": "Śaunaka",
+      "role": "Sage, author of Ṛgvidhāna",
+      "significance": "Credited with the counsel to worship a beautiful icon of Viṣṇu to facilitate contemplation and attain Brahman.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Yudhiṣṭhira and Kṛṣṇa",
+      "role": "Characters from the Mahābhārata",
+      "significance": "Their dialogue in the Mahābhārata is cited to explain the Vaikhānasa and Pāñcarātra views on the forms of Godhead.",
+      "dates": "Epic Period"
+    },
+    {
+      "name": "Viṣṇu",
+      "role": "Deity, Primordial Source",
+      "significance": "The ultimate source of the Vaikhānasa doctrine, who taught it to the sage Vikhanas.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Vikhanas",
+      "role": "Sage, Founder",
+      "significance": "The first sage of the tradition, who received the Vaikhānasa-sūtra from Viṣṇu and transmitted it to his disciples. Considered a transformation of Vishnu's Vedic nature.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Bhṛgu",
+      "role": "Sage, Author",
+      "significance": "One of the four main disciples of Vikhanas. He is credited with authoring the 'Adhikāras' (treatises on specific topics) like Kriyādhikāra and Prakīrṇādhikāra.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Marīci",
+      "role": "Sage, Author",
+      "significance": "One of the four main disciples of Vikhanas. Credited with authoring the 'Samhitās' (collections) and the Vimānārcanā-kalpa, a key text cited for the tradition's origin.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Atri",
+      "role": "Sage, Author",
+      "significance": "One of the four main disciples of Vikhanas. Credited with authoring the 'Tantras'.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Kāśyapa",
+      "role": "Sage, Author",
+      "significance": "One of the four main disciples of Vikhanas. Credited with authoring the 'Kāṇḍas' (sections), including the Jñāna-kāṇḍa.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Nṛsiṁha-vājapeya-yājin",
+      "role": "Commentator, Author",
+      "significance": "A later commentator whose works, like the commentary on the Vaikhānasa-kalpa-Sūtra and Pratiṣṭhā-vidhi-darpaṇa, help explain the Vaikhānasa position.",
+      "dates": "Post-classical"
+    },
+    {
+      "name": "Śrīnivāsa-makhin (Śrīnivāsa-dīkṣita)",
+      "role": "Commentator, Author, Priest",
+      "significance": "A prolific later writer and priest at the Tirumala temple. Authored works like Tātparya-cintāmaṇi and Vaikhānasa-mahima-mañjarī. Hailed as 'sarva-tantra-svatantra'.",
+      "dates": "Post-classical"
+    },
+    {
+      "name": "Kātyāyana",
+      "role": "Author of a Kalpasūtra",
+      "significance": "Mentioned as one of only two authors (along with Bodhāyana) whose extant kalpasūtras contain the Śulbasūtra section.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Bodhāyana",
+      "role": "Author of a Kalpasūtra",
+      "significance": "Mentioned as one of only two authors (along with Kātyāyana) whose extant kalpasūtras contain the Śulbasūtra section.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Hārīta",
+      "role": "Disciple",
+      "significance": "Mentioned as a disciple of Bhṛgu whose views are frequently cited in commentarial literature.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Śaunaka",
+      "role": "Author",
+      "significance": "Author of a 'Samhitā' belonging to the Vaikhānasa scripture, now lost but quoted by commentators.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Raghunātha Cakravarti-bhaṭṭacārya",
+      "role": "Editor",
+      "significance": "Editor of an early edition of Marīci's Vimānārcanā-kalpa.",
+      "dates": "Pre-1926"
+    },
+    {
+      "name": "Setu-mādhavācārya",
+      "role": "Editor",
+      "significance": "Editor of an early edition of Marīci's Vimānārcanā-kalpa.",
+      "dates": "Pre-1926"
+    },
+    {
+      "name": "Bhattar Pārthasārathi Ācārya",
+      "role": "Editor",
+      "significance": "Editor of Ānanda-saṁhitā (1924) with Sanskrit commentary.",
+      "dates": "c. 1924"
+    },
+    {
+      "name": "Sundara-rāja",
+      "role": "Commentator",
+      "significance": "Author of Prayoga-vṛtti, a commentary on the Vaikhānasa-kalpa-sūtra.",
+      "dates": "Later period"
+    },
+    {
+      "name": "Keśavācārya",
+      "role": "Author",
+      "significance": "An early writer who prepared a gloss (vṛtti) on the Vedānta-sūtras and wrote Arcanā-navanīta on iconic worship.",
+      "dates": "Early period"
+    },
+    {
+      "name": "Bhāskara-bhaṭṭacārya",
+      "role": "Commentator",
+      "significance": "Disciple of Nṛsiṁha-Vājapeya-yāji, wrote commentaries on Daivika and Mānuṣika sūtras.",
+      "dates": "Later period"
+    },
+    {
+      "name": "Ananta-nārāyaṇa",
+      "role": "Author",
+      "significance": "Prepared a gloss on Vedānta-sūtras entitled Vārtikagrāhinī.",
+      "dates": "Later period"
+    },
+    {
+      "name": "Kullūka-bhaṭṭa",
+      "role": "Medieval smṛti-writer",
+      "significance": "Commented on Manu-smṛti (6.21) and acknowledged Vaikhānasa as both a 'dharma' and a 'darśana'.",
+      "dates": "Medieval"
+    },
+    {
+      "name": "Śrīnivāsa-makhin (or Śrīnivāsa-dīkṣita)",
+      "role": "Vaikhānasa philosopher and prolific writer",
+      "significance": "Authored the 'Lakṣmi-Viśiṣṭādvaita-bhāṣya' on the Śārīraka-sūtras, crystallizing Vaikhānasa philosophy. Also wrote 'Vaikhānasa-mahima-mañjarī' and was known by the titles 'Sarva-tantra-svatantra' and 'Kavi-kula-tilaka'.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Raghupati-bhaṭṭācārya (better known as Vāsudeva, Vāsudevāpara-nāmā)",
+      "role": "Author",
+      "significance": "Composed 'Mokṣopāya-pradīpikā', a significant and succinct presentation of Vaikhānasa philosophy, compiled from the works of Śrīnivāsa-makhin.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Divi Veṅkaṭanarasimhācārya",
+      "role": "Editor/Publisher",
+      "significance": "Brought out an edition of 'Mokṣopāya-pradīpikā' in Telugu characters in 1948.",
+      "dates": "Active in 1948"
+    },
+    {
+      "name": "Vikhānas",
+      "role": "Sage",
+      "significance": "The foundational sage of the Vaikhānasa tradition to whom Viṣṇu is said to have communicated the Vaikhānasa-Śāstra.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Bhrgu",
+      "role": "Sage",
+      "significance": "One of the four foundational sages of the Vaikhānasa tradition. Quoted from his 'Vāsādhikāra'.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Nṛsiṁha-vājapeya-yājin",
+      "role": "Commentator",
+      "significance": "Authored a commentary on the Vaikhānasa-sūtra, quoted for his explanation of saguṇa and nirguṇa contemplation.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Marīci",
+      "role": "Sage",
+      "significance": "One of the foundational Vaikhānasa sages whose work 'Vimānārcanā-kalpa' contains a detailed account of the philosophy, which is extensively summarized in the chapter.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Kāśyapa",
+      "role": "Sage",
+      "significance": "His 'Jñāna-kāṇḍa' is cited on the necessity of icon worship for ordinary people.",
+      "dates": "Ancient"
+    }
+  ],
+  "complete_timeline": [
+    {
+      "event": "Life of Rāmānuja, pre-eminent Śrī-vaiṣṇava ācārya.",
+      "date": "1017-1137 A.D.",
+      "significance": "His non-recognition by Vaikhānasas is a central marker of their distinct identity."
+    },
+    {
+      "event": "Flourishing of Śrīnivāsa-makhin, a Vaikhānasa ācārya.",
+      "date": "1059 A.D.",
+      "significance": "He authored a key Vaikhānasa philosophical text, demonstrating a well-developed, independent intellectual tradition concurrent with early Śrī-vaiṣṇavism."
+    },
+    {
+      "event": "German indologists notice Vaikhānasa Kalpa-sūtra texts.",
+      "date": "1896",
+      "significance": "Marks the beginning of modern academic study of Vaikhānasa literature in the West."
+    },
+    {
+      "event": "Publication of an edition of 'Mokṣopāya-pradīpikā' in grantha characters.",
+      "date": "1905",
+      "significance": "An early printed edition that served as the basis for a later Telugu version, indicating scholarly interest in the text in the early 20th century."
+    },
+    {
+      "event": "T. Gaṇapati Śāstri publishes Vaikhānasa text in Devanagari.",
+      "date": "1913",
+      "significance": "An important step in making the primary texts available to a wider scholarly audience in India."
+    },
+    {
+      "event": "W. Caland publishes editions of Vaikhānasa Gṛhya and Dharma-sūtras.",
+      "date": "1925, 1927",
+      "significance": "Key critical editions that became standard references for Western scholarship on the Vaikhānasas."
+    },
+    {
+      "event": "Dr. Eggers publishes the Vaikhānasa-Dharma-sūtras.",
+      "date": "1929",
+      "significance": "Continued the trend of critical European scholarship on Vaikhānasa texts."
+    },
+    {
+      "event": "Publication of 'Mokṣopāya-pradīpikā' in Telugu characters.",
+      "date": "1948",
+      "significance": "Made the key philosophical text more accessible to a wider audience in the Vaikhānasa-bhagavaccāstra-granthamālā series."
+    },
+    {
+      "event": "Life of Nātha-muni, early Śrī-vaiṣṇava ācārya.",
+      "date": "824-924 A.D.",
+      "significance": "The Vaikhānasa community is established as being an independent entity before the formation of the Śrī-vaiṣṇava group under his leadership."
+    },
+    {
+      "event": "Composition of the Vaikhānasa-kalpa-sūtra",
+      "date": "Ancient",
+      "significance": "The compilation of the foundational text of the Vaikhānasa school, which synthesized various aspects of Vedic ritual and domestic life (Śrauta, Gṛhya, Dharma, Śulba)."
+    },
+    {
+      "event": "Rise of the Āgama",
+      "date": "Classical / Medieval era",
+      "significance": "The development and codification of scriptures dealing with temple construction, idol worship, and philosophy, marking a major transformation in Hinduism. The Vaikhānasa Āgama represents the Vedic stream of this movement."
+    },
+    {
+      "event": "Decline of great Vedic sacrifices",
+      "date": "Post-Vedic / Pre-classical era",
+      "significance": "This historical trend led to a shift in religious focus from large, complex fire sacrifices (Śrauta) to more personal, domestic rituals (Gṛhya) and eventually to temple-based iconic worship, creating the need for Āgamic texts."
+    },
+    {
+      "event": "Composition of Śrīnivāsa-makhin's Daśa-vidha-hetu-nirūpaṇam",
+      "date": "about 1050 A.D.",
+      "significance": "Provides a systematic account of the characteristic features and authority of the Vaikhānasa scriptures."
+    },
+    {
+      "event": "Life of Yāmuna, Śrī-vaiṣṇava ācārya.",
+      "date": "died 1038 A.D.",
+      "significance": "Further establishes the historical precedence of the Vaikhānasa tradition."
+    }
+  ],
+  "all_geographic_locations": [
+    {
+      "place": "Āndhra Pradesh, Karnāṭaka and Tamiḻ Nāḍu",
+      "context": "The three states in South India where the Vaikhānasa community is spread.",
+      "significance": "Defines the geographical extent of the community."
+    },
+    {
+      "place": "Kerala or the coastal region of Karnāṭaka",
+      "context": "Regions in South India where the Vaikhānasa community is not found.",
+      "significance": "Further refines the specific geographic distribution."
+    },
+    {
+      "place": "Tirumala Tirupati, Mahābalipuram, Śrīkākulam, etc.",
+      "context": "A long list of ancient Viṣṇu temples where worship is conducted according to Vaikhānasa prescriptions.",
+      "significance": "Demonstrates the historical importance and prevalence of the Vaikhānasa tradition in major South Indian shrines."
+    },
+    {
+      "place": "Śrīperumbūdur, Poonamalli, Vānamāmalai, etc.",
+      "context": "Shrines associated with Rāmānuja and the Āḻvārs that continue to have Vaikhānasa priests.",
+      "significance": "Highlights the deep-rooted presence of the Vaikhānasa tradition, persisting even in centers of Śrī-vaiṣṇavism."
+    },
+    {
+      "place": "Kāśmīr, Gujarāt, Mahārāṣṭra",
+      "context": "Mentioned as regions where various factions of Vedic Kalpa-sūtras are followed.",
+      "significance": "Provides a broader geographical context for the different Vedic schools in India."
+    },
+    {
+      "place": "Kumbhakoṇam",
+      "context": "A 1915 edition of Vaikhānasa texts in Telugu characters was published here.",
+      "significance": "A center for traditional publication."
+    },
+    {
+      "place": "Utrecht, New Delhi, Gottingen, Leipzig, Trivandrum",
+      "context": "Locations where key scholarly editions and studies of Vaikhānasa texts were published.",
+      "significance": "Shows the global and Indian centers of modern academic research on the Vaikhānasa tradition."
+    },
+    {
+      "place": "Naimiśa forest",
+      "context": "A sacred forest where Brahmā (as Vikhanas) performed austerities to recover lost divine knowledge, and where Vikhanas taught the foundational scriptures to his sage-disciples.",
+      "significance": "It serves as the mythological location for the origin and propagation of the Vaikhānasa Sūtra."
+    },
+    {
+      "place": "Totādri",
+      "context": "A location where the sage Vikhanas performed austerities before traveling to the Himalayas.",
+      "significance": "A place of spiritual preparation for the sage Vikhanas."
+    },
+    {
+      "place": "Badarī",
+      "context": "A site in the Himalayas where Vikhanas met the divine sages Nara and Nārāyaṇa and was instructed by them to spread the knowledge of iconic worship.",
+      "significance": "The location where the mission to disseminate Vaikhānasa teachings was divinely ordained."
+    },
+    {
+      "place": "Naimiśa forest",
+      "context": "Mentioned as the place where Bhagavan (Viṣṇu) instructed the sages.",
+      "significance": "A traditional, sacred forest location for the transmission of divine knowledge in Puranic literature.",
+      "page": "2"
+    },
+    {
+      "place": "Tirumala",
+      "context": "Mentioned as a possible identification for Śrīnivāsa, where the sage Atri worshipped Viṣṇu. Also, the location of Vaikhānasa families and the workplace of the commentator Śrīnivāsa-makhin.",
+      "significance": "A major center for the Vaikhānasa tradition and the site of the famous Venkateswara Temple, where Vaikhānasa Āgama is practiced.",
+      "page": "22, 31, 33"
+    },
+    {
+      "place": "Mandara",
+      "context": "The place where the sage Marīci worshipped Viṣṇu.",
+      "significance": "A mythological mountain associated with divine events in Hindu lore.",
+      "page": "22"
+    },
+    {
+      "place": "Śrīnivāsa",
+      "context": "The place where the sage Atri worshipped Viṣṇu, identified as possibly Tirumala.",
+      "significance": "A sacred site associated with an originating sage of the tradition.",
+      "page": "22"
+    },
+    {
+      "place": "Viṣṇvadhiṣ-ṭhāna",
+      "context": "The place where the sage Kāśyapa worshipped Viṣṇu.",
+      "significance": "A sacred site associated with an originating sage of the tradition.",
+      "page": "22"
+    },
+    {
+      "place": "Śubhakṣetra",
+      "context": "The place where the sage Bhṛgu worshipped Viṣṇu.",
+      "significance": "A sacred site associated with an originating sage of the tradition.",
+      "page": "22"
+    },
+    {
+      "place": "Nallur",
+      "context": "The place of publication for the 1948 Telugu edition of 'Mokṣopāya-pradīpikā'.",
+      "significance": "A center for Vaikhānasa literary activity in the mid-20th century."
+    },
+    {
+      "place": "Trichūr (Tri-śiraḥ-pura)",
+      "context": "The place where the 1905 grantha edition of 'Mokṣopāya-pradīpikā' was printed at the Lakṣmī-vilāsa Press.",
+      "significance": "A center of traditional printing and scholarship."
+    }
+  ],
+  "complete_terminology_index": [
+    {
+      "term": "Vaikhānasa",
+      "transliteration": "Vaikhānasa",
+      "translation": "A community of temple-priests; followers of the sage Vikhanas; also synonymous with vānaprastha.",
+      "context": "The main subject of the chapter."
+    },
+    {
+      "term": "Śrī-vaiṣṇava",
+      "transliteration": "Śrī-vaiṣṇava",
+      "translation": "A major branch of Vaishnavism, particularly associated with Rāmānuja.",
+      "context": "Used as a point of contrast to define the Vaikhānasa tradition."
+    },
+    {
+      "term": "Taittirīya",
+      "transliteration": "Taittirīya",
+      "translation": "A division or school of the Kṛṣṇa-Yajurveda.",
+      "context": "The specific Vedic affiliation of the Vaikhānasa community."
+    },
+    {
+      "term": "guru-paramparā",
+      "transliteration": "guru-paramparā",
+      "translation": "Lineage of spiritual preceptors.",
+      "context": "The Vaikhānasas do not include Rāmānuja or the Āḻvārs in theirs."
+    },
+    {
+      "term": "samūrtārcanā",
+      "transliteration": "samūrtārcanā",
+      "translation": "Iconic worship; worship of a form.",
+      "context": "The central and superior mode of worship in the Vaikhānasa system."
+    },
+    {
+      "term": "bhakti",
+      "transliteration": "bhakti",
+      "translation": "Devotion.",
+      "context": "An essential component of samūrtārcanā."
+    },
+    {
+      "term": "upāsanā",
+      "transliteration": "upāsanā",
+      "translation": "Worship, meditation.",
+      "context": "Equated with 'yajana' and considered a different, less superior approach than samūrtārcanā by Vaikhānasas."
+    },
+    {
+      "term": "yajana",
+      "transliteration": "yajana",
+      "translation": "Worship as a sacrifice.",
+      "context": "The core concept of Vedic ritual, which Vaikhānasas see as fulfilled and surpassed by iconic worship."
+    },
+    {
+      "term": "brahma-vidyā",
+      "transliteration": "brahma-vidyā",
+      "translation": "Wisdom concerning Brahman; knowledge of the Absolute.",
+      "context": "Iconic worship is held to be more effective than even this."
+    },
+    {
+      "term": "Pāñcarātra",
+      "transliteration": "Pāñcarātra",
+      "translation": "A major Vaiṣṇava Āgamic tradition, favoured by Rāmānuja.",
+      "context": "Contrasted with the Vaikhānasa tradition, particularly in its relationship to the Vedas."
+    },
+    {
+      "term": "Kalpa-sūtra",
+      "transliteration": "Kalpa-sūtra",
+      "translation": "A type of Vedic ancillary text (Vedāṅga) dealing with rituals.",
+      "context": "The foundational scripture for the Vaikhānasa tradition."
+    },
+    {
+      "term": "Āgama",
+      "transliteration": "Āgama",
+      "translation": "A body of sectarian scriptures, especially concerning temple worship.",
+      "context": "Vaikhānasas represent a unique Āgama tradition that is fully integrated with the Vedic Kalpa-sūtra framework."
+    },
+    {
+      "term": "Nigama",
+      "transliteration": "Nigama",
+      "translation": "The Vedas.",
+      "context": "The term used to distinguish the Vedic approach from the Āgamic one in other traditions."
+    },
+    {
+      "term": "bhagavac-cāstra",
+      "transliteration": "bhagavac-cāstra",
+      "translation": "Scripture of the Lord.",
+      "context": "The Vaikhānasa term for their own scriptures, emphasizing their divine origin."
+    },
+    {
+      "term": "amūrtārcanā",
+      "transliteration": "amūrtārcanā",
+      "translation": "Aniconic worship; worship of the formless.",
+      "context": "Refers primarily to fire-rituals, contrasted with samūrtārcanā."
+    },
+    {
+      "term": "arcanā",
+      "transliteration": "arcanā",
+      "translation": "Worship, particularly of an icon.",
+      "context": "Synonymous with samūrtārcanā, considered the highest form of worship."
+    },
+    {
+      "term": "Śrauta",
+      "transliteration": "Śrauta",
+      "translation": "Pertaining to public Vedic sacrifices prescribed in the Śrutis.",
+      "context": "A major section of the Kalpa-sūtras, de-emphasized by Vaikhānasas due to its association with worldly desires."
+    },
+    {
+      "term": "Gṛhya",
+      "transliteration": "Gṛhya",
+      "translation": "Pertaining to domestic Vedic rituals.",
+      "context": "A major section of the Kalpa-sūtras, stressed by Vaikhānasas."
+    },
+    {
+      "term": "dhruva-bera",
+      "transliteration": "dhruva-bera",
+      "translation": "The main, immovable icon in the sanctum.",
+      "context": "Corresponds to the gārhapatya sacrificial fire."
+    },
+    {
+      "term": "kautuka-bera",
+      "transliteration": "kautuka-bera",
+      "translation": "The movable icon used for daily worship (nityārcanā).",
+      "context": "Corresponds to the āhavanīya sacrificial fire."
+    },
+    {
+      "term": "autsava-bera",
+      "transliteration": "autsava-bera",
+      "translation": "The processional icon used for festivals.",
+      "context": "Corresponds to the dakṣiṇāgni sacrificial fire."
+    },
+    {
+      "term": "vānaprastha",
+      "transliteration": "vānaprastha",
+      "translation": "Forest-dweller; the third of the four stages of life (āśramas).",
+      "context": "The original lifestyle of the Vaikhānasa sages."
+    },
+    {
+      "term": "Śrāmaṇakāgni",
+      "transliteration": "Śrāmaṇakāgni",
+      "translation": "The hermit's fire.",
+      "context": "The characteristic sacrificial fire tended by Vaikhānasa hermits."
+    },
+    {
+      "term": "saṃskāra",
+      "transliteration": "saṃskāra",
+      "translation": "Sacramental rite; life-cycle ritual.",
+      "context": "The Vaikhānasa Gṛhya-sūtras detail eighteen of these."
+    },
+    {
+      "term": "Viṣṇu-bali",
+      "transliteration": "Viṣṇu-bali",
+      "translation": "Offering to Viṣṇu.",
+      "context": "A sacrament unique to the Vaikhānasas."
+    },
+    {
+      "term": "yajño vai Viṣṇuḥ",
+      "transliteration": "yajño vai Viṣṇuḥ",
+      "translation": "The sacrifice is indeed Viṣṇu.",
+      "context": "A key Vedic equation underpinning the Vaikhānasa integration of sacrifice and Viṣṇu worship."
+    },
+    {
+      "term": "bera-pūjā",
+      "transliteration": "bera-pūjā",
+      "translation": "Worship of the icon (bera).",
+      "context": "Another term for iconic worship, considered the best of three types."
+    },
+    {
+      "term": "Vaikhānasa",
+      "transliteration": "Vaikhānasa",
+      "translation": "Follower of Vikhanas",
+      "context": "The name of the priestly community."
+    },
+    {
+      "term": "saṁskāra",
+      "transliteration": "saṁskāra",
+      "translation": "sacramental rite",
+      "context": "The eighteen life-cycle rituals the Vaikhānasas undergo."
+    },
+    {
+      "term": "yajña",
+      "transliteration": "yajña",
+      "translation": "sacrificial rite",
+      "context": "The twenty-six types of sacrifices performed by the community."
+    },
+    {
+      "term": "vaidika",
+      "transliteration": "vaidika",
+      "translation": "Adherent of the Vedas",
+      "context": "How Vaikhānasas style themselves, due to their acceptance of Vedic authority."
+    },
+    {
+      "term": "sūtra",
+      "transliteration": "sūtra",
+      "translation": "aphoristic text",
+      "context": "Refers to the Vaikhānasa-sūtra, their foundational scripture."
+    },
+    {
+      "term": "Āgama",
+      "transliteration": "Āgama",
+      "translation": "Tradition, scripture",
+      "context": "Refers to the tradition of iconic worship which they combine with Vedic rituals."
+    },
+    {
+      "term": "niṣeka",
+      "transliteration": "niṣeka",
+      "translation": "conception rite",
+      "context": "The first of the sacramental rites, beginning with copulation."
+    },
+    {
+      "term": "śmaśāna",
+      "transliteration": "śmaśāna",
+      "translation": "crematorium",
+      "context": "The location of the final funerary rites."
+    },
+    {
+      "term": "anuktam anyato-grāhyam",
+      "transliteration": "anuktam anyato-grāhyam",
+      "translation": "what is unsaid should be taken from another",
+      "context": "A maxim which does not apply to the self-contained Vaikhānasa-sūtra."
+    },
+    {
+      "term": "khanana",
+      "transliteration": "khanana",
+      "translation": "digging",
+      "context": "The root action from which the name 'Vikhanas' is derived."
+    },
+    {
+      "term": "garbha-vaiṣṇava",
+      "transliteration": "garbha-vaiṣṇava",
+      "translation": "Vaiṣṇava from the womb",
+      "context": "The concept that a Vaikhānasa is a devotee by birth."
+    },
+    {
+      "term": "Viṣṇu-bali",
+      "transliteration": "Viṣṇu-bali",
+      "translation": "Offering to Viṣṇu",
+      "context": "The unique prenatal sacrament performed in the 8th month of pregnancy."
+    },
+    {
+      "term": "dīkṣā",
+      "transliteration": "dīkṣā",
+      "translation": "initiation",
+      "context": "Ritual initiation which Vaikhānasas do not require due to their birth status."
+    },
+    {
+      "term": "tapta-mudrāṅkana",
+      "transliteration": "tapta-mudrāṅkana",
+      "translation": "branding with heated seals",
+      "context": "A Pāñcarātra initiation ritual involving branding with Viṣṇu's emblems, forbidden for Vaikhānasas."
+    },
+    {
+      "term": "devalaka",
+      "transliteration": "devalaka",
+      "translation": "professional priest, hireling",
+      "context": "A priest who worships for monetary reward, a status the Vaikhānasas reject for themselves."
+    },
+    {
+      "term": "nirākāra",
+      "transliteration": "nirākāra",
+      "translation": "formless",
+      "context": "The formless aspect of Godhead."
+    },
+    {
+      "term": "sākāra",
+      "transliteration": "sākāra",
+      "translation": "with form",
+      "context": "The aspect of Godhead with form, represented by the icon."
+    },
+    {
+      "term": "arcā",
+      "transliteration": "arcā",
+      "translation": "icon, image for worship",
+      "context": "The physical representation of the deity in a temple."
+    },
+    {
+      "term": "pratiṣṭhā",
+      "transliteration": "pratiṣṭhā",
+      "translation": "installation and consecration",
+      "context": "The ritual that infuses divine energy into an icon."
+    },
+    {
+      "term": "Ātma-sūkta",
+      "transliteration": "Ātma-sūkta",
+      "translation": "Hymn of the Self",
+      "context": "A nine-verse hymn recited by the priest to identify with the cosmic form of Viṣṇu."
+    },
+    {
+      "term": "nyāsa",
+      "transliteration": "nyāsa",
+      "translation": "ritual placement",
+      "context": "The ritual transfer of divinity from the priest to the icon."
+    },
+    {
+      "term": "catur-mūrti",
+      "transliteration": "catur-mūrti",
+      "translation": "four forms/icons",
+      "context": "The system of using four icons in temple worship."
+    },
+    {
+      "term": "dhruva-bimba",
+      "transliteration": "dhruva-bimba",
+      "translation": "fixed/immoveable icon",
+      "context": "The main stone icon in the sanctum."
+    },
+    {
+      "term": "kautuka-bera",
+      "transliteration": "kautuka-bera",
+      "translation": "curiosity/festival icon",
+      "context": "The moveable icon used for daily worship."
+    },
+    {
+      "term": "sālokya",
+      "transliteration": "sālokya",
+      "translation": "residing in the same plane",
+      "context": "The first stage of emancipation."
+    },
+    {
+      "term": "sāmīpya",
+      "transliteration": "sāmīpya",
+      "translation": "close proximity",
+      "context": "The second stage of emancipation."
+    },
+    {
+      "term": "sārūpya",
+      "transliteration": "sārūpya",
+      "translation": "having the same form",
+      "context": "The third stage of emancipation."
+    },
+    {
+      "term": "sāyujya",
+      "transliteration": "sāyujya",
+      "translation": "union",
+      "context": "The final stage of emancipation."
+    },
+    {
+      "term": "Vaikhānasa Āgama",
+      "transliteration": "Vaikhānasa Āgama",
+      "translation": "The Vaikhanasa scripture/tradition",
+      "context": "The title of the chapter and the main subject, a school of Vaiṣṇava worship that considers itself strictly Vedic."
+    },
+    {
+      "term": "grantha",
+      "transliteration": "grantha",
+      "translation": "A unit of text measurement, being thirty-two letters of a verse in anuṣṭubh metre.",
+      "context": "Used to quantify the vast extent of the Vaikhānasa scriptures."
+    },
+    {
+      "term": "kalpa-sūtra",
+      "transliteration": "kalpa-sūtra",
+      "translation": "Aphoristic texts dealing with rituals and conduct.",
+      "context": "The genre of the foundational text, Vaikhānasa-kalpa-sūtra, which covers Śrauta, Smārta, Dharma and Śulba aspects."
+    },
+    {
+      "term": "amūrtārcana",
+      "transliteration": "amūrtārcana",
+      "translation": "Worship of God without an icon, typically through fire sacrifice.",
+      "context": "Contrasted with iconic worship, it represents the older sacrificial tradition."
+    },
+    {
+      "term": "yajña",
+      "transliteration": "yajña",
+      "translation": "Sacrifice, sacrificial worship.",
+      "context": "The central ritual of the Vedic period, which was later supplemented and substituted by iconic worship in the Āgamic traditions."
+    },
+    {
+      "term": "pañca-mahā-yajña",
+      "transliteration": "pañca-mahā-yajña",
+      "translation": "Five great sacrifices.",
+      "context": "A redefinition of sacrifice in the Gṛhya-sūtras into five daily duties: deva-yajña, pitṛ-yajña, bhūta-yajña, manuṣya-yajña, and brahma-yajña."
+    },
+    {
+      "term": "gṛhe devāyatane vā",
+      "transliteration": "gṛhe devāyatane vā",
+      "translation": "In the home or alternately in a temple.",
+      "context": "A key phrase from the Gṛhya-sūtra that provides scriptural sanction for both domestic and public temple worship."
+    },
+    {
+      "term": "pratiṣṭhā",
+      "transliteration": "pratiṣṭhā",
+      "translation": "Installation, consecration.",
+      "context": "The ritualistic installation of an icon in a home or temple, a key procedure in iconic worship."
+    },
+    {
+      "term": "niṣkala",
+      "transliteration": "niṣkala",
+      "translation": "Formless, without parts.",
+      "context": "Describes the transcendent, absolute nature of the Godhead, which abides in the devotee's heart."
+    },
+    {
+      "term": "sakala",
+      "transliteration": "sakala",
+      "translation": "With form, with parts.",
+      "context": "Describes the immanent nature of the Godhead as visualized for worship, with a human-like form and limbs."
+    },
+    {
+      "term": "kriyā-yoga",
+      "transliteration": "kriyā-yoga",
+      "translation": "Yoga of action; another term for the worship of God.",
+      "context": "Used in the Bhāgavata tradition to refer to the outward-oriented practices of iconic worship, such as building shrines and making icons."
+    },
+    {
+      "term": "prapatti",
+      "transliteration": "prapatti",
+      "translation": "Total surrender.",
+      "context": "A key means of reaching Godhead, with different approaches in Vaikhānasa (uninterrupted worship with Vedic mantras) and Pāñcarātra (occasional invocation without Vedic mantras) traditions."
+    },
+    {
+      "term": "muni",
+      "transliteration": "muni",
+      "translation": "Sage, silent ascetic.",
+      "context": "The highest ideal in a spiritual hierarchy, described as one devoted to Viṣṇu and in perfect equipoise, surpassing even the most accomplished ritualists."
+    },
+    {
+      "term": "ālayārcā",
+      "transliteration": "ālayārcā",
+      "translation": "Worship in the temple.",
+      "context": "Considered superior to home worship because it is performed for the good of the public."
+    },
+    {
+      "term": "gṛhārcā",
+      "transliteration": "gṛhārcā",
+      "translation": "Worship at home.",
+      "context": "Done for securing individual or familial welfare."
+    },
+    {
+      "term": "utsava",
+      "transliteration": "utsava",
+      "translation": "Ceremonial worship, festival.",
+      "context": "Became a later synonym for yajña and was eulogized as more beneficial than great sacrifices."
+    },
+    {
+      "term": "arcaka",
+      "transliteration": "arcaka",
+      "translation": "Priest, worshipper.",
+      "context": "The temple priest, on whom the responsibility for conducting worship correctly devolves."
+    },
+    {
+      "term": "devalaka",
+      "transliteration": "devalaka",
+      "translation": "A hireling priest.",
+      "context": "A degraded status for a priest who takes up worship for a salary, becoming defiled."
+    },
+    {
+      "term": "āsurī",
+      "transliteration": "āsurī",
+      "translation": "Demoniacal.",
+      "context": "Describes worship performed in a temple where no permanent arrangement is made for the priest's livelihood."
+    },
+    {
+      "term": "Vaikhānasa",
+      "transliteration": "Vaikhānasa",
+      "translation": "The name of the religious and philosophical system.",
+      "context": "The main subject of the chapter."
+    },
+    {
+      "term": "dharma",
+      "transliteration": "dharma",
+      "translation": "way of life",
+      "context": "Describing one aspect of the Vaikhānasa system."
+    },
+    {
+      "term": "darśana",
+      "transliteration": "darśana",
+      "translation": "outlook, philosophical viewpoint",
+      "context": "Describing the philosophical aspect of the Vaikhānasa system."
+    },
+    {
+      "term": "smṛti",
+      "transliteration": "smṛti",
+      "translation": "That which is remembered; traditional texts",
+      "context": "Referring to texts like Manu-smṛti."
+    },
+    {
+      "term": "Śārīraka-sūtras",
+      "transliteration": "Śārīraka-sūtras",
+      "translation": "Aphorisms on the Embodied Soul (Brahma Sūtras)",
+      "context": "The Vedāntic text commented on by Śrīnivāsa-makhin."
+    },
+    {
+      "term": "prasthāna",
+      "transliteration": "prasthāna",
+      "translation": "A foundational text or school of thought",
+      "context": "Referring to the Vedāntic system."
+    },
+    {
+      "term": "bhāṣya",
+      "transliteration": "bhāṣya",
+      "translation": "commentary",
+      "context": "Refers to major commentaries like 'Lakṣmi-Viśiṣṭādvaita-bhāṣya'."
+    },
+    {
+      "term": "Visiṣṭādvaita",
+      "transliteration": "Viśiṣṭādvaita",
+      "translation": "Qualified non-dualism",
+      "context": "The philosophical school to which Vaikhānasa philosophy is aligned."
+    },
+    {
+      "term": "arthapañcaka",
+      "transliteration": "arthapañcaka",
+      "translation": "The five coordinates/topics",
+      "context": "A key doctrinal framework in Vaiṣṇavism, adopted by Vaikhānasa."
+    },
+    {
+      "term": "tattva-traya",
+      "transliteration": "tattva-traya",
+      "translation": "The three realities",
+      "context": "A key metaphysical framework."
+    },
+    {
+      "term": "siddha-sāddhyopāya",
+      "transliteration": "siddha-sāddhyopāya",
+      "translation": "The ready and to-be-accomplished means",
+      "context": "A classification of spiritual paths."
+    },
+    {
+      "term": "mūla-mantra",
+      "transliteration": "mūla-mantra",
+      "translation": "root mantra",
+      "context": "A cornerstone of Śrī-Vaiṣṇava worship, claimed also by Vaikhānasa."
+    },
+    {
+      "term": "dvaya",
+      "transliteration": "dvaya",
+      "translation": "The dual mantra",
+      "context": "Another cornerstone of Śrī-Vaiṣṇava worship."
+    },
+    {
+      "term": "carama-śloka",
+      "transliteration": "carama-śloka",
+      "translation": "The final verse (from Bhagavad Gita)",
+      "context": "A key verse in the doctrine of surrender."
+    },
+    {
+      "term": "prakaraṇas",
+      "transliteration": "prakaraṇas",
+      "translation": "sections",
+      "context": "The divisions of the book 'Mokṣopāya-pradīpikā'."
+    },
+    {
+      "term": "Śrauta",
+      "transliteration": "Śrauta",
+      "translation": "Vedic",
+      "context": "One of the three types of worship mentioned in Vṛddha-hārīta-samhitā."
+    },
+    {
+      "term": "smārta",
+      "transliteration": "smārta",
+      "translation": "Based on smṛti",
+      "context": "The second type of worship."
+    },
+    {
+      "term": "āgama",
+      "transliteration": "āgama",
+      "translation": "Agamic; worship by 'mūla-mantra'",
+      "context": "The third type of worship, distinguished from the Vedic Vaikhānasa approach."
+    },
+    {
+      "term": "prāpya",
+      "transliteration": "prāpya",
+      "translation": "the objective which is to be achieved",
+      "context": "First of the Artha-pañcaka; the Brahman."
+    },
+    {
+      "term": "prāptṛ",
+      "transliteration": "prāptṛ",
+      "translation": "the person who seeks to achieve that objective",
+      "context": "Second of the Artha-pañcaka; the individual soul (jīva)."
+    },
+    {
+      "term": "prāp-tyupāya",
+      "transliteration": "prāptyupāya",
+      "translation": "the method by which it can be achieved",
+      "context": "Third of the Artha-pañcaka."
+    },
+    {
+      "term": "phala",
+      "transliteration": "phala",
+      "translation": "the benefit or purpose",
+      "context": "Fourth of the Artha-pañcaka."
+    },
+    {
+      "term": "prāpti-virodhi",
+      "transliteration": "prāpti-virodhi",
+      "translation": "what comes in the way of such achievement",
+      "context": "Fifth of the Artha-pañcaka."
+    },
+    {
+      "term": "paramātman",
+      "transliteration": "paramātman",
+      "translation": "The supreme self",
+      "context": "Synonym for Brahman."
+    },
+    {
+      "term": "niṣkala",
+      "transliteration": "niṣkala",
+      "translation": "devoid of forms and qualities; unaspected",
+      "context": "One aspect of Brahman."
+    },
+    {
+      "term": "sakala",
+      "transliteration": "sakala",
+      "translation": "with form; aspected",
+      "context": "The other aspect of Brahman, associated with Lakṣmī, for devotion."
+    },
+    {
+      "term": "advaita",
+      "transliteration": "advaita",
+      "translation": "non-duality",
+      "context": "In Vaikhānasa, refers to the indistinguishable nature of Brahman's two aspects."
+    },
+    {
+      "term": "pratyagātman",
+      "transliteration": "pratyagātman",
+      "translation": "the individual soul",
+      "context": "The seeker (prāptṛ)."
+    },
+    {
+      "term": "nitya",
+      "transliteration": "nitya",
+      "translation": "immutable",
+      "context": "The class of souls that are never in bondage."
+    },
+    {
+      "term": "mukta",
+      "transliteration": "mukta",
+      "translation": "emancipated",
+      "context": "The class of souls who were once bound but are now free."
+    },
+    {
+      "term": "baddha",
+      "transliteration": "baddha",
+      "translation": "bound",
+      "context": "The class of souls currently in bondage."
+    },
+    {
+      "term": "prapatti",
+      "transliteration": "prapatti",
+      "translation": "total surrender",
+      "context": "The primary method of reaching God."
+    },
+    {
+      "term": "mukti",
+      "transliteration": "mukti",
+      "translation": "emancipation",
+      "context": "The ultimate reward or goal."
+    },
+    {
+      "term": "tattva",
+      "transliteration": "tattva",
+      "translation": "Real; that-ness",
+      "context": "A fundamental reality."
+    },
+    {
+      "term": "Prakṛti",
+      "transliteration": "Prakṛti",
+      "translation": "Nature; matter",
+      "context": "One of the three Reals (Tattva-traya)."
+    },
+    {
+      "term": "Puruṣa",
+      "transliteration": "Puruṣa",
+      "translation": "Person; the individual soul",
+      "context": "One of the three Reals (Tattva-traya)."
+    },
+    {
+      "term": "Īśvara",
+      "transliteration": "Īśvara",
+      "translation": "Lord; God",
+      "context": "One of the three Reals (Tattva-traya)."
+    },
+    {
+      "term": "Nārāyaṇa",
+      "transliteration": "Nārāyaṇa",
+      "translation": "A name for the supreme Godhead, Viṣṇu.",
+      "context": "The ultimate reality and object of devotion."
+    },
+    {
+      "term": "viṣṇu-bali",
+      "transliteration": "viṣṇu-bali",
+      "translation": "a prenatal sacrament involving an offering to Viṣṇu",
+      "context": "The ritual that gives Vaikhānasas their innate eligibility for surrender."
+    },
+    {
+      "term": "siddhopāya",
+      "transliteration": "siddhopāya",
+      "translation": "'ready' expedient",
+      "context": "Refers to Nārāyaṇa himself as the ever-present means of salvation."
+    },
+    {
+      "term": "sādhya",
+      "transliteration": "sādhya",
+      "translation": "to be brought about",
+      "context": "Refers to expedients like knowledge and worship that must be practiced."
+    },
+    {
+      "term": "samārādhana",
+      "transliteration": "samārādhana",
+      "translation": "worship with intense devotion",
+      "context": "The most effective expedient."
+    },
+    {
+      "term": "japa",
+      "transliteration": "japa",
+      "translation": "recitation of mantras",
+      "context": "A form of devotion."
+    },
+    {
+      "term": "huta",
+      "transliteration": "huta",
+      "translation": "fire-sacrifices",
+      "context": "A form of aniconic devotion."
+    },
+    {
+      "term": "arcanā",
+      "transliteration": "arcanā",
+      "translation": "iconic worship",
+      "context": "A form of devotion, considered most effective."
+    },
+    {
+      "term": "dhyāna",
+      "transliteration": "dhyāna",
+      "translation": "contemplation",
+      "context": "A form of devotion."
+    },
+    {
+      "term": "saguṇa",
+      "transliteration": "saguṇa",
+      "translation": "with attributes/identifiable parts",
+      "context": "Brahman with form."
+    },
+    {
+      "term": "nirguṇa",
+      "transliteration": "nirguṇa",
+      "translation": "without attributes",
+      "context": "Brahman without form."
+    },
+    {
+      "term": "prapadana",
+      "transliteration": "prapadana",
+      "translation": "surrender",
+      "context": "Synonym for prapatti."
+    },
+    {
+      "term": "adhikāra",
+      "transliteration": "adhikāra",
+      "translation": "eligibility",
+      "context": "The Vaikhānasa claim to superior, natural eligibility for surrender."
+    },
+    {
+      "term": "sālokya",
+      "transliteration": "sālokya",
+      "translation": "residence in the same realm as god",
+      "context": "First level of emancipation."
+    },
+    {
+      "term": "sāmīpya",
+      "transliteration": "sāmīpya",
+      "translation": "abiding in close proximity to godhead",
+      "context": "Second level of emancipation."
+    },
+    {
+      "term": "sārūpya",
+      "transliteration": "sārūpya",
+      "translation": "obtainment of the same form as god",
+      "context": "Third level of emancipation."
+    },
+    {
+      "term": "sāyujya",
+      "transliteration": "sāyujya",
+      "translation": "getting united with godhead",
+      "context": "Highest level of emancipation, considered true mokṣa."
+    },
+    {
+      "term": "māyā",
+      "transliteration": "māyā",
+      "translation": "deluding power of God; emenatory power",
+      "context": "The cause of worldly bondage."
+    },
+    {
+      "term": "sākṣāt-kāraṇa",
+      "transliteration": "sākṣāt-kāraṇa",
+      "translation": "direct cause",
+      "context": "Iconic worship is the direct cause of emancipation."
+    },
+    {
+      "term": "parā-vidyā",
+      "transliteration": "parā-vidyā",
+      "translation": "liberating wisdom; higher knowledge",
+      "context": "Iconic worship is recognized as this."
+    },
+    {
+      "term": "praṇava",
+      "transliteration": "praṇava",
+      "translation": "The syllable 'oṃ'",
+      "context": "Analyzed to represent Viṣṇu, Lakṣmī, and the soul."
+    },
+    {
+      "term": "bhukti",
+      "transliteration": "bhukti",
+      "translation": "worldly enjoyment/aspirations",
+      "context": "Presided over by Lakṣmī."
+    },
+    {
+      "term": "jñāna",
+      "transliteration": "jñāna",
+      "translation": "knowledge, gnosis",
+      "context": "The comprehension of Brahman's nature."
+    },
+    {
+      "term": "jñeya",
+      "transliteration": "jñeya",
+      "translation": "knowable",
+      "context": "The object of knowledge, i.e., Brahman."
+    },
+    {
+      "term": "jñātṛ",
+      "transliteration": "jñātṛ",
+      "translation": "knower",
+      "context": "The individual soul."
+    },
+    {
+      "term": "kṣetrajña",
+      "transliteration": "kṣetrajña",
+      "translation": "knower of the field (body); embodied spirit",
+      "context": "Refers to the individual soul."
+    },
+    {
+      "term": "saṁsāra",
+      "transliteration": "saṁsāra",
+      "translation": "transmigration without end; mundane existence",
+      "context": "The cycle of rebirth."
+    },
+    {
+      "term": "hṛdaya-kamala",
+      "transliteration": "hṛdaya-kamala",
+      "translation": "heart-lotus",
+      "context": "A key center in mystical physiology where Viṣṇu is visualized."
+    }
+  ],
+  "cross_reference_map": [
+    {
+      "reference_text": "'(See for the names and placement of the principal gods in the Viṣṇu shrine under the entries ĀVARAṆA and PARIVĀRĀLAYA in the Āgama-kośa Volumes).'",
+      "target": "Entries 'ĀVARAṆA' and 'PARIVĀRĀLAYA' in the Āgama-kośa Volumes",
+      "page": "66"
+    },
+    {
+      "reference_text": "Marici's Vimānār-canā-kalpa (100th patala)",
+      "target": "Vimānārcanā-kalpa",
+      "page": "1"
+    },
+    {
+      "reference_text": "Vaikhānasa-gṛhya-sūtra, 4, 12, 8-11",
+      "target": "Vaikhānasa-gṛhya-sūtra",
+      "page": "3"
+    },
+    {
+      "reference_text": "Taittirīya-āraṇyaka (2nd prapāṭhaka, 10th anuvāka)",
+      "target": "Taittirīya-āraṇyaka",
+      "page": "6"
+    },
+    {
+      "reference_text": "Bhāgavata (11th skandha, 27th adhyāya)",
+      "target": "Bhāgavata Purāṇa",
+      "page": "11"
+    },
+    {
+      "reference_text": "Kriyādhikāra, 30, 136-150",
+      "target": "Kriyādhikāra of Bhrgu",
+      "page": "11"
+    },
+    {
+      "reference_text": "Mahābhārata",
+      "target": "Mahābhārata",
+      "page": "12"
+    },
+    {
+      "reference_text": "Śrīnivāsa-makhin, in his Tātparya-cintāmaṇi",
+      "target": "Tātparya-cintāmaṇi",
+      "page": "12"
+    },
+    {
+      "reference_text": "Agni-purāṇa",
+      "target": "Agni Purāṇa",
+      "page": "13"
+    },
+    {
+      "reference_text": "Prakīrṇadhikāra (35, 1-13)",
+      "target": "Prakīrṇādhikāra of Bhrgu",
+      "page": "13"
+    },
+    {
+      "reference_text": "Bhagavad-gītā",
+      "target": "Bhagavad-gītā",
+      "page": "15"
+    },
+    {
+      "reference_text": "Purātantra (Chap. 47)",
+      "target": "Purātantra",
+      "page": "15"
+    },
+    {
+      "reference_text": "Paushkara-saṁ-hitā",
+      "target": "Paushkara-saṁhitā",
+      "page": "16"
+    },
+    {
+      "reference_text": "Pauṣkara-saṁhitā, 39,11",
+      "target": "Pauṣkara-saṁhitā",
+      "page": "19"
+    },
+    {
+      "reference_text": "Garuḍa-purāṇa",
+      "target": "Garuḍa Purāṇa",
+      "page": "22"
+    },
+    {
+      "reference_text": "Yajñādhikāra (by Bhrgu himself)",
+      "target": "Yajñādhikāra of Bhrgu",
+      "page": "22"
+    },
+    {
+      "reference_text": "Manu-smṛti (6.21)",
+      "target": "A classical Hindu legal/dharmic text.",
+      "page": "1"
+    },
+    {
+      "reference_text": "Śārīraka-sūtras",
+      "target": "The Brahma Sūtras, a foundational text of Vedānta.",
+      "page": "1, 10"
+    },
+    {
+      "reference_text": "Pāramātmikopaniṣad-bhāṣya",
+      "target": "A commentary on an Upanishad, attributed to Śrīnivāsa-makhin.",
+      "page": "1"
+    },
+    {
+      "reference_text": "Brah-māṇḍa-purāṇa",
+      "target": "A major Purana.",
+      "page": "3"
+    },
+    {
+      "reference_text": "Vṛddha-hārīta-samhitā",
+      "target": "A Pāñcarātra text.",
+      "page": "3"
+    },
+    {
+      "reference_text": "Śāṇ-ḍilya-upaniśad",
+      "target": "An Upanishad.",
+      "page": "7"
+    },
+    {
+      "reference_text": "Muṇḍakopaniṣat",
+      "target": "A major Upanishad.",
+      "page": "10"
+    },
+    {
+      "reference_text": "Vaikhānasa-sūtra",
+      "target": "A foundational sūtra text of the Vaikhānasa school.",
+      "page": "7, 11"
+    },
+    {
+      "reference_text": "Kāśyapa's Jñāna-kāṇḍa (55th Chap.)",
+      "target": "A Vaikhānasa Āgama text.",
+      "page": "12, 13"
+    },
+    {
+      "reference_text": "Marici's Vimānārcanā-kalpa (paṭalas 85 ff)",
+      "target": "A major Vaikhānasa Āgama text.",
+      "page": "13"
+    }
+  ],
+  "bibliography_network": [],
+  "keywords_by_frequency": []
+}

@@ -19,7 +19,7 @@ PDF_PAGE_OFFSET = int(os.getenv("PDF_PAGE_OFFSET", "0"))
 
 
 class BookDataEnricher:
-    def __init__(self, api_key: str, pdf_path: str, output_base: str = "Output"):
+    def __init__(self, api_key: str, pdf_path: str, output_base: str = os.path.join("data", "outputs", "Output")):
         genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel('gemini-2.5-pro')
         self.pdf_path = pdf_path

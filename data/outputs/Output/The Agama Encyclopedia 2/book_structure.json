@@ -1,0 +1,93 @@
+{
+  "introduction": {
+    "title": "Introduction",
+    "start_page": 14,
+    "end_page": 14
+  },
+  "table_of_contents": {
+    "start_page": 11,
+    "end_page": 11
+  },
+  "chapters": [
+    {
+      "chapter_number": "I",
+      "title": "SECTARIAN DEVELOPMENTS (Śaiva and Vaiṣṇava)",
+      "start_page": 1,
+      "end_page": 12
+    },
+    {
+      "chapter_number": "II",
+      "title": "WORSHIP OF ŚIVA",
+      "start_page": 13,
+      "end_page": 27
+    },
+    {
+      "chapter_number": "III",
+      "title": "ŚAIVISM",
+      "start_page": 28,
+      "end_page": 46
+    },
+    {
+      "chapter_number": "IV",
+      "title": "ŚAIVA-SIDDHĀNTA (1)",
+      "start_page": 47,
+      "end_page": 70
+    },
+    {
+      "chapter_number": "V",
+      "title": "ŚAIVA SIDDHĀNTA (2)",
+      "start_page": 71,
+      "end_page": 108
+    },
+    {
+      "chapter_number": "VI",
+      "title": "ŚĀKTA-ĀGAMA",
+      "start_page": 109,
+      "end_page": 143
+    }
+  ],
+  "appendixes": [
+    {
+      "appendix_id": "I",
+      "title": "ŚAIVĀGAMA DIVISIONS IN FIVE STREAMS (according to the five faces of Śiva)",
+      "start_page": 145,
+      "end_page": 146
+    },
+    {
+      "appendix_id": "II",
+      "title": "ŚAIVĀGAMA TEXTS (Total number of Āgamas 28, and of upāgamas 207)",
+      "start_page": 147,
+      "end_page": 148
+    },
+    {
+      "appendix_id": "III",
+      "title": "THE BHUVANAS AS PERVADED BY TATTVAS AND KALĀS",
+      "start_page": 149,
+      "end_page": 151
+    },
+    {
+      "appendix_id": "IV",
+      "title": "ŚAIVA UPĀGAMAS",
+      "start_page": 152,
+      "end_page": 160
+    },
+    {
+      "appendix_id": "V",
+      "title": "ŚĀKTA TANTRAS IN FOUR DIVISIONS (according to Vairocana's Pratiṣṭhā-lakṣaṇa-sara-samuccaya)",
+      "start_page": 161,
+      "end_page": 164
+    },
+    {
+      "appendix_id": "VI",
+      "title": "THE ŚĀKTA TANTRAS OF BHAIRAVA DIVISIONS (64 in number, in 8 groups)",
+      "start_page": 165,
+      "end_page": 166
+    },
+    {
+      "appendix_id": "VII",
+      "title": "ŚĀKTA PRACTICES AND TEXTS",
+      "start_page": 167,
+      "end_page": 171
+    }
+  ]
+}

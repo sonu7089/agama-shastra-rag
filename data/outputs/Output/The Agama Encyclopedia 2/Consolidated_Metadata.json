@@ -1,0 +1,2886 @@
+{
+  "book_title": "The Agama Encyclopedia 2",
+  "total_chapters": 6,
+  "total_pages": 0,
+  "all_historical_figures": [
+    {
+      "name": "Aśoka",
+      "role": "Monarch",
+      "significance": "Patronized Buddhist, Jaina, and Ājīvika sects, showing broad religious support.",
+      "dates": "c. 268 to 232 BCE (not specified in text)"
+    },
+    {
+      "name": "Kaniṣka",
+      "role": "Monarch",
+      "significance": "Patronized all religious sects, including folk cults.",
+      "dates": "c. 127 to 150 AD (not specified in text)"
+    },
+    {
+      "name": "Harṣa-vardhana",
+      "role": "Monarch",
+      "significance": "Patronized all religious sects, including folk cults.",
+      "dates": "c. 606 to 647 AD (not specified in text)"
+    },
+    {
+      "name": "Sātāvahana kings",
+      "role": "Royal Dynasty",
+      "significance": "Identified as Śaivas, but built many Buddhist shrines.",
+      "dates": "First three centuries A.D."
+    },
+    {
+      "name": "Kākutstha-Varma",
+      "role": "Kadamba Ruler",
+      "significance": "Follower of Vedic religion who gave land grants to a Jaina ascetic.",
+      "dates": "425-445 A.D."
+    },
+    {
+      "name": "Śruta-kīrti",
+      "role": "Jaina ascetic",
+      "significance": "Recipient of a land grant from Kākutstha-Varma.",
+      "dates": "c. 425-445 A.D."
+    },
+    {
+      "name": "Mṛgeśa-varma",
+      "role": "Kadamba Ruler",
+      "significance": "Gave grants for Jaina shrines.",
+      "dates": "470-488 A.D."
+    },
+    {
+      "name": "Ravi-varma",
+      "role": "Kadamba Ruler",
+      "significance": "Built a Jinālaya (Jain temple).",
+      "dates": "500-538 A.D."
+    },
+    {
+      "name": "Maṅgalīśa",
+      "role": "Bādāmi Cālukyan Ruler",
+      "significance": "A devotee of Śiva who excavated a famous rock-cut shrine for Viṣṇu.",
+      "dates": "Constructed shrine in 578 A.D."
+    },
+    {
+      "name": "Kṛtti-varma I",
+      "role": "Bādāmi Cālukyan Ruler",
+      "significance": "Predecessor and elder brother of Maṅgalīśa; a devotee of Viṣṇu who conceived the Viṣṇu shrine.",
+      "dates": "Pre-578 A.D."
+    },
+    {
+      "name": "Biṭṭiga-Viṣṇuvardhana",
+      "role": "Hoysaḷa Monarch",
+      "significance": "Built the Keśava temple at Belūr but was personally a Jaina.",
+      "dates": "1108-1152"
+    },
+    {
+      "name": "Rāmānuja",
+      "role": "Śrīvaiṣṇava philosopher",
+      "significance": "Mentioned in the context of the (disputed) story of Viṣṇuvardhana's conversion.",
+      "dates": "c. 1017–1137 CE (not specified in text)"
+    },
+    {
+      "name": "Vikramāditya VI",
+      "role": "Kalyāṇa Cālukyan Ruler",
+      "significance": "A devotee of Śiva who endowed a Buddhist vihāra and built a Śiva temple with sculptures of Viṣṇu.",
+      "dates": "1076-1127"
+    },
+    {
+      "name": "Kṛṣṇadeva-rāya",
+      "role": "Vijayanagar Monarch",
+      "significance": "A Vaiṣṇava who made rich endowments to Śiva temples.",
+      "dates": "1509-1530"
+    },
+    {
+      "name": "Kokkalla-māharāja",
+      "role": "Monarch",
+      "significance": "His praśasti (eulogy inscription) begins with a prayer to an all-comprehensive God.",
+      "dates": "Undated in text"
+    },
+    {
+      "name": "Jayasimha",
+      "role": "Ruler",
+      "significance": "His inscription of 1022 refers to a 'traipuruṣa' temple built by Akkadevī.",
+      "dates": "Inscription dated 1022"
+    },
+    {
+      "name": "Akkadevī",
+      "role": "Patron (likely royalty/noble)",
+      "significance": "Built a temple for Brahmā, Viṣṇu, and Śiva, while practicing rituals of Jina, Buddha, Viṣṇu, and Śiva.",
+      "dates": "Mentioned in inscription of 1022"
+    },
+    {
+      "name": "Nāga-varma",
+      "role": "Officer",
+      "significance": "Built four shrines for Jina, Viṣṇu, Śiva, and Buddha.",
+      "dates": "Mentioned in inscription of 1048 A.D."
+    },
+    {
+      "name": "Siddhi-nṛsiṁha-malla",
+      "role": "Nepali Monarch",
+      "significance": "His 'praśasti' contains a verse adoring the trinity.",
+      "dates": "Medieval times"
+    },
+    {
+      "name": "Harihara-siṁha",
+      "role": "Nepali Monarch",
+      "significance": "Father of Siddhi-nṛsiṁha-malla.",
+      "dates": "Medieval times"
+    },
+    {
+      "name": "Vijayāditya",
+      "role": "Bādāmi Cālukyan King",
+      "significance": "Built the Vijayeśvara ('trai-puruśa') temple in Bādāmi in memory of his mother.",
+      "dates": "696-733"
+    },
+    {
+      "name": "Vinayavatī",
+      "role": "Queen Mother",
+      "significance": "Mother of Vijayāditya, in whose memory the Vijayeśvara temple was built.",
+      "dates": "c. 7th century"
+    },
+    {
+      "name": "Vijaya-sena",
+      "role": "Patron",
+      "significance": "Built the 'advaita-līlāgṛha' temple for Pradyumneśvara (joint Śiva-Viṣṇu).",
+      "dates": "11th century"
+    },
+    {
+      "name": "Polāļva",
+      "role": "Minister of Hoysala king Narasimha II",
+      "significance": "Built a separate shrine for the composite deity Hari-Hara.",
+      "dates": "Built shrine in 1223"
+    },
+    {
+      "name": "Narasimha II",
+      "role": "Hoysala King",
+      "significance": "King under whom the minister Polāļva served.",
+      "dates": "Reigned c. 1220–1235 (1223 mentioned in text)"
+    },
+    {
+      "name": "Nāganikā",
+      "role": "Sātavāhana Queen",
+      "significance": "Her Nānāghāṭ inscription mentions only male deities.",
+      "dates": "184-125 B.C."
+    },
+    {
+      "name": "Sātakarni II",
+      "role": "Sātavāhana King",
+      "significance": "Husband of queen Nāganikā.",
+      "dates": "184-125 B.C."
+    },
+    {
+      "name": "Hāla",
+      "role": "Sātavāhana King/Poet",
+      "significance": "Author of Gāthā-saptaśatī which invokes Śiva as husband of Gauri.",
+      "dates": "Slightly later than Nāganikā"
+    },
+    {
+      "name": "Pāṇini",
+      "role": "Grammarian",
+      "significance": "His work shows acquaintance with Śiva's names (Mṛḍā, Bhava, Sarva), indicating the god's worship in his time.",
+      "dates": "around 400 B.C."
+    },
+    {
+      "name": "Aśoka",
+      "role": "Mauryan Emperor",
+      "significance": "According to Kalhaṇa's Rājataranginī, he visited Kāśhmir and erected a shrine to Śiva called Aśokeśvara.",
+      "dates": "268-233 B.C."
+    },
+    {
+      "name": "Kalhaṇa",
+      "role": "Author",
+      "significance": "His work, Rājataranginī, is cited as the source for Aśoka's connection to Śaivism in Kashmir.",
+      "dates": "12th century A.D."
+    },
+    {
+      "name": "Kautilya",
+      "role": "Author of Artha-śāstra",
+      "significance": "Prescribed that a temple to Śiva must be erected within the city.",
+      "dates": "c. 4th century B.C."
+    },
+    {
+      "name": "Patañjali",
+      "role": "Author of Mahābhāṣya",
+      "significance": "Made explicit reference to 'Śiva-bhāgavatas' (devotees of Śiva) and the selling of Śiva icons by the Mauryas.",
+      "dates": "about 200 B.C."
+    },
+    {
+      "name": "John Marśal",
+      "role": "Archaeologist",
+      "significance": "Found a 1st century B.C. bronze seal at Sirkāp (Taxila) with an iconic representation of Śiva.",
+      "dates": "20th century A.D."
+    },
+    {
+      "name": "Vainya-gupta",
+      "role": "Gupta Monarch",
+      "significance": "Recorded as being a 'great devotee of Śiva', indicating the religion's crystallization by the Gupta era.",
+      "dates": "c. 507 A.D."
+    },
+    {
+      "name": "Mihira-gula",
+      "role": "Ephthalite Chieftain",
+      "significance": "Was a worshipper of Śiva as Paśupati; his coins featured Śiva's bull insignia.",
+      "dates": "515-535 A.D."
+    },
+    {
+      "name": "Śrīkaṇṭha",
+      "role": "Primordial Teacher",
+      "significance": "Believed in some traditions to have received the Śaiva teachings directly from Śiva and transmitted them to disciples. Appears to have been a historical figure.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Bhairava",
+      "role": "Disciple",
+      "significance": "Received the Śaiva teachings from Śrīkaṇṭha.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Durvāsas",
+      "role": "Sage",
+      "significance": "In Kāśmir Śaivism, believed to have received the āgamas from Śiva (as Śrīkaṇṭha) and taught different philosophical paths to his disciples.",
+      "dates": "Mythological/Ancient"
+    },
+    {
+      "name": "Tryambaka, Āmardaka and Śrīkaṇṭha",
+      "role": "Disciples of Durvāsas",
+      "significance": "Taught the philosophies of non-dualism (abheda), dualism (bheda), and dualism-and-non-dualism (bhedābheda) respectively.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Lakulīśa",
+      "role": "Founder of the Pāśupata sect",
+      "significance": "A key historical figure who systematized and propagated Pāśupata Śaivism. Hailed as an incarnation of Śiva.",
+      "dates": "1st or 2nd century A.D."
+    },
+    {
+      "name": "Kuśika, Gārgya, Maitreya, Karūśa",
+      "role": "Disciples of Lakulīśa",
+      "significance": "Four highly regarded disciples who started their own lines of teaching (catuśśākhā).",
+      "dates": "c. 2nd century A.D."
+    },
+    {
+      "name": "Kauśika",
+      "role": "Immediate Disciple of Lakulīśa",
+      "significance": "Probable author of the Pāśupata-sūtra, the definitive text of the system.",
+      "dates": "c. 2nd century A.D."
+    },
+    {
+      "name": "Kauṇḍinya (Rāśi-kara)",
+      "role": "Pāśupata Teacher",
+      "significance": "Prepared the Pañcārtha-Bhāṣya, a commentary on the Pāśupata-sūtra.",
+      "dates": "between the 4th and 6th centuries A.D."
+    },
+    {
+      "name": "Bhāsarvajña",
+      "role": "Author",
+      "significance": "Wrote the Ratna-ṭīkā, a gloss on Haradatta's Gaṇa-kārikā, linking the Pāśupata system to Āgama literature.",
+      "dates": "10th century"
+    },
+    {
+      "name": "Haradatta",
+      "role": "Author",
+      "significance": "Wrote the Gaṇa-kārikā.",
+      "dates": "Ancient/Medieval"
+    },
+    {
+      "name": "Bhujaṅga-Deva",
+      "role": "Founder of a Kālāmukha lineage",
+      "significance": "Founded the 'Bhujaṅgāvali' lineage of the Kālāmukha sect.",
+      "dates": "Medieval"
+    },
+    {
+      "name": "Sureśvara-paṇḍita-deva",
+      "role": "Kālāmukha Figure",
+      "significance": "Mentioned in a 1057 A.D. inscription, linking the Kālāmukha sect to Lākula's doctrines and the Śrīśaila center.",
+      "dates": "c. 1057 A.D."
+    },
+    {
+      "name": "Kṛṣṇa III",
+      "role": "Rāṣṭrakūṭa Monarch",
+      "significance": "His Karhaḍ inscription records a land grant to a Śaiva ascetic, showing royal patronage.",
+      "dates": "about 958 A.D."
+    },
+    {
+      "name": "Gaṅga-śiva",
+      "role": "Śaiva Ascetic",
+      "significance": "Recipient of a land grant from Kṛṣṇa III, described as a leader in the Śaiva sect.",
+      "dates": "c. 958 A.D."
+    },
+    {
+      "name": "Īśāna-śiva",
+      "role": "Chief of Valkalīśvara-maṭha",
+      "significance": "Preceptor of Gaṅga-śiva.",
+      "dates": "c. 10th century A.D."
+    },
+    {
+      "name": "Kīrtivarman",
+      "role": "Monarch",
+      "significance": "Constructed a pavilion in the Nīlakaṇṭha temple at the instance of his Pāśupata preceptor.",
+      "dates": "c. Vikrama Samvat 1147 (c. 1090 A.D.)"
+    },
+    {
+      "name": "Śrī-mūrti",
+      "role": "Pāśupata Ascetic",
+      "significance": "Preceptor of King Kīrtivarman.",
+      "dates": "c. Vikrama Samvat 1147 (c. 1090 A.D.)"
+    },
+    {
+      "name": "Durlabhā-devī",
+      "role": "Patron",
+      "significance": "Made land grants to the Mahākuṭa temple.",
+      "dates": "c. 596-610 A.D."
+    },
+    {
+      "name": "Maṅgalīśa",
+      "role": "Cāḷukyan King",
+      "significance": "His inscription mentions the land grants of Durlabhā-devī, confirming early Śaiva activity in Karnataka.",
+      "dates": "596-610 A.D."
+    },
+    {
+      "name": "Kālaśakti",
+      "role": "Head of a Kālāmukha maṭha",
+      "significance": "Mentioned in a 640 A.D. inscription at Nandi, indicating an early Kālāmukha center.",
+      "dates": "c. 640 A.D."
+    },
+    {
+      "name": "Ratnāvaḷī",
+      "role": "Mother of a Bāṇa king",
+      "significance": "Made a grant to Kālaśakti's disciple, showing patronage.",
+      "dates": "c. 640 A.D."
+    },
+    {
+      "name": "Īśvaradeva",
+      "role": "Disciple of Kālaśakti",
+      "significance": "Recipient of a grant from Ratnāvaḷī.",
+      "dates": "c. 640 A.D."
+    },
+    {
+      "name": "Mahendra",
+      "role": "Noḷamba King",
+      "significance": "A great warrior king and 'parama-māheśvara' who dedicated his palace to Śiva.",
+      "dates": "870-897 A.D."
+    },
+    {
+      "name": "Ananta-śiva-deva",
+      "role": "'ācārya-rāja-guru'",
+      "significance": "Presided over the large university attached to the Noḷambeśvara temple at Heñjeru.",
+      "dates": "Medieval"
+    },
+    {
+      "name": "Kedāra-śakti",
+      "role": "Kālāmukha Teacher",
+      "significance": "Founded the Kedāreśvara temple and Kōḍiya-maṭha at Balligāme.",
+      "dates": "c. 11th century A.D."
+    },
+    {
+      "name": "Someśvara II ('Bhuvanaika-malla')",
+      "role": "Kalyāṇa Cāḷukya King",
+      "significance": "A zealous Śaiva who patronized Kālāmukha shrines.",
+      "dates": "1068-1076"
+    },
+    {
+      "name": "Pērmāḍi-Vikramāditya VI ('Tribhuvana-malla')",
+      "role": "Kalyāṇa Cāḷukya King",
+      "significance": "Although a Jaina, he extended patronage to Kālāmukha shrines. The dates 1706-1127 are a clear typographical error in the source text; the correct reign is 1076-1127.",
+      "dates": "1076-1127 (text says 1706-1127)"
+    },
+    {
+      "name": "Someśvara",
+      "role": "Kālāmukha Teacher",
+      "significance": "Administered the Nagareśvara temple at Sūḍi and was praised in an inscription for his broad learning and tolerance.",
+      "dates": "c. 1075 A.D."
+    },
+    {
+      "name": "Bijjaḷa II",
+      "role": "Kalacūri King",
+      "significance": "His minister, Keśirāja, was a patron of the Kālāmukha sect. He was also the king whom Basava served.",
+      "dates": "1130-1167"
+    },
+    {
+      "name": "Keśirāja-daṇḍādhīśa (Keśimayya)",
+      "role": "Minister to Bijjaḷa II",
+      "significance": "Follower of the Kālāmukha master Vāmaśakti-dēva, built a temple to Keśava.",
+      "dates": "c. 1130-1167"
+    },
+    {
+      "name": "Vāmaśakti-dēva",
+      "role": "Kālāmukha master and 'rājaguru'",
+      "significance": "Was the revered preceptor ('ārādhya') of minister Keśirāja.",
+      "dates": "c. 12th century A.D."
+    },
+    {
+      "name": "Trilocana-munīndra",
+      "role": "Kālāmukha priest",
+      "significance": "Mentioned in an inscription as making a land donation to a dancing girl, suggesting Kālāmukha involvement with the devadāsī system.",
+      "dates": "Uncertain date"
+    },
+    {
+      "name": "Nāgadevayya",
+      "role": "Patron",
+      "significance": "Built the Nāgeśvara temple at Sūndi and a township for temple prostitutes.",
+      "dates": "1058 A.D."
+    },
+    {
+      "name": "Harihara I",
+      "role": "Vijayanagara Emperor",
+      "significance": "His Rājaguru was the Kālāmukha teacher Kāśivilāsa-kriyāśakti.",
+      "dates": "1336-1356"
+    },
+    {
+      "name": "Bukka",
+      "role": "Vijayanagara Emperor",
+      "significance": "His Rājaguru was the Kālāmukha teacher Kāśivilāsa-kriyāśakti.",
+      "dates": "1356-1377"
+    },
+    {
+      "name": "Kāśivilāsa-kriyāśakti",
+      "role": "Kālāmukha Teacher",
+      "significance": "Was the Rājaguru of Harihara I and Bukka, administered the Virūpākṣa temple at Hampi, and was honored by the Vidyāśaṅkara shrine at Śṛṅgeri.",
+      "dates": "14th century A.D."
+    },
+    {
+      "name": "Basava",
+      "role": "Treasurer to Bijjaḷa II",
+      "significance": "Spearheaded the Vīraśaiva movement, which led to the decline of the Kālāmukhas and their absorption into the new creed.",
+      "dates": "c. 1130-1167"
+    },
+    {
+      "name": "Haradatta",
+      "role": "Author",
+      "significance": "Author of Gaņa-kārikā, which points to the Pāśupata sect's reliance on Śaivāgamas.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Abhinava-gupta",
+      "role": "Kāśmir Polymath, Philosopher",
+      "significance": "A major exponent of Kāśmir Śaivism and the Pratyabhijñā school. Authored key texts like Tantrāloka and Pratyabhijñā-vimarśinī. Argued for a non-dualistic interpretation of the Āgamas.",
+      "dates": "towards the close of the tenth century A.D."
+    },
+    {
+      "name": "Vasugupta",
+      "role": "Originator of Kāśmīr Śaivism",
+      "significance": "Popularized the non-dualistic Śiva-sūtra, which he is said to have discovered, laying the groundwork for Kāśmīr Śaivism.",
+      "dates": "around 825 A.D."
+    },
+    {
+      "name": "Kallaṭa",
+      "role": "Disciple of Vasugupta",
+      "significance": "Propagated Vasugupta's teachings, specifically the Spanda' kārikā, and authored Spanda-Sarvasva, contributing to the Spanda-śāstra division.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Somānanda",
+      "role": "Founder of the Pratyabhijñā school",
+      "significance": "Authored Śiva-dṛṣṭi, the definitive text of the Pratyabhijñā school, and is hailed as the 'maker of logic' (tarkasya kartā).",
+      "dates": "about 900 A.D."
+    },
+    {
+      "name": "Utpala",
+      "role": "Disciple of Somānanda",
+      "significance": "Wrote the Kārikās on Pratyabhijñā, which helped crystallize the school's fundamental concepts.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Lakṣaṇa-gupta",
+      "role": "Teacher",
+      "significance": "Was the student of Utpala and the teacher of the great Abhinava-gupta.",
+      "dates": "about 950-1000 A.D."
+    },
+    {
+      "name": "Śambhu-nātha",
+      "role": "Guru",
+      "significance": "A master from Jālandhara who initiated Abhinava-gupta into Āgama wisdom.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Sadyojyoti",
+      "role": "Teacher, Systematizer",
+      "significance": "Credited with first using the term 'Siddhānta' for the Āgamic tradition and revealing the 'royal road' to Śiva-siddhānta. Hailed as the 'kulaguru' of the school.",
+      "dates": "ninth century A.D."
+    },
+    {
+      "name": "Bṛhaspati",
+      "role": "Teacher",
+      "significance": "Colleague of Sadyojyoti, also credited with establishing the Siddhānta school.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Ugra-jyoti",
+      "role": "Guru",
+      "significance": "Teacher of Sadyojyoti.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Rājānaka-Rāmakaṇṭha",
+      "role": "Commentator",
+      "significance": "A scholar from Kāśmīra who wrote a commentary on Sadyojyoti's Mokṣa-kārikā.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Jayaratha",
+      "role": "Commentator",
+      "significance": "Commentator on Abhinava-gupta's work.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Aghora-śiva",
+      "role": "Theologian",
+      "significance": "Valiantly defended the dualistic position of all 28 Āgamas, clearly distinguishing Śaiva-siddhānta from other Śaiva schools.",
+      "dates": "about 1158 A.D."
+    },
+    {
+      "name": "Śrīkaṇṭha",
+      "role": "Master in Sadyojyoti's lineage / Vīra-śaiva philosopher",
+      "significance": "Two figures with the same name are mentioned. One authored Ratna-traya in the Siddhānta tradition. The other wrote a commentary on the Vedānta-sūtras (c. 1122 A.D.) which formed the philosophical basis for Vīra-śaivism.",
+      "dates": "Not specified / about 1122 A.D."
+    },
+    {
+      "name": "Kadamba-guhā-vāsi",
+      "role": "Monastic Chief",
+      "significance": "Headed a Śaiva monastic settlement of the Siddhānta division in Central India, indicating its early presence there.",
+      "dates": "about 675 A.D."
+    },
+    {
+      "name": "Rudra-śambhu",
+      "role": "Monastic Leader",
+      "significance": "Established a sanctuary in Āmardaka (Ujjayinī) and became the royal preceptor to the Kākatiya kings, spreading Siddhānta influence.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Rājendra I",
+      "role": "Coḷa Emperor",
+      "significance": "Is reported to have brought Śaiva-siddhānta teachers from North India to the Coḷa country, boosting the tradition's presence in the South.",
+      "dates": "1012-1044 A.D."
+    },
+    {
+      "name": "Appar (Tiru-Nāvukkarasu)",
+      "role": "Tamil Śaiva Saint (Nayanmar)",
+      "significance": "A key figure in the Bhakti movement in Tamil Nadu, his devotional hymns (part of the Tevāram) helped spread Śaivism among the masses.",
+      "dates": "Contemporary of Mahendra-varma I (580-630 A.D.)"
+    },
+    {
+      "name": "Tiru-Jñāna-sam-bandar",
+      "role": "Tamil Śaiva Saint (Nayanmar)",
+      "significance": "Along with Appar, he was responsible for the spread of Śaivism in the Pallava and Pāṇḍya territories through his hymns.",
+      "dates": "7th century"
+    },
+    {
+      "name": "Sundarar",
+      "role": "Tamil Śaiva Saint (Nayanmar)",
+      "significance": "One of the three main authors of the Tevāram hymns.",
+      "dates": "seventh century"
+    },
+    {
+      "name": "Tiru-mūlar",
+      "role": "Tamil Saint and Author",
+      "significance": "Author of the Tirumantiram, an important Tamil Śaiva text. Said to have brought the 28 Āgamas to the Tamil country.",
+      "dates": "about 5th century A.D."
+    },
+    {
+      "name": "Māṇikka-vācakar",
+      "role": "Tamil Saint-Poet",
+      "significance": "Author of the celebrated Tiru-vācakam. The text notes a conflict in his dating.",
+      "dates": "second or third century OR 9th century A.D."
+    },
+    {
+      "name": "Nambi-Āṇḍār-Nambi",
+      "role": "Compiler",
+      "significance": "Redacted the devotional songs of the Tamil saints into the twelve books of the Tirumurai.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Meykaṇḍa-deva",
+      "role": "Philosopher",
+      "significance": "Authored the Śiva-jñāna-bodham, a foundational philosophical text of Tamil Śaiva-siddhānta.",
+      "dates": "around 1216-1248 A.D."
+    },
+    {
+      "name": "Aruḷ-nandi-Śivācārya",
+      "role": "Philosopher",
+      "significance": "Explained and popularized the teachings of Meykaṇḍa-deva.",
+      "dates": "around 1253 A.D."
+    },
+    {
+      "name": "Umā-pati-Śivācārya",
+      "role": "Philosopher",
+      "significance": "Also explained and popularized the teachings of Meykaṇḍa-deva.",
+      "dates": "around 1313 A.D."
+    },
+    {
+      "name": "Basava",
+      "role": "Saint and Social Reformer",
+      "significance": "A pivotal figure in the Vīra-śaiva movement in Karnataka.",
+      "dates": "around 1160 A.D."
+    },
+    {
+      "name": "Allama-prabhu",
+      "role": "Saint, Leader",
+      "significance": "Became the first leader of the 'Śūnya-siṁhāsana' (Throne of the Void), an academy of mystics in the Vīra-śaiva movement.",
+      "dates": "c. 1156 A.D."
+    },
+    {
+      "name": "Sadyojyoti",
+      "role": "Siddha from Central India, author",
+      "significance": "Brought out the dualistic outlook of the Āgamas, especially Rauravāgama, through his gloss (vṛtti). Wrote seven treatises.",
+      "dates": "Mentioned as the teacher of Rājanaka-Ramakantha I (11th c.) and preceded by his own teacher (9th c.)."
+    },
+    {
+      "name": "Sadyojyoti's teacher",
+      "role": "Teacher",
+      "significance": "Began the list of eighteen masters of Śaiva-siddhānta.",
+      "dates": "9th century A.D."
+    },
+    {
+      "name": "Rājanaka-Ramakantha I",
+      "role": "Disciple of Sadyojyoti, author",
+      "significance": "Author of Ratna-traya.",
+      "dates": "eleventh century"
+    },
+    {
+      "name": "Bhoja",
+      "role": "King of the Paramāra dynasty of Gujarat, author",
+      "significance": "Wrote Tat-tva-prakāśikā, which became a standard text of Śaiva-siddhānta explaining Śiva through thirty-six categories.",
+      "dates": "1018-1060 A.D."
+    },
+    {
+      "name": "Srikumāra-deva",
+      "role": "Author of a commentary",
+      "significance": "Attempted to foist a non-dualistic (bhedābheda) interpretation on Bhoja's Tat-tva-prakāśikā with his commentary Tātparya-dīpikā.",
+      "dates": "around 1050 A.D."
+    },
+    {
+      "name": "T. Ganapati Sastri",
+      "role": "Editor",
+      "significance": "Edited Srikumāra-deva's Tātparya-dīpikā (Trivandrum, 1920) and Īśāna-Śiva's Tantra-sāra-paddhati (Trivandrum, 1920).",
+      "dates": "1920"
+    },
+    {
+      "name": "Aghora-śiva",
+      "role": "Commentator, master of Śaiva-siddhānta",
+      "significance": "Wrote an effective rejoinder to Srikumāra-deva, defending the dualistic outlook of Bhoja's work. Presided over the Āmardaka division branch in Chidambaram. Wrote Kriyā-krama-dyotinī.",
+      "dates": "about 1158; also mentioned as 12th century A.D."
+    },
+    {
+      "name": "N. Krishna Sastri",
+      "role": "Editor",
+      "significance": "Edited Aghora-śiva's commentary on Bhoja's work.",
+      "dates": "1923-25"
+    },
+    {
+      "name": "Paramānanda",
+      "role": "Author",
+      "significance": "His Śaiva-bhūśaṇa provides a list of eighteen masters of Śaiva-siddhānta.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Ugra-jyoti",
+      "role": "Śaiva master",
+      "significance": "First in the list of 18 masters. Teacher of Sadyo-jyoti in one version of the lineage.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Rāma-kantha",
+      "role": "Śaiva master, author",
+      "significance": "Third in the list of 18 masters; disciple of Sadyo-jyoti from Kāśmīra who wrote Sadvṛtti.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Durvāsa",
+      "role": "Sage",
+      "significance": "Begins an alternative version of the list of masters, having received instructions from Śiva himself.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Piṅgala",
+      "role": "Successor to Durvāsa",
+      "significance": "Teacher of Ugra-jyoti in the alternative lineage.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Śrīkantha",
+      "role": "Student of Rāma-kantha, author",
+      "significance": "Author of Ratna-traya, which expounds the dualistic standpoint.",
+      "dates": "Succeeds Rāma-kantha"
+    },
+    {
+      "name": "Nārāyaṇa-kantha",
+      "role": "Author and commentator from Kāśmīra",
+      "significance": "Prepared a gloss on Mṛgendrāgama and a commentary (Bṛhaṭṭīkā) on Sadyojyoti's Tattva-saṁgraha. Quoted as a commentator on upāgamas.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Soma-śambhu",
+      "role": "Śaiva master, author",
+      "significance": "Wrote Krama-kāṇḍa-kramāvali (Soma-śambhu-paddhati), the oldest available Siddhānta work. Ninth in the list of masters.",
+      "dates": "eleventh century A.D."
+    },
+    {
+      "name": "Īśāna-Śiva",
+      "role": "Author",
+      "significance": "Probable author of the encyclopedic Tantra-sāra-paddhati (Īśāna-śiva-gurudeva-paddhati). Seventeenth in the list of masters.",
+      "dates": "N/A"
+    },
+    {
+      "name": "The five sages (Agastya, Gautama, Bhāradvāja, Kāśyapa, Kauśika)",
+      "role": "Sages",
+      "significance": "Obtained initiation from the five heads of Sadāśiva. Their descendants are the ādi-śaivas.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Atri",
+      "role": "Sage",
+      "significance": "Named as one of the five sages in an alternative list from Vīrāgama.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Nandika",
+      "role": "Sage",
+      "significance": "Named as one of the five sages in a list from Rauravāgama.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Kuṇḍa and Gola",
+      "role": "Disciples of sage Bhāradvāja",
+      "significance": "Progenitors of the Upa-śaiva types.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Kṛṣṇa Śarmā",
+      "role": "Editor",
+      "significance": "Edited Pratiṣṭhā-lakṣaṇa-sāra-samuccaya.",
+      "dates": "1966 and 1968"
+    },
+    {
+      "name": "Nijaguṇa",
+      "role": "Author",
+      "significance": "Cited in Viveka-cintāmaṇi for giving the total number of verses in the Āgama corpus.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Bhaṭṭa-Nārāyaṇa-kaṇṭha",
+      "role": "Commentator",
+      "significance": "Commented on Mṛgendrāgama, explaining the process of dīkṣā.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Aghora-śiva",
+      "role": "Commentator",
+      "significance": "Commented on Bhoja-deva's Tattva-prakāśa. His interpretations on the nature of 'pāśa' and Śiva are cited.",
+      "dates": "c. 12th century CE"
+    },
+    {
+      "name": "Bhoja-deva",
+      "role": "Author",
+      "significance": "Author of Tattva-prakāśa, a foundational text of Śaiva Siddhānta. His definitions of 'pāśa' are discussed.",
+      "dates": "c. 11th century CE"
+    },
+    {
+      "name": "Bhaṭṭa-Vāmadeva",
+      "role": "Author",
+      "significance": "Author of 'Janma-maraṇa-vicāra', quoted for the definition of 'svatantrya' as 'ānandaśaktiḥ'. Associated with Kashmir Śaivism.",
+      "dates": "Unknown"
+    },
+    {
+      "name": "Kṣemarāja",
+      "role": "Commentator",
+      "significance": "A major figure in Kashmir Śaivism, his commentary on Bhaṭṭa-nārāyaṇa's Stava-cintāmaṇai is cited.",
+      "dates": "c. 10th-11th century CE"
+    },
+    {
+      "name": "Bhaṭṭa-nārāyaṇa",
+      "role": "Author",
+      "significance": "Author of 'Stava-cintāmaṇai', quoted regarding Śiva's power to undo the snares of māyā.",
+      "dates": "c. 9th century CE"
+    },
+    {
+      "name": "Rāma-kaṇṭha",
+      "role": "Commentator",
+      "significance": "Commentator on 'Mataṅga-pārameśvara', quoted on how pure knowledge uproots ignorance when Śiva's energy descends.",
+      "dates": "c. 10th century CE"
+    },
+    {
+      "name": "Jayaratha",
+      "role": "Commentator",
+      "significance": "Commentator on Abhinavagupta's 'Tantrāloka', cited for his alternative view of 'mala' as ignorance rather than a substance.",
+      "dates": "c. 12th-13th century CE"
+    },
+    {
+      "name": "Ananta",
+      "role": "Deity/Vidyeśvara",
+      "significance": "Mentioned as the head of the vidyeśvaras, who are responsible for the 'impure' creation. Also listed as one of the eight forms of Śiva in the Īśvara category.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Śiva",
+      "role": "Deity",
+      "significance": "The supreme consciousness (akula), communicator of Āgama texts.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Śakti / Girijā",
+      "role": "Deity",
+      "significance": "The supreme energy (kula), communicator of Nigama texts, the ultimate object of worship in Śākta-āgama.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Vāsudeva",
+      "role": "Deity",
+      "significance": "Mentioned in a quote distinguishing Āgama from Nigama, possibly referring to the Vaiṣṇava tradition's sanction.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Matsyendra-nātha (Mīna-pā)",
+      "role": "Nātha-siddha saint",
+      "significance": "Regarded by Kāśmīri Kaulas as the first exponent of Kulāgama. Lived around 800 A.D.",
+      "dates": "c. 800 A.D."
+    },
+    {
+      "name": "Abhinavagupta",
+      "role": "Kashmiri Śaiva philosopher",
+      "significance": "Author of Tantrāloka, cited for his description of Kaulas and his mention of 64 Bhairava-tantras.",
+      "dates": "c. 950–1016 A.D."
+    },
+    {
+      "name": "Jayaratha",
+      "role": "Commentator",
+      "significance": "Commentator on Tantrāloka, cited regarding Matsyendra-nātha.",
+      "dates": "c. 12th-13th century A.D."
+    },
+    {
+      "name": "Nārāyaṇa-kaṇṭha",
+      "role": "Commentator",
+      "significance": "Commentator on Mṛgendrāgama, noted the distinction between Śaivas and Śāktas.",
+      "dates": "c. 11th century A.D."
+    },
+    {
+      "name": "Paraśurāma",
+      "role": "Sage",
+      "significance": "Author of the Paraśurāma-kalpa-sūtra, a key text of the Śākta tradition.",
+      "dates": "Mythological/Traditional"
+    },
+    {
+      "name": "Amogha-vajra",
+      "role": "Buddhist master",
+      "significance": "Translated 77 tantras in China, some of which were Śākta in nature.",
+      "dates": "746-771 A.D. (career in China)"
+    },
+    {
+      "name": "Gauḍapāda",
+      "role": "Philosopher, Guru",
+      "significance": "Traditionally the guru of Govinda. Wrote several Śākta tantrik works like Śrī-vidyā-ratna-sūtra, crystallizing the Śrī-vidyā school.",
+      "dates": "c. 500 A.D."
+    },
+    {
+      "name": "Govinda",
+      "role": "Guru",
+      "significance": "Student of Gauḍapāda and guru of Śaṃkarācārya. Said to have authored Jayadratha-yāmāla.",
+      "dates": "Post 500 A.D."
+    },
+    {
+      "name": "Śaṃkarācārya",
+      "role": "Philosopher, Saint",
+      "significance": "Major philosopher of Advaita Vedānta, also claimed by Tantric tradition as an adept in Śrī-vidyā who popularized the cult. Works like Saundarya-laharī are ascribed to him. Wrongly credited with writing Prapañca-sāra.",
+      "dates": "Traditionally c. 8th century A.D."
+    },
+    {
+      "name": "Padmapāda",
+      "role": "Disciple of Śaṃkara",
+      "significance": "Wrote Sambandha-dīpikā, a gloss on Prapañca-sāra.",
+      "dates": "c. 8th century A.D."
+    },
+    {
+      "name": "Lolla-Lakṣmīdhara",
+      "role": "Commentator, Reformer",
+      "significance": "A key figure in the Śākta renaissance, wrote commentaries on Saundarya-lahari and Subhagodaya.",
+      "dates": "c. 1490-1530 A.D."
+    },
+    {
+      "name": "Bhāskara-rāya-makhi (Bhāsurānanda-nātha)",
+      "role": "Commentator, Reformer",
+      "significance": "An eminent authority and a leader of the Śākta purge and renaissance. Wrote a famous gloss on Lalitā-sahasra-nāma (1728) and a commentary on Nityā-ṣoḍaśikārṇava (1733).",
+      "dates": "fl. 1728-1733 A.D."
+    },
+    {
+      "name": "Umānanda-nātha",
+      "role": "Commentator",
+      "significance": "Student of Bhāskara-rāya, brought the definitive text of Samayācāra, Paraśu-rāma-kalpa-sūtra, to prominence with his commentary.",
+      "dates": "Post 1733 A.D."
+    },
+    {
+      "name": "Manu",
+      "role": "Lawgiver",
+      "significance": "Cited from his work (op.cit) on the classification of 'mohana' (attraction) as a primary magical deed (mūla-karma).",
+      "dates": "Ancient"
+    }
+  ],
+  "complete_timeline": [
+    {
+      "event": "Reign of Coḷa emperor Rājendra I.",
+      "date": "1012-1044 A.D.",
+      "significance": "Facilitated the exchange of Śaiva traditions between North and South India."
+    },
+    {
+      "event": "Reign of King Bhoja of the Paramāra dynasty",
+      "date": "1018-1060 A.D.",
+      "significance": "Period when the influential dualistic text 'Tat-tva-prakāśikā' was composed."
+    },
+    {
+      "event": "Belūr inscription of Jayasiṁha",
+      "date": "1022",
+      "significance": "Refers to a 'traipuruṣa' temple built by Akkadevī who followed rituals of five different deities."
+    },
+    {
+      "event": "Ṣikāripura inscription of Nāga-varma",
+      "date": "1048 A.D.",
+      "significance": "An officer builds four separate shrines for Jina, Viṣṇu, Śiva, and Buddha."
+    },
+    {
+      "event": "Kannaḍa inscription from Karnūl describes the Kālāmukha teacher Sureśvara-paṇḍita-deva.",
+      "date": "1057 A.D.",
+      "significance": "Provides details on the identity and spread of the Kālāmukha sect."
+    },
+    {
+      "event": "Nāgadevayya builds the Nāgeśvara temple and a township for prostitutes at Sūndi.",
+      "date": "1058 A.D.",
+      "significance": "Shows the institutionalization of temple prostitution under Śaiva patronage."
+    },
+    {
+      "event": "Reign of Vikramāditya VI",
+      "date": "1076-1127",
+      "significance": "A Śaiva king patronizing Buddhist sites and including Viṣṇu imagery in a Śiva temple."
+    },
+    {
+      "event": "Flourishing period of the Kōḍiya-maṭha at Balligāme.",
+      "date": "1078-1215 A.D.",
+      "significance": "Represents the peak of Kālāmukha monastic centers as hubs of education and social welfare."
+    },
+    {
+      "event": "Reign of Hoysala king Viṣṇuvardhana",
+      "date": "1108-1152",
+      "significance": "A Jaina king building the famous Vaiṣṇava Keśava temple at Belūr."
+    },
+    {
+      "event": "Balligāme inscription mentioning 'Hari-Hara-Kamalāsana-Vitarāga-Baud-dhalayangaḷ'",
+      "date": "1129",
+      "significance": "Refers to shrines for Viṣṇu, Śiva, Brahmā, Jina, and Buddha, calling them 'five streams irrigating the earth'."
+    },
+    {
+      "event": "Reign of Kalacūri-Bijjaḷa of Kalyāṇa.",
+      "date": "1130-1167",
+      "significance": "The political context for the rise of Basava and the Vīraśaiva movement."
+    },
+    {
+      "event": "Kaiḍāļa inscription with syncretic verse",
+      "date": "1151 A.D.",
+      "significance": "Pays obeisance to one principle manifesting as Śiva, Brahmā, Buddha, Viṣṇu, and Jina."
+    },
+    {
+      "event": "Establishment of the 'Śūnya-siṁhāsana' in Kalyāṇa.",
+      "date": "1156 A.D.",
+      "significance": "A major event in the Vīra-śaiva movement, creating a center for spiritual discourse and reform."
+    },
+    {
+      "event": "Period of decline for the Kālāmukha sect.",
+      "date": "1160-1200 A.D.",
+      "significance": "Marks a major shift in the religious landscape of Karnataka with the rise of Vīraśaivism."
+    },
+    {
+      "event": "An inscription describes the multifaceted functions of the Kōḍiya-maṭha.",
+      "date": "1162 A.D.",
+      "significance": "Provides a detailed primary source account of the socio-educational role of a Kālāmukha monastery."
+    },
+    {
+      "event": "Polāļva builds a Hari-Hara shrine",
+      "date": "1223",
+      "significance": "Construction of a dedicated temple for the syncretic Śiva-Viṣṇu deity."
+    },
+    {
+      "event": "Reigns of Harihara I and Bukka of Vijayanagara.",
+      "date": "1336-1377",
+      "significance": "The Kālāmukha sect still held influence, with its teachers serving as royal preceptors (Rājaguru)."
+    },
+    {
+      "event": "Inscription records charity for feeding 'ubhaya-jaṅgamas' (both Nātha-siddha and Kālāmukha ascetics).",
+      "date": "1372",
+      "significance": "Evidence of the co-existence and fusion of the two sects."
+    },
+    {
+      "event": "Vidyāśaṅkara shrine at Śṛṅgeri is built in connection with the Kālāmukha teacher Kāśivilāsa-kriyāśakti.",
+      "date": "1390 A.D.",
+      "significance": "Shows the continued prestige of Kālāmukha teachers even as the sect's general influence was waning."
+    },
+    {
+      "event": "Reign of Kṛṣṇadeva-rāya",
+      "date": "1509-1530",
+      "significance": "A Vaiṣṇava emperor making large grants to Śaiva temples."
+    },
+    {
+      "event": "Bhāskara-rāya writes his gloss on Lalitā-sahasra-nāma.",
+      "date": "1728 A.D.",
+      "significance": "A landmark work in the history of Śrī-vidyā and the Samayācāra tradition."
+    },
+    {
+      "event": "Bhāskara-rāya writes his commentary on Nityā-ṣoḍaśikārṇava.",
+      "date": "1733 A.D.",
+      "significance": "Another major contribution solidifying his authority and the reformed Śākta tradition."
+    },
+    {
+      "event": "Nānāghāṭ inscription of Nāganikā",
+      "date": "184-125 B.C.",
+      "significance": "Early inscription mentioning worship of male deities like Indra, Sankarṣaṇa, Vāsudeva."
+    },
+    {
+      "event": "Creation of a bronze seal with Śiva's image and the name 'Śiva-rakṣita'.",
+      "date": "1st century B.C.",
+      "significance": "Early archaeological evidence of iconic representation of Śiva."
+    },
+    {
+      "event": "Life of Lakulīśa, founder of the Pāśupata sect.",
+      "date": "1st or 2nd century A.D.",
+      "significance": "Pivotal moment in the systematization of Śaivism as a formal philosophical and religious system."
+    },
+    {
+      "event": "Reign of Aśoka; he allegedly built a Śiva shrine in Kashmir.",
+      "date": "268-233 B.C.",
+      "significance": "Possible early royal patronage of Śaivism by a non-Śaiva emperor."
+    },
+    {
+      "event": "Vākāṭaka rulers adopt Śaiva titles.",
+      "date": "275-550 A.D.",
+      "significance": "Demonstrates the deep integration of Śaivism with royal identity in the Deccan."
+    },
+    {
+      "event": "Possible lifetime of Māṇikka-vācakar (early date).",
+      "date": "2nd or 3rd century A.D.",
+      "significance": "Represents the ancient roots of Tamil Śaiva devotionalism."
+    },
+    {
+      "event": "Land grant by Kākutstha-Varma",
+      "date": "425-445 A.D.",
+      "significance": "A Vedic follower patronizing a Jaina ascetic."
+    },
+    {
+      "event": "Grants by Mṛgeśa-varma",
+      "date": "470-488 A.D.",
+      "significance": "Royal patronage for Jaina shrines."
+    },
+    {
+      "event": "Life of Kauṇḍinya, Pāśupata commentator.",
+      "date": "4th-6th centuries A.D.",
+      "significance": "Development of scholastic tradition within the Pāśupata sect."
+    },
+    {
+      "event": "Ravi-varma builds a Jinālaya",
+      "date": "500-538 A.D.",
+      "significance": "Construction of a Jain temple by a Kadamba ruler."
+    },
+    {
+      "event": "Excavation of Viṣṇu-gṛha (Cave 3) at Bādāmi by Maṅgalīśa",
+      "date": "578 A.D.",
+      "significance": "A major Cālukyan rock-cut temple dedicated to the trinity, initiated by a Vaiṣṇava and completed by a Śaiva."
+    },
+    {
+      "event": "Reign of Pallava monarch Mahendra-varma I.",
+      "date": "580-630 A.D.",
+      "significance": "Period of the flourishing of the Bhakti movement led by saints like Appar."
+    },
+    {
+      "event": "Reign of Maṅgalīśa; inscriptions show patronage to Śaiva temples.",
+      "date": "596-610 A.D.",
+      "significance": "Early evidence of the Lākula cult's popularity in Karnataka."
+    },
+    {
+      "event": "Kālāmukhas enter Karnataka from Śrīśaila.",
+      "date": "5th or 6th century A.D.",
+      "significance": "Beginning of the sect's expansion and eventual dominance in the South."
+    },
+    {
+      "event": "Inscription records a village grant to Kapāleśvara temple and mentions Kālāmukha ascetics.",
+      "date": "610-639 A.D.",
+      "significance": "Early evidence of Kālāmukhas administering temples."
+    },
+    {
+      "event": "Reign of Vijayāditya and construction of Vijayeśvara temple",
+      "date": "696-733",
+      "significance": "Building of a 'trai-puruśa' temple in Bādāmi."
+    },
+    {
+      "event": "Career of Amogha-vajra in China, translating Tantric texts.",
+      "date": "746-771 A.D.",
+      "significance": "Shows the transmission and existence of Śākta-related tantras by the mid-8th century."
+    },
+    {
+      "event": "First known inscriptional mention of temple-prostitutes (devadāsīs).",
+      "date": "778 A.D.",
+      "significance": "Marks the beginning of the recorded history of a controversial but long-standing temple practice."
+    },
+    {
+      "event": "Activity of Nayanmar saints Appar, Tiru-Jñāna-sam-bandar, and Sundarar.",
+      "date": "7th century A.D.",
+      "significance": "Composition of the Tevāram hymns and widespread popularization of Śaivism in the Tamil region."
+    },
+    {
+      "event": "A copy of Parameśvari-tantra is made.",
+      "date": "849 A.D.",
+      "significance": "Provides manuscript evidence for the existence of specific tantras."
+    },
+    {
+      "event": "Inscription adoring all three deities of the trinity",
+      "date": "866 A.D.",
+      "significance": "Shows continued worship of Brahmā until at least the 9th century."
+    },
+    {
+      "event": "A copy of Kiraṇa-tantra (a Śākta text, not the Śaiva one) is made.",
+      "date": "924 A.D.",
+      "significance": "Further manuscript evidence for early Śākta texts."
+    },
+    {
+      "event": "Kāḍiyūr inscription mentioning 'catus-samaya-devatā-nilaya'",
+      "date": "929 A.D.",
+      "significance": "Evidence of temples housing deities of four different sects together."
+    },
+    {
+      "event": "A vihāra (Buddhist monastery) was built on Kadari hill, Mangalore.",
+      "date": "968 A.D.",
+      "significance": "Indicates the presence of multiple religious traditions in a region later known for the fusion of Buddhism and Śaivism."
+    },
+    {
+      "event": "Advent of the Nātha-siddha cult in Karnataka.",
+      "date": "9th century A.D.",
+      "significance": "Led to the fusion of Nātha-siddha and Kālāmukha ideologies, particularly in coastal regions."
+    },
+    {
+      "event": "Lifetime of Sadyojyoti.",
+      "date": "9th century A.D.",
+      "significance": "Systematization of the Śaiva-siddhānta school and the first use of the term 'Siddhānta'."
+    },
+    {
+      "event": "Life of Sadyojyoti's teacher",
+      "date": "9th century A.D.",
+      "significance": "Marks the beginning of the lineage of 18 Śaiva-siddhānta masters listed by Paramānanda."
+    },
+    {
+      "event": "Creation of the earliest known mukha-linga at Khoh.",
+      "date": "Early Gupta period",
+      "significance": "Development in Śaiva iconography, combining aniconic and iconic forms."
+    },
+    {
+      "event": "Rule of Sātavāhana kings",
+      "date": "First three centuries A.D.",
+      "significance": "Period when Śaiva rulers built Buddhist shrines, showing religious plurality."
+    },
+    {
+      "event": "Activity of Abhinava-gupta.",
+      "date": "Late 10th century A.D.",
+      "significance": "The peak of Kāśmīr Śaivism's philosophical development."
+    },
+    {
+      "event": "Activity of Aghora-śiva",
+      "date": "about 1158 / 12th century A.D.",
+      "significance": "A major defense of the dualistic interpretation of Śaiva-siddhānta was mounted, solidifying its position in the Coḷa country."
+    },
+    {
+      "event": "Patañjali's Mahābhāṣya mentions 'Śiva-bhāgavatas' and the sale of icons by Mauryas.",
+      "date": "about 200 B.C.",
+      "significance": "Explicit reference to an organized group of Śiva devotees and the commercialization of religious icons."
+    },
+    {
+      "event": "Rule of Ālupa rulers of Tuḷunāḍu",
+      "date": "about 660 A.D.",
+      "significance": "Rulers, mainly Śaiva, built shrines for Viṣṇu and Śakti and encouraged other cults."
+    },
+    {
+      "event": "Karhaḍ inscription of Kṛṣṇa III records a grant to a Śaiva ascetic.",
+      "date": "about 958 A.D.",
+      "significance": "Example of Rāṣṭrakūṭa royal patronage for the Śaiva sect."
+    },
+    {
+      "event": "Decline of 'trai-puruśa' temples",
+      "date": "after the eighth century",
+      "significance": "Marks the wane of Brahmā worship and a shift towards more distinct Śaiva/Vaiṣṇava identities."
+    },
+    {
+      "event": "Activity of Srikumāra-deva",
+      "date": "around 1050 A.D.",
+      "significance": "An attempt was made to interpret Bhoja's dualistic work from a non-dualistic (bhedābheda) perspective."
+    },
+    {
+      "event": "Formation of the Gupta Empire; crystallization of Śaiva religion.",
+      "date": "around 320 A.D.",
+      "significance": "Śaivism becomes a more established and formally recognized religion, with royal patronage."
+    },
+    {
+      "event": "Pāṇini's work demonstrates knowledge of Śiva's alternate names.",
+      "date": "around 400 B.C.",
+      "significance": "Early literary evidence for the worship of the god who would be known as Śiva."
+    },
+    {
+      "event": "Emergence of Āgamas",
+      "date": "around the seventh and eighth centuries",
+      "significance": "Codification of sectarian worship, leading to the crystallization of distinct cults."
+    },
+    {
+      "event": "Kālāmukhas continue to be mentioned in inscriptions.",
+      "date": "as late as 1410 A.D.",
+      "significance": "Indicates the sect's lingering presence long after its peak."
+    },
+    {
+      "event": "Inscription with syncretic verse praising Buddha, Jina, Viṣṇu, Śiva etc.",
+      "date": "assigned to 642 A.D.",
+      "significance": "Early inscriptional evidence for the concept of a single Godhead with multiple forms."
+    },
+    {
+      "event": "Śrīkaṇṭha writes his commentary on the Vedānta-sūtras.",
+      "date": "c. 1122 A.D.",
+      "significance": "Provided the philosophical foundation for the emerging Vīra-śaivism sect."
+    },
+    {
+      "event": "Activity of Aghora-śiva.",
+      "date": "c. 1158 A.D.",
+      "significance": "A key moment in the defense and definition of the dualistic Śaiva-siddhānta position."
+    },
+    {
+      "event": "Activity of Basava and other Vīra-śaiva saints.",
+      "date": "c. 1160 A.D.",
+      "significance": "The Vīra-śaiva movement gains considerable force as a movement for religious and social reform."
+    },
+    {
+      "event": "Lifetime of Meykaṇḍa-deva.",
+      "date": "c. 1216-1248 A.D.",
+      "significance": "Composition of Śiva-jñāna-bodham, a seminal text for Tamil Śaiva-siddhānta philosophy."
+    },
+    {
+      "event": "Lolla-Lakṣmīdhara's period of activity.",
+      "date": "c. 1490-1530 A.D.",
+      "significance": "Beginning of the Śākta renaissance, focusing on refined interpretations."
+    },
+    {
+      "event": "Gauḍapāda writes Śākta tantrik works, crystallizing the Śrī-vidyā school.",
+      "date": "c. 500 A.D.",
+      "significance": "An early documented formation of a key Śākta school of thought."
+    },
+    {
+      "event": "Lifetime of Tiru-mūlar.",
+      "date": "c. 5th century A.D.",
+      "significance": "Authoring of Tirumantiram and the claimed transmission of Āgamic knowledge to the South."
+    },
+    {
+      "event": "Inscription refers to a Kālāmukha maṭha at Nandi.",
+      "date": "c. 640 A.D.",
+      "significance": "Shows the establishment of Kālāmukha monastic centers in Karnataka."
+    },
+    {
+      "event": "Leadership of Kadamba-guhā-vāsi in a Central Indian Siddhānta monastery.",
+      "date": "c. 675 A.D.",
+      "significance": "Provides inscriptional evidence for the organized presence of Śaiva-siddhānta in Central India."
+    },
+    {
+      "event": "Life of Matsyendranātha, exponent of Kulāgama.",
+      "date": "c. 800 A.D.",
+      "significance": "Marks the influence of Nātha-siddha saints on the development of Śākta-tantra."
+    },
+    {
+      "event": "Vasugupta popularizes the Śiva-sūtra.",
+      "date": "c. 825 A.D.",
+      "significance": "Marks the historical origin of Kāśmīr Śaivism as a distinct non-dualistic school."
+    },
+    {
+      "event": "Somānanda writes Śiva-dṛṣṭi.",
+      "date": "c. 900 A.D.",
+      "significance": "Establishes the Pratyabhijñā school of Kāśmīr Śaivism."
+    },
+    {
+      "event": "Activity of Rājanaka-Ramakantha I and Soma-śambhu",
+      "date": "eleventh century",
+      "significance": "A period of significant literary production in the dualistic Śaiva-siddhānta school."
+    }
+  ],
+  "all_geographic_locations": [
+    {
+      "place": "India",
+      "context": "The subject of the entire chapter, described as a land of religious tolerance.",
+      "significance": "The macro-location for all discussed historical and religious developments."
+    },
+    {
+      "place": "Karnataka",
+      "context": "Used as an illustrative example of religious harmony and royal patronage.",
+      "significance": "Many of the key dynasties and inscriptions cited (Sātavāhana, Kadamba, Cālukya, Hoysala) are from this region."
+    },
+    {
+      "place": "Balligāme",
+      "context": "Site of the Tārā-Bhagavatī temple (Buddhist) built by Sātavāhanas. Also site of shrines for five faiths mentioned in a 1129 inscription.",
+      "significance": "A key site demonstrating long-term religious pluralism and patronage."
+    },
+    {
+      "place": "Kolhāpur",
+      "context": "Site of stūpas (Buddhist monuments) built by Sātavāhanas.",
+      "significance": "Example of Śaiva rulers supporting Buddhism."
+    },
+    {
+      "place": "Banavāsi",
+      "context": "Capital of the Kadambas, described as a great centre of Buddhism.",
+      "significance": "Shows a capital city fostering multiple religions under its ruling dynasty."
+    },
+    {
+      "place": "Palasikā (Halasī)",
+      "context": "In Belgaum district, where Ravi-varma built a Jinālaya (Jain temple).",
+      "significance": "Specific site of Kadamba patronage to Jainism."
+    },
+    {
+      "place": "Belgaum district",
+      "context": "Location of Palasikā.",
+      "significance": "Geographic context for Kadamba activity."
+    },
+    {
+      "place": "Talakāḍu",
+      "context": "Capital of the Gaṅgas, who were Jainas but built many temples to Śiva and Viṣṇu.",
+      "significance": "Example of Jaina rulers patronizing Hindu deities."
+    },
+    {
+      "place": "Bādāmi",
+      "context": "Site of the famous rock-cut Viṣṇu-gṛha (Cave 3) and the Vijayeśvara temple, both housing the trinity.",
+      "significance": "A major centre for the Cālukyas and a prime example of 'traipuruṣa' worship."
+    },
+    {
+      "place": "Tuḷunāḍu",
+      "context": "Region ruled by the Ālupas. Also location of later Hari-Hara shrines.",
+      "significance": "Region showing a mix of Śaiva, Jaina, Vaiṣṇava, and Śakti worship."
+    },
+    {
+      "place": "Belūr",
+      "context": "Site of the Keśava temple built by Viṣṇuvardhana. Also location of a Hoysala period inscription.",
+      "significance": "A major Hoysala center and site of significant Vaiṣṇava architecture and syncretic inscriptions."
+    },
+    {
+      "place": "Kalyāṇa",
+      "context": "Capital of a later Cālukyan dynasty.",
+      "significance": "Identifies the dynasty of Vikramāditya VI."
+    },
+    {
+      "place": "Dambaḷa",
+      "context": "Site of a Buddhist vihāra endowed by Vikramāditya VI.",
+      "significance": "Example of a Śaiva king's patronage to Buddhism."
+    },
+    {
+      "place": "Jalasaṅgavi",
+      "context": "Site of a Śiva temple built by Vikramāditya VI containing impressive Viṣṇu sculptures.",
+      "significance": "Demonstrates syncretism within a single temple structure."
+    },
+    {
+      "place": "Kāḷahasti",
+      "context": "Śiva temple that received endowments from the Vaiṣṇava king Kṛṣṇadeva-rāya.",
+      "significance": "Example of Vijayanagara cross-sectarian patronage."
+    },
+    {
+      "place": "Kāñcīpuram",
+      "context": "Śiva temple that received endowments from the Vaiṣṇava king Kṛṣṇadeva-rāya.",
+      "significance": "Example of Vijayanagara cross-sectarian patronage."
+    },
+    {
+      "place": "Kaiḍāļa",
+      "context": "In Tumkur district, site of an inscription from 1151 A.D. with a syncretic verse.",
+      "significance": "Source of primary inscriptional evidence for religious harmony."
+    },
+    {
+      "place": "Tumkur district",
+      "context": "Location of Kaiḍāļa.",
+      "significance": "Geographic context for the 1151 A.D. inscription."
+    },
+    {
+      "place": "Nagara",
+      "context": "Location of the praśasti of Kokkalla-māharāja.",
+      "significance": "Source of an inscription praising an all-comprehensive God."
+    },
+    {
+      "place": "Kāḍiyūr",
+      "context": "In Karnataka, site of a 'catus-samaya-devatā-nilaya' (shrine for deities of four sects) mentioned in a 929 A.D. inscription.",
+      "significance": "Direct evidence of multi-faith temple complexes."
+    },
+    {
+      "place": "Puṣkara",
+      "context": "A northern region site with a shrine for Brahmā.",
+      "significance": "One of the few remaining centers of Brahmā worship."
+    },
+    {
+      "place": "Ṣikāripura",
+      "context": "Site of a 1048 A.D. inscription mentioning the construction of four shrines.",
+      "significance": "Evidence of parallel patronage to four different faiths."
+    },
+    {
+      "place": "Aihole",
+      "context": "Site of the Konti-guḍi, Huccap-payya-maṭha, and Tryambakeśvara temple complex, showing trinity worship.",
+      "significance": "An important Cālukyan center with numerous temples showing sectarian evolution."
+    },
+    {
+      "place": "Gadag",
+      "context": "Site of the Trikūṭeśvara temple with three lingas for Brahmā, Śiva, and Viṣṇu.",
+      "significance": "A prime example of a 'tri-kūṭācala' temple dedicated to the trinity."
+    },
+    {
+      "place": "Aṇṇigeri",
+      "context": "Site of the Banasaṅkari temple, dedicated to all three deities of the trinity.",
+      "significance": "Another example of a trinity temple."
+    },
+    {
+      "place": "Devpād village (Rājśāhi in Bengal)",
+      "context": "Location of an 11th-century inscription speaking of a joint Śiva-Viṣṇu temple.",
+      "significance": "Shows that the trend of joint worship was not confined to South India."
+    },
+    {
+      "place": "Harihara (Citradurga district, Karnataka)",
+      "context": "Site of a shrine to the composite deity Hari-Hara, built in 1223.",
+      "significance": "An important center for the syncretic Hari-Hara cult."
+    },
+    {
+      "place": "Koḍagi-Śaṅkaranārāyaṇa",
+      "context": "In Tuḷunāḍu, site of a 13th-century Hari-Hara shrine.",
+      "significance": "Another center for the Hari-Hara cult."
+    },
+    {
+      "place": "Pāṇḍeśvara, Bārkūru, Koḍavūru, Nandāvara",
+      "context": "Other sites in Tuḷunāḍu with shrines to the composite Hari-Hara deity.",
+      "significance": "Shows the popularity of the Hari-Hara cult in this specific region."
+    },
+    {
+      "place": "Tamil country",
+      "context": "Region where the bulk of the Āgamas were likely composed during the Pallava and early Cola periods.",
+      "significance": "The heartland for the development of the scriptural basis for sectarian Śaivism and Vaiṣṇavism."
+    },
+    {
+      "place": "Nānāghāṭ",
+      "context": "Site of Nāganikā's inscription.",
+      "significance": "Source of early epigraphic evidence on Sātavāhana religious practices."
+    },
+    {
+      "place": "Indus Valley",
+      "context": "Mentioned as a site with early evidence for the worship of Śiva.",
+      "significance": "Suggests prehistoric roots for Śiva worship."
+    },
+    {
+      "place": "Kāśhmir (Kāśmīra)",
+      "context": "Site of Aśoka's alleged shrine (Aśokeśvara); a major center for the development of Śaiva theology and metaphysics.",
+      "significance": "A key region for the intellectual and sectarian development of Śaivism."
+    },
+    {
+      "place": "Sirkāp (Taxila)",
+      "context": "Site where John Marśal found a 1st century B.C. bronze seal depicting Śiva.",
+      "significance": "Provides early archaeological evidence for the iconic representation of Śiva."
+    },
+    {
+      "place": "Khoh",
+      "context": "Site where the earliest mukha-linga was found.",
+      "significance": "Important for the history of Śaiva iconography."
+    },
+    {
+      "place": "Central India",
+      "context": "Proposed as the region where Śaivism was first organized as a sect, before spreading.",
+      "significance": "The author's hypothesized heartland for organized Śaivism."
+    },
+    {
+      "place": "South India",
+      "context": "A region where Śaivism spread and flourished, particularly through the Kālāmukha sect.",
+      "significance": "Became a major center of Śaivism, developing unique regional forms like Vīra-Śaivism."
+    },
+    {
+      "place": "Vārāṇasī (Viśveśvara or Avimukta)",
+      "context": "Listed as an ancient and important center of Śiva worship.",
+      "significance": "One of the most sacred and enduring centers of Śaivism."
+    },
+    {
+      "place": "Saurāṣṭra (Somanātha)",
+      "context": "An ancient Śaiva center; the region where Lakulīśa appeared.",
+      "significance": "Crucial location for the origin of the Pāśupata sect."
+    },
+    {
+      "place": "Kāyāvarohaṇa (in Bhṛgu-kacca / Baroda State)",
+      "context": "Identified as the specific birthplace of Lakulīśa.",
+      "significance": "The origin point of the historical founder of the Pāśupata sect."
+    },
+    {
+      "place": "Śrīśaila",
+      "context": "The starting point from which the Kālāmukhas entered the Telugu country and Karnataka.",
+      "significance": "A major Śaiva center that served as a base for the expansion of the Kālāmukha sect."
+    },
+    {
+      "place": "Karnataka",
+      "context": "A region where the Kālāmukha sect became dominant and profoundly influenced religious and social life.",
+      "significance": "The primary case study in the chapter for the impact of the Kālāmukha sect."
+    },
+    {
+      "place": "Nandi (near Bangalore)",
+      "context": "An important center of the Lākula sect by 640 A.D., with a maṭha and a famous temple built by the Noḷambas.",
+      "significance": "An early and significant Kālāmukha stronghold in Karnataka."
+    },
+    {
+      "place": "Heñjeru (Hemāvati)",
+      "context": "Capital of the Noḷamba kings, patrons of the Lākula sect, and site of a large university.",
+      "significance": "Demonstrates the integration of Kālāmukha Śaivism with political power and higher education."
+    },
+    {
+      "place": "Balligāme (Shivamogga district)",
+      "context": "Site of the Kedāreśvara temple and the highly influential Kōḍiya-maṭha.",
+      "significance": "A prime example of a Kālāmukha center that combined worship with extensive educational and social welfare activities."
+    },
+    {
+      "place": "Coastal Karnataka (Mangalore, Bārakūru, etc.)",
+      "context": "Region where the fusion of the Nātha-siddha and Kālāmukha cults is best illustrated.",
+      "significance": "Shows the syncretic and adaptive nature of medieval Śaivism."
+    },
+    {
+      "place": "Kalyāṇa",
+      "context": "Capital of the Kalacūri king Bijjaḷa II, where Basava served as treasurer.",
+      "significance": "The political epicenter for the rise of the Vīraśaiva movement."
+    },
+    {
+      "place": "Kāśmīra (Kashmir)",
+      "context": "The primary center for the development of non-dualistic Kāśmir Śaivism, including the Spanda and Pratyabhijñā schools.",
+      "significance": "A major hub of Śaiva philosophy and scholarship."
+    },
+    {
+      "place": "Tamil-nāḍu",
+      "context": "A stronghold of the dualistic Śaiva-siddhānta school and the heartland of the Nayanmar bhakti movement.",
+      "significance": "Crucial for the development of devotional Śaivism and its vernacular literature."
+    },
+    {
+      "place": "Karṇāṭaka",
+      "context": "The region where Vīra-śaivism (Lingayatism) primarily prevails.",
+      "significance": "Home to a unique and influential Śaiva sect focused on social reform."
+    },
+    {
+      "place": "Central India (Madhya-deśa)",
+      "context": "Region with early medieval Śaiva monastic settlements, and the homeland of the teacher Sadyojyoti.",
+      "significance": "An important early center for the Siddhānta school before its major spread in the South."
+    },
+    {
+      "place": "Āmardaka (probably Ujjayinī)",
+      "context": "A site where Rudra-śambhu established a sanctuary and where emperor Rājendra I met with Śaiva masters.",
+      "significance": "An influential monastic center connecting Śaiva traditions of Central and South India."
+    },
+    {
+      "place": "South India",
+      "context": "Described as a region where Āgama doctrines were already prevalent and where some key texts were prepared.",
+      "significance": "A vital region for the preservation, development, and expression of Āgamic Śaivism."
+    },
+    {
+      "place": "Coḷa country (Toṇḍamaṇḍalam and Coḷamaṇḍalam)",
+      "context": "The kingdom where Rājendra I settled Śaiva teachers from the north.",
+      "significance": "A key site for the patronage and growth of Śaiva-siddhānta in the medieval period."
+    },
+    {
+      "place": "Kalyāṇa",
+      "context": "The city where the 'Śūnya-siṁhāsana', the spiritual assembly of the Vīra-śaivas, was established in 1156 A.D.",
+      "significance": "The epicenter of the Vīra-śaiva reform movement."
+    },
+    {
+      "place": "Central India",
+      "context": "The origin of the siddha Sadyojyoti.",
+      "significance": "A key region for the early development of scholarly Śaiva-siddhānta."
+    },
+    {
+      "place": "Gujarat",
+      "context": "The location of the Paramāra dynasty, ruled by King Bhoja.",
+      "significance": "The place of origin for the standard text Tat-tva-prakāśikā."
+    },
+    {
+      "place": "Kāśmīra",
+      "context": "The home of scholars Rāma-kantha and Nārāyaṇa-kantha.",
+      "significance": "A major center for Śaiva scholarship, contributing key figures to the Siddhānta school."
+    },
+    {
+      "place": "Coḷa country",
+      "context": "The region where Aghora-śiva was active.",
+      "significance": "A center for the Āmardaka division of Śaiva-siddhānta and the stronghold of the dualistic interpretation."
+    },
+    {
+      "place": "Chidambaram",
+      "context": "The location of the branch of the Āmardaka division presided over by Aghora-śiva.",
+      "significance": "An important religious and scholarly center for Śaiva-siddhānta in South India."
+    },
+    {
+      "place": "Devakottai",
+      "context": "Place of publication for Ratna-traya (1925) and N. Krishna Sastri's edition of Aghora-śiva's commentary (1923-25).",
+      "significance": "A modern center for the publication of Śaiva-siddhānta texts."
+    },
+    {
+      "place": "Varanasi",
+      "context": "Place of publication (Cowkhamba, 1976) for Srikumāra-deva's Tātparya-dīpikā.",
+      "significance": "A traditional and modern center of Sanskrit learning and publication."
+    },
+    {
+      "place": "Trivandrum",
+      "context": "Place of publication for editions by T. Ganapati Sastri in 1920.",
+      "significance": "A significant center for the editing and publication of Sanskrit texts in the 20th century."
+    },
+    {
+      "place": "Nepāl, Kathmandu",
+      "context": "Place of publication for Pratiṣṭhā-lakṣaṇa-sāra-samuccaya (1966, 1968).",
+      "significance": "A location where important Śaiva texts are preserved and published."
+    },
+    {
+      "place": "Pondichery",
+      "context": "Place of publication for an edition of Rauravāgama.",
+      "significance": "A modern center for the study and publication of Āgamic texts."
+    },
+    {
+      "place": "Kāśmīra",
+      "transliteration": "Kashmir",
+      "context": "Mentioned as a region where a form of Śaivism prevailed that shared the concept of the six 'paths' (ṣaḍadhvā) with the Southern Siddhānta school.",
+      "significance": "A major center for the development of non-dualistic Śaiva traditions."
+    },
+    {
+      "place": "The South",
+      "transliteration": "South India",
+      "context": "Identified as the region where the form of Śaivism known as 'siddhānta' prevails.",
+      "significance": "The heartland of the Tamil Śaiva Siddhānta tradition."
+    },
+    {
+      "place": "Śrīnagar",
+      "transliteration": "Srinagar",
+      "context": "Cited as the publication location for the 'Kaśmir-series of texts and studies' which published editions of Bhaṭṭa-Vāmadeva's and Kṣemarāja's works.",
+      "significance": "A modern center of learning in Kashmir."
+    },
+    {
+      "place": "Pondichery",
+      "transliteration": "Puducherry",
+      "context": "Cited as the publication location for a volume of the Rauravāgama by the French Institute of Pondicherry.",
+      "significance": "A notable center for Indological and manuscript research."
+    },
+    {
+      "place": "Tibet",
+      "context": "Matsyendra-nātha was known as Mīna-pā in Tibet. Also part of the Aśva-krānta region for tantras.",
+      "significance": "Shows the geographical spread of Tantric saints and traditions."
+    },
+    {
+      "place": "Kāśmīra (Kashmir)",
+      "context": "Home of the Kāśmīri Kaulas, Abhinavagupta, and the Trika and Krama doctrines. The Kāśmīra sampradāya follows the 'right path' (dakṣiṇamārga).",
+      "significance": "A major center for the development of both Śaiva and Śākta philosophy and tantra."
+    },
+    {
+      "place": "Gauḍa",
+      "context": "The Gauḍa approach to Śākta worship follows the 'left path' (vāma-mārga) and shows Buddhist influence.",
+      "significance": "Represents a distinct regional school of Śākta Tantra."
+    },
+    {
+      "place": "Kerala",
+      "context": "The Kerala approach follows the 'mixed path' (miśra-mārga), worshipping Śrī-cakra and affiliated with the Vedic framework.",
+      "significance": "Represents another distinct regional school, known for integrating Tantra with Vedic traditions."
+    },
+    {
+      "place": "Vindhya ranges",
+      "context": "A geographical landmark used to define the three regions (krāntas) where different sets of 64 tantras were current.",
+      "significance": "Central point in the traditional geographic mapping of Tantric traditions."
+    },
+    {
+      "place": "Cattala",
+      "context": "The region from the Vindhyas to Cattala is defined as the Viṣṇu-krānta.",
+      "significance": "An endpoint for one of the three Tantric geographical divisions."
+    },
+    {
+      "place": "Nepal",
+      "context": "The manuscript of Jayadratha-yāmāla was discovered here. Fragments of Umā-yāmala were also recovered here.",
+      "significance": "An important location for the preservation and discovery of rare Tantric manuscripts."
+    },
+    {
+      "place": "South India",
+      "context": "Śaṃkara is said to have popularized the Śrī-vidyā cult here.",
+      "significance": "A major region for the practice and development of Śrī-vidyā."
+    },
+    {
+      "place": "China",
+      "context": "Amogha-vajra translated numerous tantras into Chinese here.",
+      "significance": "Demonstrates the spread of Tantric ideas beyond the Indian subcontinent."
+    }
+  ],
+  "complete_terminology_index": [
+    {
+      "term": "Śaiva",
+      "transliteration": "Śaiva",
+      "translation": "Pertaining to the god Śiva; a follower of Śiva.",
+      "context": "One of the two main sectarian developments discussed in the chapter."
+    },
+    {
+      "term": "Vaiṣṇava",
+      "transliteration": "Vaiṣṇava",
+      "translation": "Pertaining to the god Viṣṇu; a follower of Viṣṇu.",
+      "context": "One of the two main sectarian developments discussed in the chapter."
+    },
+    {
+      "term": "śramaṇa",
+      "transliteration": "śramaṇa",
+      "translation": "Ascetic, monk (often referring to Buddhist, Jaina, or Ājīvika traditions).",
+      "context": "Mentioned in Aśoka's inscriptions as a group he showed concern for."
+    },
+    {
+      "term": "brāhmaṇa",
+      "transliteration": "brāhmaṇa",
+      "translation": "Priestly class in Vedic tradition.",
+      "context": "Mentioned in Aśoka's inscriptions alongside śramaṇas."
+    },
+    {
+      "term": "stūpas",
+      "transliteration": "stūpas",
+      "translation": "Buddhist dome-shaped monumental structures.",
+      "context": "Built by Sātavāhana kings near Kolhāpur."
+    },
+    {
+      "term": "Jinālaya",
+      "transliteration": "Jinālaya",
+      "translation": "Abode of Jina; a Jain temple.",
+      "context": "Built by Ravi-varma at Palasikā."
+    },
+    {
+      "term": "Viṣṇu-gṛha",
+      "transliteration": "Viṣṇu-gṛha",
+      "translation": "House of Viṣṇu; a temple to Viṣṇu.",
+      "context": "Name for the rock-cut shrine at Bādāmi (Cave 3)."
+    },
+    {
+      "term": "Mahākūṭeśvara",
+      "transliteration": "Mahākūṭeśvara",
+      "translation": "The Great Lord of the Kūṭa (peak); a name for Śiva.",
+      "context": "The form of Śiva worshipped by Maṅgalīśa."
+    },
+    {
+      "term": "basad is",
+      "transliteration": "basadi",
+      "translation": "A Jain shrine or temple (Kannada term).",
+      "context": "Built by Viṣṇuvardhana."
+    },
+    {
+      "term": "Śrīvaiṣṇava",
+      "transliteration": "Śrīvaiṣṇava",
+      "translation": "A specific Vaiṣṇava tradition associated with Rāmānuja.",
+      "context": "The faith Viṣṇuvardhana was rumored to have converted to."
+    },
+    {
+      "term": "vihāra",
+      "transliteration": "vihāra",
+      "translation": "A Buddhist monastery.",
+      "context": "Endowed by Vikramāditya VI at Dambaḷa."
+    },
+    {
+      "term": "यो विश्वं वेदवेद्यं जननजलनिधेर्भागिनः पारदृश्वा । पौर्यापर्याविरुद्धं वचनमनुपमं निष्कलंकं यदियम्।",
+      "transliteration": "yo viśvaṁ vedavedyaṁ jananajalanidherbhāginaḥ pāradṛśvā । pauryāparyāviruddhaṁ vacanamanupamaṁ niṣkalaṁkaṁ yadiyam।",
+      "translation": "He who is the seer of the yonder shore of the ocean of worldly existence, of which all the universe, knowable by the Vedas, is a part; whose word, unparalleled and stainless, is not opposed to the doctrine of former and later teachers.",
+      "context": "First part of a syncretic verse from an inscription assigned to 642 A.D."
+    },
+    {
+      "term": "तं वन्दे साधुवन्द्यं सकलगुणनिधिं ध्वस्तदोषं द्विषन्तम्। बुद्धं वा वर्धमानं शतदलनिलयं वा केशवं वा शिवं वा ॥",
+      "transliteration": "taṁ vande sādhuvandyaṁ sakalaguṇanidhiṁ dhvastadoṣaṁ dviṣantam। buddhaṁ vā vardhamānaṁ śatadalanilayaṁ vā keśavaṁ vā śivaṁ vā ॥",
+      "translation": "I praise that (principle), worthy of adoration by the good, the repository of all virtues, who has destroyed the fault of enmity, be it Buddha, or Vardhamāna (Jina), or he who resides in the hundred-petalled (lotus, i.e., Brahmā), or Keśava (Viṣṇu), or Śiva.",
+      "context": "Second part of the syncretic verse from 642 A.D., showing equal reverence to multiple deities."
+    },
+    {
+      "term": "यं शैवाः समुपासते शिव इति ब्रह्मोति वेदान्तिनः । बौद्धा बुद्ध इति प्रमाणपटवः कर्तेति नैयायिकाः। अर्हन्नित्यथ जैनशासनरता कर्मेति मीमांसकाः । सोऽयं वो विदधातु वांछितफलं त्रैलौक्यनाथो विभुः ॥",
+      "transliteration": "yaṁ śaivāḥ samupāsate śiva iti brahmeti vedāntinaḥ । bauddhā buddha iti pramāṇapaṭavaḥ karteti naiyāyikāḥ। arhannityatha jainaśāsanaratā karmeti mīmāṁsakāḥ । so'yaṁ vo vidadhātu vāṁchitaphalaṁ trailokyanātho vibhuḥ ॥",
+      "translation": "May he, the lord of the three worlds the all powerful God, bestow on all of you the fulfillment of all desires, that one God whom the Śaivites worship as Śiva, the Vedāntins regard as Brahman, the Buddhists adore as the Buddha, the Naiyāyikas conceptualise as the Maker, the Jainas worship as Jina (Arhat) and the Mīmāṁsakas speak of as karma.",
+      "context": "A verse from a Hoysala period inscription in Belūr, explicitly stating different names for the same ultimate reality."
+    },
+    {
+      "term": "जयन्ति यस्यावदातोऽपि भारती। विभूतयस्तिर्थकृतोऽपि नैह्निते शिवाय धात्रे सुगताय विष्णवे । जिनाय तस्मै सकलात्मने नमः ॥",
+      "transliteration": "jayanti yasyāvadāto'pi bhāratī। vibhūtayastirthakṛto'pi naihnite śivāya dhātre sugatāya viṣṇave । jināya tasmai sakalātmane namaḥ ॥",
+      "translation": "Victorious is his pure speech. The glories of the tirthakṛt are also not denied. Obeisance to Śiva, to the Creator (Brahmā), to Sugata (Buddha), to Viṣṇu. To that Jina, the soul of all, salutations.",
+      "context": "A verse from an inscription dated 1151 A.D. from Kaiḍāļa, paying obeisance to a single principle manifesting as multiple deities."
+    },
+    {
+      "term": "यं वेदान्तविदो वदन्ति मनसः संकल्पभूतं शिवम् । ब्रह्मकं परमक्षरं तमजरं तंश्वामरं तद्विदुः । अन्ये तं शिवमेव बुद्धममलं त्वन्ये जिनं वामनम्। तस्मै सर्वमयैक्यकारणपते सर्वाय नित्याय नमः ॥",
+      "transliteration": "yaṁ vedāntavido vadanti manasaḥ saṁkalpabhūtaṁ śivam । brahmakaṁ paramakṣaraṁ tamajaraṁ taṁśvāmaraṁ tadviduḥ । anye taṁ śivameva buddhamamalaṁ tvanye jinaṁ vāmanam। tasmai sarvamayaikyakāraṇapate sarvāya nityāya namaḥ ॥",
+      "translation": "He whom the knowers of Vedānta call Śiva, the embodiment of mind's resolve; they know him as Brahman, the supreme imperishable, the ageless, the immortal. Others (call) him Śiva himself, the stainless Buddha, and yet others Jina, Vāmana (Viṣṇu). To him, the lord who is the cause of the unity of all, to the all, the eternal, salutations.",
+      "context": "A prayer from the praśasti of Kokkalla-māharāja, describing the eternal God with various names."
+    },
+    {
+      "term": "samayas",
+      "transliteration": "samayas",
+      "translation": "Sects, schools of thought, religious systems.",
+      "context": "Used to refer to the four major religious sects: Jainism, Buddhism, Śaivism, Vaiṣṇavism."
+    },
+    {
+      "term": "Pāśupata",
+      "transliteration": "Pāśupata",
+      "translation": "An early Śaiva sect.",
+      "context": "Listed as a division of Śaivism."
+    },
+    {
+      "term": "Kāpālika",
+      "transliteration": "Kāpālika",
+      "translation": "A tantric, transgressive Śaiva sect.",
+      "context": "Listed as a division of Śaivism."
+    },
+    {
+      "term": "बौद्धं चाप्यार्हतं चैव शैवं पाशुपतं तथा । कापालं पांचरात्रंच षडेते समयाः स्मृताः ॥",
+      "transliteration": "bauddhaṁ cāpyārhataṁ caiva śaivaṁ pāśupataṁ tathā । kāpālaṁ pāṁcarātraṁca ṣaḍete samayāḥ smṛtāḥ ॥",
+      "translation": "Buddhism, as also Jainism, and Śaivism, Pāśupata, as well as Kāpālika and Pāñcarātra—these six are remembered as the sects (samayas).",
+      "context": "A quote from the Vīrāgama (1, 77) listing six religious sects."
+    },
+    {
+      "term": "बौद्धं चैवार्हतं चैव पांचरात्रं च शैवकम्। समयं चतुर्विधं स्यात्तु तत्तद्भदमनेकधा ।",
+      "transliteration": "bauddhaṁ caivārhataṁ caiva pāṁcarātraṁ ca śaivakam। samayaṁ caturvidhaṁ syāttu tattadbhadamanekadhā ।",
+      "translation": "Buddhism and Jainism, as well as Pāñcarātra and Śaivism. The sects would be of four kinds, and their various divisions are manifold.",
+      "context": "A quote from the Acintyāgama (40, 5-6) listing four major sects."
+    },
+    {
+      "term": "catus-samaya-samuddharaṇa",
+      "transliteration": "catus-samaya-samuddharaṇa",
+      "translation": "Supporter/Uplifter of the four sects.",
+      "context": "A title proudly claimed by many kings in their inscriptions."
+    },
+    {
+      "term": "catus-samaya-devatā-nilaya",
+      "transliteration": "catus-samaya-devatā-nilaya",
+      "translation": "Abode for the deities of the four sects.",
+      "context": "Description of a temple in Kāḍiyūr from a 929 A.D. inscription."
+    },
+    {
+      "term": "Hari-Hara-Kamalāsana-Vitarāga-Baud-dhalayangaḷ",
+      "transliteration": "Hari-Hara-Kamalāsana-Vitarāga-Bauddhalayangaḷ",
+      "translation": "Temples of Hari (Viṣṇu), Hara (Śiva), Kamalāsana (Brahmā), Vitarāga (Jina), and Buddha.",
+      "context": "A phrase from a Balligāme inscription (1129) describing a temple complex."
+    },
+    {
+      "term": "vasundharegeseva pañca-śaradantire",
+      "transliteration": "vasundharegeseva pañca-śaradantire",
+      "translation": "The five streams irrigating the earth.",
+      "context": "Metaphor used in the Balligāme inscription to describe the five doctrines."
+    },
+    {
+      "term": "traipuruṣa",
+      "transliteration": "traipuruṣa",
+      "translation": "Pertaining to the three divine persons (Brahmā, Viṣṇu, Śiva).",
+      "context": "Used to describe temples and worship dedicated to the Hindu trinity."
+    },
+    {
+      "term": "svayam-bhū",
+      "transliteration": "svayam-bhū",
+      "translation": "Self-born.",
+      "context": "An epithet for Brahmā."
+    },
+    {
+      "term": "purāṇas",
+      "transliteration": "purāṇas",
+      "translation": "Ancient lore; a genre of Hindu religious texts.",
+      "context": "Source material for myths about Śiva, Viṣṇu, and Brahmā."
+    },
+    {
+      "term": "pralaya",
+      "transliteration": "pralaya",
+      "translation": "Universal dissolution at the end of an aeon.",
+      "context": "The time when Śiva acts as the destroyer."
+    },
+    {
+      "term": "tri-kūṭācala",
+      "transliteration": "tri-kūṭācala",
+      "translation": "Three-peaked mountain; a temple with three cells/shrines.",
+      "context": "Architectural style for 'traipuruṣa' temples during the early Cālukya period."
+    },
+    {
+      "term": "praśasti",
+      "transliteration": "praśasti",
+      "translation": "Eulogy, panegyric.",
+      "context": "A type of inscription, such as that of Siddhi-nṛsiṁha-malla or Kokkalla-māharāja."
+    },
+    {
+      "term": "ब्रह्मत्वे सृजते विश्वं स्थितौ पालयते हरिः । रुद्ररूपाय कल्पान्ते नमस्तुभ्यं त्रिमूर्तयो ।",
+      "transliteration": "brahmatve sṛjate viśvaṁ sthitau pālayate hariḥ । rudrarūpāya kalpānte namastubhyaṁ trimūrtayo ।",
+      "translation": "In the form of Brahmā, you create the universe; in preservation, Hari protects it. In the form of Rudra at the end of the aeon (you destroy). Salutations to you, the one with three forms.",
+      "context": "Verse from the praśasti of Nepali monarch Siddhi-nṛsiṁha-malla adoring the trinity."
+    },
+    {
+      "term": "सर्गस्थितिलयहेतोर्विश्वस्य ब्रह्मविष्णुरुद्राणाम्। मूर्तित्रयं प्रदधते संसारभिदे नमो विभवे ॥",
+      "transliteration": "sargasthitilayahetorviśvasya brahmaviṣṇurudrāṇām। mūrtitrayaṁ pradadhate saṁsārabhide namo vibhave ॥",
+      "translation": "For the cause of creation, preservation, and destruction of the universe, (you) assume the three forms of Brahmā, Viṣṇu, and Rudra. Salutations to the mighty one who breaks the cycle of worldly existence.",
+      "context": "A similar verse from a stone inscription in Śiva's temple in Madha-pura."
+    },
+    {
+      "term": "lingas",
+      "transliteration": "liṅgas",
+      "translation": "Aniconic representations of Śiva.",
+      "context": "The Trikūṭeśvara temple at Gadag has three, representing Brahmā, Śiva, and Viṣṇu."
+    },
+    {
+      "term": "लक्ष्मीवल्लभ-शैलजादयितयोरद्वैतलीलगृहम्। प्रद्युम्नेश्वर-शब्दलांछनमधिष्ठानं नमुस्कुर्महे । यत्रालिगंमभंग-कातरतया स्थित्वान्तरे कान्तयो-र्देवीभ्यां कथमप्यभिन्नतनुता शिल्पेऽन्तरायः कृतः ॥",
+      "transliteration": "lakṣmīvallabha-śailajādayitayoradvaitalīlagṛham। pradyumneśvara-śabdalāṁchanamadhiṣṭhānaṁ namaskurmahe । yatrāliṁgamabhaṁga-kātaratayā sthitvāntare kāntayo-rdevībhyāṁ kathamapyabhinnatanutā śilpe'ntarāyaḥ kṛtaḥ ॥",
+      "translation": "We bow to the abode marked by the word Pradyumneśvara, the house of non-dual sport of the beloved of Lakṣmī (Viṣṇu) and the beloved of the daughter of the mountain (Śiva). Where, standing between the two consorts (Lakṣmī and Pārvatī), who were afraid of an embrace being broken, the sculptor somehow created a separation, preventing their non-different bodies.",
+      "context": "An 11th-century inscription from Bengal describing a joint Śiva-Viṣṇu temple."
+    },
+    {
+      "term": "advaita-līlāgṛha",
+      "transliteration": "advaita-līlāgṛha",
+      "translation": "House of non-dual sport/play.",
+      "context": "Description of the Pradyumneśvara temple."
+    },
+    {
+      "term": "Hari-Hara",
+      "transliteration": "Hari-Hara",
+      "translation": "A composite form of Viṣṇu (Hari) and Śiva (Hara).",
+      "context": "A syncretic icon that came into vogue as separate Śaiva/Vaiṣṇava identities grew."
+    },
+    {
+      "term": "Śaṅkara-Nārāyaṇa",
+      "transliteration": "Śaṅkara-Nārāyaṇa",
+      "translation": "Another name for the composite form of Śiva (Śaṅkara) and Viṣṇu (Nārāyaṇa).",
+      "context": "Synonym for Hari-Hara."
+    },
+    {
+      "term": "āgamas",
+      "transliteration": "āgamas",
+      "translation": "Traditional doctrines, scriptures; specifically sectarian texts on temple-worship.",
+      "context": "The prescriptive texts that crystallized the Śaiva and Vaiṣṇava cults."
+    },
+    {
+      "term": "Śaivāgamas",
+      "transliteration": "Śaivāgamas",
+      "translation": "Āgamas relating to Śiva.",
+      "context": "The specific texts for the Śaiva sect."
+    },
+    {
+      "term": "Vaiṣṇavāgamas",
+      "transliteration": "Vaiṣṇavāgamas",
+      "translation": "Āgamas relating to Viṣṇu.",
+      "context": "The specific texts for the Vaiṣṇava sect."
+    },
+    {
+      "term": "Māhāyāna",
+      "transliteration": "Māhāyāna",
+      "translation": "The 'Great Vehicle', a major branch of Buddhism.",
+      "context": "Its sects flourished and developed their own Āgamas and pantheon."
+    },
+    {
+      "term": "tīrthaṅkaras",
+      "transliteration": "tīrthaṅkaras",
+      "translation": "Ford-makers; the 24 enlightened spiritual guides in Jainism.",
+      "context": "The primary figures of worship prescribed in Jaina-āgamas."
+    },
+    {
+      "term": "yakṣas/yakṣiṇīs",
+      "transliteration": "yakṣas/yakṣiṇīs",
+      "translation": "Male/female nature spirits, often attendant deities.",
+      "context": "Their worship was also prescribed in Jaina-āgamas."
+    },
+    {
+      "term": "Bauddha-āgamas",
+      "transliteration": "Bauddha-āgamas",
+      "translation": "Buddhist Āgamas.",
+      "context": "Form part of Vajrayāna-tantras."
+    },
+    {
+      "term": "Vajrayāna-tantras",
+      "transliteration": "Vajrayāna-tantras",
+      "translation": "Tantric texts of the 'Diamond Vehicle' school of Buddhism.",
+      "context": "The corpus to which Bauddha-āgamas belong."
+    },
+    {
+      "term": "Bodhisattvas",
+      "transliteration": "Bodhisattvas",
+      "translation": "Enlightenment-beings; compassionate beings in Mahāyāna Buddhism.",
+      "context": "Their worship (e.g., Avalokiteśvara) is detailed in Bauddha-āgamas."
+    },
+    {
+      "term": "Śakti",
+      "transliteration": "Śakti",
+      "translation": "Power, energy; the divine feminine principle, the mother goddess.",
+      "context": "Her worship is noted as ancient but formalized in temples later."
+    },
+    {
+      "term": "Paśupati",
+      "transliteration": "Paśupati",
+      "translation": "Lord of Beasts/Souls, an epithet of Śiva.",
+      "context": "Invoked in the opening of Hāla's Gāthā-saptaśatī."
+    },
+    {
+      "term": "पसुवइणो रोसारुणपडिमासंकांत गोरिमुहअन्दं। गहिअग्धपंकअं विअ संझासलिलांजलिं णमह ॥",
+      "transliteration": "pasuvaiṇo rosāruṇapaḍimāsaṁkāṁta gorimahaandaṁ। gahiagghapaṁkaaṁ via saṁjhāsalilāṁjaliṁ ṇamaha ॥",
+      "translation": "(Sanskrit Chhaya: īpaśupate roṣāruṇapratimāsaṁkrāntagaurīmukhacandram। gṛhītārdhapaṅkajamiva sandhyāsalilāñjaliṁ namatā ||) Bow down to the handful of evening twilight water of Paśupati, which is like a half-plucked lotus, with the moon of Gaurī's face reflected in it, reddened by his anger.",
+      "context": "Prakrit verse from Hāla's Gāthā-saptaśatī invoking Śiva and Gauri."
+    },
+    {
+      "term": "Śaivism",
+      "transliteration": "Śaivism",
+      "translation": "The religion or system of beliefs and practices centered on the god Śiva.",
+      "context": "The main subject of the chapter."
+    },
+    {
+      "term": "Mṛḍā",
+      "transliteration": "Mṛḍā",
+      "translation": "Compassionate, Gracious",
+      "context": "An early name for Rudra/Śiva known to Pāṇini."
+    },
+    {
+      "term": "Bhava",
+      "transliteration": "Bhava",
+      "translation": "Existence, Being",
+      "context": "An early name for Rudra/Śiva known to Pāṇini."
+    },
+    {
+      "term": "Sarva",
+      "transliteration": "Śarva",
+      "translation": "The Archer",
+      "context": "An early name for Rudra/Śiva known to Pāṇini."
+    },
+    {
+      "term": "arccā",
+      "transliteration": "arccā",
+      "translation": "Icon, image for worship",
+      "context": "Used by Patañjali to refer to icons of Śiva, Skanda, and Viśākhā."
+    },
+    {
+      "term": "अपण्य इत्युच्यते तत्रेदं न सिध्यति । शिवं स्कन्दो विशाख इति । किं कारणं? मौर्यैर्हिरण्यार्थिभिरर्चाः प्रकल्पिताः ॥",
+      "transliteration": "apaṇya ityucyate tatredaṁ na sidhyati । śivaṁ skando viśākha iti । kiṁ kāraṇaṁ? mauryairhiraṇyārthibhirarcāḥ prakalpitāḥ ॥",
+      "translation": "It is said 'not for sale', but this does not apply here to (the icons of) Śiva, Skanda, and Viśākha. What is the reason? Because the icons were set up by the gold-seeking Mauryas.",
+      "context": "Quoted from Patañjali's Mahābhāṣya regarding the sale of religious icons."
+    },
+    {
+      "term": "liṅga",
+      "transliteration": "liṅga",
+      "translation": "Symbol, phallic emblem of Śiva",
+      "context": "The author notes worship in this form had likely not come into vogue when Patañjali wrote."
+    },
+    {
+      "term": "mukha-liṅga",
+      "transliteration": "mukha-liṅga",
+      "translation": "A linga with a face (or faces) of Śiva carved on it.",
+      "context": "The earliest example found at Khoh dates to the early Gupta period."
+    },
+    {
+      "term": "Paśupati",
+      "transliteration": "Paśupati",
+      "translation": "Lord of Beasts/Souls",
+      "context": "A name for Śiva, worshipped by Mihira-gula."
+    },
+    {
+      "term": "Pāśupata",
+      "transliteration": "Pāśupata",
+      "translation": "Follower of Paśupati (Śiva)",
+      "context": "The oldest sect of Śaivism, founded by Lakulīśa."
+    },
+    {
+      "term": "guhya, guhyati-guhya, atiguhya, pavitra, sthānu",
+      "transliteration": "guhya, guhyati-guhya, atiguhya, pavitra, sthānu",
+      "translation": "secret, secret and beyond, exceeding secret, sacred, enduring",
+      "context": "Classifications for traditional Śaiva centers."
+    },
+    {
+      "term": "Jñāna",
+      "transliteration": "Jñāna",
+      "translation": "Knowledge, doctrine",
+      "context": "The Mahābhārata refers to Pāśupata as one of the 'Jñānas'."
+    },
+    {
+      "term": "mata",
+      "transliteration": "mata",
+      "translation": "View, sect",
+      "context": "The Mahābhārata refers to Pāśupata as one of the 'matas'."
+    },
+    {
+      "term": "Śaiva-āgamas",
+      "transliteration": "Śaiva-āgamas",
+      "translation": "Śaivite scriptures",
+      "context": "The textual foundation upon which the Pāśupata sect and its offshoots rely."
+    },
+    {
+      "term": "abheda, bheda, bhedābheda",
+      "transliteration": "abheda, bheda, bhedābheda",
+      "translation": "non-dualism, dualism, dualism-and-non-dualism",
+      "context": "The three philosophies taught by Durvāsas's disciples in Kāśmir Śaivism."
+    },
+    {
+      "term": "mūrtimān śamaras svayam",
+      "transliteration": "mūrtimān śamaras svayam",
+      "translation": "Incarnation of Śiva himself",
+      "context": "A description of Lakulīśa."
+    },
+    {
+      "term": "maṭha",
+      "transliteration": "maṭha",
+      "translation": "Monastery, cloister, college",
+      "context": "Monastic settlements built by the Kālāmukhas, which became centers of learning and welfare."
+    },
+    {
+      "term": "parṣad",
+      "transliteration": "pariṣad",
+      "translation": "Assembly, congregation",
+      "context": "The Sanskrit root for the Kannaḍa term 'parṣhe', referring to territorial jurisdictions of the Kālāmukhas."
+    },
+    {
+      "term": "lākula-samaya-stamba",
+      "transliteration": "lākula-samaya-stamba",
+      "translation": "Pillar of the Lākula doctrine/practice",
+      "context": "A title claimed by the Noḷamba kings, showing their patronage."
+    },
+    {
+      "term": "śruti-mukhya",
+      "transliteration": "śruti-mukhya",
+      "translation": "Adorers of the Vedas",
+      "context": "A term the Lākula teachers used for themselves, indicating their Vedic orientation."
+    },
+    {
+      "term": "deva-sthāna",
+      "transliteration": "deva-sthāna",
+      "translation": "Place of the god (deva) and place of residence (sthāna)",
+      "context": "An expression for a temple that became popular under Kālāmukha influence, reflecting its dual function."
+    },
+    {
+      "term": "sthāna-patis / sthānikas",
+      "transliteration": "sthāna-patis / sthānikas",
+      "translation": "Lords of the place / Residents",
+      "context": "Titles for the Kālāmukha teachers who administered temples and their associated schools."
+    },
+    {
+      "term": "rājaguru",
+      "transliteration": "rājaguru",
+      "translation": "Royal preceptor",
+      "context": "Vāmaśakti-dēva was the rājaguru of Keśimayya; Kāśivilāsa-kriyāśakti was the rājaguru of Harihara I and Bukka."
+    },
+    {
+      "term": "vidhi",
+      "transliteration": "vidhi",
+      "translation": "Rule, observance",
+      "context": "The prescribed observances of a Pāśupata devotee."
+    },
+    {
+      "term": "niyama",
+      "transliteration": "niyama",
+      "translation": "Observance, discipline",
+      "context": "A six-fold observance for Pāśupata devotees, including music and dance."
+    },
+    {
+      "term": "gīta, nṛtta, hasana, huḍukkāra, namaskāra, japa",
+      "transliteration": "gīta, nṛtta, hasana, huḍukkāra, namaskāra, japa",
+      "translation": "music, dance, laughter, making weird sounds (like drum-beating), prostrations, repetition of divine names",
+      "context": "The six aspects of the Pāśupata niyama."
+    },
+    {
+      "term": "devadāsī",
+      "transliteration": "devadāsī",
+      "translation": "Servant of the god",
+      "context": "Term for temple prostitutes, a feature suggested to be part of Kālāmukha-administered temples."
+    },
+    {
+      "term": "kārya",
+      "transliteration": "kārya",
+      "translation": "effect",
+      "context": "The individual soul, seen as an effect of the divine cause."
+    },
+    {
+      "term": "paśu",
+      "transliteration": "paśu",
+      "translation": "beast, conscious being",
+      "context": "A term for the individual soul, signifying its state of bondage and dependence."
+    },
+    {
+      "term": "kāraṇa",
+      "transliteration": "kāraṇa",
+      "translation": "cause",
+      "context": "God (Śiva), the ultimate cause of everything."
+    },
+    {
+      "term": "pati",
+      "transliteration": "pati",
+      "translation": "lord",
+      "context": "A term for God (Śiva) as the lord of all individual souls (paśu)."
+    },
+    {
+      "term": "pāśa",
+      "transliteration": "pāśa",
+      "translation": "bondage, fetter",
+      "context": "The forces that bind the soul, consisting of mala, māyā, and karma."
+    },
+    {
+      "term": "yoga",
+      "transliteration": "yoga",
+      "translation": "technique of spiritual fulfillment",
+      "context": "The discipline of mind and meditation to achieve spiritual goals."
+    },
+    {
+      "term": "vidhi",
+      "transliteration": "vidhi",
+      "translation": "rule, conduct",
+      "context": "Worldly conduct based on virtue, conducive to attaining the values of life."
+    },
+    {
+      "term": "duḥkhānta",
+      "transliteration": "duḥkhānta",
+      "translation": "end of sorrow",
+      "context": "The final cessation of sorrow, or liberation, caused by bondage."
+    },
+    {
+      "term": "karuṇā",
+      "transliteration": "karuṇā",
+      "translation": "grace, compassion",
+      "context": "The grace of Śiva, considered the sole cause of liberation in the Pāśupata and Siddhānta schools."
+    },
+    {
+      "term": "ātma-pradāna",
+      "transliteration": "ātma-pradāna",
+      "translation": "self-surrender",
+      "context": "The act of surrendering oneself to God to obtain liberation."
+    },
+    {
+      "term": "bhakti",
+      "transliteration": "bhakti",
+      "translation": "devotion",
+      "context": "The path of devotion, central to schools like Śaiva-siddhānta."
+    },
+    {
+      "term": "dvaita",
+      "transliteration": "dvaita",
+      "translation": "dualism",
+      "context": "The philosophical outlook that God, soul, and world are eternally distinct realities."
+    },
+    {
+      "term": "advaita",
+      "transliteration": "advaita",
+      "translation": "non-dualism",
+      "context": "The philosophical outlook that reality is ultimately one, and the soul is identical to God."
+    },
+    {
+      "term": "dvaitādvaita",
+      "transliteration": "dvaitādvaita",
+      "translation": "dualism-and-non-dualism",
+      "context": "A philosophical position that attempts to reconcile dualistic and non-dualistic views."
+    },
+    {
+      "term": "Trika-śāstra",
+      "transliteration": "Trika-śāstra",
+      "translation": "Doctrine of the Triad",
+      "context": "Another name for Kāśmir Śaivism, referring to the triad of paśu, pati, and pāśa."
+    },
+    {
+      "term": "mala",
+      "transliteration": "mala",
+      "translation": "stain, impurity",
+      "context": "The primary bond (pāśa) that causes ignorance and hides the soul's true nature."
+    },
+    {
+      "term": "māyā",
+      "transliteration": "māyā",
+      "translation": "projection, illusion",
+      "context": "The bond (pāśa) that creates the various planes of existence and experience."
+    },
+    {
+      "term": "karma",
+      "transliteration": "karma",
+      "translation": "action",
+      "context": "The bond (pāśa) of good and bad actions that results in phenomenal experiences."
+    },
+    {
+      "term": "jñāna",
+      "transliteration": "jñāna",
+      "translation": "wisdom, knowledge",
+      "context": "The path of wisdom, central to Kāśmir Śaivism."
+    },
+    {
+      "term": "Pratyabhijñā",
+      "transliteration": "Pratyabhijñā",
+      "translation": "recognition",
+      "context": "The core concept of a school of Kāśmir Śaivism, referring to the recognition of the self's divine nature."
+    },
+    {
+      "term": "mokṣa",
+      "transliteration": "mokṣa",
+      "translation": "salvation, liberation",
+      "context": "The ultimate goal of spiritual practice."
+    },
+    {
+      "term": "svarūpa",
+      "transliteration": "svarūpa",
+      "translation": "one's own nature",
+      "context": "The true, essential nature of the self, which in non-dualism is identical to Śiva."
+    },
+    {
+      "term": "Śaiva-siddhānta",
+      "transliteration": "Śaiva-siddhānta",
+      "translation": "The established doctrine of Śaivism",
+      "context": "The name for the codified dualistic Āgama tradition."
+    },
+    {
+      "term": "Vīra-śaivism",
+      "transliteration": "Vīra-śaivism",
+      "translation": "Heroic Śaivism",
+      "context": "The form of Śaivism prevalent in Karnataka, also known as Lingayatism."
+    },
+    {
+      "term": "ṣaṭ-sthalas",
+      "transliteration": "ṣaṭ-sthalas",
+      "translation": "six planes/stages",
+      "context": "A key doctrine in Vīra-śaivism describing the six planes of spiritual experience."
+    },
+    {
+      "term": "liṅgāṅga-sāmarasya",
+      "transliteration": "liṅgāṅga-sāmarasya",
+      "translation": "harmony/union of linga and aṅga (body/soul)",
+      "context": "A characteristic doctrine of Vīra-śaivism."
+    },
+    {
+      "term": "śivānub-hava",
+      "transliteration": "śivānub-hava",
+      "translation": "experience of Śiva",
+      "context": "The mystic and direct experience of the divine presence, a key concept in Vīra-śaivism."
+    },
+    {
+      "term": "Śaiva-siddhānta",
+      "transliteration": "Shaiva-siddhanta",
+      "translation": "The established doctrine of Śaivism.",
+      "context": "The name of the philosophical and religious system being discussed."
+    },
+    {
+      "term": "Āgama",
+      "transliteration": "Agama",
+      "translation": "That which has come down; traditional doctrine, sacred text.",
+      "context": "The foundational scriptures of Śaiva-siddhānta."
+    },
+    {
+      "term": "vṛtti",
+      "transliteration": "vritti",
+      "translation": "Gloss, commentary.",
+      "context": "Sadyojyoti wrote a 'vṛtti' on the Rauravāgama."
+    },
+    {
+      "term": "Kārikā",
+      "transliteration": "Karika",
+      "translation": "A concise statement in verse.",
+      "context": "The form of most of Sadyojyoti's treatises."
+    },
+    {
+      "term": "bhedābheda",
+      "transliteration": "bhedabheda",
+      "translation": "Difference and non-difference.",
+      "context": "The non-dualistic interpretation foisted by Srikumāra-deva on Bhoja's work."
+    },
+    {
+      "term": "paddhati",
+      "transliteration": "paddhati",
+      "translation": "Method, manual, guide.",
+      "context": "A manual of instructions for the practice of Siddhānta compiled by each of the 18 masters."
+    },
+    {
+      "term": "Śivācāryas",
+      "transliteration": "Shivacharyas",
+      "translation": "Teachers of Śaivism.",
+      "context": "A term for the eighteen masters of Śaiva-siddhānta."
+    },
+    {
+      "term": "sakala",
+      "transliteration": "sakala",
+      "translation": "With parts, embodied, manifest.",
+      "context": "Śiva becomes 'sakala' (assumes form) in order to create."
+    },
+    {
+      "term": "pāra-śakti",
+      "transliteration": "para-shakti",
+      "translation": "Supreme energy.",
+      "context": "The inherent energy in Śiva from which creation begins."
+    },
+    {
+      "term": "nāda",
+      "transliteration": "nada",
+      "translation": "Sound, vibration.",
+      "context": "The primordial sound that issues from pāra-śakti."
+    },
+    {
+      "term": "bindu",
+      "transliteration": "bindu",
+      "translation": "Dot, point, primeval nucleus.",
+      "context": "The primeval nucleus that comes from nāda and becomes Sadāśiva."
+    },
+    {
+      "term": "pañcakṛtya",
+      "transliteration": "panchakritya",
+      "translation": "The five acts.",
+      "context": "The five aspects of creation: sṛṣṭi (emanation), sthiti (preservation), saṁhāra (dissolution), tirobhāva (concealment), and anugraha (grace)."
+    },
+    {
+      "term": "gocara",
+      "transliteration": "gocara",
+      "translation": "Sphere of influence, range.",
+      "context": "Sages and their lineages initiated from the five faces of Śiva."
+    },
+    {
+      "term": "kuṇḍa",
+      "transliteration": "kunda",
+      "translation": "A person illicitly born of a brahmin in a woman who has her husband alive.",
+      "context": "A type of Upa-śaiva."
+    },
+    {
+      "term": "gola",
+      "transliteration": "gola",
+      "translation": "A person illicitly born of a brahmin in a woman who is a widow.",
+      "context": "A type of Upa-śaiva."
+    },
+    {
+      "term": "ūrdhva-srotas",
+      "transliteration": "urdhva-srotas",
+      "translation": "Upper stream.",
+      "context": "The Siddhānta class of āgama texts, considered superior as they proceed from the upper face of Śiva."
+    },
+    {
+      "term": "upāgama",
+      "transliteration": "upagama",
+      "translation": "Secondary āgama.",
+      "context": "Subsidiary or affiliated texts of the main 28 Āgamas."
+    },
+    {
+      "term": "pāda",
+      "transliteration": "pada",
+      "translation": "Quarter, book, foot.",
+      "context": "The four divisions of an Āgama text: Jñāna, Kriyā, Caryā, Yoga."
+    },
+    {
+      "term": "dīkṣā",
+      "transliteration": "diksha",
+      "translation": "Initiation.",
+      "context": "The central, indispensable ritual for becoming a Śaiva-siddhāntin."
+    },
+    {
+      "term": "mala",
+      "transliteration": "mala",
+      "translation": "Impurity, stain.",
+      "context": "Burdens and hindrances on the self that are removed by dīkṣā."
+    },
+    {
+      "term": "śakti-pāta",
+      "transliteration": "shakti-pata",
+      "translation": "Descent of power.",
+      "context": "The phenomenon of divine energy descending upon the aspirant through the preceptor during dīkṣā."
+    },
+    {
+      "term": "mārga",
+      "transliteration": "marga",
+      "translation": "Path.",
+      "context": "The four spiritual paths followed by initiates: Dāsa, Putra, Saha, and San-mārga."
+    },
+    {
+      "term": "sālokya",
+      "transliteration": "salokya",
+      "translation": "Being in the same world/plane.",
+      "context": "The first stage of emancipation, achieved by the 'samayī'."
+    },
+    {
+      "term": "sāmīpya",
+      "transliteration": "samipya",
+      "translation": "Proximity, nearness.",
+      "context": "The second stage of emancipation, achieved by the 'mantra-vṛtti'."
+    },
+    {
+      "term": "sārūpya",
+      "transliteration": "sarupya",
+      "translation": "Having the same form.",
+      "context": "The third stage of emancipation, where one assumes the form of God."
+    },
+    {
+      "term": "sāyūjya",
+      "transliteration": "sayujya",
+      "translation": "Union, communion.",
+      "context": "The final stage of emancipation (mokṣa), union with Śiva, achieved by the 'deśika'."
+    },
+    {
+      "term": "sa-bīja / nirbīja",
+      "transliteration": "sa-bija / nirbija",
+      "translation": "With seed / without seed.",
+      "context": "Types of initiation based on the aspirant's capacity to follow the prescribed conduct."
+    },
+    {
+      "term": "ādi-śaiva",
+      "transliteration": "adi-shaiva",
+      "translation": "Original Śaiva.",
+      "context": "The hereditary priest class, descended from the five sages initiated by Śiva."
+    },
+    {
+      "term": "svārtha / parārtha",
+      "transliteration": "svartha / parartha",
+      "translation": "For one's own sake / for the sake of others.",
+      "context": "Private worship vs. public worship, the latter being the exclusive domain of ādi-śaivas."
+    },
+    {
+      "term": "pañca-mudrā",
+      "transliteration": "pancha-mudra",
+      "translation": "Five emblems.",
+      "context": "The five signs worn by all initiated Śaivas: rudrākṣa, upavīta, uttarīya, bhasma, and kaupīna."
+    },
+    {
+      "term": "dīkṣā",
+      "transliteration": "dīkṣā",
+      "translation": "initiatory rite",
+      "context": "The central rite in Śaiva-siddhānta through which a practitioner receives divine grace and is set on the path to liberation."
+    },
+    {
+      "term": "jñāna",
+      "transliteration": "jñāna",
+      "translation": "knowledge",
+      "context": "Contrasted with dīkṣā; knowledge alone is not sufficient for final release."
+    },
+    {
+      "term": "adhva-saṁśuddhi",
+      "transliteration": "adhva-saṁśuddhi",
+      "translation": "purification of the paths",
+      "context": "The immediate purpose of dīkṣā, which involves purifying the six paths of reality."
+    },
+    {
+      "term": "ṣaḍadhvā",
+      "transliteration": "ṣaḍadhvā",
+      "translation": "six 'paths'",
+      "context": "The six-fold map of reality, comprising mantras, words, letters, worlds, tattvas, and kalās."
+    },
+    {
+      "term": "tattva",
+      "transliteration": "tattva",
+      "translation": "category/principle of existence",
+      "context": "The 36 fundamental categories that constitute all of reality, from the gross elements to the supreme Śiva."
+    },
+    {
+      "term": "kalā",
+      "transliteration": "kalā",
+      "translation": "aspect / fragment / power",
+      "context": "Used in multiple senses: one of the pañca-kañcuka (limited power of action), the five cosmic aspects (Nivṛtti, etc.), and the aspects of Śiva's manifestation (niṣkala, sakala)."
+    },
+    {
+      "term": "pati",
+      "transliteration": "pati",
+      "translation": "Lord / Master",
+      "context": "The first category of the fundamental triad; the Godhead, Śiva."
+    },
+    {
+      "term": "paśu",
+      "transliteration": "paśu",
+      "translation": "beast / fettered soul",
+      "context": "The second category of the triad; the individual soul bound by impurities."
+    },
+    {
+      "term": "pāśa",
+      "transliteration": "pāśa",
+      "translation": "fetter / bond",
+      "context": "The third category of the triad; the phenomenon of bondage, comprising mala, karma, and māyā."
+    },
+    {
+      "term": "āṇava-mala",
+      "transliteration": "āṇava-mala",
+      "translation": "impurity of atomism/finitude",
+      "context": "The primordial, innate impurity that clouds the soul's consciousness and limits its powers, causing a sense of imperfection."
+    },
+    {
+      "term": "karma",
+      "transliteration": "karma",
+      "translation": "action",
+      "context": "The bond consisting of the accumulated potencies of past actions, which determines future experiences."
+    },
+    {
+      "term": "māyā",
+      "transliteration": "māyā",
+      "translation": "illusion / power of production",
+      "context": "The material cause of the 'impure' universe and the bond that provides the soul with a body and world for its experience."
+    },
+    {
+      "term": "tirobhāva",
+      "transliteration": "tirobhāva",
+      "translation": "veiling / obscuration",
+      "context": "One of Śiva's five functions; the power that conceals the soul's true nature, enabling it to experience the world."
+    },
+    {
+      "term": "anugraha",
+      "transliteration": "anugraha",
+      "translation": "grace",
+      "context": "One of Śiva's five functions; the liberating power that reveals the soul's true nature and grants release."
+    },
+    {
+      "term": "niṣkala",
+      "transliteration": "niṣkala",
+      "translation": "without parts / un-aspected",
+      "context": "The highest, transcendent, and formless aspect of Śiva."
+    },
+    {
+      "term": "sakala",
+      "transliteration": "sakala",
+      "translation": "with parts / aspected",
+      "context": "The fully manifest, formed aspect of Śiva (as Maheśa). Also refers to the class of souls bound by all three pāśas."
+    },
+    {
+      "term": "sakala-niṣkala",
+      "transliteration": "sakala-niṣkala",
+      "translation": "aspected and un-aspected",
+      "context": "The intermediate aspect of Śiva (as Sadāśiva) which is both with and without form."
+    },
+    {
+      "term": "sāda",
+      "transliteration": "sāda",
+      "translation": "process / mode of being",
+      "context": "A concept peculiar to Śaiva-siddhānta describing the five modes of reality in the sakala-niṣkala phase, representing the integration of tattva and mūrti."
+    },
+    {
+      "term": "Śākta-āgama",
+      "transliteration": "Shakta-agama",
+      "translation": "The Śākta scriptures",
+      "context": "The title of the chapter; the body of sacred texts for the Śākta tradition."
+    },
+    {
+      "term": "Śaiva-āgama",
+      "transliteration": "Shaiva-agama",
+      "translation": "The Śaiva scriptures",
+      "context": "The tradition from which Śākta-āgama is said to have grown."
+    },
+    {
+      "term": "Āgama",
+      "transliteration": "Agama",
+      "translation": "That which has come",
+      "context": "Texts communicated by Śiva to Śakti or devotees."
+    },
+    {
+      "term": "Nigama",
+      "transliteration": "Nigama",
+      "translation": "That which has gone out",
+      "context": "Texts revealed by Śakti to Śiva or devotees."
+    },
+    {
+      "term": "Tantra",
+      "transliteration": "Tantra",
+      "translation": "Loom, treatise",
+      "context": "A term often used for Śākta texts, though some Śaiva texts are also called tantras."
+    },
+    {
+      "term": "Kaula",
+      "transliteration": "Kaula",
+      "translation": "Relating to Kula",
+      "context": "A cult, originally Śaiva, now primarily Śākta, focused on the worship of Śakti as Kula."
+    },
+    {
+      "term": "Kula",
+      "transliteration": "Kula",
+      "translation": "Family, totality",
+      "context": "Represents Śakti in Kaula texts."
+    },
+    {
+      "term": "Akula",
+      "transliteration": "Akula",
+      "translation": "Beyond Kula",
+      "context": "Represents Śiva in Kaula texts."
+    },
+    {
+      "term": "Saptācāra",
+      "transliteration": "Saptachara",
+      "translation": "Seven conducts",
+      "context": "A seven-fold hierarchy of spiritual practices, from vedācāra to kaulācāra."
+    },
+    {
+      "term": "Vāmācāra",
+      "transliteration": "Vamachara",
+      "translation": "Left-hand conduct",
+      "context": "A private conduct involving the five 'principles' (pañca-tattva)."
+    },
+    {
+      "term": "Bhāva",
+      "transliteration": "Bhava",
+      "translation": "Disposition, mental attitude",
+      "context": "Three progressive spiritual dispositions: paśu (animal), vīra (heroic), and divya (divine)."
+    },
+    {
+      "term": "Dīkṣā",
+      "transliteration": "Diksha",
+      "translation": "Initiation",
+      "context": "The essential ritual for spiritual practice and liberation, given by a guru."
+    },
+    {
+      "term": "Kuṇḍalinī",
+      "transliteration": "Kundalini",
+      "translation": "The coiled one",
+      "context": "The dormant divine energy at the base of the spine, whose awakening is a central goal."
+    },
+    {
+      "term": "Cakra",
+      "transliteration": "Chakra",
+      "translation": "Wheel",
+      "context": "Psychic energy centers in the subtle body."
+    },
+    {
+      "term": "Śrī-cakra",
+      "transliteration": "Shri-chakra",
+      "translation": "Auspicious wheel",
+      "context": "A cosmogram (yantra) used in Śrī-vidyā worship, representing the union of Śiva and Śakti."
+    },
+    {
+      "term": "Mantra",
+      "transliteration": "Mantra",
+      "translation": "Instrument of thought",
+      "context": "A sacred formula, considered the sound-form of a deity."
+    },
+    {
+      "term": "Bīja",
+      "transliteration": "Bija",
+      "translation": "Seed",
+      "context": "Seed-syllables (bījākṣaras) that are the potent core of mantras."
+    },
+    {
+      "term": "Puraścaraṇa",
+      "transliteration": "Purashcharana",
+      "translation": "Preparatory performance",
+      "context": "A ritual of repeated mantra recitation to make the mantra effective."
+    },
+    {
+      "term": "Āmnāya",
+      "transliteration": "Amnaya",
+      "translation": "Sacred tradition",
+      "context": "The traditional schools of Śākta-āgama, typically four or five, associated with cardinal directions."
+    },
+    {
+      "term": "Pañca-makāra",
+      "transliteration": "Pancha-makara",
+      "translation": "Five M's",
+      "context": "Five ritual articles used in Vāmācāra: madya (wine), māṃsa (meat), matsya (fish), mudrā (gesture/grain), and maithuna (copulation)."
+    },
+    {
+      "term": "Śaṭ-karma",
+      "transliteration": "Shat-karma",
+      "translation": "Six acts",
+      "context": "Six magical/occult procedures (paralysing, deluding, killing, etc.) considered tāmasika in nature."
+    },
+    {
+      "term": "Samayācāra",
+      "transliteration": "Samayachara",
+      "translation": "Conventional conduct",
+      "context": "A refined, internalized form of Śākta worship, contrasted with the external rituals of Kaulācāra."
+    }
+  ],
+  "cross_reference_map": [
+    {
+      "reference_text": "(cf. Epigraphica Indica, 149-150)",
+      "target": "Epigraphica Indica",
+      "page": "6"
+    },
+    {
+      "reference_text": "(Vīrāgama, 1, 77)",
+      "target": "Vīrāgama",
+      "page": "6"
+    },
+    {
+      "reference_text": "(Acintyāgama, 40, 5-6)",
+      "target": "Acintyāgama",
+      "page": "6"
+    },
+    {
+      "reference_text": "(Epigraphica India, Vol. 13, p. 329)",
+      "target": "Epigraphica India, Vol. 13",
+      "page": "6"
+    },
+    {
+      "reference_text": "(Epigraphica India, Vol.6, p. 102)",
+      "target": "Epigraphica India, Vol.6",
+      "page": "8"
+    },
+    {
+      "reference_text": "(cf. Inscriptions of Nepal, p. 23-26)",
+      "target": "Inscriptions of Nepal",
+      "page": "8"
+    },
+    {
+      "reference_text": "Kalhaṇa's Rājataranginī (1, 105-107)",
+      "target": "Rājataranginī by Kalhaṇa",
+      "page": "1"
+    },
+    {
+      "reference_text": "Sāma-śāstri's edition of Artha-sāstra, Book 2, Chapter 4, p.54",
+      "target": "Artha-śāstra",
+      "page": "1"
+    },
+    {
+      "reference_text": "Patañjali's Mahābhāṣya (about 200 B.C.) ... (5, 2, 76)",
+      "target": "Mahābhāṣya by Patañjali",
+      "page": "1"
+    },
+    {
+      "reference_text": "Sarva-jñānottara (Kriyā 8, 78)",
+      "target": "Sarva-jñānottara Āgama",
+      "page": "3"
+    },
+    {
+      "reference_text": "Kālottara (37, 23 f)",
+      "target": "Kālottara Āgama",
+      "page": "4"
+    },
+    {
+      "reference_text": "(Śaivāgama-paribhāśā-mañjari, 8, 32-39)",
+      "target": "Śaivāgama-paribhāśā-mañjari",
+      "page": "4"
+    },
+    {
+      "reference_text": "The Mahābhārata (śānti-parva, 349,)",
+      "target": "Mahābhārata, Śānti-parva",
+      "page": "5"
+    },
+    {
+      "reference_text": "Brahma-yāmala",
+      "target": "Brahma-yāmala Tantra",
+      "page": "5"
+    },
+    {
+      "reference_text": "Pāśupata-sūtra",
+      "target": "Pāśupata-sūtra",
+      "page": "6"
+    },
+    {
+      "reference_text": "Pañcārtha-Bhāṣya",
+      "target": "Pañcārtha-Bhāṣya by Kauṇḍinya",
+      "page": "6"
+    },
+    {
+      "reference_text": "Bhāsarvajña's Ratna-ṭīkā (10th century)",
+      "target": "Ratna-ṭīkā by Bhāsarvajña",
+      "page": "6"
+    },
+    {
+      "reference_text": "Haradatta's Gaṇa-kārikā",
+      "target": "Gaṇa-kārikā by Haradatta",
+      "page": "6"
+    },
+    {
+      "reference_text": "EC, VII SK 102, tr. by Fleet, El, 5,222, cited in David N. Lorenzen, The Kāpālikas and Kālāmukhas, pp. 103-104",
+      "target": "Epigraphia Carnatica / Epigraphia Indica / The Kāpālikas and Kālāmukhas by David N. Lorenzen",
+      "page": "11"
+    },
+    {
+      "reference_text": "David N. Lorenzen, op. cit. p. 139-140",
+      "target": "The Kāpālikas and Kālāmukhas by David N. Lorenzen",
+      "page": "13"
+    },
+    {
+      "reference_text": "El, 15 p.8",
+      "target": "Epigraphia Indica, Volume 15",
+      "page": "14"
+    },
+    {
+      "reference_text": "Lorenzen, op. cit., p. 167",
+      "target": "The Kāpālikas and Kālāmukhas by David N. Lorenzen",
+      "page": "14"
+    },
+    {
+      "reference_text": "(see APPENDIX)",
+      "target": "APPENDIX",
+      "page": "50"
+    },
+    {
+      "reference_text": "The names of the subsidiary or affiliated texts known as Upāgamas are given in the Appendix; extracted from the table appearing in the Pondichery edition of Rauravāgama, Vol. I.",
+      "target": "APPENDIX",
+      "page": "56"
+    },
+    {
+      "reference_text": "see DĪKŚĀ for greater detail",
+      "target": "A chapter or entry on DĪKŚĀ",
+      "page": "71"
+    },
+    {
+      "reference_text": "see Appendix",
+      "target": "The book's Appendix",
+      "page": "73"
+    },
+    {
+      "reference_text": "see Appendix",
+      "target": "The book's Appendix",
+      "page": "83"
+    },
+    {
+      "reference_text": "the same as we find in Yoga-sūtra",
+      "target": "Patañjali's Yoga-sūtra",
+      "page": "83"
+    },
+    {
+      "reference_text": "cf. on Tantrāloka, 15th ahnika",
+      "target": "Tantrāloka, chapter 15",
+      "page": "91"
+    }
+  ],
+  "bibliography_network": [],
+  "keywords_by_frequency": []
+}

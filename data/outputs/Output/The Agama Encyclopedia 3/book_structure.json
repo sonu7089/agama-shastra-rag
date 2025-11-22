@@ -1,0 +1,93 @@
+{
+  "introduction": {
+    "title": "Introduction",
+    "start_page": 7,
+    "end_page": 8
+  },
+  "table_of_contents": {
+    "start_page": 5,
+    "end_page": 5
+  },
+  "chapters": [
+    {
+      "chapter_number": "I",
+      "title": "Historical Perspective",
+      "start_page": 1,
+      "end_page": 38
+    },
+    {
+      "chapter_number": "II",
+      "title": "THE VAIKHĀNASA COMMUNITY",
+      "start_page": 39,
+      "end_page": 76
+    },
+    {
+      "chapter_number": "III",
+      "title": "VAIKHĀNASA ĀGAMA",
+      "start_page": 77,
+      "end_page": 116
+    },
+    {
+      "chapter_number": "IV",
+      "title": "VAIKHĀNASA PHILOSOPHY",
+      "start_page": 117,
+      "end_page": 138
+    }
+  ],
+  "appendixes": [
+    {
+      "appendix_id": "I",
+      "title": "AN ACCOUNT OF THE ORIGIN OF VAIKHĀNASĀGAMA (Excerpt from Bhrgu's Prakīrṇādhikāra, Chap. 30)",
+      "start_page": 139,
+      "end_page": 141
+    },
+    {
+      "appendix_id": "II",
+      "title": "Excerpt from Bhrgu's Yajñādhikāra (Ch. 51)",
+      "start_page": 142,
+      "end_page": 143
+    },
+    {
+      "appendix_id": "III",
+      "title": "Excerpt from Vaikhānasa-grhya-sūtra-tātparya-cintāmaṇi of Śrīnivāsa-makhin",
+      "start_page": 144,
+      "end_page": 146
+    },
+    {
+      "appendix_id": "IV",
+      "title": "An extract from Bhrgu's Khilādhikāra (adhyāya 1) explaining the three methods of worship",
+      "start_page": 147,
+      "end_page": 148
+    },
+    {
+      "appendix_id": "V",
+      "title": "CONDUCT IN TEMPLE",
+      "start_page": 149,
+      "end_page": 160
+    },
+    {
+      "appendix_id": "VI",
+      "title": "NOTE ON TEMPLES AND TEMPLE-PRIESTS with Special Reference to Vaikhānasas",
+      "start_page": 161,
+      "end_page": 181
+    },
+    {
+      "appendix_id": "VII",
+      "title": "ON ICONIC WORSHIP",
+      "start_page": 182,
+      "end_page": 185
+    },
+    {
+      "appendix_id": "VIII",
+      "title": "DAŚA-VIDHA-HETŪ-NIRŪPAṆAM OF ŚRĪNIVĀ-MAKHIN",
+      "start_page": 186,
+      "end_page": 226
+    },
+    {
+      "appendix_id": "IX",
+      "title": "MARICI ON VAIKHĀNASA PHILOSOPHY (Excerpts from Vimānārcanā-Kalpa, Patalas 85-95)",
+      "start_page": 227,
+      "end_page": 235
+    }
+  ]
+}

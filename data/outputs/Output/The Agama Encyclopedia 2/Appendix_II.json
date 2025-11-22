@@ -1,0 +1,229 @@
+{
+  "appendix_id": "II",
+  "appendix_title": "ŚAIVĀGAMA TEXTS (Total number of Āgamas 28, and of upāgamas 207)",
+  "number_of_pages": 2,
+  "content": {
+    "divisions": [
+      {
+        "name": "I. ŚIVA-DIVISION",
+        "origin_groups": [
+          {
+            "origin": "(A) Originated from Sadyojāta face of Śiva:",
+            "agamas": [
+              {
+                "number": 1,
+                "name": "Kāmika",
+                "extent": "parardhagranthas",
+                "upagamas": 3
+              },
+              {
+                "number": 2,
+                "name": "Yogaja",
+                "extent": "1 lakṣa",
+                "upagamas": 5
+              },
+              {
+                "number": 3,
+                "name": "Cintya",
+                "extent": "2 lakṣa",
+                "upagamas": 6
+              },
+              {
+                "number": 4,
+                "name": "Kāraṇa",
+                "extent": "1 koṭi",
+                "upagamas": 7
+              },
+              {
+                "number": 5,
+                "name": "Ajita",
+                "extent": "1 niyuta",
+                "upagamas": 4
+              }
+            ]
+          },
+          {
+            "origin": "(B) From Vāmadeva-face",
+            "agamas": [
+              {
+                "number": 6,
+                "name": "Dīpta",
+                "extent": "1 niyuta",
+                "upagamas": 9
+              },
+              {
+                "number": 7,
+                "name": "Sūkṣma",
+                "extent": "1 padma",
+                "upagamas": 1
+              },
+              {
+                "number": 8,
+                "name": "Sāhasraka",
+                "extent": "5 lakṣa",
+                "upagamas": 10
+              },
+              {
+                "number": 9,
+                "name": "Aṁśu-mat",
+                "extent": "5 lakṣa",
+                "upagamas": 12
+              },
+              {
+                "number": 10,
+                "name": "Suprbheda",
+                "extent": "3 koṭi",
+                "upagamas": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "II. RUDRA-DIVISION",
+        "origin_groups": [
+          {
+            "origin": "(C) From Aghora face",
+            "agamas": [
+              {
+                "number": 11,
+                "name": "Vijaya",
+                "extent": "3 koṭi",
+                "upagamas": 8
+              },
+              {
+                "number": 12,
+                "name": "Niḥśvāsa",
+                "extent": "1 koṭi",
+                "upagamas": 8
+              },
+              {
+                "number": 13,
+                "name": "Svāyambhuva",
+                "extent": "3 koṭi",
+                "upagamas": 3
+              },
+              {
+                "number": 14,
+                "name": "Anala (Āgneya)",
+                "extent": "3 ayuta",
+                "upagamas": 1
+              },
+              {
+                "number": 15,
+                "name": "Vīra",
+                "extent": "1 niyuta",
+                "upagamas": 13
+              }
+            ]
+          },
+          {
+            "origin": "(D) From Tatpuruśa-face",
+            "agamas": [
+              {
+                "number": 16,
+                "name": "Raurava",
+                "extent": "8 arbuda",
+                "upagamas": 6
+              },
+              {
+                "number": 17,
+                "name": "Mukuṭa",
+                "extent": "śata-sāhasra",
+                "upagamas": 2
+              },
+              {
+                "number": 18,
+                "name": "Vimala",
+                "extent": "3 lakṣa",
+                "upagamas": 16
+              },
+              {
+                "number": 19,
+                "name": "Candra-jñāna",
+                "extent": "3 koṭi",
+                "upagamas": 14
+              },
+              {
+                "number": 20,
+                "name": "Mukha-bimba",
+                "extent": "1 lakṣa",
+                "upagamas": 15
+              }
+            ]
+          },
+          {
+            "origin": "(E) From Īśāna-face",
+            "agamas": [
+              {
+                "number": 21,
+                "name": "Prodgīta",
+                "extent": "3 lakṣa",
+                "upagamas": 16
+              },
+              {
+                "number": 22,
+                "name": "Śarvokta",
+                "extent": "2 lakṣa",
+                "upagamas": 5
+              },
+              {
+                "number": 23,
+                "name": "Lalita",
+                "extent": "8 sahasra",
+                "upagamas": 3
+              },
+              {
+                "number": 24,
+                "name": "Pārameśvara",
+                "extent": "12 lakṣa",
+                "upagamas": 7
+              },
+              {
+                "number": 25,
+                "name": "Siddha",
+                "extent": "1/2 koṭi",
+                "upagamas": 4
+              },
+              {
+                "number": 26,
+                "name": "Kiraṇa",
+                "extent": "5 koṭi",
+                "upagamas": 9
+              },
+              {
+                "number": 27,
+                "name": "Santāna",
+                "extent": "6 sahasra",
+                "upagamas": 7
+              },
+              {
+                "number": 28,
+                "name": "Vātula",
+                "extent": "1 lakṣa",
+                "upagamas": 12
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "[Note: A grantha is a verse of 32 syllables, Śata is 100; Sahasra 1000; Ayuta 10,000; Lakṣa 1,00,000; Prayuta (Niyuta) 10,00,000; Koṭi 1,00,00,000; Arbuda 10,00,00,000, Padma 1,00,00,00,000; Śaṁkha 10,00,00,00,00,00,000 and Parārdha the highest number 1,00,00,00,00,00,00,00,00,00,0, according to Līlāvatī]"
+  },
+  "summary": "This appendix lists the 28 principal Śaivāgama texts and their 207 subsidiary texts, known as upāgamas. The Āgamas are categorized into two main divisions, Śiva-Division and Rudra-Division, which are further subdivided based on the five faces of Śiva from which they are said to have originated: Sadyojāta, Vāmadeva, Aghora, Tatpuruṣa, and Īśāna. For each of the 28 Āgamas, the list provides its name, its extent (size in traditional units like lakṣa or koṭi), and the number of its associated upāgamas. A concluding note defines the numerical values for these traditional units, referencing the ancient mathematical text Līlāvatī.",
+  "purpose": "The purpose of this appendix is to provide a systematic and quantitative classification of the 28 primary Śaivāgama texts. It serves as a reference guide, outlining their canonical structure, their supposed divine origin from the five faces of Śiva, their individual textual volume (extent), and the number of secondary texts (upāgamas) associated with each. It also clarifies the traditional numerical system used to measure the texts' length.",
+  "key_information": [
+    "There are a total of 28 principal Śaivāgamas and 207 upāgamas.",
+    "The Āgamas are classified into two major categories: the Śiva-Division and the Rudra-Division.",
+    "These divisions are further broken down into five groups based on their origin from the five faces of Śiva: Sadyojāta, Vāmadeva, Aghora, Tatpuruśa, and Īśāna.",
+    "Each of the 28 Āgamas is listed with its name, its textual extent (size), and the number of its associated upāgamas.",
+    "A note at the end defines traditional Indian numerical units such as Śata (100), Lakṣa (100,000), Koṭi (10,000,000), up to Parārdha, referencing Līlāvatī."
+  ],
+  "tables_and_data": [
+    {
+      "description": "A classified list of the 28 principal Śaivāgamas.",
+      "data_summary": "The list is structured hierarchically, first by two main divisions (Śiva and Rudra), then by five subdivisions corresponding to the originating face of Śiva. For each of the 28 Āgamas, the list provides its name, its extent (e.g., '1 lakṣa', '1 koṭi', 'parardhagranthas'), and the number of its associated upāgamas. The sum of all upāgamas listed is 207, matching the total given in the appendix title. The appendix also includes a note defining the numerical values for units of extent like grantha, Lakṣa, Koṭi, etc."
+    }
+  ],
+  "references_to_chapters": []
+}

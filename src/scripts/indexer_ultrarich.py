@@ -642,6 +642,14 @@ class UltraRichBookIndexer:
         
         print(f"    Processing Appendix {appendix_id}: {appendix_title}")
         
+        # Handle both string and dictionary content
+        if isinstance(content, dict):
+            # Convert dictionary to readable text format
+            content = json.dumps(content, indent=2, ensure_ascii=False)
+        elif not isinstance(content, str):
+            # Fallback for other types
+            content = str(content)
+        
         # Split large appendix content into ~2000-word chunks
         content_chunks = self.split_long_text(content, max_words=2000)
         
