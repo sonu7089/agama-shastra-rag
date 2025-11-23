@@ -1,0 +1,110 @@
+{
+  "preface": {
+    "title": "The Āgama Encyclopaedia",
+    "start_page": 8,
+    "end_page": 8
+  },
+  "introduction": {
+    "title": "Introduction",
+    "start_page": 7,
+    "end_page": 7
+  },
+  "table_of_contents": {
+    "start_page": 5,
+    "end_page": 5
+  },
+  "chapters": [
+    {
+      "chapter_number": "I",
+      "title": "THE BHĀGAVATA BACKGROUND",
+      "start_page": 1,
+      "end_page": 20
+    },
+    {
+      "chapter_number": "II",
+      "title": "THE PĀÑCARĀTRA LITERATURE",
+      "start_page": 21,
+      "end_page": 52
+    },
+    {
+      "chapter_number": "III",
+      "title": "THE PĀÑCARĀTRA OUTLOOK",
+      "start_page": 53,
+      "end_page": 69
+    },
+    {
+      "chapter_number": "IV",
+      "title": "PĀÑCARĀTRA IDEOLOGY",
+      "start_page": 70,
+      "end_page": 93
+    },
+    {
+      "chapter_number": "V",
+      "title": "THE DEITY AND ITS MODES",
+      "start_page": 94,
+      "end_page": 130
+    },
+    {
+      "chapter_number": "VI",
+      "title": "PĀÑCARĀTRA PRACTICE",
+      "start_page": 131,
+      "end_page": 144
+    },
+    {
+      "chapter_number": "VII",
+      "title": "TANTRA-SĀRA-SAṄGRAHA",
+      "start_page": 145,
+      "end_page": 168
+    }
+  ],
+  "appendixes": [
+    {
+      "appendix_id": "I",
+      "title": "LIST OF PĀÑCARĀTRA TEXTS (In Viṣṇu-saṁhitā)",
+      "start_page": 169,
+      "end_page": 171
+    },
+    {
+      "appendix_id": "II",
+      "title": "LIST OF PĀÑCARĀTRA TEXTS (In Padma-saṁhitā)",
+      "start_page": 172,
+      "end_page": 174
+    },
+    {
+      "appendix_id": "III",
+      "title": "LIST OF PĀÑCARĀTRA TEXTS (in Hayaśīrṣa-saṁhitā)",
+      "start_page": 175,
+      "end_page": 175
+    },
+    {
+      "appendix_id": "IV",
+      "title": "108 Pāñcarātra texts as given in Bhāradvāja-saṁhitā (Chap.1)",
+      "start_page": 176,
+      "end_page": 177
+    },
+    {
+      "appendix_id": "V",
+      "title": "GROUPING OF PĀÑCARĀTRA TEXTS According to Siddhānta-ratnākara",
+      "start_page": 178,
+      "end_page": 179
+    },
+    {
+      "appendix_id": "VI",
+      "title": "THE FORMS OF VIṢṆU TO BE WORSHIPPED IN THE MANTRA-SIDDHĀNTA (According to Pauṣkara and Īśvara-saṁhitās)",
+      "start_page": 180,
+      "end_page": 181
+    },
+    {
+      "appendix_id": "VII",
+      "title": "FORMS OF VIṢṆU AS LETTERS OF THE ALPHABET (According to Tantra-sāra-saṁgraha)",
+      "start_page": 182,
+      "end_page": 183
+    },
+    {
+      "appendix_id": "VIII",
+      "title": "THE TWENTY-FOUR FORMS OF VIṢṆU (According to Tantra-sāra-saṁgraha)",
+      "start_page": 184,
+      "end_page": 185
+    }
+  ]
+}

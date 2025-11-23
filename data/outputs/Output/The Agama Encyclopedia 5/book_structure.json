@@ -1,0 +1,87 @@
+{
+  "introduction": {
+    "title": "Introduction",
+    "start_page": 7,
+    "end_page": 8
+  },
+  "table_of_contents": {
+    "start_page": 5,
+    "end_page": 5
+  },
+  "chapters": [
+    {
+      "chapter_number": "1",
+      "title": "THE BACKGROUND",
+      "start_page": 1,
+      "end_page": 44
+    },
+    {
+      "chapter_number": "2",
+      "title": "THE SAMAYA IDEOLOGY",
+      "start_page": 45,
+      "end_page": 78
+    },
+    {
+      "chapter_number": "3",
+      "title": "THE IDEA OF ANTARYĀGA",
+      "start_page": 79,
+      "end_page": 105
+    },
+    {
+      "chapter_number": "4",
+      "title": "LITERATURE",
+      "start_page": 106,
+      "end_page": 119
+    }
+  ],
+  "appendixes": [
+    {
+      "appendix_id": "I",
+      "title": "BHĀVANOPANIṢAT",
+      "start_page": 121,
+      "end_page": 123
+    },
+    {
+      "appendix_id": "II",
+      "title": "TANTRAS IN THE THREE DIVISIONS",
+      "start_page": 124,
+      "end_page": 127
+    },
+    {
+      "appendix_id": "III",
+      "title": "EXCERPTS FROM ŚAKTI-MAHIMNAH-STAVA",
+      "start_page": 128,
+      "end_page": 132
+    },
+    {
+      "appendix_id": "IV",
+      "title": "SUBHAGODAYASTUTI",
+      "start_page": 133,
+      "end_page": 142
+    },
+    {
+      "appendix_id": "V",
+      "title": "THE CAKRAS",
+      "start_page": 143,
+      "end_page": 146
+    },
+    {
+      "appendix_id": "VI",
+      "title": "KUṆḌALINĪ",
+      "start_page": 147,
+      "end_page": 148
+    },
+    {
+      "appendix_id": "VII",
+      "title": "THE TATTVAS AND KĀLAS",
+      "start_page": 149,
+      "end_page": 151
+    },
+    {
+      "appendix_id": "VIII",
+      "title": "THE TITHI-NITYĀS",
+      "start_page": 152,
+      "end_page": 154
+    }
+  ]
+}

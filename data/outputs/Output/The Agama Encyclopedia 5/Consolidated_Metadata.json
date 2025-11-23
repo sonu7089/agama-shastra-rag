@@ -1,0 +1,1018 @@
+{
+  "book_title": "The Agama Encyclopedia 5",
+  "total_chapters": 4,
+  "total_pages": 0,
+  "all_historical_figures": [
+    {
+      "name": "Śūlinī, Dhūmāvatī, Kubjikā, Eka-jaṭā, Cāmuṇḍā, Vārāhī",
+      "role": "Folk deities",
+      "significance": "Mentioned as the focus of Śāktāgama's cultic rituals, in contrast to Devyāgama's focus on Devi as Brahman.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Lakṣmī-dhara",
+      "role": "Scholar/Author",
+      "significance": "His work, Saubhāgya-ratnākara, is cited for its explanation of Samayācāra as internal worship.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Vasiṣṭha, Sanaka, Śuka, Sanandana, Sanat-kumāra",
+      "role": "Sages",
+      "significance": "Ascribed as authors of the five 'śubhāgama-pañcaka' texts associated with Samayācāra.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Patañjali",
+      "role": "Sage/Philosopher",
+      "significance": "Author of the Yoga-sūtra, his concept of Kriyā-yoga is used to explain the 'combined' approach of Devyāgama.",
+      "dates": "c. 2nd century BCE"
+    },
+    {
+      "name": "Nāka-maudgalyāyana",
+      "role": "Sage",
+      "significance": "Quoted for the idea that Vedic study (svādhyāya) is itself a form of penance (tapas).",
+      "dates": "N/A"
+    },
+    {
+      "name": "Raghunath Misra",
+      "role": "Editor",
+      "significance": "Editor of the cited edition of Pārānanda-tantra (Varanasi, 1985).",
+      "dates": "Modern"
+    },
+    {
+      "name": "Aditi",
+      "role": "Vedic Goddess",
+      "significance": "Presented as the most significant goddess in the Ṛgveda and a precursor to the concept of Devī as the primordial, infinite mother.",
+      "dates": "Vedic Period"
+    },
+    {
+      "name": "Dakṣa-Prajāpati",
+      "role": "Creator deity",
+      "significance": "Mentioned in a paradox where he is both the father and son of Aditi, illustrating common divine origins.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Yāska",
+      "role": "Etymologist/Grammarian",
+      "significance": "His work, Nirukta, is cited multiple times for its interpretations of Vedic terms and concepts, including Aditi and the nature of deities.",
+      "dates": "c. 6th-4th century BCE"
+    },
+    {
+      "name": "Skanda-svāmi",
+      "role": "Commentator",
+      "significance": "Cited for his commentary on the Ṛgveda, interpreting the meaning of 'Aditi'.",
+      "dates": "c. 600-650 CE"
+    },
+    {
+      "name": "Sāyaṇa",
+      "role": "Commentator",
+      "significance": "Cited for his commentary on Vedic hymns, explaining the distinction between Aditi and Diti.",
+      "dates": "14th century CE"
+    },
+    {
+      "name": "Kullūka-bhaṭṭa",
+      "role": "Commentator",
+      "significance": "Commentator on Manu-saṁhitā, quoted for citing Hārīta's division of śruti into 'vaidikī' and 'tāntrikī'.",
+      "dates": "c. 1150-1300 A.D."
+    },
+    {
+      "name": "Hārīta",
+      "role": "Sage/Lawgiver",
+      "significance": "Quoted by Kullūka-bhaṭṭa for the concept of two types of śruti (Vedic and Tantric).",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Vāk Āmbhṛaṇī",
+      "role": "Seer (Ṛṣi)",
+      "significance": "The female seer of the Devī-sūkta (Ṛgveda, 10, 125), who identifies herself with the supreme reality.",
+      "dates": "Vedic Period"
+    },
+    {
+      "name": "Bhāskara-rāya-makhin",
+      "role": "Tantric authority/Commentator",
+      "significance": "A major authority cited for his commentary on Lalitā-sahasra-nāma and Bhāvanopaniśad, arguing that tantras align with the brahma-kāṇḍa of the Vedas.",
+      "dates": "c. 1690-1785 CE"
+    },
+    {
+      "name": "Umā haimavatī",
+      "role": "Goddess",
+      "significance": "Appears in the Kena Upaniṣad to reveal the nature of Brahman to the gods; identified as the Upaniṣadic version of Devī.",
+      "dates": "Upaniṣadic Period"
+    },
+    {
+      "name": "Āśvalāyana",
+      "role": "Sage",
+      "significance": "Figure in the Sarasvatī-rahasyopaniśad who teaches the secret knowledge of Sarasvatī.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Lopāmudrā, Krodha-muni (Durvāsa), Candra, Nandi, Prabhākara, Ṣanmukha, Parama-śiva, Viṣṇu",
+      "role": "Sages/Deities",
+      "significance": "Founders of different Śrī-vidyā traditions mentioned in Tripurā-tāpinyupaniśad.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Ānanda, Kardama, Ciklīta",
+      "role": "Sages",
+      "significance": "Sons of Lakṣmī who are said to have perceived the hymns of the Śrī-sūkta.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Ādi-nārāyaṇa",
+      "role": "Deity",
+      "significance": "The divine teacher in Saubhāgya-lakṣmyupaniṣad who instructs the sages.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Prajāpati",
+      "role": "Creator deity",
+      "significance": "The divine teacher in Sītopaniśad who explains the nature of Sītā.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Janaka",
+      "role": "King",
+      "significance": "The earthly father of Sītā, who appeared from a ploughshare.",
+      "dates": "Epic Period"
+    },
+    {
+      "name": "Tumburu, Nārada, Rākā, Siñivālī, Hlādinī, Māyā, Svāhā, Svadhā",
+      "role": "Celestial beings/Goddesses",
+      "significance": "Mentioned as attendants of Vīra-lakṣmī in Sītopaniśad.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Lopāmudrā",
+      "role": "First promulgator of a vidyā",
+      "significance": "Represents one of the twelve principal traditions of Śrī-vidyā. Also associated with the Hādi-division.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Durvāsa",
+      "role": "First promulgator of a vidyā; Author of Devi-mahimnah-stava",
+      "significance": "An important sage in the Śrī-vidyā tradition.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Manu",
+      "role": "First promulgator of a vidyā",
+      "significance": "One of the twelve founders of a vidyā.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Candra",
+      "role": "First promulgator of a vidyā",
+      "significance": "One of the twelve founders of a vidyā.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Madana (Kāmarāja)",
+      "role": "First promulgator of a vidyā",
+      "significance": "Originator of the Kāmarāja-vidyā, a primary form of Śrī-vidyā.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Kubera",
+      "role": "First promulgator of a vidyā",
+      "significance": "One of the twelve founders of a vidyā.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Agastya",
+      "role": "First promulgator of a vidyā",
+      "significance": "A prominent sage associated with a Śrī-vidyā lineage.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Viṣṇu",
+      "role": "First promulgator of a vidyā; Deity (Preserver)",
+      "significance": "Listed as a founder and a primary deity in the Hindu pantheon.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Parama-śiva",
+      "role": "First promulgator of a vidyā",
+      "significance": "Represents the ultimate source of a vidyā.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Benoytosh Bhattacarya",
+      "role": "Modern scholar",
+      "significance": "Quoted for his definition of Samayācāra from his introduction to the Śakti-saṅgama-tantra.",
+      "dates": "20th century"
+    },
+    {
+      "name": "Vasiṣṭha, Śuka, Śaunaka, Sanandana, Sanatkumāra",
+      "role": "Five great sages",
+      "significance": "Authors of the 'śubhāgama-pañcaka', the five auspicious scriptures associated with the Samaya approach.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Gauḍa-pāda",
+      "role": "Sage/Author",
+      "significance": "Author of 'Subhagodaya', a text on Śrī-vidyā quoted multiple times.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Lakṣmīdhara",
+      "role": "Commentator",
+      "significance": "Authoritative commentator on the 'Saundarya-laharī', whose interpretations are cited.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Vīra-rāghava",
+      "role": "Author",
+      "significance": "Author of 'Śrī-vidyā-mantra-bhāṣya', quoted regarding the sixteenth kalā.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Sanatkumāra",
+      "role": "Sage/Author",
+      "significance": "Source of the Sanatkumāra-samhitā, a text quoted for its views on the prohibition of external worship for advanced practitioners.",
+      "dates": "Mythological/Ancient"
+    },
+    {
+      "name": "Gauḍapāda",
+      "role": "Philosopher/Sage",
+      "significance": "Author of the Subhagodaya-stava, which is cited for its formulation of the six kinds of identity contemplations in Samaya worship.",
+      "dates": "c. 7th or 8th century CE (traditional)"
+    },
+    {
+      "name": "Muralidhar Jha",
+      "role": "Editor",
+      "significance": "Editor of the Puraścaryārṇava, a text quoted for its classifications of religious observances.",
+      "dates": "The revised edition cited is from 1985."
+    },
+    {
+      "name": "Bhāskara-rāya-makhin",
+      "role": "Commentator and Writer on Śrī-vidyā",
+      "significance": "Mentioned as a prolific writer and the author of an excellent commentary on the Bhāvanopaniśat, a key text for Antaryāga.",
+      "dates": "c. 1690–1785 CE"
+    },
+    {
+      "name": "Raghunāth Miśra",
+      "role": "Editor",
+      "significance": "Editor of the Pārānanda-tantra, a text cited for its enumeration of twenty cakras.",
+      "dates": "The edition cited is from 1985."
+    },
+    {
+      "name": "Durvāsa",
+      "role": "Author",
+      "significance": "Mentioned as the author of the text Saubhāgya-cintāmaṇi, part of the 'miśra' tradition's literature.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Lakṣmīdhara",
+      "role": "Commentator/Scholar",
+      "significance": "His classification of the Kaula groups into five distinct sects (pūrva-kaulas, uttara-kaulas, etc.) is cited. His views on Vāmācārins and specific texts are also referenced.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Gauḍapāda",
+      "role": "Author",
+      "significance": "Author of Subhagodaya, a poetical work of fifty-two verses that formulates the Samaya outlook.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Śamkara",
+      "role": "Vedāntin/Philosopher",
+      "significance": "Mentioned as the person to whom Saundarya-laharī is 'commonly but erroneously ascribed'.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Pārvati",
+      "role": "Deity/Questioner",
+      "significance": "In the Mahā-nirvāṇa-tantra, she is the one who asks questions.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Śiva",
+      "role": "Deity/Answerer",
+      "significance": "In the Mahā-nirvāṇa-tantra, he is the one who answers Pārvati's questions. He is also central to the philosophy discussed in Paraśurāma-kalpa-sūtra.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Mādhavānanda-nātha",
+      "role": "Author",
+      "significance": "Mentioned as the author of Saubhāgya-kalā-druma.",
+      "dates": "Not specified"
+    }
+  ],
+  "complete_timeline": [
+    {
+      "event": "No specific historical events with dates are mentioned in this chapter. The content is theological and philosophical.",
+      "date": "N/A",
+      "significance": "N/A"
+    },
+    {
+      "event": "Life of Kullūka-bhaṭṭa",
+      "date": "c. 1150-1300 A.D.",
+      "significance": "His commentary on Manu-saṁhitā is cited as evidence for the ancient division between Vedic and Tantric traditions."
+    },
+    {
+      "event": "Composition of the Ṛgveda Saṁhitā",
+      "date": "c. 1500-1200 BCE",
+      "significance": "The source text for the Devī-sūkta, Śrī-sūkta, and the concepts of goddesses like Aditi, which form the Vedic foundation of Devyāgama."
+    },
+    {
+      "event": "Life of Bhāskara-rāya-makhin",
+      "date": "c. 1690-1785 CE",
+      "significance": "A major Tantric authority whose commentaries are used to argue for the alignment of Tantra (specifically Śrī-vidyā) with the gnostic (jñāna) part of the Vedas."
+    },
+    {
+      "event": "Life of Patañjali",
+      "date": "c. 2nd century BCE",
+      "significance": "His Yoga-sūtra provided the framework for Kriyā-yoga, which is used in the text to conceptualize Devyāgama's synthetic approach."
+    },
+    {
+      "event": "Composition of early Upaniṣads (like Kena Upaniṣad)",
+      "date": "c. 800-500 BCE",
+      "significance": "These texts established the philosophy of Brahman, with which Devyāgama aligns the concept of Devī."
+    }
+  ],
+  "all_geographic_locations": [
+    {
+      "place": "Varanasi",
+      "context": "Mentioned as the publication place of the cited edition of Pārānanda-tantra.",
+      "significance": "A major historical center for Sanskrit scholarship and Hindu religious traditions."
+    },
+    {
+      "place": "Bangalore",
+      "context": "Mentioned as the publication place of the author's own book, 'The Tantra of Sri-Cakra: Bhavanopaniśat'.",
+      "significance": "Shows the location of modern scholarship on the subject."
+    },
+    {
+      "place": "Jālandhara-pīṭha",
+      "context": "Mentioned as the northern corner of the central triangle in Śrī-cakra.",
+      "significance": "One of the primary Śakti Pīṭhas, a sacred center for goddess worship."
+    },
+    {
+      "place": "Pūrṇāgiri-pīṭha",
+      "context": "Mentioned as the southern corner of the central triangle in Śrī-cakra.",
+      "significance": "One of the primary Śakti Pīṭhas."
+    },
+    {
+      "place": "Kāma-giri-pīṭha",
+      "context": "Mentioned as the third corner (svāgra-koṇastha) of the central triangle in Śrī-cakra.",
+      "significance": "One of the primary Śakti Pīṭhas, associated with Kāmākhyā."
+    },
+    {
+      "place": "Delhi",
+      "context": "Mentioned as the publication city of the revised edition (1985) of Puraścaryārṇava by Chowkhamba Sanskrit Pratishthana.",
+      "significance": "A modern center for the publication of Sanskrit texts."
+    },
+    {
+      "place": "Vārāṇasi",
+      "context": "Mentioned as the publication city of the Pārānanda-tantra (1985) by Sampūrṇanda Sanskrit University.",
+      "significance": "A historic and ongoing major center for Sanskrit learning and religious studies in India."
+    },
+    {
+      "place": "Kerala",
+      "context": "The first of four regions in the Sammohana-tantra's classification. The tradition belongs to the Kahādi-division.",
+      "significance": "A major center for a specific strand of Devi worship."
+    },
+    {
+      "place": "Anga",
+      "context": "The starting point of the Kerala region (from Anga to Mālava).",
+      "significance": "Defines the eastern boundary of the 'Kerala' region in this context."
+    },
+    {
+      "place": "Mālavā",
+      "context": "The end point of the Kerala region (from Anga to Mālava).",
+      "significance": "Defines the western boundary of the 'Kerala' region in this context."
+    },
+    {
+      "place": "Kaśmira",
+      "context": "The second of four regions in the Sammohana-tantra's classification. The tradition is Hādi.",
+      "significance": "A major center for the Hādi tradition and Tripura-sundarī worship."
+    },
+    {
+      "place": "Madra",
+      "context": "The starting point of the Kaśmira region (from Madra to Nepāla).",
+      "significance": "Defines the western boundary of the 'Kaśmira' region."
+    },
+    {
+      "place": "Nepāla",
+      "context": "The end point of the Kaśmira region and the starting point of the Ratha-krānta division.",
+      "significance": "Marks a boundary for two different classification systems."
+    },
+    {
+      "place": "Gauḍa",
+      "context": "The third of four regions in the Sammohana-tantra's classification. The tradition is Kādi.",
+      "significance": "A major center for the Kādi tradition and Kālī worship."
+    },
+    {
+      "place": "Assam",
+      "context": "The starting point of the Gauḍa region (from Assam to Sindhu).",
+      "significance": "Defines the eastern boundary of the 'Gauḍa' region."
+    },
+    {
+      "place": "Sindhu",
+      "context": "The end point of the Gauḍa region (from Assam to Sindhu).",
+      "significance": "Defines the western boundary of the 'Gauḍa' region."
+    },
+    {
+      "place": "Viśālā",
+      "context": "The fourth of four regions, described as 'all over the country'.",
+      "significance": "A pan-Indian classification for traditions not covered by the other three."
+    },
+    {
+      "place": "Vindhya mountains",
+      "context": "Used as a geographical marker for the Krānta divisions (Viṣṇu-krānta, Aśva-krānta, Ratha-krānta).",
+      "significance": "A central dividing line in the territorial classification of tantras."
+    },
+    {
+      "place": "Cattala (Cittagong in Bengal)",
+      "context": "The eastern boundary of the Viṣṇu-krānta division.",
+      "significance": "Defines the extent of the eastern tantric division."
+    },
+    {
+      "place": "Java islands",
+      "context": "An alternative eastern boundary of the Viṣṇu-krānta division.",
+      "significance": "Suggests the influence or reach of these traditions far into Southeast Asia."
+    },
+    {
+      "place": "Mahā-cīna",
+      "context": "The eastern boundary of the Aśva-krānta (western) division.",
+      "significance": "Likely refers to Greater China, indicating a far-reaching geographical scope for these traditions."
+    },
+    {
+      "place": "Tibet",
+      "context": "The northern boundary of the Ratha-krānta division.",
+      "significance": "Indicates the northern extent of these tantric traditions."
+    }
+  ],
+  "complete_terminology_index": [
+    {
+      "term": "Devyāgama",
+      "transliteration": "Devyāgama",
+      "translation": "Āgama (traditional doctrine) of the Goddess (Devī)",
+      "context": "The main subject of the chapter, a school of thought and practice centered on the Goddess, distinct from Śāktāgama."
+    },
+    {
+      "term": "Śāktāgama",
+      "transliteration": "Śāktāgama",
+      "translation": "Āgama of the Śāktas (followers of Śakti)",
+      "context": "The broader tradition of Goddess worship from which Devyāgama is distinguished."
+    },
+    {
+      "term": "Śaivāgama",
+      "transliteration": "Śaivāgama",
+      "translation": "Āgama of the Śaivas (followers of Śiva)",
+      "context": "The tradition to which Śāktāgama is generally considered a division."
+    },
+    {
+      "term": "Devyupaniṣads",
+      "transliteration": "Devyupaniṣads",
+      "translation": "Upaniṣads of the Goddess",
+      "context": "A specific group of eight Upaniṣads that form the scriptural basis of Devyāgama."
+    },
+    {
+      "term": "Kuṇḍalinī-yoga",
+      "transliteration": "Kuṇḍalinī-yoga",
+      "translation": "Yoga of the coiled energy (Kuṇḍalinī)",
+      "context": "A topic covered in both Śāktāgama and Devyāgama."
+    },
+    {
+      "term": "Śrī-vidyā",
+      "transliteration": "Śrī-vidyā",
+      "translation": "Auspicious knowledge/lore",
+      "context": "A central doctrine and practice in both traditions, especially important in Devyāgama as its principal component."
+    },
+    {
+      "term": "Samaya",
+      "transliteration": "Samaya",
+      "translation": "Convention, doctrine, agreement; here signifies Vedic tradition",
+      "context": "The name of the path/ideology of Devyāgama."
+    },
+    {
+      "term": "Vedācāra",
+      "transliteration": "Vedācāra",
+      "translation": "Conduct according to the Vedas",
+      "context": "The first of the 'seven conducts' and synonymous with Samayācāra."
+    },
+    {
+      "term": "Kaulācāra",
+      "transliteration": "Kaulācāra",
+      "translation": "Conduct of the Kaulas",
+      "context": "The highest path in the tantric hierarchy, which disregards restrictions."
+    },
+    {
+      "term": "Vāmācāra",
+      "transliteration": "Vāmācāra",
+      "translation": "Left-hand conduct",
+      "context": "An anti-Vedic, antinomian path in the tantric hierarchy."
+    },
+    {
+      "term": "Dakṣiṇācāra",
+      "transliteration": "Dakṣiṇācāra",
+      "translation": "Right-hand conduct",
+      "context": "A path more aligned with Vedic norms than Vāmācāra."
+    },
+    {
+      "term": "paśu",
+      "transliteration": "paśu",
+      "translation": "Beast, bound soul",
+      "context": "The lowest of the three practitioner dispositions (bhāva), associated with Vedic-based paths."
+    },
+    {
+      "term": "vīra",
+      "transliteration": "vīra",
+      "translation": "Hero",
+      "context": "The middling practitioner disposition, associated with Vāmācāra."
+    },
+    {
+      "term": "divya",
+      "transliteration": "divya",
+      "translation": "Divine",
+      "context": "The highest practitioner disposition, associated with Kaulācāra."
+    },
+    {
+      "term": "antaryāga",
+      "transliteration": "antaryāga",
+      "translation": "Internal sacrifice/worship",
+      "context": "The core practice of Devyāgama, involving mental and symbolic rituals."
+    },
+    {
+      "term": "bahir-yāga",
+      "transliteration": "bahir-yāga",
+      "translation": "External sacrifice/worship",
+      "context": "Actual or external Vedic rituals, contrasted with antaryāga."
+    },
+    {
+      "term": "Kriyā-yoga",
+      "transliteration": "Kriyā-yoga",
+      "translation": "Yoga of action",
+      "context": "The combination of tapas, svādhyāya, and īśvara-praṇidhāna, presented as the method of Devyāgama."
+    },
+    {
+      "term": "bhāvanā",
+      "transliteration": "bhāvanā",
+      "translation": "Making become, mental contemplation, internal worship",
+      "context": "The central theme of Bhāvanopaniśad, meaning internal worship of Śakti."
+    },
+    {
+      "term": "pañca-makāra",
+      "transliteration": "pañca-makāra",
+      "translation": "The five 'M's",
+      "context": "The five articles used in some Śākta rituals: matsya (fish), māṁsa (flesh), madya (liquor), mudrā (stance), and maithuna (sexual union). Rejected by Devyāgama."
+    },
+    {
+      "term": "Śrī-cakra",
+      "transliteration": "Śrī-cakra",
+      "translation": "Auspicious wheel/diagram",
+      "context": "A key yantra in Śrī-vidyā, symbolically interpreted in Devyupaniṣads."
+    },
+    {
+      "term": "वैष्णवादुत्तमं शैवं शैवाद्दक्षिणमुत्तमम्। दक्षिणादुत्तमं वामं वामात् सिद्धान्तमुत्तमम्। सिद्धान्तादुत्तमं कौलात्परतरं न हि ॥",
+      "transliteration": "vaiṣṇavāduttamaṁ śaivaṁ śaivāddakṣiṇamuttamam। dakṣiṇāduttamaṁ vāmaṁ vāmāt siddhāntamuttamam। siddhāntāduttamaṁ kaulātparataraṁ na hi ॥",
+      "translation": "Śaiva is superior to Vaiṣṇava, Dakṣiṇa is superior to Śaiva. Vāma is superior to Dakṣiṇa, Siddhānta is superior to Vāma. Kaula is superior to Siddhānta, there is nothing higher than Kaula.",
+      "context": "Quoted from Kulārṇava-tantra to illustrate the hierarchy of the 'seven conducts'."
+    },
+    {
+      "term": "अन्तः शाक्ताः बहिः शैवाः सभायां वैष्णवा मता। नानावेशधराः कौला विचरन्ति महितले ॥",
+      "transliteration": "antaḥ śāktāḥ bahiḥ śaivāḥ sabhāyāṁ vaiṣṇavā matā। nānāveśadharāḥ kaulā vicaranti mahitale ॥",
+      "translation": "Within, they are Śāktas; outside, Śaivas; in assemblies, they are considered Vaiṣṇavas. Assuming various guises, the Kaulas wander the earth.",
+      "context": "Quoted from Śyāmā-rahasya to describe the secretive nature of Kaula practitioners."
+    },
+    {
+      "term": "mokṣa",
+      "transliteration": "mokṣa",
+      "translation": "Liberation, emancipation",
+      "context": "The ultimate goal of Devyāgama and its principal practice, Śrīvidyā."
+    },
+    {
+      "term": "Vidyā",
+      "transliteration": "Vidyā",
+      "translation": "Knowledge, lore, science",
+      "context": "The collective name for the theory and practice of Devyāgama (goddess traditions)."
+    },
+    {
+      "term": "Samaya",
+      "transliteration": "Samaya",
+      "translation": "Convention, rule, agreement; The ideology of internal worship.",
+      "context": "The name of the internal, Vedic-aligned school of Śrī-vidyā worship. The term itself is said to mean 'Vedic convention'."
+    },
+    {
+      "term": "Kaula",
+      "transliteration": "Kaula",
+      "translation": "Relating to Kula (family, totality)",
+      "context": "A school of Tantra contrasted with Samaya, characterized by external worship and focus on lower chakras."
+    },
+    {
+      "term": "Śrī-cakra",
+      "transliteration": "Śrī-cakra",
+      "translation": "Auspicious wheel/diagram",
+      "context": "The central yantra (geometric diagram) used in Śrī-vidyā worship, representing the cosmos and the goddess."
+    },
+    {
+      "term": "Antaryāga",
+      "transliteration": "Antaryāga",
+      "translation": "Internal worship",
+      "context": "The essential aspect and distinguishing feature of the Samaya approach."
+    },
+    {
+      "term": "Bāhya-pūjā",
+      "transliteration": "Bāhya-pūjā",
+      "translation": "External worship",
+      "context": "The mode of worship attributed to the Kaulas and others, contrasted with antaryāga."
+    },
+    {
+      "term": "Kuṇḍalinī",
+      "transliteration": "Kuṇḍalinī",
+      "translation": "The coiled one",
+      "context": "The serpent power, or latent spiritual energy, at the base of the spine, which is awakened and raised through the chakras in yogic practice."
+    },
+    {
+      "term": "Cakra",
+      "transliteration": "Cakra",
+      "translation": "Wheel, circle",
+      "context": "The psychic energy centers in the subtle body, located along the spinal column."
+    },
+    {
+      "term": "Mūlādhāra",
+      "transliteration": "Mūlādhāra",
+      "translation": "Root support",
+      "context": "The basal chakra, located at the perineum, associated with the earth element and worshipped by Kaulas."
+    },
+    {
+      "term": "Sahasrāra",
+      "transliteration": "Sahasrāra",
+      "translation": "Thousand-petalled",
+      "context": "The crown chakra, the highest psychic center, and the exclusive focus of worship for Samayins."
+    },
+    {
+      "term": "Kādi-vidyā",
+      "transliteration": "Kādi-vidyā",
+      "translation": "The lore beginning with 'Ka'",
+      "context": "A major school of Śrī-vidyā, identified with the Samaya tradition."
+    },
+    {
+      "term": "Hādi-vidyā",
+      "transliteration": "Hādi-vidyā",
+      "translation": "The lore beginning with 'Ha'",
+      "context": "A major school of Śrī-vidyā, contrasted with Kādi and associated with Lopāmudrā."
+    },
+    {
+      "term": "Sāmya",
+      "transliteration": "Sāmya",
+      "translation": "Sameness, identity, equality",
+      "context": "The core Samaya principle of the absolute identity of Śiva and Śakti, elaborated in five aspects."
+    },
+    {
+      "term": "Bindu",
+      "transliteration": "Bindu",
+      "translation": "Dot, point, drop",
+      "context": "Represents the unmanifest, transcendental point of unity (Śiva) from which creation emerges; the central point of the Śrī-cakra."
+    },
+    {
+      "term": "Pañca-daśī",
+      "transliteration": "Pañca-daśī",
+      "translation": "The fifteen-lettered one",
+      "context": "The famous fifteen-syllable mantra of Śrī-vidyā."
+    },
+    {
+      "term": "Ṣoḍaśī",
+      "transliteration": "Ṣoḍaśī",
+      "translation": "The sixteen-lettered one",
+      "context": "The transcendental, sixteenth aspect or syllable (Śrīm) added to the Pañcadaśī, representing the Mahā-nityā."
+    },
+    {
+      "term": "Antaryāga",
+      "transliteration": "Antaryāga",
+      "translation": "Internal worship",
+      "context": "The central topic of the chapter, contrasted with external worship."
+    },
+    {
+      "term": "बहिरर्चनम्",
+      "transliteration": "bahir-yāga / bahirarcanam",
+      "translation": "External worship",
+      "context": "The conventional mode of worship with material objects, considered preliminary."
+    },
+    {
+      "term": "उपचार",
+      "transliteration": "upacāra",
+      "translation": "Services or offerings",
+      "context": "The sixteen or more services conducted with material objects in external worship."
+    },
+    {
+      "term": "मुद्रा",
+      "transliteration": "mudrā",
+      "translation": "Gesture",
+      "context": "Symbolic hand gestures used in external worship."
+    },
+    {
+      "term": "बाह्यपूजा न कर्तव्या कर्तव्या बाह्यजातिभिः। सा क्षुद्रफलदा नृणां ऐहिकाथैकसाधनात् ॥",
+      "transliteration": "Bāhyapūjā na kartavyā kartavyā bāhyajātibhiḥ। Sā kṣudraphaladā nṛṇāṃ aihikārthaikasādhanāt ॥",
+      "translation": "External worship should not be done (by the advanced), it should be done by the outer classes. It gives petty results to men, as its only aim is worldly things.",
+      "context": "Quoted from Sanatkumāra-samhitā to prohibit external worship for advanced practitioners."
+    },
+    {
+      "term": "अकृत्वा मानसं यागं न कुर्याद् बहिरर्चनम्",
+      "transliteration": "Akṛtvā mānasaṃ yāgaṃ na kuryād bahirarcanam",
+      "translation": "Without performing the mental sacrifice, one should not perform the external worship.",
+      "context": "A view suggesting internal worship must precede external worship."
+    },
+    {
+      "term": "नित्यकर्म",
+      "transliteration": "nitya-karma",
+      "translation": "Daily obligatory duty",
+      "context": "A view that worship of god is a duty that cannot be given up."
+    },
+    {
+      "term": "प्रत्यवाय",
+      "transliteration": "pratyavāya",
+      "translation": "Sin of omission",
+      "context": "The sin incurred by not performing a nitya-karma."
+    },
+    {
+      "term": "कौलिकं कुर्वतः कर्म वैदिकं नाऽभिधीयते । विरोधादुभयं नष्टं तस्मादेकपथा चरेत्।।",
+      "transliteration": "Kaulikaṃ kurvataḥ karma vaidikaṃ nā'bhidhīyate । Virodhādubhayaṃ naṣṭaṃ tasmādekapathā caret।।",
+      "translation": "For one performing Kaulika rites, Vedic rites are not prescribed. Due to contradiction both are destroyed, therefore one should follow a single path.",
+      "context": "Quoted from Rudra-yāmala to show the antagonism between Kaulika and Vedic paths."
+    },
+    {
+      "term": "उपासना",
+      "transliteration": "upāsanā",
+      "translation": "Religious devotion/worship",
+      "context": "The subject of a three-fold classification from Meru-tantra."
+    },
+    {
+      "term": "Śuddha",
+      "transliteration": "Śuddha",
+      "translation": "Pure",
+      "context": "The highest category of upāsanā."
+    },
+    {
+      "term": "Miśra",
+      "transliteration": "Miśra",
+      "translation": "Mixed",
+      "context": "The middle category of upāsanā."
+    },
+    {
+      "term": "Galita",
+      "transliteration": "Galita",
+      "translation": "Defective",
+      "context": "The lowest category of upāsanā."
+    },
+    {
+      "term": "ऐक्य-चिन्तन",
+      "transliteration": "aikya-cintana",
+      "translation": "Contemplation of identity",
+      "context": "The four-fold conceptualization of identity that distinguishes antaryāga."
+    },
+    {
+      "term": "श्रीचक्र",
+      "transliteration": "Śrī-cakra",
+      "translation": "The Shri Cakra (a sacred diagram)",
+      "context": "The central yantra in Śrī-Vidyā, used in both external and internal worship."
+    },
+    {
+      "term": "ब्रह्माण्ड",
+      "transliteration": "brahmāṇḍa",
+      "translation": "Universe (lit. 'egg of Brahma')",
+      "context": "The macrocosm, identified with the Śrī-cakra and the individual."
+    },
+    {
+      "term": "पिण्डण्ड",
+      "transliteration": "piṇḍāṇḍa",
+      "translation": "Individual body",
+      "context": "The microcosm, identified with the universe."
+    },
+    {
+      "term": "नाद",
+      "transliteration": "nāda",
+      "translation": "Primordial sound/vibration",
+      "context": "A key factor in Samaya philosophy, along with bindu and kalā."
+    },
+    {
+      "term": "बिन्दु",
+      "transliteration": "bindu",
+      "translation": "Point/dot",
+      "context": "The transcendental point of potentiality; Śiva's power."
+    },
+    {
+      "term": "कला",
+      "transliteration": "kalā",
+      "translation": "Part/aspect/ray",
+      "context": "A factor in creation and identity contemplation."
+    },
+    {
+      "term": "चक्र",
+      "transliteration": "cakra",
+      "translation": "Wheel/circle",
+      "context": "The psychic energy centers in the subtle body."
+    },
+    {
+      "term": "कुण्डलिनी",
+      "transliteration": "Kuṇḍalinī",
+      "translation": "The coiled one",
+      "context": "The dormant spiritual energy at the base of the spine."
+    },
+    {
+      "term": "ग्रन्थि",
+      "transliteration": "granthi",
+      "translation": "Knot",
+      "context": "The three psychic knots that obstruct the flow of energy in the Suṣumnā."
+    },
+    {
+      "term": "लय",
+      "transliteration": "laya",
+      "translation": "Dissolution/absorption",
+      "context": "The highest form of worship, the dissolution of the mind."
+    },
+    {
+      "term": "मानस-पूजा",
+      "transliteration": "mānasa-pūjā",
+      "translation": "Mental worship",
+      "context": "A practical application of antaryāga."
+    },
+    {
+      "term": "आत्म-यज्ञ",
+      "transliteration": "ātma-yajña",
+      "translation": "Self-sacrifice",
+      "context": "A Vedic precedent for antaryāga."
+    },
+    {
+      "term": "āgama",
+      "transliteration": "āgama",
+      "translation": "Tradition, scripture",
+      "context": "Refers to the traditional scriptures and schools of thought, particularly in Śaiva and Śākta traditions."
+    },
+    {
+      "term": "Kahādi",
+      "transliteration": "Kahādi",
+      "translation": "A division of mantra systems",
+      "context": "The tradition associated with the Kerala region."
+    },
+    {
+      "term": "Hādi",
+      "transliteration": "Hādi",
+      "translation": "A division of mantra systems",
+      "context": "The tradition associated with the Kaśmira region."
+    },
+    {
+      "term": "Kādi",
+      "transliteration": "Kādi",
+      "translation": "A division of mantra systems",
+      "context": "The tradition associated with the Gauḍa region."
+    },
+    {
+      "term": "सम्प्रदायत्रयं",
+      "transliteration": "sampradāyatrayaṁ",
+      "translation": "Three traditions",
+      "context": "Used in a quote from Tārā-khaṇḍa referring to the traditions of Kerala, Kaśmīra, and Gauḍa."
+    },
+    {
+      "term": "Kaula",
+      "transliteration": "Kaula",
+      "translation": "A tantric tradition",
+      "context": "One of the three main philosophical divisions, often associated with external rituals and the worship of Kula (the ultimate reality manifested as Śakti)."
+    },
+    {
+      "term": "Samaya",
+      "transliteration": "Samaya",
+      "translation": "A tantric tradition",
+      "context": "One of the three main philosophical divisions, associated with internal, meditative worship (samayācāra)."
+    },
+    {
+      "term": "Miśra",
+      "transliteration": "Miśra",
+      "translation": "Mixed",
+      "context": "The 'mixed' tradition that combines elements of both Kaula and Samaya."
+    },
+    {
+      "term": "Candra-kalā",
+      "transliteration": "Candra-kalā",
+      "translation": "Lunar aspects/phases",
+      "context": "The doctrinal basis of the Miśra and Samaya traditions."
+    },
+    {
+      "term": "चतुःषष्टिश्च तन्त्राणि",
+      "transliteration": "catuḥṣaṣṭiśca tantrāṇi",
+      "translation": "And sixty-four tantras",
+      "context": "From a verse listing the literature of the Kaula division."
+    },
+    {
+      "term": "pūrva-kaulas",
+      "transliteration": "pūrva-kaulas",
+      "translation": "Early/eastern Kaulas",
+      "context": "A superior Kaula sect that uses rituals symbolically."
+    },
+    {
+      "term": "uttara-kaulas",
+      "transliteration": "uttara-kaulas",
+      "translation": "Later/northern Kaulas",
+      "context": "A Kaula sect given to 'crude' forms of worship."
+    },
+    {
+      "term": "kāpālikas",
+      "transliteration": "kāpālikas",
+      "translation": "Skull-bearers",
+      "context": "A Kaula sect that identifies with Śiva/Śakti during worship."
+    },
+    {
+      "term": "digambaras",
+      "transliteration": "digambaras",
+      "translation": "Sky-clad/nude",
+      "context": "A Kaula sect that worships in the nude."
+    },
+    {
+      "term": "kṣapaṇakas",
+      "transliteration": "kṣapaṇakas",
+      "translation": "A type of ascetic, possibly Buddhist or Jain",
+      "context": "A Kaula sect whose identity is uncertain."
+    },
+    {
+      "term": "Vāmācāra",
+      "transliteration": "Vāmācāra",
+      "translation": "Left-hand path",
+      "context": "Tantric practices that utilize forbidden or unconventional substances and rituals, such as the five 'ma-kāras'."
+    },
+    {
+      "term": "ma-kāras",
+      "transliteration": "ma-kāras",
+      "translation": "The five 'M's",
+      "context": "The five articles used in Vāmācāra rituals: 'matsya' (fish), 'māṁsa' (flesh), 'madya' (liquor), 'mudrā' (postures/cereals), and 'maithuna' (copulation)."
+    },
+    {
+      "term": "dīkṣā",
+      "transliteration": "dīkṣā",
+      "translation": "Initiation",
+      "context": "The formal initiation by a master (guru) into a spiritual tradition, considered all-important."
+    },
+    {
+      "term": "citi-śakti",
+      "transliteration": "citi-śakti",
+      "translation": "The power of pure consciousness",
+      "context": "The goal of realization according to the Paraśurāma-kalpa-sūtra."
+    },
+    {
+      "term": "krānta",
+      "transliteration": "krānta",
+      "translation": "Division, area",
+      "context": "Used to describe the three major territorial divisions of tantric literature (Viṣṇu-krānta, etc.)."
+    },
+    {
+      "term": "ullāsas",
+      "transliteration": "ullāsas",
+      "translation": "Chapters (literally 'joys' or 'delights')",
+      "context": "The term for chapters in the Mahā-nirvāṇa-tantra."
+    },
+    {
+      "term": "aikyānusandhana",
+      "transliteration": "aikyānusandhana",
+      "translation": "Visualization/contemplation of identity",
+      "context": "A practice prescribed in the Subhagodaya."
+    }
+  ],
+  "cross_reference_map": [
+    {
+      "reference_text": "Śāktāgama (dealt with in the second volume of the Āgama Encyclopaedia)",
+      "target": "Āgama Encyclopaedia, Volume 2",
+      "page": "1"
+    },
+    {
+      "reference_text": "(see Appendix for complete lists of the tantras included in the three divisions: Viṣṇu-krānta, Ratha-krānta and Aśva-krānta)",
+      "target": "Appendix of the current volume",
+      "page": "2"
+    },
+    {
+      "reference_text": "(See for details, the author's The Tantra of Sri-Cakra: Bhavanopaniśat, Sarada Prakashana, Bangalore 1983)",
+      "target": "The Tantra of Sri-Cakra: Bhavanopaniśat by the same author",
+      "page": "40"
+    },
+    {
+      "reference_text": "No cross-references to other chapters of 'The Āgama Encyclopaedia' are present. The text makes numerous citations to primary Sanskrit scriptures and modern scholarly works.",
+      "target": "N/A",
+      "page": "N/A"
+    },
+    {
+      "reference_text": "(For details of the sūkṣma-cakras see APPENDIX).",
+      "target": "APPENDIX",
+      "page": "20"
+    },
+    {
+      "reference_text": "Devyupaniśads, discussed earlier",
+      "target": "An earlier, unspecified part of the book.",
+      "page": "6"
+    },
+    {
+      "reference_text": "Śub-hāgama-pañcaka, mentioned above",
+      "target": "An earlier, unspecified part of the book.",
+      "page": "6"
+    },
+    {
+      "reference_text": "The entire text is given in the Appendix.",
+      "target": "The Appendix of the book.",
+      "page": "7"
+    },
+    {
+      "reference_text": "lists given in the Appendix",
+      "target": "The Appendix of the book.",
+      "page": "14"
+    }
+  ],
+  "bibliography_network": [],
+  "keywords_by_frequency": []
+}

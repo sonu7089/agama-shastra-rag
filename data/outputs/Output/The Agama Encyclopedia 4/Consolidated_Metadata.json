@@ -1,0 +1,2135 @@
+{
+  "book_title": "The Agama Encyclopedia 4",
+  "total_chapters": 7,
+  "total_pages": 0,
+  "all_historical_figures": [
+    {
+      "name": "Rāmānuja",
+      "role": "Vaishnava philosopher and theologian",
+      "significance": "His influence helped popularize the Pāñcarātra system in South India.",
+      "dates": "1017-1137 A.D."
+    },
+    {
+      "name": "Pāṇini",
+      "role": "Sanskrit grammarian",
+      "significance": "His work refers to the Vṛṣṇi tribe, providing an early literary reference to the group from which Vāsudeva emerged.",
+      "dates": "about 700 B.C."
+    },
+    {
+      "name": "Patañjali",
+      "role": "Commentator on Pāṇini's grammar",
+      "significance": "He mentions Vāsudeva (Kṛṣṇa) by name, confirming his revered status.",
+      "dates": "about 400 B.C."
+    },
+    {
+      "name": "Vāsudeva (Kṛṣṇa)",
+      "role": "Central deity of the Bhāgavata cult",
+      "significance": "Identified with the supreme Godhead Nārāyaṇa; originally a human hero of the Vṛṣṇi clan who was deified.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Nārāyaṇa",
+      "role": "Supreme Godhead (Bhagavān)",
+      "significance": "A Vedic deity (seer of the Puruṣa-sūkta) who becomes identified with Vāsudeva.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Saṃkarṣaṇa (Baladeva)",
+      "role": "Vṛṣṇi hero, brother of Vāsudeva",
+      "significance": "One of the earliest deified heroes alongside Vāsudeva; later becomes the second vyūha.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Viśvaksena",
+      "role": "Vṛṣṇi hero",
+      "significance": "Mentioned as one of the heroes of the tribe.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Sarva-tāta",
+      "role": "Prince, son of Pārāśarī",
+      "significance": "Built a stone temple for Vāsudeva and Saṃkarṣaṇa, as recorded in the Nāgarī inscription, and called himself a 'bhāgavata'.",
+      "dates": "c. 2nd-1st century B.C."
+    },
+    {
+      "name": "Heliodorus",
+      "role": "Indo-Greek ambassador",
+      "significance": "Erected the Besnagar column for Vāsudeva and declared himself a 'bhāgavata', showing the cult's appeal to non-Indians.",
+      "dates": "c. 2nd century B.C."
+    },
+    {
+      "name": "Dion",
+      "role": "Father of Heliodorus",
+      "significance": "Mentioned in the Besnagar inscription.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Antialikdas",
+      "role": "Indo-Greek King",
+      "significance": "Sent Heliodorus as an ambassador.",
+      "dates": "c. 2nd century B.C."
+    },
+    {
+      "name": "Kāśīputra-bhāgabhadra",
+      "role": "Ruler of Vidiśā",
+      "significance": "Received the ambassador Heliodorus at his court.",
+      "dates": "c. 2nd century B.C."
+    },
+    {
+      "name": "Gupta Monarchs (Samudragupta, Chandragupta II, Kumāragupta I)",
+      "role": "Emperors of the Gupta Empire",
+      "significance": "Styled themselves 'bhāgavatas' and 'parama-bhāgavatas', indicating the cult's royal patronage.",
+      "dates": "c. 4th-5th centuries A.D."
+    },
+    {
+      "name": "Toṣā",
+      "role": "A lady patron",
+      "significance": "Commissioned a temple and icons for the five Vṛṣṇi heroes, as recorded in the Morā well inscription.",
+      "dates": "c. 1st century A.D."
+    },
+    {
+      "name": "Śoḍāśa-svāmi",
+      "role": "Great Kṣatrapa (Saka-Satrap ruler)",
+      "significance": "Reigned during the time of the Morā well and another Mathurā inscription dedicated to Vāsudeva.",
+      "dates": "c. 1st century A.D."
+    },
+    {
+      "name": "Pradyumna, Sāmba, Aniruddha",
+      "role": "Vṛṣṇi heroes",
+      "significance": "Part of the 'five heroes' (pañcavīras) worshipped in the Vīra-vāda cult; later incorporated into the vyūha system.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Nara and Nārāyaṇa",
+      "role": "Divine sages",
+      "significance": "Original teachers of the Bhāgavata doctrine in their hermitage at Badari; represent the manifest Prakṛti and Puruṣa.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Nārada",
+      "role": "Sage",
+      "significance": "Learned the Pāñcarātra doctrine from Nārāyaṇa and transmitted it to the world.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Uparicara",
+      "role": "Monarch",
+      "significance": "A great devotee of Nārāyaṇa who lived according to 'Sāttvata-vidhi' and patronized Pāñcarātra scholars.",
+      "dates": "N/A"
+    },
+    {
+      "name": "The Seven Sages (Marīci, Atri, Aṅgirasa, etc.)",
+      "role": "Collective known as 'citra-śikhaṇḍinaḥ'",
+      "significance": "Credited with crystallizing the Pāñcarātra system for the benefit of humanity.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Kapila",
+      "role": "Sage, founder of Sāṃkhya philosophy",
+      "significance": "Considered an incarnation of Nārāyaṇa, linking Sāṃkhya to the Bhāgavata tradition.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Āsuri",
+      "role": "Sāṃkhya teacher",
+      "significance": "Successor to Kapila.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Pañca-śikha",
+      "role": "Sāṃkhya teacher",
+      "significance": "Disciple of Āsuri; described in the epic as being proficient in both Sāṃkhya and Pāñcarātra.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Vivasvān",
+      "role": "The solar deity",
+      "significance": "First recipient of the 'yoga' teaching (Bhāgavata doctrine) from Kṛṣṇa/Nārāyaṇa.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Manu",
+      "role": "Progenitor of humanity",
+      "significance": "Received the teaching from Vivasvān and passed it on.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Ikṣvāku",
+      "role": "Son of Manu, founder of the solar dynasty",
+      "significance": "Received the teaching from Manu and spread it in the world.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Pañcaśikha",
+      "role": "Sage, expert in Pāñcarātra",
+      "significance": "Visited the court of Janaka in Mithilā, showing the doctrine's presence in epic times.",
+      "dates": "Epic period"
+    },
+    {
+      "name": "Janaka",
+      "role": "King of Mithilā",
+      "significance": "Hosted the sage Pañcaśikha.",
+      "dates": "Epic period"
+    },
+    {
+      "name": "Nārāyaṇa / Vāsudeva / Viṣṇu / Kṛṣṇa",
+      "role": "Supreme Deity",
+      "significance": "The central object of worship and the divine source of the Pāñcarātra teachings.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Vedānta-deśika",
+      "role": "Śrīvaiṣṇava philosopher and scholar",
+      "significance": "Author of Pāñcarātra-rakṣā; his classification of texts and views on the Sāttvata-saṁhitā are cited.",
+      "dates": "1268–1369 CE"
+    },
+    {
+      "name": "The Five Sages (as weapon incarnations)",
+      "role": "First recipients of the teaching",
+      "significance": "Mythological figures (Śāṇḍilya, Kauśika, Bhāradvāja, Mauñjyāyana, Aupagāyana) who represent the human transmission of divine knowledge.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Brahmā, Śiva, Ananta, Viśvaksena, Garuḍa, Indra",
+      "role": "Deities",
+      "significance": "Mentioned as promulgators or recipients of the Pāñcarātra teachings in various origin stories.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Nārada",
+      "role": "Sage",
+      "significance": "Consistently identified as the first and foremost human recipient and teacher of the Pāñcarātra doctrine.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "The Seven Sages (Sanaka, etc.)",
+      "role": "Primeval sages",
+      "significance": "Taught by Nārada; considered the first masters and exponents of the teaching.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Marīci, Atri, Pulaha, Pulastya, Kratu, Vasiṣṭha, Svāyambhuva",
+      "role": "Great Sages (Rishis)",
+      "significance": "Received the teaching directly from Nārāyaṇa; their Samhitās are classified as Sāttvika.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Āḻvārs",
+      "role": "Tamil poet-saints",
+      "significance": "Their hymns (Divya Prabandham) eulogize the 'divya-deśas' (sacred temples) where Pāñcarātra worship is conducted.",
+      "dates": "6th-9th centuries CE"
+    },
+    {
+      "name": "Śrī-Śaila-Veṅkaṭa-Sudhi",
+      "role": "Author",
+      "significance": "Author of the 14th-century text Siddhānta-ratnākara.",
+      "dates": "14th century"
+    },
+    {
+      "name": "Otto Schräder",
+      "role": "Scholar",
+      "significance": "Enumerated 215 Pāñcarātra-Samhitās in his 1916 introduction to Ahirbudhnya-Samhitā.",
+      "dates": "Work published 1916"
+    },
+    {
+      "name": "V. Kriṣṇamācārya",
+      "role": "Scholar, editor",
+      "significance": "Edited Lakṣmī-tantra (1975) and listed 225 saṁhitās.",
+      "dates": "Work published 1975"
+    },
+    {
+      "name": "Alasiṅga-bhaṭṭa",
+      "role": "Commentator",
+      "significance": "Wrote an important commentary (bhāṣya) on the Sāttvata-saṁhitā and a gloss on the Īśvara-saṁhitā.",
+      "dates": "c. 1800 AD; gloss completed 1834 AD"
+    },
+    {
+      "name": "Yogananda-narasimha-bhaṭṭa",
+      "role": "Temple-priest and author",
+      "significance": "Father of Alasiṅga-bhaṭṭa; authored Sāttvatāmṛta.",
+      "dates": "Pre-1800 AD"
+    },
+    {
+      "name": "Rāmānuja",
+      "role": "Śrīvaiṣṇava philosopher",
+      "significance": "Cited the ancient Pauṣkara-samhitā, establishing its antiquity.",
+      "dates": "1017–1137 CE"
+    },
+    {
+      "name": "Nṛsiṁha-yajvā",
+      "role": "Commentator",
+      "significance": "Wrote a commentary on the Pārameśvara-saṁhitā.",
+      "dates": "Unknown"
+    },
+    {
+      "name": "Peddaṇṇa",
+      "role": "Commentator",
+      "significance": "Prepared a gloss (Pāñcarātra-pradīpikā) on the Pādma-saṁhitā.",
+      "dates": "Unknown"
+    },
+    {
+      "name": "Saṁkarṣaṇa",
+      "role": "Deity (Vyūha form)",
+      "significance": "Identified as the first official master of the Sāttvata creed who taught Śāṇḍilya.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Paraśu-rāma",
+      "role": "Avatāra of Viṣṇu",
+      "significance": "Asked Nārada to teach the path of ritualistic action in the Sāttvata-saṁhitā.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Yāmuna-muni",
+      "role": "Great Śrī-vaiṣṇava teacher, predecessor of Rāmānuja",
+      "significance": "Authored 'Āgama-prāmāṇya' to defend the authoritative character of Pāñcarātra and attempt a reconciliation with the Vedic tradition.",
+      "dates": "917-1041 A.D."
+    },
+    {
+      "name": "Rāmānuja",
+      "role": "Successor of Yāmuna-muni",
+      "significance": "Mentioned to provide context for Yāmuna-muni's timeline and lineage.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Vedān-ta-deśika (Veṅkaṭanātha)",
+      "role": "Śrī-vaiṣṇava teacher",
+      "significance": "Authored 'Pāñcarātra-rakṣa', providing an elaborate defense of the Pāñcarātra system centuries after Yāmuna-muni, showing the persistence of the conflict. He argued Pāñcarātra was rooted in the Veda.",
+      "dates": "1268-1369 A.D."
+    },
+    {
+      "name": "Śāṇḍilya",
+      "role": "Sage",
+      "significance": "Cited as an example of a sage who came to prefer the Pāñcarātra (Sāttvata) mode of worship over Vedic methods.",
+      "dates": "Classical/Mythological"
+    },
+    {
+      "name": "Jamadagni",
+      "role": "Sage",
+      "significance": "His 'smṛti' is quoted as prescribing worship with Vedic mantras preferably, but allowing Pāñcarātra hymns when Vedic mantras are unavailable.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Kapila",
+      "role": "Sage",
+      "significance": "Credited with crystallizing the Sāṁkhya system, one of the five fundamental disciplines mentioned in the Ahirbudhnya-saṁhitā. Also mentioned as a four-faced composite deity in the Tantrāntara-siddhānta.",
+      "dates": "Mythological/Ancient"
+    },
+    {
+      "name": "Hiraṇya-garbha",
+      "role": "Originator of Yoga",
+      "significance": "Mentioned as the originator of the Yoga system, one of the five fundamental disciplines.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Ahirbudhnya",
+      "role": "Originator of the Pāśupata school",
+      "significance": "Mentioned as the originator of the Pāśupata school, one of the five fundamental disciplines.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Sudar-śana",
+      "role": "Originator of the Sāt-tvata system",
+      "significance": "Mentioned as the originator of the Pāñcarātra (Sāt-tvata) system, one of the five fundamental disciplines.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Patañjali",
+      "role": "Author of Mahābhāṣya",
+      "significance": "His work is referenced for containing the term 'Śiva-bhāgavatas', suggesting an attempt to include devotees of Śiva within the broader Pāñcarātra fold.",
+      "dates": "c. 2nd century BCE"
+    },
+    {
+      "name": "Aupagāyana",
+      "role": "Sage",
+      "significance": "Mentioned as one of the sages initiated by Brahmā into the mantra-siddhānta.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Yāmuna-muni",
+      "role": "Master of the Viśiṣṭādvaita school",
+      "significance": "Attempted to integrate Viśiṣṭādvaita ideas with Pāñcarātra. Authored 'Āgama-prāmāṇya' to establish the authority of Pāñcarātra texts. Quoted several Pāñcarātra saṁhitās.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Rāmānuja",
+      "role": "Master of the Viśiṣṭādvaita school",
+      "significance": "Attempted to integrate Viśiṣṭādvaita ideas with Pāñcarātra. Quoted from Pāñcarātra works like Sāttvata-, Pauṣkara-, Parama-saṁhitās and Lakṣmī-tantra.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Vedānta-deśika",
+      "role": "Master of the Viśiṣṭādvaita school",
+      "significance": "Attempted to integrate Viśiṣṭādvaita ideas with Pāñcarātra. Authored 'Saccaritra-rakṣā' and 'Pāñcarātra-rakṣā'. Referred to Pāñcarātra as 'ekāyana-śruti'.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Piļļai-Lokācārya",
+      "role": "Master of the Viśiṣṭādvaita school",
+      "significance": "Attempted to integrate Viśiṣṭādvaita ideas with Pāñcarātra. Authored 'Tattva-traya'.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Vara-vara-muni",
+      "role": "Commentator on Piļļai-Lokācārya",
+      "significance": "Attempted to integrate Viśiṣṭādvaita ideas with Pāñcarātra.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Śāṇḍilya",
+      "role": "Sage",
+      "significance": "Cited as an example of one who was dissatisfied with the Vedic tradition and found fulfilment in the Sāttvata-vidhi.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Śaṁkara",
+      "role": "Philosopher (Advaita Vedānta)",
+      "significance": "Referred to and discussed the tenets of the 'pāñcarātra-siddhānta' in his commentary on the Vedānta-sūtra (2,2,44), indicating Pāñcarātra was a well-defined system in his time.",
+      "dates": "632-664 A.D."
+    },
+    {
+      "name": "Utpala-Vaiṣṇava",
+      "role": "Kāśmīri writer",
+      "significance": "Contemporary of Abhinava-gupta. Knew of Pāñcarātra-śruti, Pāñcarātropaniṣat, and Pāñcarātra-śāstra. Cited numerous Pāñcarātra works.",
+      "dates": "Contemporary of Abhinava-gupta (993-1015 A.D.)"
+    },
+    {
+      "name": "Utpala-deva",
+      "role": "Kāśmīri writer (Kashmir Shaivism)",
+      "significance": "Mentioned to distinguish him from Utpala-Vaiṣṇava. Author of 'Pratyabhijñā-hṛdaya' and disciple of Somānandra.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Somānandra",
+      "role": "Kāśmīri writer (Kashmir Shaivism)",
+      "significance": "Author of 'Śiva-dṛṣṭi' and teacher of Utpala-deva.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Abhinava-gupta",
+      "role": "Philosopher (Kashmir Shaivism)",
+      "significance": "His dates are used to place his contemporary, Utpala-Vaiṣṇava.",
+      "dates": "993-1015 A.D."
+    },
+    {
+      "name": "Kṣemarāja",
+      "role": "Kāśmīri writer (11th century)",
+      "significance": "Author of 'Pratyabhijñā-hṛdaya'. Mentioned the Pāñcarātra ideology regarding transcendental prakṛti as Vāsudeva.",
+      "dates": "Eleventh century"
+    },
+    {
+      "name": "Otto Schrader",
+      "role": "Modern scholar",
+      "significance": "Author of 'Introduction to the Pāñcarātra'. His interpretations of several Pāñcarātra technical terms ('vidyā', 'Kāla-saṁhitā', 'Kartavya', 'Vaiśeṣika') are explicitly refuted by the author of this chapter.",
+      "dates": "Publication date mentioned: 1916, reprinted 1973"
+    },
+    {
+      "name": "Patañjali",
+      "role": "Sage, compiler of the Yoga-sūtras",
+      "significance": "His definition of yoga (from root 'yuj' - concentration) is contrasted with the Pāñcarātra definition (from root 'yujir' - union). His eight-limbed (aṣṭāṅga) yoga is identified with the Sāttvata-yoga in Ahirbudhnya-saṁhitā.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Alasinga-bhaṭṭa",
+      "role": "Commentator",
+      "significance": "His interpretation of 'kriyā-mārga' in the Sāttvata-saṁhitā is mentioned, though the author notes it is not supported by the original text.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Parāśara-bhaṭṭa",
+      "role": "Philosopher/Commentator",
+      "significance": "A key commentator on Viṣṇu-sahasra-nāma-stotra whose interpretations on the three modes of the Deity are cited as authoritative.",
+      "dates": "12th century CE"
+    },
+    {
+      "name": "Ālasiṅga-bhaṭṭa",
+      "role": "Commentator",
+      "significance": "Commentator on the Sāttvata-saṃhitā, whose explanations are referenced, particularly regarding the list of vibhava forms.",
+      "dates": "Unknown"
+    },
+    {
+      "name": "Otto Schräder",
+      "role": "Indologist/Scholar",
+      "significance": "Mentioned for having erroneously identified 39 vibhava forms in the Sāttvata-saṃhitā, a point the author corrects.",
+      "dates": "1876-1962"
+    },
+    {
+      "name": "Brahmā",
+      "role": "Mythological figure (Creator God)",
+      "significance": "Mentioned as the four-faced creator produced during the 'mixed creation' phase of Aniruddha. Also personified in the vibhava form Vidyādhideva.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Vyāsa",
+      "role": "Mythological figure (Sage)",
+      "significance": "Classified as an 'āveśāvatāra' (divine possession). Also appears as the vibhava form 'Veda-vit', who classified the Vedas.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Arjuna",
+      "role": "Mythological figure (Pāṇḍava prince)",
+      "significance": "Mentioned as an 'āveśāvatāra' and the recipient of the revelation of the Viśva-rūpa form in Kurkṣetra.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Kṛṣṇa",
+      "role": "Mythological figure (Avatāra)",
+      "significance": "Appears in multiple contexts: as an avatāra from Aniruddha, as 'Pārijāta-hara', and as one of the four ascetic sons of Dharma. His classification as 'sākṣāt' or 'āveśa' is noted as a point of discussion.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Rāma",
+      "role": "Mythological figure (Avatāra)",
+      "significance": "Mentioned as Śrī-rāma, an avatāra who destroyed Rāvaṇa. His classification is also debated.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Buddha",
+      "role": "Historical/Mythological figure",
+      "significance": "Appears as the vibhava form 'Loka-nātha'. His status as a direct or possessed incarnation (sākṣāt vs āveśāvatāra) is shown as a point of difference between texts.",
+      "dates": "c. 5th century BCE"
+    },
+    {
+      "name": "Śiva",
+      "role": "Mythological figure (God)",
+      "significance": "Mentioned as being empowered to destroy and as part of the composite Dattātreya incarnation.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Dattātreya",
+      "role": "Mythological figure (Sage)",
+      "significance": "Listed as a vibhava form, a composite incarnation of Brahmā, Viṣṇu, and Śiva.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Ānanda- tīrtha (Madhvācārya)",
+      "role": "Author of Tantra-sāra-saṅgraha, great ācārya, founder of the Vedāntic system of Tattva-vāda",
+      "significance": "His philosophy forms the entire ideological basis of the Tantra-sārāgama discussed in the chapter.",
+      "dates": "1119-1197 A.D."
+    },
+    {
+      "name": "Śaṃkara",
+      "role": "Great ācārya",
+      "significance": "Mentioned as one of the three great ācāryas of Vedānta, providing historical context for Madhvācārya.",
+      "dates": "632-664"
+    },
+    {
+      "name": "Rāmānuja",
+      "role": "Great ācārya",
+      "significance": "Mentioned as one of the three great ācāryas of Vedānta, providing historical context for Madhvācārya.",
+      "dates": "1017-1137"
+    },
+    {
+      "name": "Viṣṇu-tīrtha",
+      "role": "Author",
+      "significance": "Author of 'Ṣoḍaśī' and 'Caturdaśī', texts cited to explain the concepts of bimba and mental worship.",
+      "dates": "Not mentioned"
+    }
+  ],
+  "complete_timeline": [
+    {
+      "event": "Time of Rāmānuja",
+      "date": "1017-1137 A.D.",
+      "significance": "His activities led to the increased popularity of Pāñcarātra in South India."
+    },
+    {
+      "event": "Expounding of the Vedāntic system and founding of the sect by Ānanda-tīrtha (Madhvācārya)",
+      "date": "1119-1197 A.D.",
+      "significance": "Established the Tattva-vāda philosophy which is the foundation of the Tantra-sārāgama."
+    },
+    {
+      "event": "Completion of Sattvatārtha-prakāśika by Alasiṅga-bhaṭṭa",
+      "date": "1834 AD",
+      "significance": "A key commentary on the Īśvara-saṁhitā, indicating active scholarly work on these texts in the 19th century."
+    },
+    {
+      "event": "Publication of Nārada-pāñcarātra",
+      "date": "1865",
+      "significance": "Published by the Asiatic Society of Bengal, it was one of the earliest Pāñcarātra texts to be printed, though it is now considered atypical of the tradition."
+    },
+    {
+      "event": "Publication of Otto Schräder's Introduction to Ahirbudhnya-Samhitā",
+      "date": "1916",
+      "significance": "Provided a critical scholarly list of 215 Pāñcarātra texts, forming a basis for modern studies."
+    },
+    {
+      "event": "Publication of V. Kriṣṇamācārya's edition of Lakṣmī-tantra",
+      "date": "1975",
+      "significance": "Contributed an updated list of 225 Pāñcarātra saṁhitās, expanding on earlier scholarly work."
+    },
+    {
+      "event": "Publication of Sāttvata-saṁhitā",
+      "date": "1982",
+      "significance": "A modern printed edition from Varanasi, making this foundational text more accessible."
+    },
+    {
+      "event": "Creation of the Udayagiri inscription",
+      "date": "402 A.D.",
+      "significance": "Records the reconstruction of a 'Bhāgavata' shrine."
+    },
+    {
+      "event": "Era of Śaṁkara",
+      "date": "632-664 A.D.",
+      "significance": "During this period, Pāñcarātra was already a 'well-defined system of thought', as evidenced by Śaṁkara's discussion of it in his Vedānta-sūtra commentary."
+    },
+    {
+      "event": "Era of Abhinava-gupta and Utpala-Vaiṣṇava",
+      "date": "993-1015 A.D.",
+      "significance": "This period shows that Pāñcarātra texts and concepts were known and cited by Kāśmīri writers, indicating the system's influence and established status."
+    },
+    {
+      "event": "Era of Kṣemarāja",
+      "date": "Eleventh century A.D.",
+      "significance": "Kṣemarāja's work 'Pratyabhijñā-hṛdaya' mentions specific Pāñcarātra doctrines, showing its continued relevance and interaction with other philosophical schools like Kashmir Shaivism."
+    },
+    {
+      "event": "Composition of Vedānta-deśika's Pāñcarātra-rakṣa",
+      "date": "Within 1268-1369 A.D.",
+      "significance": "Demonstrates that the debate over Pāñcarātra's authenticity continued for centuries and required new, elaborate defenses by later Śrī-vaiṣṇava leaders."
+    },
+    {
+      "event": "Composition of Yāmuna-muni's Āgama-prāmāṇya",
+      "date": "Within 917-1041 A.D.",
+      "significance": "A landmark effort to establish the scriptural authority of the Pāñcarātra Āgamas and reconcile them with the Vedic tradition."
+    },
+    {
+      "event": "Time of Patañjali",
+      "date": "about 400 B.C.",
+      "significance": "His commentary explicitly mentions the worship of Vāsudeva."
+    },
+    {
+      "event": "Time of Pāṇini",
+      "date": "about 700 B.C.",
+      "significance": "His work provides the earliest literary reference to the Vṛṣṇi tribe."
+    },
+    {
+      "event": "Reign of Śoḍāśa-svāmi",
+      "date": "c. 1st century A.D.",
+      "significance": "The Morā well inscription, recording a temple for the five Vṛṣṇi heroes, was created during his reign."
+    },
+    {
+      "event": "Reign of early Gupta Monarchs",
+      "date": "c. 4th-5th centuries A.D.",
+      "significance": "The Bhāgavata cult received royal patronage, with emperors calling themselves 'bhāgavatas' on their coins."
+    },
+    {
+      "event": "Creation of the Burhikhar village inscription",
+      "date": "first century B.C.",
+      "significance": "Records the gift of a four-armed image of Bhagavān (Vāsudeva)."
+    },
+    {
+      "event": "Creation of the Nāgarī and Besnagar inscriptions",
+      "date": "second and first centuries B.C.",
+      "significance": "Provide the earliest epigraphic evidence for temples and worship dedicated to Vāsudeva (and Saṃkarṣaṇa), and the use of the term 'bhāgavata' by devotees, including a Greek ambassador."
+    }
+  ],
+  "all_geographic_locations": [
+    {
+      "place": "South India",
+      "context": "Region where Pāñcarātra is most popular, especially after Rāmānuja.",
+      "significance": "A key geographical center for the Pāñcarātra tradition."
+    },
+    {
+      "place": "Nāgarī (near Mewār)",
+      "context": "Location of an inscription from the 2nd-1st century B.C. about a temple to Vāsudeva and Saṃkarṣaṇa.",
+      "significance": "Site of early epigraphic evidence for the Bhāgavata cult."
+    },
+    {
+      "place": "Besnagar (Vidiśā, near Gwālior in Madhya Pradesh)",
+      "context": "Location of the Heliodorus pillar inscription from the 2nd century B.C.",
+      "significance": "Crucial evidence for the early spread and prestige of the Bhāgavata cult, attracting foreign devotees."
+    },
+    {
+      "place": "Udayagiri (near Bhilsa)",
+      "context": "Location of a 402 A.D. inscription recording the reconstruction of a 'Bhāgavata' shrine.",
+      "significance": "Shows continued patronage and activity of the cult into the Gupta period."
+    },
+    {
+      "place": "Morā well (near Mathurā)",
+      "context": "Location of an inscription recording the construction of a temple for the five Vṛṣṇi heroes.",
+      "significance": "Evidence for the 'Vīra-vāda' or cult of the five heroes."
+    },
+    {
+      "place": "Burhikhar village (in Bilāspur, Madhya Pradesh)",
+      "context": "Location of a 1st century B.C. inscription recording the gift of a four-armed image of Bhagavān.",
+      "significance": "Early evidence for the iconography of Viṣṇu/Vāsudeva."
+    },
+    {
+      "place": "Badari",
+      "context": "The holy hermitage in the Himālayan heights where sages Nara and Nārāyaṇa resided.",
+      "significance": "Mythical origin point of the Pāñcarātra teaching."
+    },
+    {
+      "place": "Śveta-dvīpa",
+      "context": "A mythical island on the northern side of the Milky Ocean (Kṣīrābdhi) where Nārada received the Pāñcarātra doctrine from Nārāyaṇa.",
+      "significance": "The celestial locus of the perfect, 'ekāntin' devotees and the source of the divine revelation."
+    },
+    {
+      "place": "Mithilā",
+      "context": "The location of King Janaka's court, where the Sāṃkhyan teacher Pañca-śikha visited.",
+      "significance": "A setting in the epic that demonstrates the interaction between Sāṃkhya and royal courts."
+    },
+    {
+      "place": "Mithilā",
+      "context": "Court of King Janaka, visited by the Pāñcarātra expert Pañcaśikha.",
+      "significance": "Indicates the geographical reach and influence of the doctrine during the epic period."
+    },
+    {
+      "place": "Pauṇḍra-vardhana-kṣetra",
+      "context": "Sacred spot where Sudarśana (discus) appeared as the sage Śāṇḍilya.",
+      "significance": "A mythological location for the origin of one of the five teaching streams."
+    },
+    {
+      "place": "Mṛga-kṣetra",
+      "context": "Sacred spot where Pāñcajanya (conch) appeared as the sage Kauśika.",
+      "significance": "A mythological location for the origin of one of the five teaching streams."
+    },
+    {
+      "place": "Śālagrāma",
+      "context": "Sacred spot where Kaumodakī (mace) appeared as the sage Bhāradvāja.",
+      "significance": "A mythological location for the origin of one of the five teaching streams."
+    },
+    {
+      "place": "Ananta-kṣetra",
+      "context": "Sacred spot where Nandaka (sword) appeared as the sage Mauñjyāyana.",
+      "significance": "A mythological location for the origin of one of the five teaching streams."
+    },
+    {
+      "place": "Totādri",
+      "context": "Sacred spot where Śārṅga (bow) appeared as the sage Aupagāyana.",
+      "significance": "A mythological location for the origin of one of the five teaching streams."
+    },
+    {
+      "place": "Śveta-dvīpa",
+      "context": "The celestial abode where Nārada received the teaching from Nārāyaṇa.",
+      "significance": "The divine source location of the Pāñcarātra doctrine."
+    },
+    {
+      "place": "Melukoṭe (Karnataka)",
+      "context": "Temple of Nārāyaṇa where the Sāttvata-saṁhitā is traditionally followed.",
+      "significance": "A major center for the Sāttvata tradition in South India."
+    },
+    {
+      "place": "Śrīraṅgam (Tamil-Nāḍu)",
+      "context": "Famous Ranganātha temple where the Pauṣkara-saṁhitā is traditionally followed.",
+      "significance": "A preeminent Śrīvaiṣṇava center associated with the Pauṣkara tradition."
+    },
+    {
+      "place": "Kāñcīpuram (Tamil-Nāḍu)",
+      "context": "The Varadarāja temple where the Jayākhya-saṁhitā is traditionally followed.",
+      "significance": "An important Vaiṣṇava center associated with the Jayākhya tradition."
+    },
+    {
+      "place": "Malaya mountain",
+      "context": "Location where Nārada communicated the teaching of Vāsudeva to the sages.",
+      "significance": "Site of the human-to-human transmission of the doctrine."
+    },
+    {
+      "place": "Goloka",
+      "context": "Celestial realm where Śiva and Nārada had the dialogue recorded in the Nārada-pāñcarātra.",
+      "significance": "Mythological setting for the atypical Nārada-pāñcarātra text."
+    },
+    {
+      "place": "Puṣkara",
+      "context": "Place where Nārada recalled his dialogue with Śiva.",
+      "significance": "Earthly setting for the narration of the Nārada-pāñcarātra."
+    },
+    {
+      "place": "Himālayan regions",
+      "context": "Mentioned in relation to Buddhist tantrik cults that worship lion-faced, hog-headed, and multi-faced deities.",
+      "significance": "The author suggests a probable influence of these distant tantrik cults on the 'tantrāntara' siddhānta of Pāñcarātra, which features similar composite deities."
+    },
+    {
+      "place": "Kāśmīr (Kashmir)",
+      "context": "Mentioned in relation to writers Utpala-Vaiṣṇava, Utpala-deva, and Kṣemarāja.",
+      "significance": "Indicates a region where Pāñcarātra philosophy was known, studied, and interacted with other major philosophical schools like Kashmir Shaivism."
+    },
+    {
+      "place": "Adyār, Madras",
+      "context": "Publication location of Otto Schrader's 'Introduction to the Pāñcarātra'.",
+      "significance": "Context for modern Indological scholarship on Pāñcarātra."
+    },
+    {
+      "place": "Śrī-vaikuṇṭha",
+      "context": "The transcendental realm (paramam dhāma), the high heavens where the 'para' mode of the Deity resides.",
+      "significance": "It is the ultimate goal for emancipated souls (muktas) and the abode of eternal masters (nitya-sūris)."
+    },
+    {
+      "place": "Kurkṣetra",
+      "context": "The battlefield where the Viśva-rūpa (cosmic form) was revealed to Arjuna.",
+      "significance": "A key site for a major divine revelation mentioned in the Mahābhārata and Bhagavad-gītā."
+    },
+    {
+      "place": "Śveta-dvīpa",
+      "context": "A mythical island where the Viśva-rūpa was revealed to Nārada and where the Vihangama (Haṃsa) form abides.",
+      "significance": "A sacred place associated with divine manifestations in Pāñcarātra and Puranic literature."
+    },
+    {
+      "place": "Dharmāraṇya",
+      "context": "The place where the Dharma-mūrti form of the Deity becomes manifest.",
+      "significance": "A sacred forest associated with the personification of Dharma."
+    },
+    {
+      "place": "Rasātala",
+      "context": "The lowest of the netherworlds where Kamatheśvara (Kūrma) abides.",
+      "significance": "The cosmic foundation, supported by an incarnation of Viṣṇu."
+    },
+    {
+      "place": "Indra's garden",
+      "context": "The celestial garden from which the Pārijāta-flower was snatched by Kṛṣṇa (in his Pārijāta-hara form).",
+      "significance": "The setting for a famous mythological episode involving Kṛṣṇa."
+    },
+    {
+      "place": "Magadhamaṇḍale",
+      "context": "The region of Magadha, mentioned in a quote as where the Loka-nātha (Buddha) form is situated.",
+      "significance": "Historically associated with the life and teachings of the Buddha."
+    },
+    {
+      "place": "Daṇḍaka forest",
+      "context": "Mentioned as the location of a crooked mango tree, which is cited as an example of a secondary divine manifestation (gauṇa).",
+      "significance": "A location in the Rāmāyaṇa, used here to illustrate the all-pervasiveness of divine intention."
+    },
+    {
+      "place": "South India",
+      "context": "Location of temples where Tantra-sārāgama is practiced.",
+      "significance": "General region of the tradition's prevalence."
+    },
+    {
+      "place": "Karnāṭaka (South Kanara)",
+      "context": "Coastal regions where the worship according to Tantra-sārāgama is especially conducted.",
+      "significance": "Specific geographical heartland of this Āgama tradition."
+    }
+  ],
+  "complete_terminology_index": [
+    {
+      "term": "Āgama",
+      "transliteration": "Āgama",
+      "translation": "Tradition, traditional texts",
+      "context": "The Pāñcarātra is described as one of the Āgama divisions devoted to the worship of Viṣṇu."
+    },
+    {
+      "term": "Pāñcarātra",
+      "transliteration": "Pāñcarātra",
+      "translation": "Literally 'five nights'",
+      "context": "The most popular Āgama division for Viṣṇu worship, identified with the Bhāgavata cult."
+    },
+    {
+      "term": "Bhāgavata",
+      "transliteration": "Bhāgavata",
+      "translation": "Related to Bhagavān (the Lord); a devotee of Bhagavān",
+      "context": "The name of the cult centered on Nārāyaṇa/Vāsudeva. Also used to describe a devotee, like King Sarva-tāta and Heliodorus."
+    },
+    {
+      "term": "Vaiṣṇavism",
+      "transliteration": "Vaiṣṇavism",
+      "translation": "The tradition centered on the worship of Viṣṇu",
+      "context": "The broader religious framework into which the Bhāgavata cult developed."
+    },
+    {
+      "term": "kṣattriya",
+      "transliteration": "kṣattriya",
+      "translation": "A member of the warrior or ruling class",
+      "context": "Vāsudeva is described as a human hero and a kṣattriya who was deified."
+    },
+    {
+      "term": "Vṛṣṇi",
+      "transliteration": "Vṛṣṇi",
+      "translation": "Name of a tribe or clan",
+      "context": "The clan to which Vāsudeva-Kṛṣṇa belonged."
+    },
+    {
+      "term": "Sāttvata",
+      "transliteration": "Sāttvata",
+      "translation": "An alternative name for the Vṛṣṇi clan",
+      "context": "The doctrine is called Sāttvata-vidhi, and the tradition is Sāttvata-tantra."
+    },
+    {
+      "term": "Bhagavān",
+      "transliteration": "Bhagavān",
+      "translation": "The adorable/venerable one; the Lord",
+      "context": "The title for the supreme Godhead, Nārāyaṇa."
+    },
+    {
+      "term": "deva-deva",
+      "transliteration": "deva-deva",
+      "translation": "God of gods",
+      "context": "Title given to Vāsudeva in the Besnagar inscription."
+    },
+    {
+      "term": "garuḍa-dhvaja",
+      "transliteration": "garuḍa-dhvaja",
+      "translation": "A column or standard topped with Garuḍa",
+      "context": "The Besnagar inscription is on such a column, a symbol of Viṣṇu."
+    },
+    {
+      "term": "Vīra-vāda",
+      "transliteration": "Vīra-vāda",
+      "translation": "The cult of heroes",
+      "context": "The initial cult of the deified five heroes of the Vṛṣṇi clan."
+    },
+    {
+      "term": "vyūha",
+      "transliteration": "vyūha",
+      "translation": "Emanation, manifestation",
+      "context": "The doctrine of four divine emanations (Vāsudeva, Saṃkarṣaṇa, Pradyumna, Aniruddha) that developed in Bhāgavata ideology."
+    },
+    {
+      "term": "bhāgavata-śāstra",
+      "transliteration": "bhāgavata-śāstra",
+      "translation": "The scripture of the Bhagavātas/of Bhagavān",
+      "context": "A name for the Pāñcarātra system."
+    },
+    {
+      "term": "bhaga",
+      "transliteration": "bhaga",
+      "translation": "A collection of six divine attributes",
+      "context": "Bhagavān is the possessor of bhaga (jñāna, śakti, bala, aiśvarya, vīrya, tejas)."
+    },
+    {
+      "term": "ekāyana-veda",
+      "transliteration": "ekāyana-veda",
+      "translation": "The Veda which is the one/only path",
+      "context": "A name for the Pāñcarātra doctrine, signifying it as the sole path to salvation."
+    },
+    {
+      "term": "mūla-veda",
+      "transliteration": "mūla-veda",
+      "translation": "The root/original Veda",
+      "context": "A claim made by Pāñcarātra that its teaching is the primordial Veda from which others branched."
+    },
+    {
+      "term": "Sāttvata-vidhi",
+      "transliteration": "Sāttvata-vidhi",
+      "translation": "The injunctions/doctrine of the Sāttvatas",
+      "context": "The doctrine taught by Saṃkarṣaṇa and associated with Pāñcarātra."
+    },
+    {
+      "term": "prādurbhāvas",
+      "transliteration": "prādurbhāvas",
+      "translation": "Incarnatory forms, avatars",
+      "context": "The ten incarnations of Viṣṇu enumerated in the Nārāyaṇīya."
+    },
+    {
+      "term": "ekāntin",
+      "transliteration": "ekāntin",
+      "translation": "One who has single-minded/exclusive devotion",
+      "context": "The term for the ideal devotee in the Bhāgavata-Pāñcarātra tradition."
+    },
+    {
+      "term": "bhakti",
+      "transliteration": "bhakti",
+      "translation": "Devotion",
+      "context": "The central practice and distinguishing feature of the Bhāgavata cult."
+    },
+    {
+      "term": "Sāṃkhya",
+      "transliteration": "Sāṃkhya",
+      "translation": "One of the six orthodox schools of Hindu philosophy, focusing on knowledge/enumeration",
+      "context": "The Bhāgavata cult is said to be deeply associated with its doctrines."
+    },
+    {
+      "term": "Yoga",
+      "transliteration": "Yoga",
+      "translation": "Union; a spiritual discipline",
+      "context": "In the Bhāgavata context, it is the practical means (bhakti) of communicating with Bhagavān."
+    },
+    {
+      "term": "pāñcarātra-sattra",
+      "transliteration": "pāñcarātra-sattra",
+      "translation": "A five-night sacrificial session",
+      "context": "A sacrifice performed by Puruṣa-Nārāyaṇa in the Śatapatha-brāhmaṇa, which is seen as a Vedic precursor to the Pāñcarātra system."
+    },
+    {
+      "term": "pāñcarātra",
+      "transliteration": "pāñcarātra",
+      "translation": "Five nights",
+      "context": "The central term, its meaning is the main subject of the first section, evolving from a literal to a doctrinal sense."
+    },
+    {
+      "term": "sattra",
+      "transliteration": "sattra",
+      "translation": "Sacrifice",
+      "context": "Refers to the original five-night sacrifice mentioned in the Śatapatha-brāhmaṇa."
+    },
+    {
+      "term": "ekāntin",
+      "transliteration": "ekāntin",
+      "translation": "One who has a single object of devotion",
+      "context": "A term for the bhāgavatas, who were exclusively devoted to the worship of Nārāyaṇa."
+    },
+    {
+      "term": "pañca-kāla",
+      "transliteration": "pañca-kāla",
+      "translation": "Five times/periods",
+      "context": "The five-fold division of the day for religious duties: abhigamana, upādāna, ijyā, svādhyāya, and yoga."
+    },
+    {
+      "term": "abhigamana",
+      "transliteration": "abhigamana",
+      "translation": "Approaching",
+      "context": "The first phase of pañca-kāla, early morning preparatory sequences."
+    },
+    {
+      "term": "upādāna",
+      "transliteration": "upādāna",
+      "translation": "Collecting",
+      "context": "The second phase of pañca-kāla, collecting articles for worship."
+    },
+    {
+      "term": "ijyā",
+      "transliteration": "ijyā",
+      "translation": "Worship, sacrifice",
+      "context": "The third and most important phase of pañca-kāla, the formal iconic worship."
+    },
+    {
+      "term": "svādhyāya",
+      "transliteration": "svādhyāya",
+      "translation": "Self-study",
+      "context": "The fourth phase of pañca-kāla, devoted to the study of scriptures."
+    },
+    {
+      "term": "yoga",
+      "transliteration": "yoga",
+      "translation": "Union",
+      "context": "The fifth phase of pañca-kāla, practice and deep meditation at night."
+    },
+    {
+      "term": "rātra",
+      "transliteration": "rātra",
+      "translation": "Night, knowledge, system, ignorance",
+      "context": "The second part of 'pāñcarātra', given numerous interpretations in different texts."
+    },
+    {
+      "term": "pāñcāyudha",
+      "transliteration": "pāñcāyudha",
+      "translation": "Five weapons",
+      "context": "The five celestial weapons of Viṣṇu, whose incarnations were the five sages who received the teaching."
+    },
+    {
+      "term": "divya",
+      "transliteration": "divya",
+      "translation": "Divine",
+      "context": "The highest class of Pāñcarātra texts, considered to be of divine origin."
+    },
+    {
+      "term": "muni-prokta",
+      "transliteration": "muni-prokta",
+      "translation": "Spoken by a sage",
+      "context": "The second class of texts, composed by sages."
+    },
+    {
+      "term": "pauruṣa",
+      "transliteration": "pauruṣa",
+      "translation": "Of human origin",
+      "context": "The third and least authoritative class of texts."
+    },
+    {
+      "term": "sāttvika, rājasa, tāmasa",
+      "transliteration": "sāttvika, rājasa, tāmasa",
+      "translation": "Related to the qualities of purity, passion, and darkness",
+      "context": "The three guṇas used to sub-classify the muni-prokta texts."
+    },
+    {
+      "term": "grantha",
+      "transliteration": "grantha",
+      "translation": "Book, treatise, a metrical unit",
+      "context": "A metrical unit of thirty-two syllables, used to measure the extent of the literature."
+    },
+    {
+      "term": "saṁhitā",
+      "transliteration": "saṁhitā",
+      "translation": "Collection",
+      "context": "A type of text in the Pāñcarātra corpus, a compilation or treatise."
+    },
+    {
+      "term": "ekāyana-veda",
+      "transliteration": "ekāyana-veda",
+      "translation": "The one-path Veda",
+      "context": "The primordial scripture of pure devotion from which Pāñcarātra is said to originate."
+    },
+    {
+      "term": "kriyā-mārga",
+      "transliteration": "kriyā-mārga",
+      "translation": "Path of action/ritual",
+      "context": "The central practical path of Pāñcarātra, focusing on temple building, icon making, and worship."
+    },
+    {
+      "term": "pāda",
+      "transliteration": "pāda",
+      "translation": "Foot, quarter, section",
+      "context": "A section or division of an Āgama text, ideally four in number (Jñāna, Yoga, Kriyā, Caryā)."
+    },
+    {
+      "term": "Pāñcarātra",
+      "transliteration": "Pāñcarātra",
+      "translation": "A Vaiṣṇava Āgamic tradition.",
+      "context": "The main subject of the chapter."
+    },
+    {
+      "term": "Śrī-vaiṣṇava",
+      "transliteration": "Śrī-vaiṣṇava",
+      "translation": "A major school of Vaiṣṇavism.",
+      "context": "The tradition of teachers like Yāmuna-muni and Rāmānuja who defended Pāñcarātra."
+    },
+    {
+      "term": "Āgama-prāmāṇya",
+      "transliteration": "Āgama-prāmāṇya",
+      "translation": "Authoritativeness of the Āgamas.",
+      "context": "Title of Yāmuna-muni's treatise defending Pāñcarātra."
+    },
+    {
+      "term": "Āgama",
+      "transliteration": "Āgama",
+      "translation": "Revealed scripture.",
+      "context": "The class of texts to which Pāñcarātra belongs, often contrasted with the Vedas."
+    },
+    {
+      "term": "Pāñcarātra-rakṣa",
+      "transliteration": "Pāñcarātra-rakṣa",
+      "translation": "Defense of Pāñcarātra.",
+      "context": "Title of Vedānta-deśika's treatise."
+    },
+    {
+      "term": "sarva-dharma-bahiṣkṛtā",
+      "transliteration": "sarva-dharma-bahiṣkṛtā",
+      "translation": "Those outcast from all dharmas.",
+      "context": "A derogatory term used for Pāñcarātrins by Vedic adherents."
+    },
+    {
+      "term": "vikāra-veda",
+      "transliteration": "vikāra-veda",
+      "translation": "Perverted Vedas.",
+      "context": "A derogatory term used for the Vedas by some Pāñcarātrins."
+    },
+    {
+      "term": "puruṣār-thāprayojaka",
+      "transliteration": "puruṣārthāprayojaka",
+      "translation": "Incapable of fulfilling human values.",
+      "context": "A Pāñcarātra critique of the Vedas."
+    },
+    {
+      "term": "avaidika",
+      "transliteration": "avaidika",
+      "translation": "Non-Vedic, heretical.",
+      "context": "Label attached to Pāñcarātrins by orthodox groups."
+    },
+    {
+      "term": "parārtha-yajana",
+      "transliteration": "parārtha-yajana",
+      "translation": "Worshipping for others.",
+      "context": "Refers to professional priests worshipping for monetary reward, a practice that carried a social stigma."
+    },
+    {
+      "term": "Sāttvata-vidhi",
+      "transliteration": "Sāttvata-vidhi",
+      "translation": "The Sāttvata system.",
+      "context": "Another name for the Pāñcarātra system."
+    },
+    {
+      "term": "bhakti",
+      "transliteration": "bhakti",
+      "translation": "Loving devotion.",
+      "context": "The easier and more effective path emphasized by Pāñcarātra."
+    },
+    {
+      "term": "ekāyana-veda",
+      "transliteration": "ekāyana-veda",
+      "translation": "The one-path Veda.",
+      "context": "The term Pāñcarātrins used for their own tradition, claiming it to be the original word of God."
+    },
+    {
+      "term": "śruti-mūlam",
+      "transliteration": "śruti-mūlam",
+      "translation": "Rooted in the śruti (Vedas).",
+      "context": "Vedānta-deśika's argument for the legitimacy of Pāñcarātra."
+    },
+    {
+      "term": "vaidikācāram",
+      "transliteration": "vaidikācāram",
+      "translation": "Conduct prescribed in the Veda.",
+      "context": "Quoted from Lakṣmī-tantra to show Pāñcarātra's deference to Vedic norms."
+    },
+    {
+      "term": "garhitāḥ",
+      "transliteration": "garhitāḥ",
+      "translation": "Condemnable.",
+      "context": "Term used in Kūrma and Skanda Purāṇas to describe Pāñcarātra and other schools."
+    },
+    {
+      "term": "paśu-pāśa-pramocana",
+      "transliteration": "paśu-pāśa- pramocana",
+      "translation": "Releasing the individual soul (paśu) from bondage (pāśa).",
+      "context": "The goal of the Pāśupata school."
+    },
+    {
+      "term": "Śiva-bhāgavatas",
+      "transliteration": "Śiva-bhāgavatas",
+      "translation": "Devotees of Śiva as Bhāgavata.",
+      "context": "A term from Patañjali's Mahābhāṣya suggesting attempts to integrate Śaiva devotees."
+    },
+    {
+      "term": "siddhānta",
+      "transliteration": "siddhānta",
+      "translation": "Established doctrine or final conclusion.",
+      "context": "The term for the major divisions within the Pāñcarātra system."
+    },
+    {
+      "term": "sāṅkarya",
+      "transliteration": "sāṅkarya",
+      "translation": "Mix-up, confusion.",
+      "context": "The frowned-upon practice of mixing the rituals and doctrines of different siddhāntas."
+    },
+    {
+      "term": "Kṛta-yuga",
+      "transliteration": "Kṛta-yuga",
+      "translation": "The first of the four cosmic ages.",
+      "context": "The age when āgama-siddhānta is said to have appeared."
+    },
+    {
+      "term": "eka-mūrti",
+      "transliteration": "eka-mūrti",
+      "translation": "One iconic representation.",
+      "context": "The principal mode of worship in mantra-siddhānta."
+    },
+    {
+      "term": "vyūha",
+      "transliteration": "vyūha",
+      "translation": "Emanation.",
+      "context": "The four divine emanations (Vāsudeva, Saṁkarṣaṇa, Pradyumna, Aniruddha) central to āgama-siddhānta."
+    },
+    {
+      "term": "ṣaḍguṇa-pūrṇatā",
+      "transliteration": "ṣaḍguṇa-pūrṇatā",
+      "translation": "Fullness of the six divine attributes.",
+      "context": "The attributes (bala, vīrya, etc.) that define the vyūha forms."
+    },
+    {
+      "term": "Karma-sanyāsa",
+      "transliteration": "Karma-sanyāsa",
+      "translation": "Renunciation of action.",
+      "context": "Defined in āgama-siddhānta as giving up actions prompted by desire."
+    },
+    {
+      "term": "pañca-kāla",
+      "transliteration": "pañca-kāla",
+      "translation": "Five-fold daily duties.",
+      "context": "Injunctions (abhigamana, upādāna, etc.) followed meticulously in āgama-siddhānta."
+    },
+    {
+      "term": "tāntrika",
+      "transliteration": "tāntrika",
+      "translation": "Pertaining to Tantra; non-Vedic.",
+      "context": "The mode of worship characterizing the tantra and tantrāntara siddhāntas."
+    },
+    {
+      "term": "mukhya-vṛtti",
+      "transliteration": "mukhya-vṛtti",
+      "translation": "Principal forms.",
+      "context": "Direct emanations from Aniruddha's 'tejas' and 'śakti', like Kūrma and Varāha."
+    },
+    {
+      "term": "anu-vṛtti",
+      "transliteration": "anu-vṛtti",
+      "translation": "Secondary forms.",
+      "context": "Emanations involving other guṇas, like Rāma and Kṛṣṇa."
+    },
+    {
+      "term": "Pāñcarātra",
+      "transliteration": "Pāñcarātra",
+      "translation": "Literally 'five nights'. Name of the Vaishnava Agama system being discussed.",
+      "context": "The central subject of the chapter."
+    },
+    {
+      "term": "Viśiṣṭādvaita",
+      "transliteration": "Viśiṣṭādvaita",
+      "translation": "Qualified non-dualism.",
+      "context": "The Śrī-Vaiṣṇava philosophy often conflated with Pāñcarātra."
+    },
+    {
+      "term": "saṁhitā",
+      "transliteration": "saṁhitā",
+      "translation": "Collection, text.",
+      "context": "Refers to the sacred texts of the Pāñcarātra system, and also to the 'ten branches' of the Sāttvata system."
+    },
+    {
+      "term": "śakti",
+      "transliteration": "śakti",
+      "translation": "Energy, power.",
+      "context": "Lakṣmī is recognized as the energy (śakti) of Nārāyaṇa."
+    },
+    {
+      "term": "ekāyana-veda",
+      "transliteration": "ekāyana-veda",
+      "translation": "The one path Veda, or original Veda.",
+      "context": "Pāñcarātra's claim to be the original Veda from which the other four ('vikāra-vedas') emerged."
+    },
+    {
+      "term": "sāttvata-vidhi",
+      "transliteration": "sāttvata-vidhi",
+      "translation": "Rule or prescription of the Sāttvatas (devotees of Viṣṇu).",
+      "context": "Describes the practical, worship-oriented nature of the Pāñcarātra system."
+    },
+    {
+      "term": "prapatti",
+      "transliteration": "prapatti",
+      "translation": "Surrender, taking refuge.",
+      "context": "A simpler technique for salvation introduced into later Pāñcarātra under Viśiṣṭādvaita influence."
+    },
+    {
+      "term": "śaraṇāgati",
+      "transliteration": "śaraṇāgati",
+      "translation": "Taking refuge, surrender.",
+      "context": "Synonymous with prapatti, described as a six-fold path (ṣaḍaṅga)."
+    },
+    {
+      "term": "Sāṁkhya",
+      "transliteration": "Sāṁkhya",
+      "translation": "Enumeration.",
+      "context": "One of the six orthodox schools of Hindu philosophy; provides the theoretical foundation for early Pāñcarātra."
+    },
+    {
+      "term": "prakṛti",
+      "transliteration": "prakṛti",
+      "translation": "Nature, matter, the material cause of the universe.",
+      "context": "A core concept from Sāṁkhya used extensively in Pāñcarātra cosmology."
+    },
+    {
+      "term": "puruṣa",
+      "transliteration": "puruṣa",
+      "translation": "Person, spirit, consciousness.",
+      "context": "The conscious principle in Sāṁkhya, which interacts with prakṛti."
+    },
+    {
+      "term": "guṇa",
+      "transliteration": "guṇa",
+      "translation": "Quality, attribute.",
+      "context": "Refers both to the three constituents of prakṛti (sattva, rajas, tamas) and the six divine attributes of Bhagavān."
+    },
+    {
+      "term": "vyūha",
+      "transliteration": "vyūha",
+      "translation": "Emanation.",
+      "context": "The primary emanations of God in Pāñcarātra theology (Vāsudeva, Saṁkarṣaṇa, Pradyumna, Aniruddha)."
+    },
+    {
+      "term": "śruti",
+      "transliteration": "śruti",
+      "translation": "That which is heard; revealed scripture (the Vedas).",
+      "context": "Pāñcarātra is described as 'ekāyana-śruti', claiming revealed status."
+    },
+    {
+      "term": "bhagavat",
+      "transliteration": "bhagavat",
+      "translation": "Possessor of 'bhaga' (majesty, auspicious qualities); the adorable one, God.",
+      "context": "A key term for Godhead in the Pāñcarātra system."
+    },
+    {
+      "term": "jñāna",
+      "transliteration": "jñāna",
+      "translation": "Knowledge.",
+      "context": "One of the six divine attributes; also used generally for spiritual knowledge, distinguished from 'vidyā'."
+    },
+    {
+      "term": "vidyā",
+      "transliteration": "vidyā",
+      "translation": "Knowledge, science.",
+      "context": "Systematized and spiritual knowledge, identified with the energy of Godhead."
+    },
+    {
+      "term": "antar-yāga",
+      "transliteration": "antar-yāga",
+      "translation": "Internal sacrifice.",
+      "context": "Mental worship or contemplation, as distinguished from external rituals (bahir-yajña)."
+    },
+    {
+      "term": "mokṣa",
+      "transliteration": "mokṣa",
+      "translation": "Liberation, release.",
+      "context": "The final goal in the Pāñcarātra system, described as a positive state of attainment."
+    },
+    {
+      "term": "mala-traya",
+      "transliteration": "mala-traya",
+      "translation": "The triad of stains/impurities.",
+      "context": "The three fetters (āṇava, kiṁcit-kara, kiṁcij-jñatva) that cause bondage. The term is noted as borrowed from Śaiva āgama."
+    },
+    {
+      "term": "śakti-pāta",
+      "transliteration": "śakti-pāta",
+      "translation": "Descent of power.",
+      "context": "The act of divine grace that initiates the process of liberation for a soul."
+    },
+    {
+      "term": "sāyujya",
+      "transliteration": "sāyujya",
+      "translation": "Union, becoming one with.",
+      "context": "The highest form of liberation, defined as union with Godhead."
+    },
+    {
+      "term": "prakāras",
+      "transliteration": "prakāras",
+      "translation": "modes of being",
+      "context": "The principal varieties of forms the Deity assumes in Pāñcarātra philosophy."
+    },
+    {
+      "term": "para",
+      "transliteration": "para",
+      "translation": "transcendental",
+      "context": "The highest, ultimate, and formless mode of the Deity."
+    },
+    {
+      "term": "vyūha",
+      "transliteration": "vyūha",
+      "translation": "emanatory",
+      "context": "The mode of cosmic emanations that govern the universe."
+    },
+    {
+      "term": "vibhava",
+      "transliteration": "vibhava",
+      "translation": "incarnatory",
+      "context": "The mode of divine descents or incarnations on earth."
+    },
+    {
+      "term": "antaryāmī",
+      "transliteration": "antaryāmī",
+      "translation": "immanent",
+      "context": "The fourth mode, the inner controller residing in the heart of all beings."
+    },
+    {
+      "term": "arcā",
+      "transliteration": "arcā",
+      "translation": "iconic",
+      "context": "The fifth mode, the form of the Deity worshipped in an icon."
+    },
+    {
+      "term": "nitya-sūri",
+      "transliteration": "nitya-sūri",
+      "translation": "immutable masters",
+      "context": "Eternal, ever-free souls residing in Vaikuṇṭha who perpetually see the para form."
+    },
+    {
+      "term": "mukta",
+      "transliteration": "mukta",
+      "translation": "emancipated souls",
+      "context": "Souls who have attained liberation and reside in Vaikuṇṭha."
+    },
+    {
+      "term": "ṣāḍguṇya",
+      "transliteration": "ṣāḍguṇya",
+      "translation": "six attributes",
+      "context": "The six divine qualities that constitute the body of the Deity: jñāna, śakti, aiśvarya, bala, vīrya, tejas."
+    },
+    {
+      "term": "jñāna",
+      "transliteration": "jñāna",
+      "translation": "wisdom, consciousness",
+      "context": "The primary divine attribute."
+    },
+    {
+      "term": "śakti",
+      "transliteration": "śakti",
+      "translation": "energy, power",
+      "context": "A divine attribute; also personified as Lakṣmī."
+    },
+    {
+      "term": "aiśvarya",
+      "transliteration": "aiśvarya",
+      "translation": "lordship, omnipotency",
+      "context": "A divine attribute."
+    },
+    {
+      "term": "bala",
+      "transliteration": "bala",
+      "translation": "strength",
+      "context": "A divine attribute."
+    },
+    {
+      "term": "vīrya",
+      "transliteration": "vīrya",
+      "translation": "vigour, virility",
+      "context": "A divine attribute."
+    },
+    {
+      "term": "tejas",
+      "transliteration": "tejas",
+      "translation": "splendour, glory",
+      "context": "A divine attribute."
+    },
+    {
+      "term": "nirguṇa",
+      "transliteration": "nirguṇa",
+      "translation": "devoid of attributes",
+      "context": "In Pāñcarātra, it means untouched by phenomenal/material (prākṛta) attributes, not the absence of divine attributes."
+    },
+    {
+      "term": "avatāra",
+      "transliteration": "avatāra",
+      "translation": "descent",
+      "context": "A manifestation of the Deity on earth, a broader term than vibhava."
+    },
+    {
+      "term": "Viśākha-yūpa",
+      "transliteration": "Viśākha-yūpa",
+      "translation": "Branchless sacrificial post",
+      "context": "A conceptual pillar of light representing Para-Vāsudeva, with nodes for the four vyūhas."
+    },
+    {
+      "term": "sākṣādavatāra",
+      "transliteration": "sākṣādavatāra",
+      "translation": "direct incarnation",
+      "context": "A form where the Deity's nature manifests directly."
+    },
+    {
+      "term": "āveśāvatāra",
+      "transliteration": "āveśāvatāra",
+      "translation": "incarnation by possession",
+      "context": "A form where the Deity's attributes occasionally possess a divine or human being."
+    },
+    {
+      "term": "Pāñcarātra",
+      "transliteration": "Pāñcarātra",
+      "translation": "A Vaiṣṇava Āgamic tradition.",
+      "context": "The main subject of the chapter."
+    },
+    {
+      "term": "Yāga",
+      "transliteration": "Yāga",
+      "translation": "Worship, ritual sacrifice.",
+      "context": "The central concept of worship in the chapter."
+    },
+    {
+      "term": "Para",
+      "transliteration": "Para",
+      "translation": "Supreme, transcendental.",
+      "context": "The highest of the three modes of the Deity."
+    },
+    {
+      "term": "Vyūha",
+      "transliteration": "Vyūha",
+      "translation": "Emanation.",
+      "context": "The second mode of the Deity, consisting of four forms like Vāsudeva."
+    },
+    {
+      "term": "Vibhava",
+      "transliteration": "Vibhava",
+      "translation": "Incarnation, manifestation.",
+      "context": "The third mode of the Deity, like Rāma or Kṛṣṇa."
+    },
+    {
+      "term": "Dīkṣā",
+      "transliteration": "Dīkṣā",
+      "translation": "Initiation.",
+      "context": "Formal initiation into Pāñcarātra practice."
+    },
+    {
+      "term": "Āgama",
+      "transliteration": "Āgama",
+      "translation": "A traditional doctrine or precept, a collection of scriptures.",
+      "context": "The textual tradition to which Pāñcarātra belongs."
+    },
+    {
+      "term": "Parārtha",
+      "transliteration": "Parārtha",
+      "translation": "For the sake of others.",
+      "context": "Worship conducted for the benefit of others, typically in a temple setting."
+    },
+    {
+      "term": "Catus-sthānārcanā",
+      "transliteration": "Catus-sthānārcanā",
+      "translation": "Worship in four seats.",
+      "context": "The concept of four possible locations or media for worship."
+    },
+    {
+      "term": "Mūrti / Bimba",
+      "transliteration": "Mūrtau / Bimbe",
+      "translation": "In an icon/image.",
+      "context": "One of the seats of worship."
+    },
+    {
+      "term": "Maṇḍala",
+      "transliteration": "Maṇḍala",
+      "translation": "A mystic diagram.",
+      "context": "One of the seats of worship."
+    },
+    {
+      "term": "Sva-hṛt-padme",
+      "transliteration": "Sva-hṛt-padme",
+      "translation": "In one's own heart-lotus.",
+      "context": "An alternate seat for worship, associated with antar-yāga."
+    },
+    {
+      "term": "Kalaśa",
+      "transliteration": "Kalaśe",
+      "translation": "In the sacred water-pot.",
+      "context": "An alternate seat for worship."
+    },
+    {
+      "term": "Sūrya",
+      "transliteration": "Sūrye",
+      "translation": "In the sun.",
+      "context": "An alternate seat for worship."
+    },
+    {
+      "term": "Varṇa",
+      "transliteration": "Varṇa",
+      "translation": "Social class/caste.",
+      "context": "Mentioned in relation to eligibility for fire worship."
+    },
+    {
+      "term": "Āśrama",
+      "transliteration": "Āśrama",
+      "translation": "Stage of life.",
+      "context": "Mentioned in relation to eligibility for fire worship."
+    },
+    {
+      "term": "Arcanā",
+      "transliteration": "Arcanā",
+      "translation": "Worship.",
+      "context": "Used to describe formal worship sequences."
+    },
+    {
+      "term": "Sākāra",
+      "transliteration": "Sākāra",
+      "translation": "Having a discernible form.",
+      "context": "Refers to the Godhead conceived with form, essential for iconic worship."
+    },
+    {
+      "term": "Nirākāra",
+      "transliteration": "Nirākāra",
+      "translation": "Devoid of form.",
+      "context": "Refers to the formless Godhead, for whom 'worship' is considered not strictly applicable."
+    },
+    {
+      "term": "Bahir-yāga",
+      "transliteration": "Bahir-yāga",
+      "translation": "External worship.",
+      "context": "One of the two broad varieties of yāga."
+    },
+    {
+      "term": "Antar-yāga",
+      "transliteration": "Antar-yāga",
+      "translation": "Internal worship.",
+      "context": "The second of the two broad varieties of yāga."
+    },
+    {
+      "term": "Guṇa",
+      "transliteration": "Guṇa",
+      "translation": "Quality, attribute (sattva, rajas, tamas).",
+      "context": "Bahir-yāga aims to eradicate defects born from rajas and tamas."
+    },
+    {
+      "term": "Kriyā-yoga",
+      "transliteration": "Kriyā-yoga",
+      "translation": "The path of actions/rituals.",
+      "context": "Bahir-yāga is described as this path."
+    },
+    {
+      "term": "Nyāsa",
+      "transliteration": "Nyāsa",
+      "translation": "Placements.",
+      "context": "A procedure in antar-yāga of placing mantras on the body."
+    },
+    {
+      "term": "Vyūhāntara",
+      "transliteration": "Vyūhāntara",
+      "translation": "Secondary emanations.",
+      "context": "The twelve forms like Keśava, Nārāyaṇa, etc."
+    },
+    {
+      "term": "Pañca-kāla",
+      "transliteration": "Pañca-kāla",
+      "translation": "Five periods of the day.",
+      "context": "An ideology within which the term 'yāga' implies recitation plus contemplation."
+    },
+    {
+      "term": "Adhva-ṣaṭka",
+      "transliteration": "Adhva-ṣaṭka",
+      "translation": "The six planes or paths.",
+      "context": "A key concept for initiation and spiritual progression."
+    },
+    {
+      "term": "Śabda-brahma",
+      "transliteration": "Śabda-brahma",
+      "translation": "Brahman in the form of sound.",
+      "context": "The nature of the Varṇādhvā plane."
+    },
+    {
+      "term": "Pañca-saṃskāra",
+      "transliteration": "Pañca-saṃskāra",
+      "translation": "Five consecrations.",
+      "context": "The five initiatory rites."
+    },
+    {
+      "term": "Tāpa / Tapta-mudrāṅkana",
+      "transliteration": "Tāpa / Tapta-mudrāṅkana",
+      "translation": "Branding / marking with a heated seal.",
+      "context": "The first of the five consecrations."
+    },
+    {
+      "term": "Puṇḍra / Ūrdhva-puṇḍra",
+      "transliteration": "Puṇḍra / Ūrdhva-puṇḍra",
+      "translation": "Mark / vertical mark on the forehead.",
+      "context": "The second of the five consecrations."
+    },
+    {
+      "term": "Nāma",
+      "transliteration": "Nāma",
+      "translation": "Name.",
+      "context": "The third consecration, bestowal of a divine name."
+    },
+    {
+      "term": "Vaiṣṇava",
+      "transliteration": "Vaiṣṇava",
+      "translation": "A devotee of Viṣṇu.",
+      "context": "The branding ceremony transforms a devotee into a Vaiṣṇava."
+    },
+    {
+      "term": "Tantra-sāra-saṅgraha",
+      "transliteration": "Tantra-sāra-saṅgraha",
+      "translation": "Essence of Tantra-Compendium",
+      "context": "The main text discussed in the chapter, authored by Madhvācārya."
+    },
+    {
+      "term": "Pāñcarātra",
+      "transliteration": "Pāñcarātra",
+      "translation": "Lit. 'Five Nights'",
+      "context": "A major division of Vaiṣṇava Āgama to which Tantra-sārāgama claims affiliation."
+    },
+    {
+      "term": "ācārya",
+      "transliteration": "ācārya",
+      "translation": "Teacher, spiritual master",
+      "context": "Refers to Śaṃkara, Rāmānuja, and Madhvācārya."
+    },
+    {
+      "term": "bimba",
+      "transliteration": "bimba",
+      "translation": "The original, the real substance, the deity",
+      "context": "A core concept; refers to Viṣṇu as the original reality of which the soul is a reflection."
+    },
+    {
+      "term": "pratibimba",
+      "transliteration": "pratibimba",
+      "translation": "A counterpart, a reflection, an image",
+      "context": "A core concept; refers to the individual soul (jīva) as a reflection of the bimba (Viṣṇu)."
+    },
+    {
+      "term": "jīva",
+      "transliteration": "jīva",
+      "translation": "Individual self/soul",
+      "context": "The conscious entity that is a pratibimba of Viṣṇu."
+    },
+    {
+      "term": "tattva",
+      "transliteration": "tattva",
+      "translation": "Category of existence, principle",
+      "context": "Refers to the 24 fundamental categories of existence from the Sāṃkhyan system."
+    },
+    {
+      "term": "dīkṣā",
+      "transliteration": "dīkṣā",
+      "translation": "Initiation",
+      "context": "Mentioned as being treated only casually in this system, unlike in other Āgamas."
+    },
+    {
+      "term": "japa",
+      "transliteration": "japa",
+      "translation": "Recitation and repetition of mantras",
+      "context": "One of the four methods of worship."
+    },
+    {
+      "term": "dhyāna",
+      "transliteration": "dhyāna",
+      "translation": "Contemplation, meditation",
+      "context": "One of the four methods of worship."
+    },
+    {
+      "term": "huta",
+      "transliteration": "huta",
+      "translation": "Fire-rituals",
+      "context": "One of the four methods of worship."
+    },
+    {
+      "term": "arcā",
+      "transliteration": "arcā",
+      "translation": "Iconic worship",
+      "context": "One of the four methods of worship."
+    },
+    {
+      "term": "nāḍī",
+      "transliteration": "nāḍī",
+      "translation": "Subtle channel of vital current",
+      "context": "The text discusses the system of 72,000 nāḍīs in the body."
+    },
+    {
+      "term": "suṣumṇā",
+      "transliteration": "suṣumṇā",
+      "translation": "The principal or central nāḍī",
+      "context": "The main vital channel running through the body, also called Brahma-nāḍī."
+    },
+    {
+      "term": "padma",
+      "transliteration": "padma",
+      "translation": "Lotus",
+      "context": "Refers to the vital centres (chakras) imagined as lotuses within the body."
+    },
+    {
+      "term": "golaka",
+      "transliteration": "golaka",
+      "translation": "Ground, base",
+      "context": "An icon is regarded as a 'golaka' for the projection of divinity during worship."
+    },
+    {
+      "term": "antaryāmī",
+      "transliteration": "antaryāmī",
+      "translation": "Indweller, immanent principle",
+      "context": "Used to describe the doctrine of sequential immanence of Mukhya-prāṇa, Lakṣmī, and Viṣṇu in an icon."
+    },
+    {
+      "term": "bimbāparokṣa",
+      "transliteration": "bimbāparokṣa",
+      "translation": "Direct realization of the bimba",
+      "context": "The ultimate goal for emancipation."
+    },
+    {
+      "term": "Tattva-vāda",
+      "transliteration": "Tattva-vāda",
+      "translation": "The Doctrine of Reality/Principles",
+      "context": "The name for Madhvācārya's philosophical system, emphasizing plurality ('bheda')."
+    }
+  ],
+  "cross_reference_map": [
+    {
+      "reference_text": "Amara-koṣa (1,1,18-30)",
+      "target": "Amara-koṣa",
+      "page": "4"
+    },
+    {
+      "reference_text": "Vāyu-purāṇa ('pañcaite vaṃśa-vīrāḥ')",
+      "target": "Vāyu-purāṇa",
+      "page": "4"
+    },
+    {
+      "reference_text": "We will deal in a later chapter with the Sāṃkhya background of the vyūha-theory of the Pāñcarātras.",
+      "target": "A later chapter in the same book.",
+      "page": "16"
+    },
+    {
+      "reference_text": "Bhagavad-gītā, 4,1-2",
+      "target": "Bhagavad-gītā",
+      "page": "17"
+    },
+    {
+      "reference_text": "Śatapatha-brāhmaṇa (13, 6,1)",
+      "target": "Śatapatha-brāhmaṇa",
+      "page": "9"
+    },
+    {
+      "reference_text": "Cāndogya-Upaniṣat (3,16)",
+      "target": "Cāndogya-Upaniṣat",
+      "page": "10"
+    },
+    {
+      "reference_text": "Mahābhārata (Śānti-parva, 45,1-10)",
+      "target": "Mahābhārata",
+      "page": "10"
+    },
+    {
+      "reference_text": "Nārāyaṇīya section of Mahābhārata (Śānti-parva, mok-ṣa-dharma-parva, chapters 334 to 348)",
+      "target": "Mahābhārata",
+      "page": "11"
+    },
+    {
+      "reference_text": "Utpala's Spanda-Kārikā",
+      "target": "Spanda-Kārikā of Utpala",
+      "page": "8"
+    },
+    {
+      "reference_text": "Ahirbudhnya-saṃhitā (38,39)",
+      "target": "Ahirbudhnya-saṃhitā",
+      "page": "9"
+    },
+    {
+      "reference_text": "Ṛg-vedic corpus (10,90), (8,85-87), (10,42-44), (1,127,5)",
+      "target": "Ṛg-veda",
+      "page": "9, 10, 18"
+    },
+    {
+      "reference_text": "(For the forms of Viṣṇu, see later)",
+      "target": "A later section or chapter discussing the forms of Viṣṇu.",
+      "page": "9"
+    },
+    {
+      "reference_text": "(see a later chapter for a detailed account of the Vyūhas)",
+      "target": "A later chapter on the Vyūhas.",
+      "page": "12"
+    },
+    {
+      "reference_text": "(see next chapter for explanations)",
+      "target": "The next chapter, which will explain the six divine attributes (ṣaḍguṇa).",
+      "page": "12"
+    },
+    {
+      "reference_text": "Vedānta-sūtra, 2,2,44",
+      "target": "Aphorisms of the Vedānta school of philosophy.",
+      "page": "2"
+    },
+    {
+      "reference_text": "Mahābhārata (Nārāyaṇīya section)",
+      "target": "A section of the epic Mahābhārata which contains early Pāñcarātra ideas.",
+      "page": "2"
+    },
+    {
+      "reference_text": "Sāttvata-saṁhitā",
+      "target": "An early and authoritative Pāñcarātra text.",
+      "page": "Multiple pages (1, 3, 8, 9, 11, 14, 21)"
+    },
+    {
+      "reference_text": "Ahirbudhnya-saṁhitā",
+      "target": "An important Pāñcarātra text, source for the five disciplines and ten branches.",
+      "page": "Multiple pages (1, 6, 9, 10, 13, 14, 15, 19, 21, 22, 24)"
+    },
+    {
+      "reference_text": "Lakṣmī-tantra",
+      "target": "A later Pāñcarātra text that shows Viśiṣṭādvaita influence.",
+      "page": "Multiple pages (1, 3, 4, 10, 15, 16, 17, 18, 19)"
+    },
+    {
+      "reference_text": "Jayākhya-saṁhitā",
+      "target": "An early Pāñcarātra text.",
+      "page": "Multiple pages (1, 3, 5, 13, 23)"
+    },
+    {
+      "reference_text": "Bhagavad-gītā",
+      "target": "A key Hindu scripture.",
+      "page": "12"
+    },
+    {
+      "reference_text": "Introduction to the Pāñcarātra, Adyār, Madras, 1916, reprinted 1973, p. 128",
+      "target": "Book by Otto Schrader.",
+      "page": "9"
+    },
+    {
+      "reference_text": "Sāttvata-saṃhitā",
+      "target": "Ancient Pāñcarātra text",
+      "page": "1, 2, 5, 9, 10, 11, 16, 17, 22, 28, 30, 31, 32, 33, 34, 35, 36, 37"
+    },
+    {
+      "reference_text": "Ahirbudhnya-saṃhitā",
+      "target": "Ancient Pāñcarātra text",
+      "page": "1, 2, 4, 5, 6, 13, 22, 27, 32, 35"
+    },
+    {
+      "reference_text": "Śrī-praśna-saṃhitā",
+      "target": "Ancient Pāñcarātra text",
+      "page": "1"
+    },
+    {
+      "reference_text": "Viṣvaksena-saṃhitā",
+      "target": "Ancient Pāñcarātra text",
+      "page": "1, 10, 14, 33, 34, 35"
+    },
+    {
+      "reference_text": "Lakṣmī-tantra",
+      "target": "Ancient Pāñcarātra text",
+      "page": "6, 7, 8, 12, 13, 14, 15, 16, 17, 18, 22, 26, 27, 32"
+    },
+    {
+      "reference_text": "Pādma-saṃhitā / Pādma-tantra",
+      "target": "Ancient Pāñcarātra text",
+      "page": "5, 21"
+    },
+    {
+      "reference_text": "Pārameśvara-saṃhitā",
+      "target": "Ancient Pāñcarātra text",
+      "page": "5"
+    },
+    {
+      "reference_text": "Vihagendra-saṃhitā",
+      "target": "Ancient Pāñcarātra text",
+      "page": "5, 10"
+    },
+    {
+      "reference_text": "Viṣṇu-tilaka-saṃhitā",
+      "target": "Ancient Pāñcarātra text",
+      "page": "5, 24"
+    },
+    {
+      "reference_text": "Parama-saṃhitā",
+      "target": "Ancient Pāñcarātra text",
+      "page": "14"
+    },
+    {
+      "reference_text": "Mahāsanatkumāra-saṃhitā",
+      "target": "Ancient Pāñcarātra text",
+      "page": "19"
+    },
+    {
+      "reference_text": "Pauṣkara-saṃhitā",
+      "target": "Ancient Pāñcarātra text",
+      "page": "24, 26, 28, 30, 32"
+    },
+    {
+      "reference_text": "Viṣṇu-sahasra-nāma-stotra",
+      "target": "Sacred text from Mahābhārata",
+      "page": "2, 34, 36"
+    },
+    {
+      "reference_text": "Mahābhārata",
+      "target": "Ancient Indian epic",
+      "page": "11, 24, 30"
+    },
+    {
+      "reference_text": "Viṣṇu-purāṇa",
+      "target": "Ancient Purāṇic text",
+      "page": "23, 25"
+    },
+    {
+      "reference_text": "Bhagavad-gītā",
+      "target": "Sacred text from Mahābhārata",
+      "page": "24"
+    },
+    {
+      "reference_text": "Viṣṇu-tattva-saṃhitā (caryā, 4,5)",
+      "target": "Viṣṇu-tattva-saṃhitā",
+      "page": "1"
+    },
+    {
+      "reference_text": "(Bhāgavata, 1,318)",
+      "target": "Bhāgavata Purāṇa",
+      "page": "2"
+    },
+    {
+      "reference_text": "(Sāttvata-saṃhitā. 2,58-59)",
+      "target": "Sāttvata-saṃhitā",
+      "page": "3"
+    },
+    {
+      "reference_text": "(Jayākhya-saṃhitā, 11,41-42)",
+      "target": "Jayākhya-saṃhitā",
+      "page": "3"
+    },
+    {
+      "reference_text": "Sāttvata-saṃhitā (7,25-28)",
+      "target": "Sāttvata-saṃhitā",
+      "page": "3"
+    },
+    {
+      "reference_text": "Pārameśvara-saṃhitā (24,77-81)",
+      "target": "Pārameśvara-saṃhitā",
+      "page": "5"
+    },
+    {
+      "reference_text": "(Comm. on Sāttvata-samhitā 9,66 page 183-184)",
+      "target": "Sāttvata-saṃhitā",
+      "page": "6"
+    },
+    {
+      "reference_text": "('hṛd-yāga-niratair budhaih', Sāttvata, 4,31)",
+      "target": "Sāttvata-saṃhitā",
+      "page": "6"
+    },
+    {
+      "reference_text": "In common with Śaiva-āgama...",
+      "target": "Śaiva-āgama",
+      "page": "7"
+    },
+    {
+      "reference_text": "('prabhavāmi ṣaḍ- adhvanā', Lakṣmī-tantra, 22,10)",
+      "target": "Lakṣmī-tantra",
+      "page": "7"
+    },
+    {
+      "reference_text": "Sāttvata-saṃhitā (19,128-129)",
+      "target": "Sāttvata-saṃhitā",
+      "page": "7"
+    },
+    {
+      "reference_text": "(Lakṣmī-tantra, 22,15-16)",
+      "target": "Lakṣmī-tantra",
+      "page": "8"
+    },
+    {
+      "reference_text": "('tattvebhyo nirgatā mantrāḥ', Sāttvata-saṃhitā)",
+      "target": "Sāttvata-saṃhitā",
+      "page": "8"
+    },
+    {
+      "reference_text": "(ibid., 22, 18-20)",
+      "target": "Lakṣmī-tantra",
+      "page": "8"
+    },
+    {
+      "reference_text": "(ibid., 22, 26-27)",
+      "target": "Lakṣmī-tantra",
+      "page": "9"
+    },
+    {
+      "reference_text": "(Sāttvata-saṃhitā, 19, 136)",
+      "target": "Sāttvata-saṃhitā",
+      "page": "9"
+    },
+    {
+      "reference_text": "Sāttvata-saṃhitā, 19,150",
+      "target": "Sāttvata-saṃhitā",
+      "page": "10"
+    },
+    {
+      "reference_text": "(ibid., 19, 99-100)",
+      "target": "Sāttvata-saṃhitā",
+      "page": "10"
+    },
+    {
+      "reference_text": "(cf.ibid.,19,4)",
+      "target": "Sāttvata-saṃhitā",
+      "page": "10"
+    },
+    {
+      "reference_text": "Sāttvata-saṃhitā (16,40)",
+      "target": "Sāttvata-saṃhitā",
+      "page": "10"
+    },
+    {
+      "reference_text": "(Lakṣmī-tantra. 41,9-10)",
+      "target": "Lakṣmī-tantra",
+      "page": "11"
+    },
+    {
+      "reference_text": "(Sāttvata-saṃhitā, 16,25-26)",
+      "target": "Sāttvata-saṃhitā",
+      "page": "11"
+    },
+    {
+      "reference_text": "(Īśvara-saṃhitā. 21,284)",
+      "target": "Īśvara-saṃhitā",
+      "page": "12"
+    },
+    {
+      "reference_text": "(Pādma-saṃhitā)",
+      "target": "Pādma-saṃhitā",
+      "page": "12"
+    },
+    {
+      "reference_text": "(Pārameśvara-saṃhitā, 15,963)",
+      "target": "Pārameśvara-saṃhitā",
+      "page": "13"
+    },
+    {
+      "reference_text": "Śrī-praśna-saṃhitā (16,97-98)",
+      "target": "Śrī-praśna-saṃhitā",
+      "page": "13"
+    },
+    {
+      "reference_text": "The same text (16, 17-20)",
+      "target": "Śrī-praśna-saṃhitā",
+      "page": "13"
+    },
+    {
+      "reference_text": "(See Appendix VII)",
+      "target": "Appendix VII",
+      "page": "148"
+    }
+  ],
+  "bibliography_network": [],
+  "keywords_by_frequency": []
+}
