@@ -1,0 +1,1055 @@
+{
+  "book_title": "The Agama Encyclopedia 8",
+  "total_chapters": 3,
+  "total_pages": 0,
+  "all_historical_figures": [
+    {
+      "name": "Āgama",
+      "role": "Source of tradition/texts",
+      "significance": "Credited with the 'convention of mudrās' as a contribution to Indian culture.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Hanumān",
+      "role": "Mythological figure",
+      "significance": "Mentioned in the context of delivering Rāma's signet-ring (mudrikā) to Sītā.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Sītā",
+      "role": "Mythological figure",
+      "significance": "Recipient of Rāma's signet-ring from Hanumān.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Rāma",
+      "role": "Mythological figure",
+      "significance": "His signet-ring is used as a token of identity.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Kālidāsa",
+      "role": "Classical Sanskrit poet and dramatist",
+      "significance": "Mentioned for using the idea of a recovered signet-ring as a key plot device in his play Abhijñāna-Śakuntalam.",
+      "dates": "c. 4th-5th century CE"
+    },
+    {
+      "name": "Duṣyanta",
+      "role": "Character in Kālidāsa's play",
+      "significance": "His lost and recovered signet-ring drives the plot's resolution.",
+      "dates": "Literary"
+    },
+    {
+      "name": "Nātha-siddhas",
+      "role": "Masters of a mystic cult",
+      "significance": "The expression 'mudrā' was widely used in their mystic cults.",
+      "dates": "c. 9th-12th centuries CE"
+    },
+    {
+      "name": "Buddha",
+      "role": "Founder of Buddhism",
+      "significance": "The stylization of his iconography in sculpture led to the frequent use of mudrās to represent his actions and divine nature.",
+      "dates": "c. 5th century BCE"
+    },
+    {
+      "name": "Bharata",
+      "role": "Sage, author of the Nāṭya-śāstra",
+      "significance": "His text on dramaturgy is a key source for the study of mudrās (hastas) in dance and drama.",
+      "dates": "Ancient (traditionally between 500 BCE and 500 CE)"
+    },
+    {
+      "name": "Nandikeśvara",
+      "role": "Author on dramaturgy",
+      "significance": "Author of the Abhinaya-darpaṇa, a text that enumerates and describes 115 hand-poses.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Viṣṇu",
+      "role": "Deity",
+      "significance": "Central deity in the Vaiṣṇava division of Āgama, associated with numerous mudrās, including the practice of branding with his weapon symbols.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Gautama",
+      "role": "Sage",
+      "significance": "His Mudrā-dhāraṇa-vidhi is cited for prescribing the wearing of Viṣṇu's emblems on the body.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Śiva",
+      "role": "Deity",
+      "significance": "The highest deity in Śaivāgama, whose energies (śaktis) are said to be the mudrās themselves. Numerous mudrās are associated with his worship.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Bhaṭṭa-nārāyaṇa-kaṇṭha",
+      "role": "Commentator",
+      "significance": "Commentator on the Mṛgendrāgama, interpreting 'mudrā' as a subjugating force of the highest deity.",
+      "dates": "c. 10th century CE"
+    },
+    {
+      "name": "Siddhakarṇa-Pa",
+      "role": "Mahasiddha",
+      "significance": "Illustrated performing mahārāja-līlā pose.",
+      "dates": "c. 8th-12th centuries CE"
+    },
+    {
+      "name": "Siddha Siṃha-Pāda",
+      "role": "Mahasiddha",
+      "significance": "Illustrated holding an akṣa-mālā.",
+      "dates": "c. 8th-12th centuries CE"
+    },
+    {
+      "name": "Siddhāchāryā-Pāda",
+      "role": "Mahasiddha",
+      "significance": "Illustrated in utthita-pāda pose.",
+      "dates": "c. 8th-12th centuries CE"
+    },
+    {
+      "name": "Siddha Avadhūti-Pāda",
+      "role": "Mahasiddha",
+      "significance": "Illustrated in vismaya and kapāla pose.",
+      "dates": "c. 8th-12th centuries CE"
+    },
+    {
+      "name": "Vajra-Pāṇi",
+      "role": "Bodhisattva",
+      "significance": "Illustrated in a specific pose.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Saraha-Pāda",
+      "role": "Mahasiddha",
+      "significance": "Illustrated in a specific pose.",
+      "dates": "c. 8th century CE"
+    },
+    {
+      "name": "Nāgārjuna",
+      "role": "Mahasiddha/Philosopher",
+      "significance": "Illustrated in a specific pose.",
+      "dates": "c. 150–250 CE"
+    },
+    {
+      "name": "Śabari-Pāda",
+      "role": "Mahasiddha",
+      "significance": "Illustrated in a specific pose, including one with a bow and arrow (dhanur-bāṇa-mudrā).",
+      "dates": "c. 8th-12th centuries CE"
+    },
+    {
+      "name": "Jālandhara Pāda",
+      "role": "Mahasiddha",
+      "significance": "Illustrated performing dhyāna-mudrā and dharma-cakra-mudrā.",
+      "dates": "c. 8th-12th centuries CE"
+    },
+    {
+      "name": "Kṛṣṇa-Pāda",
+      "role": "Mahasiddha",
+      "significance": "Illustrated performing dhyāna-mudrā.",
+      "dates": "c. 8th-12th centuries CE"
+    },
+    {
+      "name": "Gsang-Ba-Pāda",
+      "role": "Mahasiddha",
+      "significance": "Illustrated performing viśva-vajra-mudrā.",
+      "dates": "c. 8th-12th centuries CE"
+    },
+    {
+      "name": "Vijaya-Pāda",
+      "role": "Mahasiddha",
+      "significance": "Illustrated performing vedha-mudrā.",
+      "dates": "c. 8th-12th centuries CE"
+    },
+    {
+      "name": "Sgam-Po-Pa",
+      "role": "Tibetan Buddhist Master",
+      "significance": "Illustrated performing samādhi-mudrā.",
+      "dates": "1079–1153 CE"
+    },
+    {
+      "name": "Milarepa",
+      "role": "Tibetan Buddhist Master",
+      "significance": "Illustrated performing divya-dhvani mudrā.",
+      "dates": "c. 1052 – c. 1135 CE"
+    },
+    {
+      "name": "Vajra-Sattva",
+      "role": "Bodhisattva/Buddha",
+      "significance": "Illustrated performing Vajra and ghaṇṭā mudrā and namaskāra-mudrā.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Vajra-Dharma",
+      "role": "Bodhisattva",
+      "significance": "Illustrated performing praṇidhāna-mudrā.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Vimalamitra",
+      "role": "Buddhist Master",
+      "significance": "Illustrated in a specific pose.",
+      "dates": "c. 8th century CE"
+    },
+    {
+      "name": "Padma-Sambhava",
+      "role": "Buddhist Master",
+      "significance": "Illustrated performing guru-mudrā.",
+      "dates": "c. 8th century CE"
+    },
+    {
+      "name": "Vairocana",
+      "role": "Buddha",
+      "significance": "Illustrated performing vyākhyāna-mudrā.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Śānto-Pāda",
+      "role": "Mahasiddha",
+      "significance": "Illustrated performing akṣa-mālā-mudrā.",
+      "dates": "c. 8th-12th centuries CE"
+    },
+    {
+      "name": "Tantra-Pāda",
+      "role": "Mahasiddha",
+      "significance": "Illustrated performing dīkṣā-mudrā.",
+      "dates": "c. 8th-12th centuries CE"
+    },
+    {
+      "name": "Vīṇā-Dhara",
+      "role": "Deity (form of Śiva)",
+      "significance": "Illustrated performing vīṇa-vādana-mudrā (playing the vīṇa).",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Kāma",
+      "role": "Deity (God of Love)",
+      "significance": "Illustrated performing dhanur-bāṇa-mudrā (holding bow and arrow).",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Kurukullā",
+      "role": "Deity (Tantric Buddhist)",
+      "significance": "Illustrated performing gestures with dhanur-bāṇa-kapāla and aṅkuśa.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Indra",
+      "role": "Patron-deity of the hands",
+      "significance": "Mentioned in the Mahābhārata as the divine overseer of the hands, highlighting their spiritual importance.",
+      "dates": "Vedic period deity"
+    },
+    {
+      "name": "Brahmā",
+      "role": "Creator deity",
+      "significance": "The sacred waters of Brahmā are said to reside at the base of the thumb. A myth involving Śiva cutting off one of his heads is used to explain the name of the ring-finger ('anāmikā').",
+      "dates": "Deity in Hindu pantheon"
+    },
+    {
+      "name": "Śiva",
+      "role": "Destroyer/Transformer deity",
+      "significance": "Mentioned in a myth where he cuts off one of Brahmā's heads with his ring-finger, rendering the finger 'nameless' ('anāmikā'). The 'liṅga-mudrā' is specific to his worship.",
+      "dates": "Deity in Hindu pantheon"
+    },
+    {
+      "name": "Viṣṇu",
+      "role": "Preserver deity",
+      "significance": "In Vaiṣṇava worship, the five finger-manipulations in mānasa-pūjā represent his five forms: Nārāyaṇa, Vāsudeva, Saṃkarṣaṇa, Pradyumna, and Aniruddha. The 'śaṁkha-mudrā' is specific to his worship.",
+      "dates": "Deity in Hindu pantheon"
+    },
+    {
+      "name": "Nandikeśvara",
+      "role": "Authority on dance-gestures",
+      "significance": "Quoted for his explanation of the purpose of hand-poses in dance, which is used to illustrate the principle of how mudrās focus attention and evoke emotion.",
+      "dates": "Ancient sage, dates uncertain"
+    },
+    {
+      "name": "Bharata-muni",
+      "role": "Author of the Nāṭya-śāstra",
+      "significance": "His codification of hand gestures (hastas) in the Nāṭya-śāstra is cited as being directly relevant to the mudrās used in worship, particularly his division of 'samyuta-hastas' (two-handed gestures).",
+      "dates": "Traditionally dated between 200 BCE and 200 CE"
+    },
+    {
+      "name": "Bharata",
+      "role": "Author",
+      "significance": "Author of the 'Natyā-śāstra', which prescribes the 'pūrva-raṅga' preliminary sequence for stage shows.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Nandikeśvara",
+      "role": "Author",
+      "significance": "Author of the 'Abhinaya-darpaṇa', which contains sections on mudrās specific to divinities.",
+      "dates": "Not mentioned"
+    },
+    {
+      "name": "Viśva-karmā",
+      "role": "Celestial Artisan/Architect",
+      "significance": "Regarded as the first architect of the theatre in the context of the 'pūrva-raṅga'.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Mitra",
+      "role": "Solar Divinity",
+      "significance": "The presiding deity of the green-room (nepathya).",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Varuṇa",
+      "role": "Deity",
+      "significance": "Presided over the upper realms of the theatre; also one of the Dikpālas (guardian of the West).",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Agni",
+      "role": "Deity",
+      "significance": "Was in charge of the theatre itself; also one of the Dikpālas (guardian of the South-East).",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Megha",
+      "role": "Deity",
+      "significance": "Guarded the musical instruments.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Brahmā",
+      "role": "Creator Deity",
+      "significance": "Protected the platform; one of the Dikpālas (guardian of the realm above).",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Indra",
+      "role": "King of Gods",
+      "significance": "Protected the chief actor-dancer (nāyaka); one of the Dikpālas (guardian of the East).",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Sarasvati",
+      "role": "Goddess of Learning",
+      "significance": "Protected the female counterpart of the chief actor-dancer (nāyaki).",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Śiva",
+      "role": "Deity of Destruction/Transformation",
+      "significance": "Protected the other participants of the dance-drama.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Viṣṇu",
+      "role": "Preserver Deity",
+      "significance": "Major deity for whom nineteen specific mudrās are described.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Gaṇeśa (Gaṇapati)",
+      "role": "Deity of Beginnings",
+      "significance": "Deity for whom seven specific mudrās are described.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Pārvati",
+      "role": "Goddess, Consort of Śiva",
+      "significance": "A major goddess for whom specific mudrās are listed.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Lakṣmī",
+      "role": "Goddess of Wealth",
+      "significance": "A major goddess for whom specific mudrās are listed.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Tārā",
+      "role": "Tantrik Goddess",
+      "significance": "A tantrik deity for whom five specific mudrās are described.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Tripurā",
+      "role": "Mother-Goddess",
+      "significance": "The special form of the mother-goddess worshipped in Śrī-cakra, for whom ten mudrās are described.",
+      "dates": "Mythological"
+    }
+  ],
+  "complete_timeline": [
+    {
+      "event": "Creation and protection of the first theatre",
+      "date": "Mythological time",
+      "significance": "Described as part of the 'pūrva-raṅga' tradition from the Natyā-śāstra, it establishes the divine sanction and protection for the performance arts, with various deities assigned specific roles."
+    },
+    {
+      "event": "Rise of Mahāyāna Buddhism",
+      "date": "Not specified, but historically c. 1st century BCE - 1st century CE",
+      "significance": "Led to an emphasized aspect of Mudrā, associating hand-gestures with mantras and mandalas in tantric contexts to reinforce occult power."
+    },
+    {
+      "event": "Development of stylized Buddha iconography with mudrās",
+      "date": "as early as the third or second century after Christ (CE)",
+      "significance": "Marks the period when the use of mudrās in sculpture became frequent, particularly in the Gandhara and Mathura schools, to represent the Buddha in human form and convey his divine personality and actions."
+    }
+  ],
+  "all_geographic_locations": [
+    {
+      "place": "Gandhāra school",
+      "context": "Located 'in the northwestern corner of the country', it was a major center for the stylization of Buddha iconography and the use of mudrās in sculpture.",
+      "significance": "A key site for the historical development of mudrās in art."
+    },
+    {
+      "place": "Mathurā school",
+      "context": "Located 'on the banks of the river Yamunā', it is described as the place where Indian iconography appears to have evolved, with the Buddha beginning to be represented in human form with mudrās.",
+      "significance": "A foundational site for the development of Indian and Buddhist iconography."
+    },
+    {
+      "place": "India",
+      "context": "The primary cultural and geographical origin of the mudrā tradition.",
+      "significance": "Homeland of Āgama, Tantra, and the traditions discussed."
+    },
+    {
+      "place": "Nepāl, Tibet, Mongolia, China and Japan",
+      "context": "Countries where Buddhist versions of Tantra, which extensively use mudrās, prevail.",
+      "significance": "Shows the geographical spread and influence of the mudrā tradition beyond India."
+    },
+    {
+      "place": "Dhārasuram temple",
+      "context": "The source of the illustration of 'Ganas' on page 83.",
+      "significance": "An example of a specific South Indian temple whose art is referenced."
+    }
+  ],
+  "complete_terminology_index": [
+    {
+      "term": "Āgama",
+      "transliteration": "Āgama",
+      "translation": "Traditional doctrine; a class of sacred texts.",
+      "context": "The source of the convention of 'mudrās' in Indian culture."
+    },
+    {
+      "term": "mudrā",
+      "transliteration": "mudrā",
+      "translation": "Seal, stamp, signet-ring, stylized hand-gesture.",
+      "context": "The central topic of the chapter. Used in worship, dance, tantra, sculpture, etc."
+    },
+    {
+      "term": "tantra",
+      "transliteration": "tantra",
+      "translation": "A system of esoteric practices; a class of texts.",
+      "context": "A field where mudrās are used extensively, often in conjunction with mantras."
+    },
+    {
+      "term": "iconography",
+      "transliteration": "iconography",
+      "translation": "The visual images and symbols used in a work of art.",
+      "context": "Traditional sculpture and painting where mudrās are used to depict deities."
+    },
+    {
+      "term": "Mudrā-lakṣaṇa",
+      "transliteration": "Mudrā-lakṣaṇa",
+      "translation": "Characteristics of Mudrā.",
+      "context": "Name of an independent manual dealing with mudrās."
+    },
+    {
+      "term": "Mudrārṇava",
+      "transliteration": "Mudrārṇava",
+      "translation": "Ocean of Mudrā.",
+      "context": "Name of an independent manual dealing with mudrās."
+    },
+    {
+      "term": "Mudrā-prakāśa",
+      "transliteration": "Mudrā-prakāśa",
+      "translation": "Illumination of Mudrā.",
+      "context": "Name of an independent manual dealing with mudrās."
+    },
+    {
+      "term": "Mudrākośa",
+      "transliteration": "Mudrākośa",
+      "translation": "Treasury of Mudrā.",
+      "context": "Name of an independent manual dealing with mudrās."
+    },
+    {
+      "term": "Mudrāvivaraṇa",
+      "transliteration": "Mudrāvivaraṇa",
+      "translation": "Exposition of Mudrā.",
+      "context": "Name of an independent manual dealing with mudrās."
+    },
+    {
+      "term": "mudrikā",
+      "transliteration": "mudrikā",
+      "translation": "Signet-ring.",
+      "context": "Used in the episode of Hanumān handing Rāma's ring to Sītā."
+    },
+    {
+      "term": "aṅgulīyaka",
+      "transliteration": "aṅgulīyaka",
+      "translation": "Ring for the finger, signet-ring.",
+      "context": "Synonym for mudrikā."
+    },
+    {
+      "term": "dīkṣā",
+      "transliteration": "dīkṣā",
+      "translation": "Initiation ritual.",
+      "context": "The ritual during which a master imprints a 'mental seal' on a devotee."
+    },
+    {
+      "term": "yoga-yoginī-mudrā",
+      "transliteration": "yoga-yoginī-mudrā",
+      "translation": "Gesture/practice involving a female consort.",
+      "context": "A specific meaning of mudrā in some mystic cults."
+    },
+    {
+      "term": "pañca-makāra",
+      "transliteration": "pañca-makāra",
+      "translation": "The five 'M's.",
+      "context": "A tantric ritual involving five elements starting with 'ma': madya, māṃsa, matsya, mudrā, and maithuna."
+    },
+    {
+      "term": "lipayaḥ pañca-dhā",
+      "transliteration": "lipayaḥ pañca-dhā",
+      "translation": "Five kinds of script/media.",
+      "context": "Mudrā as one of five media of communication, here meaning coded language."
+    },
+    {
+      "term": "bhūmi-sparśa-mudrā",
+      "transliteration": "bhūmi-sparśa-mudrā",
+      "translation": "Earth-touching gesture.",
+      "context": "Buddha's gesture of calling the earth to witness his integrity."
+    },
+    {
+      "term": "vyākhyāna-mudrā",
+      "transliteration": "vyākhyāna-mudrā",
+      "translation": "Gesture of exposition/teaching.",
+      "context": "Buddha's gesture as a teacher expounding doctrine."
+    },
+    {
+      "term": "dhyāna-mudrā",
+      "transliteration": "dhyāna-mudrā",
+      "translation": "Gesture of meditation.",
+      "context": "Buddha's gesture when absorbed in contemplation."
+    },
+    {
+      "term": "dharma-cakra-pravartana-mudrā",
+      "transliteration": "dharma-cakra-pravartana-mudrā",
+      "translation": "Gesture of turning the wheel of Dharma.",
+      "context": "Buddha's gesture of preaching his first sermon."
+    },
+    {
+      "term": "abhaya-mudrā",
+      "transliteration": "abhaya-mudrā",
+      "translation": "Gesture of fearlessness/protection.",
+      "context": "Gesture of offering protection."
+    },
+    {
+      "term": "varada-mudrā",
+      "transliteration": "varada-mudrā",
+      "translation": "Gesture of bestowing boons.",
+      "context": "Gesture of granting wishes."
+    },
+    {
+      "term": "hasta",
+      "transliteration": "hasta",
+      "translation": "Hand; hand-gesture.",
+      "context": "Used in dance and dramaturgy to refer to mudrās."
+    },
+    {
+      "term": "samyuta-hasta",
+      "transliteration": "samyuta-hasta",
+      "translation": "Joined hands.",
+      "context": "A category of hand-poses using both hands together."
+    },
+    {
+      "term": "asamyuta-hasta",
+      "transliteration": "asamyuta-hasta",
+      "translation": "Not-joined hand.",
+      "context": "A category of hand-poses using only one hand."
+    },
+    {
+      "term": "añjali-mudrā",
+      "transliteration": "añjali-mudrā",
+      "translation": "Gesture of respectful salutation.",
+      "context": "A samyuta-hasta suggesting supplication."
+    },
+    {
+      "term": "mantra",
+      "transliteration": "mantra",
+      "translation": "Sacred utterance, spell.",
+      "context": "Associated with mudrās in tantric worship to generate power."
+    },
+    {
+      "term": "maṇḍala",
+      "transliteration": "maṇḍala",
+      "translation": "Magical diagram, circle.",
+      "context": "A power-field within which mudrās and mantras are employed."
+    },
+    {
+      "term": "Mudrā-dhāraṇā",
+      "transliteration": "Mudrā-dhāraṇā",
+      "translation": "Wearing of seals/stamps.",
+      "context": "The Vaiṣṇava practice of branding or painting the body with divine symbols."
+    },
+    {
+      "term": "tapta-mudrāṅkana",
+      "transliteration": "tapta-mudrāṅkana",
+      "translation": "Branding with heated seals.",
+      "context": "A method of performing Mudrā-dhāraṇā."
+    },
+    {
+      "term": "modana",
+      "transliteration": "modana",
+      "translation": "Delight, joy.",
+      "context": "The purāṇic etymology for 'mu' in 'mudrā'."
+    },
+    {
+      "term": "drāvaṇa",
+      "transliteration": "drāvaṇa",
+      "translation": "Driving away.",
+      "context": "The purāṇic etymology for 'dra' (from 'dru') in 'mudrā'."
+    },
+    {
+      "term": "kriyā-pāda",
+      "transliteration": "kriyā-pāda",
+      "translation": "Section on action/ritual.",
+      "context": "The section of an Āgama text dealing with rituals, where mudrā descriptions are found."
+    },
+    {
+      "term": "āvāhana",
+      "transliteration": "āvāhana",
+      "translation": "Invocation.",
+      "context": "A ritual act for which a specific mudrā is prescribed."
+    },
+    {
+      "term": "Mudrā",
+      "transliteration": "Mudrā",
+      "translation": "A device to harness spiritual power; mental attitude expressed through bodily postures and hand-poses.",
+      "context": "The central topic of the chapter."
+    },
+    {
+      "term": "hasta",
+      "transliteration": "hasta",
+      "translation": "Hand; etymologically 'that which blossoms out' ('hasati vikasati').",
+      "context": "The primary instrument for forming mudrās."
+    },
+    {
+      "term": "kara-tala",
+      "transliteration": "kara-tala",
+      "translation": "Palm",
+      "context": "A part of the hand used in kara-nyāsa."
+    },
+    {
+      "term": "aṅguli",
+      "transliteration": "aṅguli",
+      "translation": "Fingers",
+      "context": "The components of the hand used to form mudrās."
+    },
+    {
+      "term": "pañca-śākhā",
+      "transliteration": "pañca-śākhā",
+      "translation": "five-forked",
+      "context": "A synonym for hand."
+    },
+    {
+      "term": "aṅguṣṭha",
+      "transliteration": "aṅguṣṭha",
+      "translation": "Thumb",
+      "context": "The first finger, associated with Brahmā."
+    },
+    {
+      "term": "tarjjanī",
+      "transliteration": "tarjjanī",
+      "translation": "Forefinger",
+      "context": "From the root 'tarj' (to rebuke and warn)."
+    },
+    {
+      "term": "madhyamā",
+      "transliteration": "madhyamā",
+      "translation": "Middle-finger",
+      "context": "Signifies consciousness as vibration."
+    },
+    {
+      "term": "anāmikā",
+      "transliteration": "anāmikā",
+      "translation": "Ring-finger",
+      "context": "Literally 'nameless', linked to a myth of Śiva."
+    },
+    {
+      "term": "kaniṣṭhā",
+      "transliteration": "kaniṣṭhā",
+      "translation": "Little-finger",
+      "context": "Described as the weakest of the fingers."
+    },
+    {
+      "term": "aṅga-nyāsa",
+      "transliteration": "aṅga-nyāsa",
+      "translation": "Ceremonial and symbolic placement of divinities on the parts of the body.",
+      "context": "A preliminary ritual in worship."
+    },
+    {
+      "term": "kara-nyāsa",
+      "transliteration": "kara-nyāsa",
+      "translation": "Similar placement on the hand and its fingers.",
+      "context": "A preliminary ritual in worship, following aṅga-nyāsa."
+    },
+    {
+      "term": "kara-pṛṣṭha",
+      "transliteration": "kara-pṛṣṭha",
+      "translation": "Back of the hand",
+      "context": "A part of the hand used in kara-nyāsa."
+    },
+    {
+      "term": "mānasa-pūjā",
+      "transliteration": "mānasa-pūjā",
+      "translation": "Mental worship",
+      "context": "A form of worship performed internally, using mudrās to symbolize offerings."
+    },
+    {
+      "term": "pañcopacāra",
+      "transliteration": "pañcopacāra",
+      "translation": "Five services/offerings",
+      "context": "The five offerings in mānasa-pūjā: gandha, puṣpa, dhūpa, dīpa, naivedya."
+    },
+    {
+      "term": "pañca-bhūta",
+      "transliteration": "pañca-bhūta",
+      "translation": "Five primary elements",
+      "context": "Earth, space (ākāśa), air, fire, and water, represented by the five offerings."
+    },
+    {
+      "term": "devatā-mudrā",
+      "transliteration": "devatā-mudrā",
+      "translation": "Deity-specific mudrā",
+      "context": "Mudrās that assume the nature or weapon of a specific deity."
+    },
+    {
+      "term": "ṣaṇ-mudrā",
+      "transliteration": "ṣaṇ-mudrā",
+      "translation": "Group of six mudrās",
+      "context": "Used during invocation sequences in worship."
+    },
+    {
+      "term": "āvāhana",
+      "transliteration": "āvāhana",
+      "translation": "Invocation",
+      "context": "The act of inviting the deity to be present."
+    },
+    {
+      "term": "visarjana",
+      "transliteration": "visarjana",
+      "translation": "Dismissal",
+      "context": "The act of respectfully dismissing the deity's presence after worship."
+    },
+    {
+      "term": "samyuta-hasta",
+      "transliteration": "samyuta-hasta",
+      "translation": "Gestures in both hands together",
+      "context": "A classification from Nāṭya-śāstra, to which most worship mudrās belong."
+    },
+    {
+      "term": "asamyuta-hastas",
+      "transliteration": "asamyuta-hastas",
+      "translation": "Isolate hand-gestures",
+      "context": "A classification from Nāṭya-śāstra for single-hand gestures."
+    },
+    {
+      "term": "mudrā",
+      "transliteration": "mudrā",
+      "translation": "Symbolic hand gesture",
+      "context": "The central topic of the chapter, used in dance, ritual, and worship to represent deities and concepts."
+    },
+    {
+      "term": "Bharata-nātyam",
+      "transliteration": "Bharata-nātyam",
+      "translation": "A major genre of Indian classical dance",
+      "context": "Mentioned as a performance art that uses stylized mudrās drawn from religious traditions."
+    },
+    {
+      "term": "Tantra",
+      "transliteration": "Tantra",
+      "translation": "A system of esoteric beliefs and practices",
+      "context": "Cited as a primary source for the mudrās used in worship."
+    },
+    {
+      "term": "Āgama",
+      "transliteration": "Āgama",
+      "translation": "A collection of scriptures, primarily related to temple construction and rituals",
+      "context": "Cited as a source for iconographic texts and manuals describing deity visualization and worship, from which mudrās are drawn."
+    },
+    {
+      "term": "sādhanā",
+      "transliteration": "sādhanā",
+      "translation": "Spiritual practice or discipline",
+      "context": "Used in the context of Tāntrik texts that describe how a deity is to be visualized."
+    },
+    {
+      "term": "murti",
+      "transliteration": "mūrti",
+      "translation": "Image, form, visualization of a deity",
+      "context": "One of the four props (catuṣpāt) of Āgamic worship."
+    },
+    {
+      "term": "mantra",
+      "transliteration": "mantra",
+      "translation": "Sacred utterance or syllable",
+      "context": "One of the four props (catuṣpāt) of Āgamic worship."
+    },
+    {
+      "term": "maṇḍala",
+      "transliteration": "maṇḍala",
+      "translation": "Symbolic diagram",
+      "context": "One of the four props (catuṣpāt) of Āgamic worship."
+    },
+    {
+      "term": "catuṣpāt",
+      "transliteration": "catuṣpāt",
+      "translation": "Four props/pillars",
+      "context": "The four pillars of Āgamic worship: mūrti, mantra, maṇḍala, and mudrā."
+    },
+    {
+      "term": "hasta",
+      "transliteration": "hasta",
+      "translation": "Hand; often used interchangeably with mudrā to mean hand gesture",
+      "context": "Used in terms like 'mudrā-hastās', 'Dikpāla-hastas', etc."
+    },
+    {
+      "term": "Nātya-śāstra",
+      "transliteration": "Nātya-śāstra",
+      "translation": "Treatise on the Performing Arts",
+      "context": "The seminal text by Bharata, referenced for its description of the 'pūrva-raṅga'."
+    },
+    {
+      "term": "pūrva-raṅga",
+      "transliteration": "pūrva-raṅga",
+      "translation": "Preliminary sequence",
+      "context": "A pre-performance ritual described in the Natyā-śāstra to propitiate gods."
+    },
+    {
+      "term": "loka-pālas",
+      "transliteration": "loka-pālas",
+      "translation": "Guardians of the directions",
+      "context": "Appointed to protect the theatre, actors, and audience."
+    },
+    {
+      "term": "nepathya",
+      "transliteration": "nepathya",
+      "translation": "Green-room",
+      "context": "The area behind the stage, presided over by the deity Mitra."
+    },
+    {
+      "term": "nāyaka",
+      "transliteration": "nāyaka",
+      "translation": "Chief actor-dancer (male)",
+      "context": "Protected by Indra during the performance."
+    },
+    {
+      "term": "nāyaki",
+      "transliteration": "nāyaki",
+      "translation": "Chief actor-dancer (female)",
+      "context": "Protected by Sarasvati during the performance."
+    },
+    {
+      "term": "raṅga-devatās",
+      "transliteration": "raṅga-devatās",
+      "translation": "Stage-deities",
+      "context": "The deities who protect the stage and performance, worshipped during pūrva-raṅga."
+    },
+    {
+      "term": "Abhinaya-darpaṇa",
+      "transliteration": "Abhinaya-darpaṇa",
+      "translation": "The Mirror of Gesture",
+      "context": "A text by Nandikeśvara, cited as a source for specific deity mudrās."
+    },
+    {
+      "term": "graha",
+      "transliteration": "graha",
+      "translation": "Stellar divinities, planets",
+      "context": "One of the categories of divinities for whom mudrās are specified."
+    },
+    {
+      "term": "deva",
+      "transliteration": "deva",
+      "translation": "Gods and goddesses",
+      "context": "One of the categories of divinities for whom mudrās are specified."
+    },
+    {
+      "term": "āyudha",
+      "transliteration": "āyudha",
+      "translation": "Weapon",
+      "context": "The mudrās often follow the form of the weapons held by the deity."
+    },
+    {
+      "term": "Daśāvatāra",
+      "transliteration": "Daśāvatāra",
+      "translation": "Ten incarnations (of Viṣṇu)",
+      "context": "A specific set of mudrās ('Daśāvatāra-hastas') represents these incarnations."
+    },
+    {
+      "term": "cintana",
+      "transliteration": "cintana",
+      "translation": "Visualization, contemplation",
+      "context": "One of the main purposes of using deity-specific mudrās."
+    },
+    {
+      "term": "dhyāna",
+      "transliteration": "dhyāna",
+      "translation": "Meditation, contemplation",
+      "context": "One of the main purposes of using deity-specific mudrās."
+    },
+    {
+      "term": "japa",
+      "transliteration": "japa",
+      "translation": "Repeated recitation of a mantra",
+      "context": "A practice facilitated by the use of mudrās."
+    },
+    {
+      "term": "sampuṭa",
+      "transliteration": "sampuṭa",
+      "translation": "Casket; a mudrā where palms are joined and cupped",
+      "context": "A common mudrā used for all gods and goddesses."
+    },
+    {
+      "term": "añjali",
+      "transliteration": "añjali",
+      "translation": "Gesture of reverence; a mudrā where palms are joined",
+      "context": "A common mudrā used for all gods and goddesses."
+    },
+    {
+      "term": "śloka",
+      "transliteration": "śloka",
+      "translation": "Verse (in Sanskrit)",
+      "context": "Many Sanskrit verses are quoted throughout the chapter to define the mudrās."
+    },
+    {
+      "term": "Śaṁkha",
+      "transliteration": "Śaṁkha",
+      "translation": "Conch",
+      "context": "A mudrā for Viṣṇu, representing his conch."
+    },
+    {
+      "term": "Cakra",
+      "transliteration": "Cakra",
+      "translation": "Discus",
+      "context": "A mudrā for Viṣṇu, representing his discus."
+    },
+    {
+      "term": "Gadā",
+      "transliteration": "Gadā",
+      "translation": "Mace",
+      "context": "A mudrā for Viṣṇu, representing his mace."
+    },
+    {
+      "term": "Padma",
+      "transliteration": "Padma",
+      "translation": "Lotus",
+      "context": "A mudrā for Viṣṇu, representing the lotus."
+    },
+    {
+      "term": "Triśūla",
+      "transliteration": "Triśūla",
+      "translation": "Trident",
+      "context": "A mudrā for Śiva, representing his trident."
+    },
+    {
+      "term": "Liṅga",
+      "transliteration": "Liṅga",
+      "translation": "Aniconic symbol of Śiva",
+      "context": "One of the ten primary mudrās for Śiva."
+    },
+    {
+      "term": "Yoni",
+      "transliteration": "Yoni",
+      "translation": "Symbol of the female generative organ",
+      "context": "One of the ten primary mudrās for Śiva; also a mudrā for Tārā and Tripurā."
+    },
+    {
+      "term": "nyāsa",
+      "transliteration": "nyāsa",
+      "translation": "Ritual placement (of mantras on the body)",
+      "context": "A ritual sequence for which specific mudrās are suggested."
+    },
+    {
+      "term": "Śrī-cakra",
+      "transliteration": "Śrī-cakra",
+      "translation": "A complex sacred diagram (yantra) used in Śākta worship",
+      "context": "The context for the worship of the goddess Tripurā, whose ten mudrās are described."
+    }
+  ],
+  "cross_reference_map": [
+    {
+      "reference_text": "Mahābhārata (Āśvamedhika-parva)",
+      "target": "An epic text, cited for the spiritual nature of the hands.",
+      "page": "94"
+    },
+    {
+      "reference_text": "Prapañca-sāra",
+      "target": "A tantric text, quoted regarding kara-nyāsa.",
+      "page": "95"
+    },
+    {
+      "reference_text": "Amara-kośa and Medini-kośa",
+      "target": "Lexicons, cited for the description of the little-finger.",
+      "page": "95"
+    },
+    {
+      "reference_text": "Krama-dīpikā",
+      "target": "A text cited for the use of fingers in aṅga-nyāsa and for naivedra-mudra.",
+      "page": "98, 100"
+    },
+    {
+      "reference_text": "Puraścaryārṇava, p.462",
+      "target": "A text quoted with a verse on using different finger combinations for different desired outcomes.",
+      "page": "102"
+    },
+    {
+      "reference_text": "Tantra-rāja-tantra (5th paṭala)",
+      "target": "A tantric text, cited for listing only twenty mudrās and for its commentary on the meaning of invocation.",
+      "page": "107, 108"
+    },
+    {
+      "reference_text": "Mṛgendrāgama (paṭala 5)",
+      "target": "An Āgama text, cited for mentioning only fourteen mudrās.",
+      "page": "108"
+    },
+    {
+      "reference_text": "Rauravāgama (vidyāpada, 5th paṭala)",
+      "target": "An Āgama text, cited for describing only nine mudrās.",
+      "page": "108"
+    },
+    {
+      "reference_text": "Bharata's Nāṭya-śāstra",
+      "target": "A foundational text on dramaturgy, cited for its classification of hand gestures which are relevant to worship mudrās.",
+      "page": "110"
+    },
+    {
+      "reference_text": "Bharata's Natyā-śāstra",
+      "target": "Natyā-śāstra (External Text)",
+      "page": "1"
+    },
+    {
+      "reference_text": "Nandikeśvara's Abhinaya-darpaṇa",
+      "target": "Abhinaya-darpaṇa (External Text)",
+      "page": "2"
+    },
+    {
+      "reference_text": "Tantra- sāra (mudrā-prakaraṇia)",
+      "target": "Tantra-sāra (External Text)",
+      "page": "7"
+    },
+    {
+      "reference_text": "Jñānārņava",
+      "target": "Jñānārņava (External Text)",
+      "page": "21"
+    },
+    {
+      "reference_text": "Vāmakeśvara-tantra",
+      "target": "Vāmakeśvara-tantra (External Text)",
+      "page": "42"
+    },
+    {
+      "reference_text": "PARAŚU-MUDRĀ (already described)",
+      "target": "Section on Viṣṇu-Mudrās (Paraśu-mudrā)",
+      "page": "32"
+    },
+    {
+      "reference_text": "rosary (already explained)",
+      "target": "Section on Śiva-Mudrās (Akṣa-mālā-mudrā)",
+      "page": "36"
+    }
+  ],
+  "bibliography_network": [],
+  "keywords_by_frequency": []
+}

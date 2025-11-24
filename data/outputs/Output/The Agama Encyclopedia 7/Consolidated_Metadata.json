@@ -1,0 +1,790 @@
+{
+  "book_title": "The Agama Encyclopedia 7",
+  "total_chapters": 4,
+  "total_pages": 0,
+  "all_historical_figures": [
+    {
+      "name": "Rāmānuja",
+      "role": "Vaiṣṇava saint and philosopher",
+      "significance": "His advent led to the prevalence of the Pāñcarātra mode of worship in many Śrī-vaiṣṇava temples.",
+      "dates": "1017-1137"
+    },
+    {
+      "name": "Madhva",
+      "role": "Vaiṣṇava saint and philosopher, founder of Dvaita school",
+      "significance": "Wrote the 'Tantra-sāra-saṃgraha' and popularized the distinct 'Tantrasāra' āgama tradition, especially in Tulunāḍu.",
+      "dates": "1197-1276"
+    },
+    {
+      "name": "Atri, Marīci and Bhṛgu",
+      "role": "Sages",
+      "significance": "Authors of manuals for the Vaikhānasa tradition of worship.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Vedānta-desika",
+      "role": "Śrī-vaiṣṇava philosopher and poet",
+      "significance": "Shrines dedicated to him are generally found in temples following the Pāñcarātra mode of worship.",
+      "dates": "1268–1369 (not in text)"
+    },
+    {
+      "name": "Śaṅkara",
+      "role": "Philosopher and theologian",
+      "significance": "Mentioned as one of the great saints whose connected days are observed in temples.",
+      "dates": "8th century CE (not in text)"
+    },
+    {
+      "name": "Khāravela",
+      "role": "Kalinga monarch",
+      "significance": "His Hāthigumpha inscription claims he organized festivals and gatherings ('uchav samāj') for townsmen.",
+      "dates": "Second century B.C."
+    },
+    {
+      "name": "Gautami-putra Sātakarṇi",
+      "role": "Sātavāhana king",
+      "significance": "The Nāsik cave inscription states that he organised festivals and gatherings.",
+      "dates": "First century A.D."
+    },
+    {
+      "name": "Al-Beruni",
+      "role": "South Asian writer and astronomer",
+      "significance": "Travelled in India and wrote about the large number of festivals in his book, Kitab-ul-hind.",
+      "dates": "c. 1030 A.D."
+    },
+    {
+      "name": "Kalhaṇa",
+      "role": "Author of Rājataraṅgiṇī",
+      "significance": "Described the festival of Śiva-rātri in Kaśmīr as including dancing, singing, and feasts.",
+      "dates": "12th century CE (not in text)"
+    },
+    {
+      "name": "Brahmā",
+      "role": "Creator God",
+      "significance": "Considered the chief participant in the Brahmotsava festival, which is named after him.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Rāma, Kṛṣṇa, Bali, Śiva, Kāma",
+      "role": "Gods and heroes",
+      "significance": "Mythological figures whose great deeds are celebrated in various festivals.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Sadyojāta",
+      "role": "Authority cited",
+      "significance": "A statement ascribed to him is mentioned in the context of Vāruṇa-snāna, describing it as a form of śauca ('cleansing') that purifies the body and aids concentration of mind.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Nārāyaṇa-kaṇṭha",
+      "role": "Commentator",
+      "significance": "His commentary (Vṛtti) on the Mṛgendrāgama is cited as the source for the statement by Sadyojāta.",
+      "dates": "c. 11th century CE"
+    },
+    {
+      "name": "Nārada",
+      "role": "Sage",
+      "significance": "Mentioned in a quote from Padmottara-khaṇḍa regarding the procedure of 'śauca' (cleansing).",
+      "dates": "Mythological/Ancient"
+    },
+    {
+      "name": "Bodhāyana",
+      "role": "Tapasvin (Ascetic/Sage)",
+      "significance": "Mentioned in a list of revered figures to whom respect is paid during the ācamana ritual.",
+      "dates": "Ancient, pre-common era"
+    },
+    {
+      "name": "Agastya",
+      "role": "Sage",
+      "significance": "Mentioned in a list of revered gurus after Śiva and Skanda.",
+      "dates": "Mythological/Vedic period"
+    },
+    {
+      "name": "Durvāsa",
+      "role": "Sage",
+      "significance": "Mentioned in a list of revered gurus.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Upamanyu",
+      "role": "Sage",
+      "significance": "Mentioned in a list of revered gurus.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Merupṛṣṭha",
+      "role": "Rishi (Seer)",
+      "significance": "Mentioned as the rishi of the 'oṃ pṛthvīti' mantra for purifying the seat (āsana).",
+      "dates": "Scriptural"
+    },
+    {
+      "name": "Īśāna-śiva-guru-deva",
+      "role": "Author/Compiler",
+      "significance": "Author of a 'Paddhati' (manual of worship) which is cited as a source for the classification and ingredients of arghya, gandha, and dhūpa.",
+      "dates": "Not specified"
+    }
+  ],
+  "complete_timeline": [
+    {
+      "event": "Al-Beruni travels in India",
+      "date": "Around 1030 A.D.",
+      "significance": "Provided a detailed external account of the numerous festivals celebrated in India."
+    },
+    {
+      "event": "Bhakti-movement gathers momentum",
+      "date": "Around the fifth and sixth centuries",
+      "significance": "Made temples popular among the masses, leading to the need for comprehensive temple-lore like the Āgamas."
+    },
+    {
+      "event": "Reign of Gautami-putra Sātakarṇi",
+      "date": "First century A.D.",
+      "significance": "Epigraphic evidence of organized festivals."
+    },
+    {
+      "event": "Earliest probable dating of Āgama texts",
+      "date": "Ninth or tenth century A.D.",
+      "significance": "Establishes that the formal codification of temple rituals in Āgamas occurred well after temple worship was already established."
+    },
+    {
+      "event": "Reign of Khāravela",
+      "date": "Second century B.C.",
+      "significance": "Epigraphic evidence of organized festivals in ancient India."
+    },
+    {
+      "event": "Impact of the Bhāgavata cult on image-worship and temple-culture",
+      "date": "Since the beginning of the Christian era",
+      "significance": "Principally responsible for establishing image-worship and temple culture in India."
+    }
+  ],
+  "all_geographic_locations": [
+    {
+      "place": "South India",
+      "context": "Region where Vaiṣṇava āḻvārs and Śaiva nāyanmārs popularized temples (p.1); location of the Pongal festival (p.13); region where the Mahābhārata provides the background for Navarātri (p.16).",
+      "significance": "A key region for the development of the Bhakti movement and temple culture."
+    },
+    {
+      "place": "Tulunāḍu",
+      "context": "Region (coastal Karnataka) where Madhva prescribed his 'Tantra-sāra' mode of worship for Viṣṇu temples (p.3).",
+      "significance": "The origin point for the Tantrasāra āgama tradition."
+    },
+    {
+      "place": "Kerala",
+      "context": "Its ritualistic procedures have close affinity with the Tantrasāra tradition (p.3); location of Pūram and Onam festivals (p.13).",
+      "significance": "A region with a distinct and influential Tantrik ritual tradition."
+    },
+    {
+      "place": "Kaśmīr",
+      "context": "Location of the Nav Roz festival (p.13); where Śiva-rātri was celebrated with dancing and singing, according to Kalhaṇa (p.15).",
+      "significance": "Shows regional variation in festival celebration."
+    },
+    {
+      "place": "Prayāg (Allahabad)",
+      "context": "Location of the māgh-melā (p.13, 16) and the Kumbha-melā (p.17).",
+      "significance": "A major pilgrimage site for important festivals."
+    },
+    {
+      "place": "Tirumala-Tirupati",
+      "context": "Site of the famous Brahmotsava festival (p.13).",
+      "significance": "A major pilgrimage center known for its grand annual festival."
+    },
+    {
+      "place": "Uḍipi",
+      "context": "Site of the Paryāya festival (p.13, 17); an important center for celebrating Kṛṣṇa's birth (p.16).",
+      "significance": "A key center of the Madhva tradition with a unique system of rotating priesthood (Paryāya)."
+    },
+    {
+      "place": "Vārāṇasī",
+      "context": "Site of the Burwā-maṅgal festival and a major center for Śiva-rātri celebrations (p.13).",
+      "significance": "A preeminent sacred city for Śaivism."
+    },
+    {
+      "place": "Śravaṇa-beḷ-goḷa",
+      "context": "Site of the Mahā-mastakābhiṣeka festival, held once in about twelve years (p.17).",
+      "significance": "A major Jain pilgrimage center."
+    },
+    {
+      "place": "Gaṅgā, Yamunā, Godāvari, Sarasvatī, Narmadā, Sindhu, Kāveri",
+      "context": "Invoked during the ritual bath to be present in the water where the bather is, thereby sanctifying it.",
+      "significance": "These are the major sacred rivers of India, whose presence is believed to make any body of water holy and purificatory."
+    },
+    {
+      "place": "Gaṅgā, Yamunā, Godāvarī, Sarasvatī, Narmadā, Sindhu, Kāveri",
+      "context": "These sacred rivers of India are invoked to be present in the ritual water during dravya-śuddhi (purification of articles).",
+      "significance": "Symbolizes the purification power of all sacred waters being concentrated into the ritual pot.",
+      "page": "70"
+    },
+    {
+      "place": "Malaya region",
+      "context": "Mentioned as the source of the best quality sandal-paste (malayodbhavaḥ).",
+      "significance": "Historically famous for its sandalwood trees, reinforcing the principle that the origin of an article affects its quality for worship."
+    }
+  ],
+  "complete_terminology_index": [
+    {
+      "term": "āgama",
+      "transliteration": "āgama",
+      "translation": "Tradition, scripture",
+      "context": "The elaborate and encyclopaedic temple-lore that guides priests and architects."
+    },
+    {
+      "term": "āḻvārs",
+      "transliteration": "āḻvārs",
+      "translation": "Those immersed in God",
+      "context": "The twelve Vaiṣṇava poet-saints of South India who helped popularize temple culture."
+    },
+    {
+      "term": "nāyanmārs",
+      "transliteration": "nāyanmārs",
+      "translation": "Leaders, masters",
+      "context": "The 63 Śaiva poet-saints of South India who helped popularize temple culture."
+    },
+    {
+      "term": "traipuruśa ālayas",
+      "transliteration": "traipuruśa ālayas",
+      "translation": "Shrines of the three personages",
+      "context": "The earliest temples dedicated to the three major divinities together (Brahmā, Viṣṇu, Śiva)."
+    },
+    {
+      "term": "Pāñcarātra",
+      "transliteration": "Pāñcarātra",
+      "translation": "Five nights",
+      "context": "A major tradition of Vaiṣṇavāgama, prevalent in many Śrī-vaiṣṇava temples since Rāmānuja."
+    },
+    {
+      "term": "Vaikhānasa",
+      "transliteration": "Vaikhānasa",
+      "translation": "Related to the sage Vikhānasa",
+      "context": "A more ancient tradition of Vaiṣṇavāgama with greater kinship to Vedic tradition."
+    },
+    {
+      "term": "Tantrasāra",
+      "transliteration": "Tantrasāra",
+      "translation": "Essence of the Tantra",
+      "context": "A distinct āgama tradition evolved from the Pāñcarātra framework, popularized by Madhva."
+    },
+    {
+      "term": "catuḥ-sthānārcana",
+      "transliteration": "catuḥ-sthānārcana",
+      "translation": "Worship in four places/seats",
+      "context": "The conjoint adoration of the four 'seats' of worship: icon, water pot, mystical diagram, and fire."
+    },
+    {
+      "term": "bimba",
+      "transliteration": "bimba",
+      "translation": "Icon, image",
+      "context": "One of the four seats of worship."
+    },
+    {
+      "term": "kumbha",
+      "transliteration": "kumbha",
+      "translation": "Pot, pitcher",
+      "context": "A sacred pot of water, one of the four seats of worship."
+    },
+    {
+      "term": "yantra / maṇḍala",
+      "transliteration": "yantra / maṇḍala",
+      "translation": "Mystical diagram / circle",
+      "context": "One of the four seats of worship."
+    },
+    {
+      "term": "agni",
+      "transliteration": "agni",
+      "translation": "Fire",
+      "context": "The sacrificial fire, one of the four seats of worship."
+    },
+    {
+      "term": "abhiṣeka",
+      "transliteration": "abhiṣeka",
+      "translation": "Anointing, ceremonial bath",
+      "context": "The ritual bathing of the deity icon."
+    },
+    {
+      "term": "nitya / nitya-kaṭṭle",
+      "transliteration": "nitya / nitya-kaṭṭle",
+      "translation": "Daily / daily routine (Kannada)",
+      "context": "The daily routine of worship services in a temple."
+    },
+    {
+      "term": "naimittikotsava / heccu-kaṭṭle",
+      "transliteration": "naimittikotsava / heccu-kaṭṭle",
+      "translation": "Occasional festival / special arrangement (Kannada)",
+      "context": "Occasional festivals conducted in the temple."
+    },
+    {
+      "term": "upacāra",
+      "transliteration": "upacāra",
+      "translation": "Service, offering",
+      "context": "Customary offerings and presentations made to the deity during worship, commonly sixteen in number."
+    },
+    {
+      "term": "pūjā",
+      "transliteration": "pūjā",
+      "translation": "Worship, reverence",
+      "context": "The act of worship, especially the main ritual involving offerings."
+    },
+    {
+      "term": "suprabhāta",
+      "transliteration": "suprabhāta",
+      "translation": "Good morning, auspicious dawn",
+      "context": "Hymns sung to formally wake the deity in the morning."
+    },
+    {
+      "term": "homa",
+      "transliteration": "homa",
+      "translation": "Fire-oblation",
+      "context": "A ritual involving offerings made into a consecrated fire."
+    },
+    {
+      "term": "ṣaṭ-kālā-pūjā",
+      "transliteration": "ṣaṭ-kālā-pūjā",
+      "translation": "Six-time worship",
+      "context": "A schedule of six sessions of worship throughout the day."
+    },
+    {
+      "term": "śayanotsava",
+      "transliteration": "śayanotsava",
+      "translation": "Sleep festival",
+      "context": "The ritual of 'putting the deity to sleep' at the end of the day."
+    },
+    {
+      "term": "pañcāmṛta",
+      "transliteration": "pañcāmṛta",
+      "translation": "Five nectars",
+      "context": "A mixture of five ingredients (milk, curds, ghee, sugar, honey) used for abhiṣeka."
+    },
+    {
+      "term": "naivedya",
+      "transliteration": "naivedya",
+      "translation": "Food offering",
+      "context": "Presentation of consecrated food to the deity."
+    },
+    {
+      "term": "ārati",
+      "transliteration": "ārati",
+      "translation": "Waving of lights",
+      "context": "A climactic ritual where lights are waved before the deity."
+    },
+    {
+      "term": "tīrtha",
+      "transliteration": "tīrtha",
+      "translation": "Holy water",
+      "context": "Sacred water, often from the deity's bath, distributed to devotees."
+    },
+    {
+      "term": "prasāda",
+      "transliteration": "prasāda",
+      "translation": "Grace, favor",
+      "context": "Sanctified food-offering distributed to devotees."
+    },
+    {
+      "term": "rathotsava",
+      "transliteration": "rathotsava",
+      "translation": "Chariot festival",
+      "context": "The annual temple-car festival, the most important festival for many temples."
+    },
+    {
+      "term": "Brahmotsava",
+      "transliteration": "Brahmotsava",
+      "translation": "Brahmā's festival",
+      "context": "Another name for the rathotsava, as Brahmā is considered the chief participant."
+    },
+    {
+      "term": "vāhana",
+      "transliteration": "vāhana",
+      "translation": "Vehicle, mount",
+      "context": "The vehicles used to carry the processional deity during festivals."
+    },
+    {
+      "term": "utsava",
+      "transliteration": "utsava",
+      "translation": "Festival",
+      "context": "Term for religious and social festivals."
+    },
+    {
+      "term": "Poṅgal",
+      "transliteration": "Poṅgal",
+      "translation": "To boil over",
+      "context": "A harvest festival in southern states, coinciding with Makara-Saṅkrānti."
+    },
+    {
+      "term": "Yugādi",
+      "transliteration": "Yugādi",
+      "translation": "Beginning of an era",
+      "context": "The new year day according to the Candramāna almanac."
+    },
+    {
+      "term": "Navarātri",
+      "transliteration": "Navarātri",
+      "translation": "Nine nights",
+      "context": "A nine-day festival dedicated to the worship of the Goddess (Devī)."
+    },
+    {
+      "term": "स्नान",
+      "transliteration": "Snāna",
+      "translation": "Ritual Bath",
+      "context": "The central topic of the chapter; a ceremonial bath for purification."
+    },
+    {
+      "term": "बहिर्याग",
+      "transliteration": "Bahir-yāga",
+      "translation": "External sacrifice",
+      "context": "Refers to temple worship and other outward rituals."
+    },
+    {
+      "term": "आत्मार्थ-पूजा",
+      "transliteration": "Ātmārtha-pūjā",
+      "translation": "Worship for one's own sake",
+      "context": "Routine domestic worship performed by the priest before going to the temple."
+    },
+    {
+      "term": "गृहर्चना",
+      "transliteration": "Gṛhārcanā",
+      "translation": "Home worship",
+      "context": "Synonym for Ātmārtha-pūjā."
+    },
+    {
+      "term": "अन्तर्याग",
+      "transliteration": "Antar-yāga",
+      "translation": "Internal sacrifice",
+      "context": "Internal, mental, or spiritual worship that must precede external worship."
+    },
+    {
+      "term": "पूजा",
+      "transliteration": "Pūjā",
+      "translation": "Worship",
+      "context": "Ritual worship, which in its complete form involves the notion of 'yāga'."
+    },
+    {
+      "term": "यज्ञ",
+      "transliteration": "Yāga",
+      "translation": "Sacrifice",
+      "context": "A ritual performance, both internal and external, central to worship."
+    },
+    {
+      "term": "संस्कार",
+      "transliteration": "Samskāra",
+      "translation": "Sacrament, purificatory rite",
+      "context": "A rite with the twofold purpose of eliminating defects and acquiring merits."
+    },
+    {
+      "term": "दीक्षा",
+      "transliteration": "Dīkṣā",
+      "translation": "Initiation or consecration",
+      "context": "A ritual that confers competence and removes obstructions for a spiritual aspirant or novice."
+    },
+    {
+      "term": "पञ्चशुद्धयः",
+      "transliteration": "Pañcaśuddhayaḥ",
+      "translation": "Five purifications",
+      "context": "A sequence of five purifications: ātma (self), sthāna (place), dravya (articles), mantra (mantras), and liṅga (icon)."
+    },
+    {
+      "term": "आत्मशुद्धि",
+      "transliteration": "Ātma-śuddhi",
+      "translation": "Purification of the self",
+      "context": "The first of the five purifications, involving the body and mind."
+    },
+    {
+      "term": "शौच",
+      "transliteration": "Śauca",
+      "translation": "Cleansing, purity",
+      "context": "The mode of cleansing oneself after elimination of bodily wastes."
+    },
+    {
+      "term": "आचमन",
+      "transliteration": "Ācamana",
+      "translation": "Ceremonial sipping of water",
+      "context": "A ritual act of purification performed at various times."
+    },
+    {
+      "term": "संकल्प",
+      "transliteration": "Saṃkalpa",
+      "translation": "Resolve, deliberation",
+      "context": "The formal statement of intent made before beginning a ritual."
+    },
+    {
+      "term": "मार्जन",
+      "transliteration": "Mārjana",
+      "translation": "Cleansing, sprinkling",
+      "context": "A ritual cleansing with water as part of the bath and sandhyā."
+    },
+    {
+      "term": "अघमर्षण",
+      "transliteration": "Aghamarṣaṇa",
+      "translation": "Eradication of sins",
+      "context": "A ritual, often involving breathwork and visualization, to destroy sins."
+    },
+    {
+      "term": "तर्पण",
+      "transliteration": "Tarpaṇa",
+      "translation": "Water-libation",
+      "context": "Offering water to gods, sages, and ancestors to please them."
+    },
+    {
+      "term": "वारुण-स्नान",
+      "transliteration": "Vāruṇa-snāna",
+      "translation": "Water bath",
+      "context": "The primary and most common type of ritual bath."
+    },
+    {
+      "term": "आग्नेय-स्नान",
+      "transliteration": "Āgneya-snāna",
+      "translation": "Fire bath",
+      "context": "A ritual bath using sacred ash (bhasma) instead of water."
+    },
+    {
+      "term": "मानस-स्नान",
+      "transliteration": "Mānasa-snāna",
+      "translation": "Mental bath",
+      "context": "A purely mental form of purification through mantra and meditation."
+    },
+    {
+      "term": "सन्ध्या",
+      "transliteration": "Sandhyā",
+      "translation": "Twilight ritual",
+      "context": "Daily prayers performed at dawn, noon, and dusk. The chapter discusses the Vedic and Tāntric versions."
+    },
+    {
+      "term": "Pāñca-Śuddhi",
+      "transliteration": "Pāñca-Śuddhi",
+      "translation": "Fivefold Purification",
+      "context": "The central theme of the chapter, referring to the five essential purifications in Āgamic worship."
+    },
+    {
+      "term": "स्नानं",
+      "transliteration": "snānaṃ",
+      "translation": "Bath",
+      "context": "The ritual bath that is a necessary condition for entering the temple."
+    },
+    {
+      "term": "आचमनं",
+      "transliteration": "ācamanaṃ",
+      "translation": "Ceremonial sipping of water",
+      "context": "A purificatory rite performed before and after various actions."
+    },
+    {
+      "term": "प्रदक्षिणम्",
+      "transliteration": "pradakṣiṇam",
+      "translation": "Circumambulation",
+      "context": "The act of walking around the shrine, keeping it to one's right."
+    },
+    {
+      "term": "साष्टाङ्ग-प्रणिपात",
+      "transliteration": "sāṣṭāṅga-praṇipāta",
+      "translation": "Eight-limbed prostration",
+      "context": "A full prostration where two feet, two hands, two knees, chest, and forehead touch the ground."
+    },
+    {
+      "term": "न्यास",
+      "transliteration": "nyāsa",
+      "translation": "Ritual placement",
+      "context": "The act of placing divine presence, mantras, or deities onto parts of one's body (e.g., kara-nyāsa, aṅga-nyāsa)."
+    },
+    {
+      "term": "आत्म-शुद्धि",
+      "transliteration": "ātma-śuddhi",
+      "translation": "Purification of the self",
+      "context": "The first and most important of the five purifications."
+    },
+    {
+      "term": "भूतशुद्धि",
+      "transliteration": "bhūtaśuddhi",
+      "translation": "Purification of the elements",
+      "context": "A key part of ātma-śuddhi, involving the symbolic dissolution and recreation of the five elements constituting the body."
+    },
+    {
+      "term": "स्थान-शुद्धि",
+      "transliteration": "sthāna-śuddhi",
+      "translation": "Purification of the place",
+      "context": "The second of the five purifications."
+    },
+    {
+      "term": "द्रव्य-शुद्धि",
+      "transliteration": "dravya-śuddhi",
+      "translation": "Purification of articles",
+      "context": "The third of the five purifications."
+    },
+    {
+      "term": "मन्त्रशुद्धि",
+      "transliteration": "mantraśuddhi",
+      "translation": "Purification of mantras",
+      "context": "The fourth of the five purifications."
+    },
+    {
+      "term": "लिङ्ग-शुद्धि",
+      "transliteration": "liṅga-śuddhi",
+      "translation": "Purification of the liṅga/icon",
+      "context": "The fifth of the five purifications."
+    },
+    {
+      "term": "रुचिरासन",
+      "transliteration": "rucirāsana",
+      "translation": "A pleasing/beautiful posture",
+      "context": "A specific sitting posture for Śiva worship, described in Kāmikāgama."
+    },
+    {
+      "term": "अन्तर्याग",
+      "transliteration": "antaryāga",
+      "translation": "Inner sacrifice/worship",
+      "context": "The final stage of ātma-śuddhi, involving mental worship of the deity within one's heart."
+    },
+    {
+      "term": "पञ्चगव्य",
+      "transliteration": "pañcagavya",
+      "translation": "Five products of the cow",
+      "context": "A sacred mixture of urine, dung, milk, curds, and clarified butter used for purification."
+    },
+    {
+      "term": "āgama",
+      "transliteration": "āgama",
+      "translation": "Traditional doctrine or precept, sacred texts",
+      "context": "The primary source texts for the rules of worship."
+    },
+    {
+      "term": "sattva",
+      "transliteration": "sattva",
+      "translation": "Purity, goodness",
+      "context": "One of the three guṇas, used to classify the quality of articles."
+    },
+    {
+      "term": "rajas",
+      "transliteration": "rajas",
+      "translation": "Passion, activity",
+      "context": "One of the three guṇas, used to classify the quality of articles."
+    },
+    {
+      "term": "tamas",
+      "transliteration": "tamas",
+      "translation": "Darkness, inertia",
+      "context": "One of the three guṇas, used to classify the quality of articles."
+    },
+    {
+      "term": "deva-khāta",
+      "transliteration": "deva-khāta",
+      "translation": "God-dug",
+      "context": "A well or tank located within temple premises, a preferred source of water."
+    },
+    {
+      "term": "rudra-sūkta",
+      "transliteration": "rudra-sūkta",
+      "translation": "Hymn to Rudra",
+      "context": "Recited during the ritual collection of water."
+    },
+    {
+      "term": "agrodaka",
+      "transliteration": "agrodaka",
+      "translation": "Foremost water",
+      "context": "Name given to the specially collected water for worship."
+    },
+    {
+      "term": "arghya",
+      "transliteration": "arghya",
+      "translation": "Water-offering for respectful reception",
+      "context": "One of the primary water offerings in worship."
+    },
+    {
+      "term": "pādya",
+      "transliteration": "pādya",
+      "translation": "Water-offering for washing feet",
+      "context": "One of the primary water offerings in worship."
+    },
+    {
+      "term": "ācamanīya",
+      "transliteration": "ācamanīya",
+      "translation": "Water for ceremonial sipping for purification",
+      "context": "One of the primary water offerings in worship."
+    },
+    {
+      "term": "snāna",
+      "transliteration": "snāna",
+      "translation": "Ritual bath",
+      "context": "Bathing of the deity."
+    },
+    {
+      "term": "madhuparka",
+      "transliteration": "madhuparka",
+      "translation": "Honey-mixture",
+      "context": "A respectful offering of honey and other items to an honored guest."
+    },
+    {
+      "term": "pātra-pañcaka",
+      "transliteration": "pātra-pañcaka",
+      "translation": "Group of five vessels",
+      "context": "A set of five vessels for water offerings prescribed in some texts."
+    },
+    {
+      "term": "prastha",
+      "transliteration": "prastha",
+      "translation": "A measure of capacity",
+      "context": "Unit of volume for water and other items, equal to 32 'palas'."
+    },
+    {
+      "term": "drona",
+      "transliteration": "drona",
+      "translation": "A measure of capacity",
+      "context": "A larger unit of volume, equal to 4 'āḍhakas'."
+    },
+    {
+      "term": "puṣpa",
+      "transliteration": "puṣpa",
+      "translation": "Flower",
+      "context": "An essential article for worship."
+    },
+    {
+      "term": "dhūpa",
+      "transliteration": "dhūpa",
+      "translation": "Incense",
+      "context": "Fragrant smoke offered to the deity."
+    },
+    {
+      "term": "dīpa",
+      "transliteration": "dīpa",
+      "translation": "Lamp, light",
+      "context": "Light offered to the deity."
+    },
+    {
+      "term": "nīrājana",
+      "transliteration": "nīrājana",
+      "translation": "Waving of lights",
+      "context": "Also known as āratrikā, a key ritual in worship."
+    },
+    {
+      "term": "pañca-gavya",
+      "transliteration": "pañca-gavya",
+      "translation": "Five products of the cow",
+      "context": "A sacred mixture used for purification and ritual baths."
+    },
+    {
+      "term": "pañcāmṛta",
+      "transliteration": "pañcāmṛta",
+      "translation": "Five nectars",
+      "context": "A mixture of five sweet substances used for ritual baths."
+    },
+    {
+      "term": "abhiṣeka",
+      "transliteration": "abhiṣeka",
+      "translation": "Anointing, bathing",
+      "context": "The ritual bathing of the deity."
+    },
+    {
+      "term": "gandha",
+      "transliteration": "gandha",
+      "translation": "Fragrance, scent",
+      "context": "Offered in the form of sandal-paste and other aromatics."
+    }
+  ],
+  "cross_reference_map": [
+    {
+      "reference_text": "cf. Nāradīya-saṃhitā, 2, 156",
+      "target": "Nāradīya-saṃhitā text, chapter 2, verse 156",
+      "page": "7"
+    },
+    {
+      "reference_text": "Īśāna-śiva-guru-deva-paddhati gives an extended account of how vessels of gold, silver, copper, brass, mud and wood can be cleaned (see Appendix).",
+      "target": "Appendix",
+      "page": "59"
+    }
+  ],
+  "bibliography_network": [],
+  "keywords_by_frequency": []
+}

@@ -1,0 +1,2955 @@
+{
+  "book_title": "The Agama Encyclopedia 6",
+  "total_chapters": 6,
+  "total_pages": 0,
+  "all_historical_figures": [
+    {
+      "name": "Frithjob Schuon",
+      "role": "Thinker/Writer",
+      "significance": "His expressions 'luminous obscurity' and 'obscured light' are used to describe the dual nature of the temple's symbol (manifestation and content).",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Aśoka",
+      "role": "Emperor",
+      "significance": "The practice of building stūpas gained enormous importance during his reign. The architectural form finalized in his days survived in later stūpas.",
+      "dates": "Reigned c. 268 – c. 232 BCE (Implied by context)"
+    },
+    {
+      "name": "Mahendravarman I",
+      "role": "Pallava King",
+      "significance": "An inscription claims he was the innovator of rock-cut shrines built without traditional materials like brick or timber. He was a versatile patron of arts and author, known by titles 'Vicitra-citta' and 'Cheṭṭakāri'.",
+      "dates": "600-630 A.D."
+    },
+    {
+      "name": "Bhāravi",
+      "role": "Sanskrit Poet",
+      "significance": "Patronized by King Mahendravarman I.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Appar",
+      "role": "Śaiva Saint",
+      "significance": "Influenced King Mahendravarman I, who subsequently built many shrines to Śiva.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Narasimhavarman I",
+      "role": "Pallava King, successor to Mahendravarman I",
+      "significance": "Built the world-famous monolithic shrines ('Rathas') at Māmallapuram. Bore the title 'Māmalla'.",
+      "dates": "630-668 A.D."
+    },
+    {
+      "name": "Tvaṣṭr",
+      "role": "Celestial Mason (mythological)",
+      "significance": "Mentioned as the fashioner of divine habitations in old Indian texts of architecture.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Guṇaśīla",
+      "role": "King of Atiya (Aḍiyanman) dynasty",
+      "significance": "Patron of the cave-temple at Nāmakkaḷ, dedicated to Viṣṇu.",
+      "dates": "around 750 A.D."
+    },
+    {
+      "name": "Kīrtivarman I",
+      "role": "Cāḷukya King",
+      "significance": "Patron of the earliest and largest cave-temple (No. 111) at Bādāmi, dedicated to Viṣṇu.",
+      "dates": "566-597 A.D."
+    },
+    {
+      "name": "Maṅgaḷīśa",
+      "role": "Cāḷukya King",
+      "significance": "Co-ruler during the excavation of the Bādāmi cave-temples.",
+      "dates": "6th century"
+    },
+    {
+      "name": "Mṛgeśa-varman",
+      "role": "Kadamba Ruler",
+      "significance": "The Jina temple at Halasi dates back to his reign.",
+      "dates": "about 455 A.D."
+    },
+    {
+      "name": "Dāmodara-varman",
+      "role": "King of Ānanda gotra lineage",
+      "significance": "Probable builder of the Chejerla shrine, originally a Buddhist sanctuary.",
+      "dates": "First few centuries of the Christian era"
+    },
+    {
+      "name": "Ptolemy",
+      "role": "Greek Traveller/Geographer",
+      "significance": "Mentioned the town of Paṭṭadakallu in his writings.",
+      "dates": "around 150 A.D."
+    },
+    {
+      "name": "Kṛṣṇa I",
+      "role": "Rāṣṭrakūṭa King",
+      "significance": "Built the Kailāsa temple at Ellorā.",
+      "dates": "757 A.D."
+    },
+    {
+      "name": "Vikramāditya II",
+      "role": "Cāḷukya King",
+      "significance": "King associated with the Virūpākṣa temple at Paṭṭadakallu.",
+      "dates": "Reigned 733–744 A.D."
+    },
+    {
+      "name": "Loka-mahādevī",
+      "role": "Queen of Cāḷukya King Vikramāditya II",
+      "significance": "The Virūpākṣa temple at Paṭṭadakallu may have been named Lokeśvara after her.",
+      "dates": "8th century"
+    },
+    {
+      "name": "Anivārita-guṇḍa",
+      "role": "Architect ('sūtradhāri')",
+      "significance": "Named in an inscription as the architect of the Paṭṭadakallu temple, a rare instance of a craftsmaster being given recognition.",
+      "dates": "8th century"
+    },
+    {
+      "name": "Vijayāditya",
+      "role": "Cāḷukya King",
+      "significance": "Built the Vijayeśvara (Saṅgameśvara) temple at Paṭṭadakallu.",
+      "dates": "696-733 A.D."
+    },
+    {
+      "name": "Percy Brown",
+      "role": "Art Historian",
+      "significance": "His opinion is cited regarding the dedication of the Pāpanātha temple to Viṣṇu.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Baladevamayya",
+      "role": "Sculptor",
+      "significance": "His name is inscribed on the Naṭarāja panel in the Pāpanātha temple at Paṭṭadakallu.",
+      "dates": "before 690 A.D."
+    },
+    {
+      "name": "Narasimhavarman II (Rājasimha)",
+      "role": "Pallava Ruler",
+      "significance": "Built the Shore-temple at Māmallapuram and the Kailāśanātha temple at Kāñcīpuram, key examples of the Drāviḍa style.",
+      "dates": "about 680-720 A.D."
+    },
+    {
+      "name": "Heliodorus",
+      "role": "Indo-Greek Ambassador",
+      "significance": "A devotee of Viṣṇu who erected a stone column (garuḍa-dhvaja) at Besnagar, indicating the existence of a temple.",
+      "dates": "around the second century B.C."
+    },
+    {
+      "name": "Rājūvala",
+      "role": "Śaka Satrap",
+      "significance": "An inscription states he built a stone temple for the five heroes of the Vṛṣṇi clan in Mora, near Mathurā.",
+      "dates": "Same period as Heliodorus (implied)"
+    },
+    {
+      "name": "Shoḍāśa",
+      "role": "Son of Rājūvala",
+      "significance": "Mentioned in the inscription of his father.",
+      "dates": "Same period as Heliodorus (implied)"
+    },
+    {
+      "name": "Ānanda Coomaraswamy",
+      "role": "Art Historian",
+      "significance": "Assigned the famous Śiva icon from Guḍimallam to the first century B.C.",
+      "dates": "Not specified"
+    },
+    {
+      "name": "Prajāvāti",
+      "role": "Female Donor",
+      "significance": "Gifted an inscribed sculpture of a four-armed Viṣṇu in the village of Burhikhār.",
+      "dates": "first century B.C."
+    },
+    {
+      "name": "Rājarāja I",
+      "role": "Coḷa King",
+      "significance": "Built the Rājarājiśvara (Bṛhadeśvara) temple at Tāñjāvūr.",
+      "dates": "Consecrated in 1009 A.D."
+    },
+    {
+      "name": "Rājendra-Coḷa",
+      "role": "Coḷa King",
+      "significance": "Built the temple at Gaṅgaikoṇḍa-colapuram.",
+      "dates": "1025 A.D."
+    },
+    {
+      "name": "Sāyaṇa",
+      "role": "Vedic Commentator",
+      "significance": "His interpretation of the word 'vimāna' is cited in the context of its symbolism.",
+      "dates": "14th century"
+    },
+    {
+      "name": "Marihi",
+      "role": "Sage/Author",
+      "significance": "Cited as the author of the Ānanda-saṃhitā, which classifies worship into bodily, verbal, and mental types.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Manu",
+      "role": "Ancient Lawgiver",
+      "significance": "Cited for his denunciation of a learned brahmin who teaches sacred texts for pay as a 'hireling' (bhṛtakādhyāpaka), highlighting the orthodox prejudice against professional priests.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Aparārka",
+      "role": "Commentator/Author",
+      "significance": "A Smṛti ascribed to him is quoted, which states that an icon ('pratimā') is for people of little intelligence, representing the orthodox viewpoint.",
+      "dates": "c. 12th century CE"
+    },
+    {
+      "name": "Bhārad-vāja-nṛsiṃha",
+      "role": "Author",
+      "significance": "Cited as the author of the Arcanā-tilaka.",
+      "dates": "Unknown"
+    },
+    {
+      "name": "Bhrgu",
+      "role": "Sage",
+      "significance": "Quoted within the Arcanā-tilaka, distinguishing between worship 'with external props' (sālamba) and 'without them' (nirālamba).",
+      "dates": "Mythological/Ancient"
+    },
+    {
+      "name": "Kubera-Vaiśravaṇa",
+      "role": "Deity/Lord of Wealth",
+      "significance": "Mentioned as the 'overlord of the lords' from whom earthly kings derive their glory, and who himself attends on God, justifying the royal treatment of the deity in a temple.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Viṣṇu",
+      "role": "Deity",
+      "significance": "Mentioned as receiving the ancestral conch from the ocean of milk. Said to be represented in the conch.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Rudra",
+      "role": "Deity",
+      "significance": "Represented by clarified butter (ghṛta) in the pañcagavya mixture.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Soma",
+      "role": "Deity",
+      "significance": "Represented by curds (dadhi) in the pañcagavya mixture.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Śukra",
+      "role": "Deity",
+      "significance": "Represented by milk (kṣīra) in the pañcagavya mixture.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Naṭa",
+      "role": "Deity",
+      "significance": "Represented by cow's urine (go-mūtra) in the pañcagavya mixture.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Arka or Sun",
+      "role": "Deity",
+      "significance": "Represented by cow's refuse (go-maya) in the pañcagavya mixture.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Varuṇa",
+      "role": "Deity of waters",
+      "significance": "Said to abide in the middle portion of the conch.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Prajāpati",
+      "role": "Creator deity",
+      "significance": "Said to reside in the tail portion of the conch.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Gangā and Sarasvati",
+      "role": "River-goddesses",
+      "significance": "Said to reside in the front portion of the conch.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Hanumān, Garuḍa, Nandi or Cakra",
+      "role": "Divine figures",
+      "significance": "Their forms adorn the handle of the ritual bell (ghaṇṭā), signifying the vital principle (prāṇa-śakti).",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Brahma",
+      "role": "Deity",
+      "significance": "Mentioned as the deity for whom sandal-paste (gandha) is a favourite article of offering.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Vāmana",
+      "role": "Deity (form of Viṣṇu)",
+      "significance": "Invoked in curds during the pañcāmṛta-snāna ritual.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Viṣṇu",
+      "role": "Deity",
+      "significance": "Invoked in ghee during the pañcāmṛta-snāna ritual. Also mentioned as one of the five forms conjured up by the worshipper (Satya, Puruśa, Acyuta, Aniruddha and Viṣṇu).",
+      "dates": "N/A"
+    },
+    {
+      "name": "Madhūsudana",
+      "role": "Deity (form of Viṣṇu)",
+      "significance": "Invoked in honey during the pañcāmṛta-snāna ritual.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Acyuta",
+      "role": "Deity (form of Viṣṇu)",
+      "significance": "Invoked in sugar during the pañcāmṛta-snāna ritual. Also mentioned as one of the five forms conjured by the worshipper.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Govinda",
+      "role": "Deity (form of Viṣṇu/Krishna)",
+      "significance": "Invoked in milk during the pañcāmṛta-snāna ritual.",
+      "dates": "N/A"
+    },
+    {
+      "name": "Indra",
+      "role": "Chieftain of the gods",
+      "significance": "His victory over the demon Vṛtra is cited as the mythological origin of festivals on earth. His figure is also painted on festival flags.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Vṛtra",
+      "role": "Demon",
+      "significance": "His defeat by Indra was celebrated by the gods, creating the model for all mortal festivals.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Viṣṇu",
+      "role": "God",
+      "significance": "A text (Śrī-praśna) states he gave Indra the strength and guidance to defeat Vṛtra. His carrier, Garuḍa, is used as a festival emblem and vehicle. Nine-day festivals are said to please him.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Brahmā",
+      "role": "Chief of the gods / Creator God",
+      "significance": "The most important temple festival, 'brahmotsava', is named after him as he is believed to personally conduct it. One-day festivals are said to please him.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Śiva",
+      "role": "God",
+      "significance": "His vehicle, the bull Vṛśabha, is used on festival flags and as a vehicle. Three-day festivals are said to please him.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Lakṣmī",
+      "role": "Goddess",
+      "significance": "Seven-day festivals are said to please her.",
+      "dates": "Mythological"
+    }
+  ],
+  "complete_timeline": [
+    {
+      "event": "Consecration of the Rājarājiśvara (Bṛhadeśvara) temple at Tāñjāvūr.",
+      "date": "1009 A.D.",
+      "significance": "A high point of Coḷa architecture, featuring a towering vimāna."
+    },
+    {
+      "event": "Building of the temple at Gaṅgaikoṇḍa-colapuram.",
+      "date": "1025 A.D.",
+      "significance": "Shows the trend towards shorter vimānas compared to the Tāñjāvūr temple."
+    },
+    {
+      "event": "Rule of the Guptas.",
+      "date": "330-530 A.D.",
+      "significance": "A period of great temple-building in North India, during which the śikhara evolved."
+    },
+    {
+      "event": "Reign of Pallava King Mahendravarman I.",
+      "date": "600-630 A.D.",
+      "significance": "Pioneering period for rock-cut shrines in the Pallava kingdom."
+    },
+    {
+      "event": "Reign of Pallava King Narasimhavarman I.",
+      "date": "630-668 A.D.",
+      "significance": "Creation of the monolithic 'rathas' at Māmallapuram."
+    },
+    {
+      "event": "Building of the Kailāsa temple at Ellorā by Kṛṣṇa I.",
+      "date": "757 A.D.",
+      "significance": "A monumental rock-cut temple, possibly inspired by the Virūpākṣa temple at Paṭṭadakallu."
+    },
+    {
+      "event": "Vedic culture",
+      "date": "Ancient (no specific date provided)",
+      "significance": "A cultural period where fire (Agni) was the primary object of worship, and icon worship was likely not popular."
+    },
+    {
+      "event": "Erection of Heliodorus pillar at Besnagar.",
+      "date": "Around the second century B.C.",
+      "significance": "Early epigraphic evidence of Viṣṇu worship and temple existence, with Indo-Greek influence."
+    },
+    {
+      "event": "Construction of stūpas at Bārhut, Bodhgayā, Sārnāth and Sānci.",
+      "date": "First and the third centuries B.C.",
+      "significance": "Represents the Buddhist adaptation of the stūpa form, which became massive hemispherical structures."
+    },
+    {
+      "event": "Dating of the Guḍimallam Śiva icon by Coomaraswamy.",
+      "date": "First century B.C.",
+      "significance": "Indicates that free-standing icons are older than many structural temples."
+    },
+    {
+      "event": "Churning of the ocean of milk",
+      "date": "Mythological past",
+      "significance": "The ancestral conch is said to have emerged during this event, establishing its divine origin."
+    },
+    {
+      "event": "Defeat of the demon Vṛtra by Indra",
+      "date": "Mythological past ('olden days')",
+      "significance": "The celebration of this victory by the gods is presented as the origin and model for all festivals in the mortal world."
+    },
+    {
+      "event": "Rise of Tāntrik ideology",
+      "date": "Post-Vedic (no specific date provided)",
+      "significance": "Introduced and popularized the worship of divinity in human/semi-human forms (mūrti), diagrams (maṇḍala), and the use of mantras, leading to the prominence of temples and icons."
+    },
+    {
+      "event": "Construction of Parasurāmeśvara temple at Guḍimallam.",
+      "date": "Second century A.D.",
+      "significance": "An early structural temple in South India, housing a significant early icon of Śiva."
+    },
+    {
+      "event": "Ghosuṇḍi inscription mentioning a stone temple-enclosure for Vāsudeva and Saṃkarṣaṇa.",
+      "date": "Second century B.C.",
+      "significance": "Early evidence for the Bhāgavata cult and temple structures in Rajasthan."
+    },
+    {
+      "event": "Excavation of caves at Junnār.",
+      "date": "about 100 A.D.",
+      "significance": "Example of early rock-cut architecture, functioning as retreats for monks."
+    },
+    {
+      "event": "Excavation of caves at Kṛṣṇagiri or Kanheri.",
+      "date": "about 150-189 A.D.",
+      "significance": "Part of the wave of excavated cave architecture in Western India."
+    },
+    {
+      "event": "Reign of Kadamba ruler Mṛgeśa-varman.",
+      "date": "about 455 A.D.",
+      "significance": "Date associated with the Jina temple at Halasi."
+    },
+    {
+      "event": "Excavation of caves at Ellorā.",
+      "date": "about 550-750 A.D.",
+      "significance": "A major site of rock-cut architecture featuring Hindu, Buddhist, and Jain caves."
+    },
+    {
+      "event": "Excavation of cave No. 111 at Bādāmi.",
+      "date": "about 578 A.D.",
+      "significance": "The earliest and largest of the Bādāmi cave-temples."
+    },
+    {
+      "event": "Reign of Pallava ruler Narasimhavarman II (Rājasimha).",
+      "date": "about 680-720 A.D.",
+      "significance": "Construction of the Shore Temple and Kailāśanātha temple, defining the Drāviḍa style."
+    },
+    {
+      "event": "Ptolemy mentions Paṭṭadakallu.",
+      "date": "around 150 A.D.",
+      "significance": "Early mention of a key temple site by a foreign traveller."
+    },
+    {
+      "event": "Construction of Durgā temple at Aihole began.",
+      "date": "around 450 A.D.",
+      "significance": "An important early structural temple in the Karṇāṭaka region, showing adaptation of Buddhist chaitya details."
+    },
+    {
+      "event": "Building of the Virūpākṣa temple at Paṭṭadakallu.",
+      "date": "around 740 A.D.",
+      "significance": "A major temple likely modeled on the Rājasimha temple at Kāñcīpuram."
+    },
+    {
+      "event": "Construction of Paraśurāmeśvara temple at Bhuvaneśvar.",
+      "date": "around 750 A.D.",
+      "significance": "Illustrates the transition of the Nāgara idiom to the North, showing links to the Durgā temple at Aihole."
+    },
+    {
+      "event": "Rule of King Guṇaśīla.",
+      "date": "around 750 A.D.",
+      "significance": "Period of the Nāmakkaḷ cave-temples in Tamil Nadu."
+    },
+    {
+      "event": "Construction of Lād-Khān temple at Aihole.",
+      "date": "before 500 A.D.",
+      "significance": "An early structural stone-temple in Karṇāṭaka, preceding the cave-temples."
+    },
+    {
+      "event": "Construction of Pāpanātha temple at Paṭṭadakallu.",
+      "date": "before 690 A.D.",
+      "significance": "An early temple at the site showing North Indian features and disregard for canonical proportions."
+    },
+    {
+      "event": "Construction of temples at Khajurāho.",
+      "date": "between 950 and 1050 A.D.",
+      "significance": "Development of a variant Nāgara idiom in Central India with a focus on sculptural enthusiasm."
+    }
+  ],
+  "all_geographic_locations": [
+    {
+      "place": "Indus Valley",
+      "context": "Archaeological remains show evidence of domestic shrines but no public temples.",
+      "significance": "Supports the theory that domestic shrines predate public temples."
+    },
+    {
+      "place": "Bārhut, Bodhgayā, Sārnāth, Sānci",
+      "context": "Sites of major Buddhist stūpas built between the 1st and 3rd centuries B.C.",
+      "significance": "Prime examples of the architectural form of the stūpa finalized in Aśoka's time."
+    },
+    {
+      "place": "Junnār (near Poona)",
+      "context": "Site of 150 excavated caves from around 100 A.D.",
+      "significance": "Example of early, extensive rock-cut cave complexes."
+    },
+    {
+      "place": "Kṛṣṇagiri or Kanheri (near Bombay)",
+      "context": "Site of eight excavated caves from around 150-189 A.D.",
+      "significance": "Another example of early Western Indian rock-cut architecture."
+    },
+    {
+      "place": "Ajantā",
+      "context": "Site of about 27 excavated caves, mostly from the first few centuries after Christ.",
+      "significance": "World-famous for its rock-cut caves and murals."
+    },
+    {
+      "place": "Ellorā",
+      "context": "Site of about 33 excavated caves (c. 550-750 A.D.), including the Kailāsa temple.",
+      "significance": "A major site demonstrating the pinnacle of rock-cut architecture."
+    },
+    {
+      "place": "Mandagapattu (South Arcot)",
+      "context": "Location of an inscription of Mahendravarman I claiming to have built a rock-cut shrine.",
+      "significance": "Key evidence for the Pallava innovation in temple construction."
+    },
+    {
+      "place": "Banavāsi and Tālaguṇḍa (Karnataka)",
+      "context": "Sites of stone temples that were several centuries earlier than Mahendravarman I's rock-cut shrines.",
+      "significance": "Challenges the claim that Mahendravarman I was the first to conceive of stone temples."
+    },
+    {
+      "place": "Kāñcipuram, Pallāvaram, Vallam, Māmaṇḍūr, Tirukkaḻukkuṇram",
+      "context": "Locations of numerous temples ascribed to Mahendravarman I.",
+      "significance": "Shows the extent of temple-building activity under his patronage."
+    },
+    {
+      "place": "Māmallapuram (near Madras)",
+      "context": "Site of the world-famous monolithic 'Rathas' and the Shore Temple, built by Pallava kings.",
+      "significance": "A crucial site for the development of the Drāviḍa style of architecture."
+    },
+    {
+      "place": "Nāmakkaḷ (Salem district, Tamil Nāḍu)",
+      "context": "Site of two excavated cave-temples dedicated to Viṣṇu from around 750 A.D.",
+      "significance": "Shows Pallava-era influence in a different region."
+    },
+    {
+      "place": "Bādāmi (Karnataka)",
+      "context": "Site of four important Cāḷukya cave-temples from the 6th century.",
+      "significance": "A center for the Cāḷukyas where a fusion of stylistic details occurred."
+    },
+    {
+      "place": "Aihole (Bijāpur district)",
+      "context": "A 'temple-town' with over 70 temples, including early structural ones like Lād-Khān and Durgā temples.",
+      "significance": "Shows great antiquity of structural temples in the Karṇāṭaka region."
+    },
+    {
+      "place": "Guḍimallam (North Arcot district)",
+      "context": "Site of the Parasurāmeśvara temple (2nd century A.D.) with a very early Śiva icon.",
+      "significance": "One of the oldest monumental temple experiments in South India."
+    },
+    {
+      "place": "Chejerla (Āndhra Pradesh)",
+      "context": "Site of the Kapotīśvara shrine (4th century), originally a Buddhist sanctuary.",
+      "significance": "An important early structural temple whose apsidal form influenced later rock-cut shrines."
+    },
+    {
+      "place": "Paṭṭadakallu (Karṇāṭaka)",
+      "context": "An important Cāḷukya township with about ten ancient temples, including the famous Virūpākṣa temple.",
+      "significance": "A 'crucible' where different temple styles (Nāgara, Drāviḍa) were experimented with, marking a transition from rock-cut to structural forms."
+    },
+    {
+      "place": "Bhuvaneśvar (Orissa)",
+      "context": "Site of the Paraśurāmeśvara, Mukteśvara, and Liṅgarāja temples.",
+      "significance": "Shows the development of the Orissan style of Nāgara architecture over several centuries."
+    },
+    {
+      "place": "Khajurāho (Madhya Pradesh)",
+      "context": "Site of about twenty extant temples built between 950-1050 A.D.",
+      "significance": "Represents a variant idiom of Central Indian temple architecture, known for its sculptural richness."
+    },
+    {
+      "place": "Takṣa-śilā",
+      "context": "City where the Indo-Greek ambassador Heliodorus resided.",
+      "significance": "A center of Indo-Greek culture and influence."
+    },
+    {
+      "place": "Besnagar (Vidiśā)",
+      "context": "Location of the Heliodorus pillar.",
+      "significance": "Early site of a Bhāgavata cult temple."
+    },
+    {
+      "place": "Mathurā",
+      "context": "Near the site of Mora, where Rājūvala built a stone temple.",
+      "significance": "An important center of religious activity in ancient North India."
+    },
+    {
+      "place": "Ghosuṇḍi (near Chittor, Rājasthān)",
+      "context": "Location of a 2nd century B.C. inscription mentioning a temple enclosure.",
+      "significance": "Early evidence of temple structures in Western India."
+    },
+    {
+      "place": "Tirumala",
+      "context": "The icon here was originally free-standing according to early Āḻvār songs.",
+      "significance": "An example of an icon predating its temple structure."
+    },
+    {
+      "place": "Tāñjāvūr",
+      "context": "Location of the Bṛhadeśvara temple built by Rājarāja I.",
+      "significance": "A masterpiece of Coḷa architecture and the Drāviḍa style."
+    },
+    {
+      "place": "Gaṅgaikoṇḍa-colapuram",
+      "context": "Site of a major temple built by Rājendra-Coḷa.",
+      "significance": "Demonstrates the evolution of Coḷa architecture after the Tāñjāvūr temple."
+    },
+    {
+      "place": "Śrīraṅgam",
+      "context": "The Raṅganātha temple here has seven enclosing walls.",
+      "significance": "An extreme example of a massive temple complex encompassing a whole township."
+    },
+    {
+      "place": "South India",
+      "context": "Mentioned as a region where the hold of the 'āgamas' is perceived to be stronger in temples.",
+      "significance": "Contrast with North India to discuss the reach and uniformity of Āgamic influence."
+    },
+    {
+      "place": "North India",
+      "context": "Mentioned as a region where temples also follow 'āgamas', though they may be less numerous or widely known than in the South.",
+      "significance": "Used to argue that the differences in temple worship between North and South are more superficial than real."
+    },
+    {
+      "place": "Vārāṇasi",
+      "context": "Listed as an example of a celebrated temple in the North where 'āgamas' play a very significant role.",
+      "significance": "Evidence for the prevalence of Āgamic procedures beyond South India."
+    },
+    {
+      "place": "Dvārakā",
+      "context": "Listed as an example of a celebrated temple in the North where 'āgamas' play a very significant role.",
+      "significance": "Evidence for the prevalence of Āgamic procedures beyond South India."
+    },
+    {
+      "place": "Puri-Jagannāth",
+      "context": "Listed as an example of a celebrated temple in the North, and later as a temple whose history illustrates its importance in the evolution of the population's ethos.",
+      "significance": "A key site of Āgamic worship and an example of a temple's deep historical and cultural impact."
+    },
+    {
+      "place": "Kāmākhya",
+      "context": "Listed as an example of a celebrated temple in the North where 'āgamas' play a very significant role.",
+      "significance": "Evidence for the prevalence of Āgamic procedures beyond South India."
+    },
+    {
+      "place": "Badarī",
+      "context": "Listed as an example of a celebrated temple in the North where 'āgamas' play a very significant role.",
+      "significance": "Evidence for the prevalence of Āgamic procedures beyond South India."
+    },
+    {
+      "place": "Tirumalai",
+      "context": "Cited as a celebrated temple whose history shows the important role of temples in the evolution of a population's ethos.",
+      "significance": "An example of a major temple with deep historical and cultural influence."
+    },
+    {
+      "place": "Cidambaram",
+      "context": "Cited as a celebrated temple whose history shows the important role of temples in the evolution of a population's ethos.",
+      "significance": "An example of a major temple with deep historical and cultural influence."
+    },
+    {
+      "place": "Tāmraparṇi River",
+      "context": "Source of 'superior' conches.",
+      "significance": "Geographic origin is linked to the quality and sacredness of the ritual object."
+    },
+    {
+      "place": "Gangā River",
+      "context": "Source of 'ordinary' conches.",
+      "significance": "Geographic origin is linked to the quality and sacredness of the ritual object."
+    },
+    {
+      "place": "Narmadā River",
+      "context": "Source of 'inferior' conches.",
+      "significance": "Geographic origin is linked to the quality and sacredness of the ritual object."
+    },
+    {
+      "place": "Tirumalai hills in Andhra Pradesh",
+      "context": "Cited as an example of a temple where the daily worship in the sanctum remains strictly unaltered despite numerous festivals, which are conducted outside. Also mentioned for having a very large number of festivals (429 per year in the 17th century).",
+      "significance": "Illustrates the principle of separating daily worship from festival rituals and the potential scale of temple festivals."
+    },
+    {
+      "place": "South India",
+      "context": "Mentioned in the context of specific musical instruments used during temple festivals.",
+      "significance": "Indicates a regional focus for the specific cultural practices described."
+    },
+    {
+      "place": "India",
+      "context": "Mentioned as the place where the sixteen 'upacāras' (services to a guest) were usually given.",
+      "significance": "Provides the cultural context for the practice of treating the deity's icon as an honored guest."
+    }
+  ],
+  "complete_terminology_index": [
+    {
+      "term": "Ālaya",
+      "transliteration": "Ālaya",
+      "translation": "Temple, abode",
+      "context": "The title of the chapter, referring to the Indian temple."
+    },
+    {
+      "term": "parārtha",
+      "transliteration": "parārtha",
+      "translation": "for the sake of all",
+      "context": "Describes the purpose of worship in a public temple, performed by a priest for the community."
+    },
+    {
+      "term": "Kṛta, Tretā, Dvāpara, Kali",
+      "transliteration": "Kṛta, Tretā, Dvāpara, Kali",
+      "translation": "The four immense periods (yugas) of time in Indian thought.",
+      "context": "Used to explain the mythological origin of temples, which are said to have appeared only in the Kali age."
+    },
+    {
+      "term": "Āgama",
+      "transliteration": "Āgama",
+      "translation": "\"that which has come from a hoary past\"",
+      "context": "A generic expression for the doctrinal approach behind temple-building and worship; a body of traditional texts."
+    },
+    {
+      "term": "divya, muni-prokta, pauruṣa",
+      "transliteration": "divya, muni-prokta, pauruṣa",
+      "translation": "revelations, composition of sages, writings of ordinary men",
+      "context": "The three classes of works in the Āgama literary tradition."
+    },
+    {
+      "term": "niṣkala",
+      "transliteration": "niṣkala",
+      "translation": "the hidden and pervasive aspect (of Divinity)",
+      "context": "The abstract, formless aspect of God, likened to oil in seeds."
+    },
+    {
+      "term": "sakala",
+      "transliteration": "sakala",
+      "translation": "the manifest and specific aspect (of Divinity)",
+      "context": "The concrete, form-based aspect of God, realized through worship of icons."
+    },
+    {
+      "term": "an-taryāmin",
+      "transliteration": "antaryāmin",
+      "translation": "'inner-guide'",
+      "context": "Describes the niṣkala aspect of Divinity settled in the human heart."
+    },
+    {
+      "term": "arcā",
+      "transliteration": "arcā",
+      "translation": "worship of icons",
+      "context": "The primary subject of many Āgama texts."
+    },
+    {
+      "term": "homa, dhyāna, japa, jñāna",
+      "transliteration": "homa, dhyāna, japa, jñāna",
+      "translation": "fire-rituals, meditational exercises, recitations, intellectual appreciation",
+      "context": "Alternate or accessory approaches to worship discussed in Āgama texts."
+    },
+    {
+      "term": "Pāñcarātra",
+      "transliteration": "Pāñcarātra",
+      "translation": "A sect of Vaiṣṇavism",
+      "context": "Its texts are noted as being chronologically early and influential on other sects."
+    },
+    {
+      "term": "Vaikhānasa",
+      "transliteration": "Vaikhānasa",
+      "translation": "A division of Vaiṣṇavism",
+      "context": "Its sectarians rely on prescriptions from Pāñcarātra books."
+    },
+    {
+      "term": "stūpa",
+      "transliteration": "stūpa",
+      "translation": "a heap of grain or a mound of earth",
+      "context": "The earliest form of shrine on record, both as a precious monument and a funerary tumulus."
+    },
+    {
+      "term": "medhi",
+      "transliteration": "medhi",
+      "translation": "broad circular platform",
+      "context": "The base of a stūpa providing a path for circumambulation."
+    },
+    {
+      "term": "vedikā",
+      "transliteration": "vedikā",
+      "translation": "running railing",
+      "context": "The fence surrounding a stūpa."
+    },
+    {
+      "term": "harmikā",
+      "transliteration": "harmikā",
+      "translation": "quadrangular terrace",
+      "context": "The structure on top of the stūpa's dome."
+    },
+    {
+      "term": "catra",
+      "transliteration": "catra",
+      "translation": "parasol",
+      "context": "Placed over the harmikā, signifying spiritual sovereignty."
+    },
+    {
+      "term": "toraṇa",
+      "transliteration": "toraṇa",
+      "translation": "gateways",
+      "context": "Enclosed the stūpa area on four sides."
+    },
+    {
+      "term": "dhātu-garbha",
+      "transliteration": "dhātu-garbha",
+      "translation": "\"the womb of the relic\"",
+      "context": "The technical expression for the stūpa, highlighting its function of containing sacred relics."
+    },
+    {
+      "term": "śārika, pāribhogika, uddeśika",
+      "transliteration": "śārika, pāribhogika, uddeśika",
+      "translation": "physical remains, articles used, symbols of attainment",
+      "context": "The three types of relics that can be enshrined in a stūpa."
+    },
+    {
+      "term": "maṇḍala",
+      "transliteration": "maṇḍala",
+      "translation": "A mystic diagram",
+      "context": "The form of a circle within a square is concretized in the stūpa's layout."
+    },
+    {
+      "term": "aṇḍa",
+      "transliteration": "aṇḍa",
+      "translation": "'egg'",
+      "context": "Another name for the stūpa, as it contains the 'relic-seed'."
+    },
+    {
+      "term": "Vicitra-citta",
+      "transliteration": "Vicitra-citta",
+      "translation": "'one whose mind was ingenious'",
+      "context": "A title of the Pallava King Mahendravarman I."
+    },
+    {
+      "term": "Cheṭṭakāri",
+      "transliteration": "Cheṭṭakāri",
+      "translation": "'builder of temples'",
+      "context": "Another title of King Mahendravarman I."
+    },
+    {
+      "term": "Ratha",
+      "transliteration": "Ratha",
+      "translation": "vehicle, divine habitation",
+      "context": "The style of the monolithic shrines at Māmallapuram; etymologically means 'to play and enjoy'."
+    },
+    {
+      "term": "rathakāra",
+      "transliteration": "rathakāra",
+      "translation": "\"the builders of temples\"",
+      "context": "An ancient caste nomenclature for temple builders, not makers of chariots."
+    },
+    {
+      "term": "liṅga",
+      "transliteration": "liṅga",
+      "translation": "An aniconic symbol of Śiva",
+      "context": "Installed in the sanctum of the Dharmarāja-ratha."
+    },
+    {
+      "term": "vimāna",
+      "transliteration": "vimāna",
+      "translation": "The tower over the sanctum",
+      "context": "The pyramidal tower of the Dharmarāja-ratha provided the model for the Drāviḍa style."
+    },
+    {
+      "term": "maṇḍapa",
+      "transliteration": "maṇḍapa",
+      "translation": "pillared assembly halls",
+      "context": "The rock-cut halls at Māmallapuram, distinct from the shrines."
+    },
+    {
+      "term": "chaitya",
+      "transliteration": "chaitya",
+      "translation": "A Buddhist shrine or prayer hall",
+      "context": "The Durgā temple at Aihole is seen as an adaptation of Buddhist chaitya details."
+    },
+    {
+      "term": "śikhara",
+      "transliteration": "śikhara",
+      "translation": "monumental spire",
+      "context": "The characteristic feature of the Indian temple that evolved in the Gupta period."
+    },
+    {
+      "term": "stūpi",
+      "transliteration": "stūpi",
+      "translation": "ornamental pinnacle",
+      "context": "Surmounts the śikhara, showing a linguistic and conceptual link to the stūpa."
+    },
+    {
+      "term": "gajapṛṣṭha",
+      "transliteration": "gajapṛṣṭha",
+      "translation": "'back-of-the-elephant'",
+      "context": "The shape of the oblong Buddhist chaitya-hall, after which the Chejerla shrine is modelled."
+    },
+    {
+      "term": "sūtradhāri",
+      "transliteration": "sūtradhāri",
+      "translation": "architect/craftsmaster",
+      "context": "The title of Anivārita-guṇḍa, the architect of the Paṭṭadakallu temple."
+    },
+    {
+      "term": "ardha-maṇḍapa",
+      "transliteration": "ardha-maṇḍapa",
+      "translation": "half-pavilion",
+      "context": "A hall structurally removed from the main shrine in the Pāpanātha temple."
+    },
+    {
+      "term": "Nāgara, Drāviḍa, Vesara",
+      "transliteration": "Nāgara, Drāviḍa, Vesara",
+      "translation": "The three classical styles of Indian temples.",
+      "context": "The classification originated, perhaps, in the experimental phase of the Cāḷukyas."
+    },
+    {
+      "term": "adhiṣṭhāna",
+      "transliteration": "adhiṣṭhāna",
+      "translation": "plinth of the temple",
+      "context": "Some texts relate the Nāgara/Drāviḍa/Vesara classification to the shape of the plinth."
+    },
+    {
+      "term": "gopura",
+      "transliteration": "gopura",
+      "translation": "storeyed towers on gateways",
+      "context": "A later innovation and a distinguishing feature of the Drāviḍa style."
+    },
+    {
+      "term": "āmalaka",
+      "transliteration": "āmalaka",
+      "translation": "A ribbed, wheel-shaped capstone",
+      "context": "A characteristic motif of the Nāgara style śikhara."
+    },
+    {
+      "term": "prāsāda",
+      "transliteration": "prāsāda",
+      "translation": "temple, palace",
+      "context": "Used in an early inscription to refer to 'an excellent temple'."
+    },
+    {
+      "term": "kṣetra",
+      "transliteration": "kṣetra",
+      "translation": "'sacred sites'",
+      "context": "Places of Puranic prestige where vast temple-complexes evolved."
+    },
+    {
+      "term": "sthāpati, sūtragrāhin, takṣaka, vardhaki",
+      "transliteration": "sthāpati, sūtragrāhin, takṣaka, vardhaki",
+      "translation": "designing architect, surveyor, sculptor, builder",
+      "context": "The four classes of skilled workers in a craft-guild for temple building."
+    },
+    {
+      "term": "garbha-gṛha",
+      "transliteration": "garbha-gṛha",
+      "translation": "'the womb-house'",
+      "context": "The technical term for the sanctum sanctorum of the temple."
+    },
+    {
+      "term": "bali-pīṭha",
+      "transliteration": "bali-pīṭha",
+      "translation": "'the dispensing seat'",
+      "context": "The altar in front of the sanctum for offerings to attendant deities; one of the four essential parts of a shrine."
+    },
+    {
+      "term": "aśvattha",
+      "transliteration": "aśvattha",
+      "translation": "The 'inverted tree'",
+      "context": "A central Upanishadic symbol for the cosmos, which the temple's structure represents."
+    },
+    {
+      "term": "garbha-nyāsa",
+      "transliteration": "garbha-nyāsa",
+      "translation": "'depositing womb'",
+      "context": "The ritual of 'impregnation' performed before the sanctum is constructed."
+    },
+    {
+      "term": "brahma-randhra-śilā",
+      "transliteration": "brahma-randhra-śilā",
+      "translation": "'the stone denoting the upper passage of life'",
+      "context": "The square stone slab that forms the roof of the sanctum and the base of the tower."
+    },
+    {
+      "term": "kalaśa",
+      "transliteration": "kalaśa",
+      "translation": "'vase'",
+      "context": "The finial that rests atop the vimāna, symbolizing the roots of the inverted tree."
+    },
+    {
+      "term": "suvarṇa-puruṣa",
+      "transliteration": "suvarṇa-puruṣa",
+      "translation": "'the golden person'",
+      "context": "A hidden component within the kalaśa, regarded as the very soul of the temple."
+    },
+    {
+      "term": "suṣumṇā-nāḍi",
+      "transliteration": "suṣumṇā-nāḍi",
+      "translation": "The main subtle energy channel in the human constitution.",
+      "context": "The hollow tube in the vase (kalaśa) is an external projection of this channel."
+    },
+    {
+      "term": "sahasrāra",
+      "transliteration": "sahasrāra",
+      "translation": "'thousand-petalled lotus'",
+      "context": "The psychic center above the head where man's 'roots' are hidden."
+    },
+    {
+      "term": "dhvaja-stambha",
+      "transliteration": "dhvaja-stambha",
+      "translation": "flag-staff",
+      "context": "A tall column often seen close to the bali-pīṭha in South Indian temples, symbolizing a call to rise higher."
+    },
+    {
+      "term": "अर्चकस्य तपोयोगात्",
+      "transliteration": "arcakasya tapoyogāt",
+      "translation": "from the priest's austerity and spiritual practice",
+      "context": "The first factor for divinity in a shrine."
+    },
+    {
+      "term": "अर्चनस्यातिशायनात्",
+      "transliteration": "arcanasyātiśāyanāt",
+      "translation": "from the excellence of the worship",
+      "context": "The second factor for divinity in a shrine."
+    },
+    {
+      "term": "आभिरूप्याच्च बिम्बानां",
+      "transliteration": "ābhirūpyācca bimbānāṁ",
+      "translation": "and from the beauty of the icons",
+      "context": "The third factor for divinity in a shrine."
+    },
+    {
+      "term": "सान्निध्यमृच्छति",
+      "transliteration": "sānnidhyamṛcchati",
+      "translation": "(the deity) attains presence",
+      "context": "The result of the three factors of worship."
+    },
+    {
+      "term": "शास्त्रमानेन यो रम्यः स रम्यो नाऽन्य एव हि",
+      "transliteration": "śāstramānena yo ramyaḥ sa ramyo nā'nya eva hi",
+      "translation": "He who is beautiful according to the measure of the scripture is beautiful, and no other",
+      "context": "From Mānasāra, defining beauty by fidelity to scriptural canons."
+    },
+    {
+      "term": "vigraha",
+      "transliteration": "vigraha",
+      "translation": "icon, embodiment; explained as 'especially treated' (viśeṣeṇa gṛhyate iti)",
+      "context": "A term for the deity's icon in a temple."
+    },
+    {
+      "term": "pratimā",
+      "transliteration": "pratimā",
+      "translation": "symbol, icon",
+      "context": "Another term for the deity's icon, emphasizing its symbolic nature."
+    },
+    {
+      "term": "nityārcanā",
+      "transliteration": "nityārcanā",
+      "translation": "daily worship",
+      "context": "The regular, obligatory worship conducted in a temple."
+    },
+    {
+      "term": "ātmārtha",
+      "transliteration": "ātmārtha",
+      "translation": "for one's own sake",
+      "context": "Describes private, household worship."
+    },
+    {
+      "term": "parārtha",
+      "transliteration": "parārtha",
+      "translation": "for the sake of others",
+      "context": "Describes public worship performed in a temple."
+    },
+    {
+      "term": "kṣaṇika",
+      "transliteration": "kṣaṇika",
+      "translation": "temporary, momentary",
+      "context": "Refers to temporary images made for worship from materials like butter, flour, etc."
+    },
+    {
+      "term": "kāyika",
+      "transliteration": "kāyika",
+      "translation": "bodily",
+      "context": "One of the three forms of worship (bodily, verbal, mental)."
+    },
+    {
+      "term": "vācika",
+      "transliteration": "vācika",
+      "translation": "verbal",
+      "context": "One of the three forms of worship."
+    },
+    {
+      "term": "mānasa",
+      "transliteration": "mānasa",
+      "translation": "mental",
+      "context": "One of the three forms of worship, considered best in the Kṛta-yuga."
+    },
+    {
+      "term": "amūrta",
+      "transliteration": "amūrta",
+      "translation": "formless",
+      "context": "Worship without an icon, such as a fire sacrifice."
+    },
+    {
+      "term": "samūrta",
+      "transliteration": "samūrta",
+      "translation": "with form",
+      "context": "Worship with an icon."
+    },
+    {
+      "term": "vimānārcanā",
+      "transliteration": "vimānārcanā",
+      "translation": "worship in a temple/shrine (vimāna)",
+      "context": "A term for temple worship from Kāśyapiya-jñāna-kāṇḍa."
+    },
+    {
+      "term": "śuddha",
+      "transliteration": "śuddha",
+      "translation": "pure",
+      "context": "A type of worship concluding with fire-oblations (havis)."
+    },
+    {
+      "term": "miśra",
+      "transliteration": "miśra",
+      "translation": "mixed",
+      "context": "A type of worship that includes daily festivals (nityotsava)."
+    },
+    {
+      "term": "saṅkīrṇa",
+      "transliteration": "saṅkīrṇa",
+      "translation": "complex, elaborate",
+      "context": "A type of worship that extends to dance (śuddha-nṛtta)."
+    },
+    {
+      "term": "rathotsava",
+      "transliteration": "rathotsava",
+      "translation": "chariot/car festival",
+      "context": "The most important temple festival, emphasizing its public character."
+    },
+    {
+      "term": "dīkṣā",
+      "transliteration": "dīkṣā",
+      "translation": "initiation",
+      "context": "Special initiations that temple priests undergo."
+    },
+    {
+      "term": "sālamba",
+      "transliteration": "sālamba",
+      "translation": "with support/props",
+      "context": "Worship with external props, i.e., iconic worship."
+    },
+    {
+      "term": "nirālamba",
+      "transliteration": "nirālamba",
+      "translation": "without support",
+      "context": "Worship without external props, i.e., formless meditation."
+    },
+    {
+      "term": "prāsāda",
+      "transliteration": "prāsāda",
+      "translation": "palace",
+      "context": "An old Sanskrit expression for a temple, highlighting the concept of God as king."
+    },
+    {
+      "term": "karmārcā",
+      "transliteration": "karmārcā",
+      "translation": "rituals",
+      "context": "The private, religious ceremonies performed by priests to preserve the spiritual power of the image."
+    },
+    {
+      "term": "utsava",
+      "transliteration": "utsava",
+      "translation": "festivals",
+      "context": "The public, social events meant to attract devotees."
+    },
+    {
+      "term": "āgama",
+      "transliteration": "āgama",
+      "translation": "sacred texts/manuals",
+      "context": "Texts containing detailed prescriptions for temple rituals, a major qualification for a priest."
+    },
+    {
+      "term": "paricāraka",
+      "transliteration": "paricāraka",
+      "translation": "attenders/assistants",
+      "context": "Temple assistants who may help with preparatory, non-ritual tasks."
+    },
+    {
+      "term": "pushkariṇī",
+      "transliteration": "pushkariṇī",
+      "translation": "temple pond",
+      "context": "A natural lake or artificial pond near a temple providing water for services."
+    },
+    {
+      "term": "jala-keli",
+      "transliteration": "jala-keli",
+      "translation": "water festival",
+      "context": "A festival facilitated by the presence of a temple pond."
+    },
+    {
+      "term": "nir-āṭṭam",
+      "transliteration": "nir-āṭṭam",
+      "translation": "(Tamil) a water festival",
+      "context": "Tamil term for 'jala-keli' or 'teppotsava'."
+    },
+    {
+      "term": "teppotsava",
+      "transliteration": "teppotsava",
+      "translation": "float festival",
+      "context": "Another term for a water festival."
+    },
+    {
+      "term": "pādya",
+      "transliteration": "pādya",
+      "translation": "water for feet",
+      "context": "Water offered to the image for washing the feet."
+    },
+    {
+      "term": "ācamana",
+      "transliteration": "ācamana",
+      "translation": "water for sipping",
+      "context": "Water offered for sipping or rinsing the mouth."
+    },
+    {
+      "term": "arghya",
+      "transliteration": "arghya",
+      "translation": "water for oblation",
+      "context": "Water offered as an oblation."
+    },
+    {
+      "term": "snāna",
+      "transliteration": "snāna",
+      "translation": "bathing",
+      "context": "Water for bathing the image."
+    },
+    {
+      "term": "uṣīra",
+      "transliteration": "uṣīra",
+      "translation": "khus khus",
+      "context": "Ingredient for pādya water."
+    },
+    {
+      "term": "candana",
+      "transliteration": "candana",
+      "translation": "sandal-wood paste",
+      "context": "Ingredient for pādya water and incense."
+    },
+    {
+      "term": "dūrvā",
+      "transliteration": "dūrvā",
+      "translation": "a type of grass",
+      "context": "Ingredient for pādya water; also used as a sacred leaf in worship."
+    },
+    {
+      "term": "siddha",
+      "transliteration": "siddha",
+      "translation": "white-mustard",
+      "context": "Ingredient for pādya water."
+    },
+    {
+      "term": "elā",
+      "transliteration": "elā",
+      "translation": "cardamom",
+      "context": "Ingredient for ācamana water."
+    },
+    {
+      "term": "lavaṅga",
+      "transliteration": "lavaṅga",
+      "translation": "cloves",
+      "context": "Ingredient for ācamana water."
+    },
+    {
+      "term": "kar-pūra",
+      "transliteration": "kar-pūra",
+      "translation": "camphor",
+      "context": "Ingredient for ācamana water; also used for ārati."
+    },
+    {
+      "term": "jambu",
+      "transliteration": "jambu",
+      "translation": "a type of fruit",
+      "context": "Ingredient for ācamana water."
+    },
+    {
+      "term": "jāti",
+      "transliteration": "jāti",
+      "translation": "jasmine",
+      "context": "Ingredient for ācamana water; also a 'sāttvika' flower."
+    },
+    {
+      "term": "priyangu",
+      "transliteration": "priyangu",
+      "translation": "a type of fruit",
+      "context": "Ingredient for ācamana water."
+    },
+    {
+      "term": "tila",
+      "transliteration": "tila",
+      "translation": "gingelly/sesame",
+      "context": "Ingredient for arghya water."
+    },
+    {
+      "term": "vrīhi",
+      "transliteration": "vrīhi",
+      "translation": "rice",
+      "context": "Ingredient for arghya water."
+    },
+    {
+      "term": "kuśa",
+      "transliteration": "kuśa",
+      "translation": "a sacred grass",
+      "context": "Ingredient for arghya water."
+    },
+    {
+      "term": "taṇḍula",
+      "transliteration": "taṇḍula",
+      "translation": "winnowed grains",
+      "context": "Ingredient for arghya water."
+    },
+    {
+      "term": "sarśapa",
+      "transliteration": "sarśapa",
+      "translation": "mustard",
+      "context": "Ingredient for arghya water."
+    },
+    {
+      "term": "kaṣāya",
+      "transliteration": "kaṣāya",
+      "translation": "herbal decoction",
+      "context": "Used for ceremonial bath, made from barks of seven trees."
+    },
+    {
+      "term": "nālikera",
+      "transliteration": "nālikera",
+      "translation": "tender coconut",
+      "context": "Water from it is used for bathing the image."
+    },
+    {
+      "term": "pāñcāmṛta",
+      "transliteration": "pāñcāmṛta",
+      "translation": "five nectars",
+      "context": "A mixture of fruits, milk, curds, ghee, honey, and sugar used for bathing the image on festive occasions."
+    },
+    {
+      "term": "pañcagavya",
+      "transliteration": "pañcagavya",
+      "translation": "five products of the cow",
+      "context": "A mixture of ghee, curds, milk, cow's urine, and cow dung for purificatory baths."
+    },
+    {
+      "term": "ghṛta",
+      "transliteration": "ghṛta",
+      "translation": "clarified butter (ghee)",
+      "context": "An ingredient of pañcagavya."
+    },
+    {
+      "term": "dadhi",
+      "transliteration": "dadhi",
+      "translation": "curds",
+      "context": "An ingredient of pañcagavya."
+    },
+    {
+      "term": "kṣīra",
+      "transliteration": "kṣīra",
+      "translation": "milk",
+      "context": "An ingredient of pañcagavya."
+    },
+    {
+      "term": "go-mūtra",
+      "transliteration": "go-mūtra",
+      "translation": "cow's urine",
+      "context": "An ingredient of pañcagavya."
+    },
+    {
+      "term": "go-maya",
+      "transliteration": "go-maya",
+      "translation": "cow's refuse/dung",
+      "context": "An ingredient of pañcagavya."
+    },
+    {
+      "term": "ācamanīya",
+      "transliteration": "ācamanīya",
+      "translation": "for sipping",
+      "context": "Adjective for water for sipping, placed on the Northwest."
+    },
+    {
+      "term": "snānīya",
+      "transliteration": "snānīya",
+      "translation": "for bathing",
+      "context": "Adjective for water for bathing, placed on the North-East."
+    },
+    {
+      "term": "sarvārtha-toya",
+      "transliteration": "sarvārtha-toya",
+      "translation": "water for all purposes",
+      "context": "Vessel with water for general purposes, kept in the centre."
+    },
+    {
+      "term": "dārvāsana",
+      "transliteration": "dārvāsana",
+      "translation": "wooden plank seat",
+      "context": "Considered the best seat for a priest during worship."
+    },
+    {
+      "term": "rucirāsana",
+      "transliteration": "rucirāsana",
+      "translation": "pleasing posture",
+      "context": "The best posture for a worshipper, described as squatting and focusing on the nose tip."
+    },
+    {
+      "term": "sarva-pūjā-hita",
+      "transliteration": "sarva-pūjā-hita",
+      "translation": "beneficial in all worship",
+      "context": "Description of the rucirāsana posture."
+    },
+    {
+      "term": "śaṃkha",
+      "transliteration": "śaṃkha",
+      "translation": "conch",
+      "context": "An essential article for worship."
+    },
+    {
+      "term": "ghaṇṭā",
+      "transliteration": "ghaṇṭā",
+      "translation": "bell",
+      "context": "An essential article for worship."
+    },
+    {
+      "term": "ārati",
+      "transliteration": "ārati",
+      "translation": "waving of lights",
+      "context": "A ritual of waving lights before the image."
+    },
+    {
+      "term": "āratrikā",
+      "transliteration": "āratrikā",
+      "translation": "waving of lights",
+      "context": "Another term for ārati."
+    },
+    {
+      "term": "Pāñca-janya",
+      "transliteration": "Pāñca-janya",
+      "translation": "born of five",
+      "context": "The name of Viṣṇu's divine conch."
+    },
+    {
+      "term": "vāmāvarta",
+      "transliteration": "vāmāvarta",
+      "translation": "left-inclining",
+      "context": "A type of conch."
+    },
+    {
+      "term": "dakṣiṇārvarta",
+      "transliteration": "dakṣiṇārvarta",
+      "translation": "right-inclining",
+      "context": "A very valuable and sacred type of conch."
+    },
+    {
+      "term": "prāṇa-śakti",
+      "transliteration": "prāṇa-śakti",
+      "translation": "vital principle/life force",
+      "context": "Symbolized by the handle of the ritual bell."
+    },
+    {
+      "term": "Cakra",
+      "transliteration": "Cakra",
+      "translation": "discus",
+      "context": "One of the forms on the handle of a ritual bell."
+    },
+    {
+      "term": "dīpa",
+      "transliteration": "dīpa",
+      "translation": "lamp/light",
+      "context": "A ritual of waving light; also a term for incense and light offering together ('dhūpa-dīpa')."
+    },
+    {
+      "term": "nirājana",
+      "transliteration": "nirājana",
+      "translation": "waving of lights",
+      "context": "Another term for ārati."
+    },
+    {
+      "term": "naivedya",
+      "transliteration": "naivedya",
+      "translation": "food offering",
+      "context": "The offering of food to the deity."
+    },
+    {
+      "term": "Skanda-purāṇa",
+      "transliteration": "Skanda-purāṇa",
+      "translation": "The Skanda Purana (a text)",
+      "context": "Cited as saying that waving lights makes good any deficiency in worship."
+    },
+    {
+      "term": "jaya-ghaṇṭā",
+      "transliteration": "jaya-ghaṇṭā",
+      "translation": "victory bell",
+      "context": "A flat metallic instrument beaten during ārati."
+    },
+    {
+      "term": "kumbha",
+      "transliteration": "kumbha",
+      "translation": "water-pot",
+      "context": "A shape for an ārati implement."
+    },
+    {
+      "term": "kūrma",
+      "transliteration": "kūrma",
+      "translation": "tortoise",
+      "context": "A shape for an ārati implement."
+    },
+    {
+      "term": "nāga",
+      "transliteration": "nāga",
+      "translation": "serpent",
+      "context": "A shape for an ārati implement."
+    },
+    {
+      "term": "gopura",
+      "transliteration": "gopura",
+      "translation": "temple tower",
+      "context": "A shape for an ārati implement."
+    },
+    {
+      "term": "ārāma",
+      "transliteration": "ārāma",
+      "translation": "garden",
+      "context": "Flowers grown here are considered the best for worship."
+    },
+    {
+      "term": "vana",
+      "transliteration": "vana",
+      "translation": "forest",
+      "context": "Flowers from a forest rank second best for worship."
+    },
+    {
+      "term": "vikrīta",
+      "transliteration": "vikrīta",
+      "translation": "bought",
+      "context": "Bought flowers are regarded as inferior."
+    },
+    {
+      "term": "sāttvika",
+      "transliteration": "sāttvika",
+      "translation": "pure/superior",
+      "context": "The highest category of flowers for worship."
+    },
+    {
+      "term": "rājasa",
+      "transliteration": "rājasa",
+      "translation": "passionate/middling",
+      "context": "The middle category of flowers for worship."
+    },
+    {
+      "term": "tāmasa",
+      "transliteration": "tāmasa",
+      "translation": "dark/inferior",
+      "context": "The lowest category of flowers, not for daily use."
+    },
+    {
+      "term": "varjjita",
+      "transliteration": "varjjita",
+      "translation": "forbidden/to be avoided",
+      "context": "Describing the tāmasa variety of flowers."
+    },
+    {
+      "term": "tulasi",
+      "transliteration": "tulasi",
+      "translation": "basil",
+      "context": "A sacred leaf used in worship."
+    },
+    {
+      "term": "bilva",
+      "transliteration": "bilva",
+      "translation": "bel",
+      "context": "A sacred leaf used in worship."
+    },
+    {
+      "term": "pūjābhāga",
+      "transliteration": "pūjābhāga",
+      "translation": "part for worship",
+      "context": "One part of the decorated image that must be left clear for worship."
+    },
+    {
+      "term": "puṣpanyāsa",
+      "transliteration": "puṣpanyāsa",
+      "translation": "placing of flowers",
+      "context": "The ritual of placing unstrewn flowers at the feet of the deity."
+    },
+    {
+      "term": "guggula",
+      "transliteration": "guggula",
+      "translation": "exudation of Amyris Agal-locum",
+      "context": "An ingredient for incense."
+    },
+    {
+      "term": "agaru",
+      "transliteration": "agaru",
+      "translation": "Agallocum",
+      "context": "An ingredient for the best quality incense."
+    },
+    {
+      "term": "dhūpa-dīpa",
+      "transliteration": "dhūpa-dīpa",
+      "translation": "incense and light",
+      "context": "The combined offerings of incense and light."
+    },
+    {
+      "term": "āsana",
+      "transliteration": "āsana",
+      "translation": "seat",
+      "context": "Different kinds of seats for the image during ritual sequences."
+    },
+    {
+      "term": "pañcāsana",
+      "transliteration": "pañcāsana",
+      "translation": "five seats",
+      "context": "The pentad of seats used for the deity in worship."
+    },
+    {
+      "term": "tāmbūla",
+      "transliteration": "tāmbūla",
+      "translation": "betel leaf preparation",
+      "context": "Offered after food, consisting of betel leaves, areca-nut, and spices."
+    },
+    {
+      "term": "havis",
+      "transliteration": "havis",
+      "translation": "fire oblations",
+      "context": "Offered in temples where Vedic influence prevails."
+    },
+    {
+      "term": "homa",
+      "transliteration": "homa",
+      "translation": "fire ritual",
+      "context": "A ritual involving fire oblations."
+    },
+    {
+      "term": "bali-pīṭha",
+      "transliteration": "bali-pīṭha",
+      "translation": "altar for offerings",
+      "context": "Altar where portions of food are laid for attendant-divinities."
+    },
+    {
+      "term": "parivāra-devatā",
+      "transliteration": "parivāra-devatā",
+      "translation": "attendant-divinities",
+      "context": "Deities surrounding the main deity who receive food offerings."
+    },
+    {
+      "term": "dvāra-pāla",
+      "transliteration": "dvāra-pāla",
+      "translation": "door-keepers",
+      "context": "Guardians of the sanctum who receive food offerings."
+    },
+    {
+      "term": "beli-bera",
+      "transliteration": "beli-bera",
+      "translation": "bali-icon",
+      "context": "A representative icon of the main image used in processions for food offerings."
+    },
+    {
+      "term": "nāgasvaram",
+      "transliteration": "nāgasvaram",
+      "translation": "a wind instrument",
+      "context": "Music that accompanies the bali procession."
+    },
+    {
+      "term": "pūjā",
+      "transliteration": "pūjā",
+      "translation": "worship",
+      "context": "The central theme of the chapter, defined as fulfillment of rituals and obtainment of divine knowledge."
+    },
+    {
+      "term": "upacāra",
+      "transliteration": "upacāra",
+      "translation": "service, ritual act",
+      "context": "The individual rituals or services that constitute pūjā."
+    },
+    {
+      "term": "ṣoḍaśopacāra pūjā",
+      "transliteration": "shoḍaśopacāra pūjā",
+      "translation": "worship with sixteen services",
+      "context": "The popular and standard form of elaborate worship."
+    },
+    {
+      "term": "pañcopacāra",
+      "transliteration": "pañcopacāra",
+      "translation": "five services",
+      "context": "A brief form of worship with five main steps."
+    },
+    {
+      "term": "āsana",
+      "transliteration": "āsana",
+      "translation": "seating",
+      "context": "The first upacāra, offering a seat to the deity."
+    },
+    {
+      "term": "svāgata",
+      "transliteration": "svāgata",
+      "translation": "welcoming",
+      "context": "The second upacāra, formally welcoming the deity."
+    },
+    {
+      "term": "arghya",
+      "transliteration": "arghya",
+      "translation": "water for hands",
+      "context": "An upacāra of offering water to wash the hands."
+    },
+    {
+      "term": "ācamana",
+      "transliteration": "ācamana",
+      "translation": "water to sip",
+      "context": "An upacāra of offering water to sip and rinse the mouth; also a purificatory act for the priest."
+    },
+    {
+      "term": "snāna",
+      "transliteration": "snāna",
+      "translation": "bath",
+      "context": "A central upacāra, the ritual bathing of the icon, also known as abhiṣeka."
+    },
+    {
+      "term": "naivedya",
+      "transliteration": "naivedya",
+      "translation": "food offering",
+      "context": "An upacāra of offering specially prepared food to the deity."
+    },
+    {
+      "term": "visarjana",
+      "transliteration": "visarjana",
+      "translation": "send-off, dismissing",
+      "context": "The final upacāra, formally bidding farewell to the deity."
+    },
+    {
+      "term": "āvahana",
+      "transliteration": "āvahana",
+      "translation": "inviting",
+      "context": "The first step in pañcopacāra, inviting the deity to be present."
+    },
+    {
+      "term": "sthāpanā",
+      "transliteration": "sthāpanā",
+      "translation": "seating, establishing",
+      "context": "The second step, seating the deity or invoking life-force."
+    },
+    {
+      "term": "sannidhīkaraṇa",
+      "transliteration": "sannidhīkaraṇa",
+      "translation": "establishing communion",
+      "context": "The third step, ensuring the deity's presence is established for worship."
+    },
+    {
+      "term": "pādya",
+      "transliteration": "pādya",
+      "translation": "water for feet",
+      "context": "An upacāra of offering water to wash the deity's feet."
+    },
+    {
+      "term": "prāṇāyāma",
+      "transliteration": "prāṇāyāma",
+      "translation": "breath regulation",
+      "context": "A preparatory ritual for the priest involving control of the breathing process."
+    },
+    {
+      "term": "prabodhana",
+      "transliteration": "prabodhana",
+      "translation": "waking up",
+      "context": "The ritual of formally waking the deity at the start of the day."
+    },
+    {
+      "term": "tri-kāla pūjā",
+      "transliteration": "tri-kāla pūjā",
+      "translation": "three-time worship",
+      "context": "The minimum number of worships conducted daily (morning, noon, evening)."
+    },
+    {
+      "term": "śaṭ-kāla pūjā",
+      "transliteration": "śaṭ-kāla pūjā",
+      "translation": "six-time worship",
+      "context": "The most beneficial frequency of worship, performed six times a day."
+    },
+    {
+      "term": "prāṇa-pratiṣṭhā",
+      "transliteration": "prāṇa-pratiṣṭhā",
+      "translation": "infusion of life-force",
+      "context": "The ritual of investing an icon with the divine life-force."
+    },
+    {
+      "term": "dhruva-bera",
+      "transliteration": "dhruva-bera",
+      "translation": "immovable image",
+      "context": "The main, permanently installed stone icon in a temple sanctum."
+    },
+    {
+      "term": "cala-bera",
+      "transliteration": "cala-bera",
+      "translation": "movable image",
+      "context": "The smaller, metallic icon used for daily rituals and processions."
+    },
+    {
+      "term": "abhiṣeka",
+      "transliteration": "abhiṣeka",
+      "translation": "ritual bath",
+      "context": "Synonym for snāna, the anointing or bathing of the icon."
+    },
+    {
+      "term": "pañcāmṛta-snāna",
+      "transliteration": "pañcāmṛta-snāna",
+      "translation": "bath with five nectars",
+      "context": "A special ritual bath using milk, curds, ghee, honey, and sugar."
+    },
+    {
+      "term": "nīrājana",
+      "transliteration": "nīrājana",
+      "translation": "waving of lights",
+      "context": "The final waving of camphor or oil lamps before the deity, also known as āratī."
+    },
+    {
+      "term": "utsava",
+      "transliteration": "utsava",
+      "translation": "festival",
+      "context": "The main subject of the chapter."
+    },
+    {
+      "term": "sū",
+      "transliteration": "sū",
+      "translation": "generating, producing",
+      "context": "The Sanskrit root of 'utsava'."
+    },
+    {
+      "term": "ut",
+      "transliteration": "ut",
+      "translation": "up, rising, excitement",
+      "context": "The prefix in 'utsava'. Also interpreted as 'wisdom', 'excellent', 'obstacles', or 'act of tiding across'."
+    },
+    {
+      "term": "kṣaṇa",
+      "transliteration": "kṣaṇa",
+      "translation": "great moment",
+      "context": "A synonym for 'utsava' given in Amara-kośa."
+    },
+    {
+      "term": "uddharśa",
+      "transliteration": "uddharśa",
+      "translation": "excitement",
+      "context": "A synonym for 'utsava' given in Amara-kośa."
+    },
+    {
+      "term": "mahah",
+      "transliteration": "mahah",
+      "translation": "auspicious occasion",
+      "context": "A synonym for 'utsava' given in Amara-kośa."
+    },
+    {
+      "term": "un-nati",
+      "transliteration": "un-nati",
+      "translation": "up-lifting",
+      "context": "An alternative meaning of 'utsava'."
+    },
+    {
+      "term": "abhyudaya",
+      "transliteration": "abhyudaya",
+      "translation": "prosperity",
+      "context": "An alternative meaning of 'utsava'."
+    },
+    {
+      "term": "jñānam",
+      "transliteration": "jñānam",
+      "translation": "wisdom",
+      "context": "Interpretation of 'ut' in Uttara-kāraṇāgama."
+    },
+    {
+      "term": "sava",
+      "transliteration": "sava",
+      "translation": "what causes all benefit; sacrifice; throwing out; misery/misfortune",
+      "context": "The second part of 'utsava', with multiple interpretations from different texts."
+    },
+    {
+      "term": "utkṛṣṭa-vacanam",
+      "transliteration": "utkṛṣṭa-vacanam",
+      "translation": "what is excellent",
+      "context": "Interpretation of 'ut' in Puruṣottama-samhitā."
+    },
+    {
+      "term": "yajña",
+      "transliteration": "yajña",
+      "translation": "sacrifice",
+      "context": "Interpretation of 'sava' in Puruṣottama-samhitā."
+    },
+    {
+      "term": "vighnah",
+      "transliteration": "vighnah",
+      "translation": "obstacles, impediments",
+      "context": "Interpretation of 'ut' in Nāradīya-samhitā and Iśvara-samhitā."
+    },
+    {
+      "term": "udgatāh",
+      "transliteration": "udgatāh",
+      "translation": "throwing out",
+      "context": "Interpretation of 'sava' in Nāradīya-samhitā and Iśvara-samhitā."
+    },
+    {
+      "term": "amaṅgala",
+      "transliteration": "amaṅgala",
+      "translation": "misery, misfortune",
+      "context": "Interpretation of 'sava' in Aniruddha-samhitā and Pādma-samhitā."
+    },
+    {
+      "term": "nitya",
+      "transliteration": "nitya",
+      "translation": "routine, recurring, necessary",
+      "context": "A class of annual festivals."
+    },
+    {
+      "term": "naimittika",
+      "transliteration": "naimittika",
+      "translation": "occasional",
+      "context": "A class of festivals conducted for pacification."
+    },
+    {
+      "term": "kāmya",
+      "transliteration": "kāmya",
+      "translation": "to accomplish the cherished goals",
+      "context": "A class of festivals conducted by desire."
+    },
+    {
+      "term": "sāttvika",
+      "transliteration": "sāttvika",
+      "translation": "pure, done as a duty",
+      "context": "A quality attributed to certain types of festivals."
+    },
+    {
+      "term": "rājasa",
+      "transliteration": "rājasa",
+      "translation": "passionate, activity-oriented",
+      "context": "A quality attributed to certain types of festivals."
+    },
+    {
+      "term": "tāmasa",
+      "transliteration": "tāmasa",
+      "translation": "dark, inert",
+      "context": "A quality attributed to naimittika festivals in one classification."
+    },
+    {
+      "term": "miśra",
+      "transliteration": "miśra",
+      "translation": "mixed type",
+      "context": "Description of kāmya festivals."
+    },
+    {
+      "term": "nityārcanā",
+      "transliteration": "nityārcanā",
+      "translation": "daily and customary rituals of worship",
+      "context": "The daily worship which must precede any festival."
+    },
+    {
+      "term": "mūla-sthāna",
+      "transliteration": "mūla-sthāna",
+      "translation": "main place/shrine",
+      "context": "Refers to the sanctum with the immoveable image."
+    },
+    {
+      "term": "dhruva-bera",
+      "transliteration": "dhruva-bera",
+      "translation": "fixed/immoveable icon",
+      "context": "The main icon in the sanctum."
+    },
+    {
+      "term": "cala-bera",
+      "transliteration": "cala-bera",
+      "translation": "moveable icon",
+      "context": "Icons used for festivals."
+    },
+    {
+      "term": "utsava-bera",
+      "transliteration": "utsava-bera",
+      "translation": "festival icon",
+      "context": "The moveable metallic image used for festivals."
+    },
+    {
+      "term": "pañca-bera",
+      "transliteration": "pañca-bera",
+      "translation": "five icons",
+      "context": "The system of having five different icons for different ritual purposes in Vaiṣṇava shrines."
+    },
+    {
+      "term": "snapana-bera",
+      "transliteration": "snapana-bera",
+      "translation": "bathing icon",
+      "context": "An icon for receiving the daily bath."
+    },
+    {
+      "term": "bali-bera",
+      "transliteration": "bali-bera",
+      "translation": "offering icon",
+      "context": "An icon used to dole out food-offerings."
+    },
+    {
+      "term": "koluvu-bera",
+      "transliteration": "koluvu-bera",
+      "translation": "court icon",
+      "context": "An icon that presides over the daily court."
+    },
+    {
+      "term": "mūla-bera",
+      "transliteration": "mūla-bera",
+      "translation": "root icon",
+      "context": "The immoveable main image."
+    },
+    {
+      "term": "śāmbhava",
+      "transliteration": "śāmbhava",
+      "translation": "related to Śambhu (Śiva)",
+      "context": "Name for a one-day festival in Śaivite tradition."
+    },
+    {
+      "term": "brāhma",
+      "transliteration": "brāhma",
+      "translation": "related to Brahmā",
+      "context": "Name for one-day or five-day festivals."
+    },
+    {
+      "term": "maukta",
+      "transliteration": "maukta",
+      "translation": "related to mukti/liberation (likely)",
+      "context": "Name for a three-day festival."
+    },
+    {
+      "term": "Śaiva",
+      "transliteration": "Śaiva",
+      "translation": "related to Śiva",
+      "context": "Name for a three-day festival."
+    },
+    {
+      "term": "Aindra",
+      "transliteration": "Aindra",
+      "translation": "related to Indra",
+      "context": "Name for a five-day festival."
+    },
+    {
+      "term": "ārśa",
+      "transliteration": "ārśa",
+      "translation": "related to the ṛṣis (sages)",
+      "context": "Name for a seven-day festival."
+    },
+    {
+      "term": "Śākta",
+      "transliteration": "Śākta",
+      "translation": "related to Śakti (the Goddess)",
+      "context": "Name for a nine-day festival."
+    },
+    {
+      "term": "Vaiṣṇava",
+      "transliteration": "Vaiṣṇava",
+      "translation": "related to Viṣṇu",
+      "context": "Name for a nine-day festival."
+    },
+    {
+      "term": "utsavārambha",
+      "transliteration": "utsavārambha",
+      "translation": "commencement of the festival",
+      "context": "The initial rituals of a festival."
+    },
+    {
+      "term": "aṅkurārpaṇa",
+      "transliteration": "aṅkurārpaṇa",
+      "translation": "sprout-offering",
+      "context": "A commencement ritual involving sowing seeds."
+    },
+    {
+      "term": "bheri-tāḍana",
+      "transliteration": "bheri-tāḍana",
+      "translation": "beating the drum",
+      "context": "A commencement ritual to invite the gods."
+    },
+    {
+      "term": "dhvajārohaṇa",
+      "transliteration": "dhvajārohaṇa",
+      "translation": "hoisting of the flag",
+      "context": "A key commencement ritual."
+    },
+    {
+      "term": "tīrtha-yātrā",
+      "transliteration": "tīrtha-yātrā",
+      "translation": "journey to a holy water place",
+      "context": "The concluding ceremonial bath of the festival."
+    },
+    {
+      "term": "avabhṛta-snāna",
+      "transliteration": "avabhṛta-snāna",
+      "translation": "concluding ceremonial bath",
+      "context": "Synonym for tīrtha-yātrā."
+    },
+    {
+      "term": "ratha-yātrā",
+      "transliteration": "ratha-yātrā",
+      "translation": "chariot journey/procession",
+      "context": "The main procession of the festival."
+    },
+    {
+      "term": "brahmotsava",
+      "transliteration": "brahmotsava",
+      "translation": "Brahmā's festival",
+      "context": "The most important festival in a temple."
+    },
+    {
+      "term": "vāhana",
+      "transliteration": "vāhana",
+      "translation": "vehicle",
+      "context": "Impressive models of birds and animals on which the deity is carried in procession."
+    },
+    {
+      "term": "nityotsava",
+      "transliteration": "nityotsava",
+      "translation": "annual festival",
+      "context": "Festivals conducted on fixed days in the calendar."
+    },
+    {
+      "term": "kalyāṇotsava",
+      "transliteration": "kalyāṇotsava",
+      "translation": "wedding festival",
+      "context": "Festival celebrating the wedding of the presiding deity."
+    },
+    {
+      "term": "pavitrotsava",
+      "transliteration": "pavitrotsava",
+      "translation": "purificatory festival",
+      "context": "A purificatory ritual/festival."
+    },
+    {
+      "term": "adhyayanotsava",
+      "transliteration": "adhyayanotsava",
+      "translation": "recitation festival",
+      "context": "Festival for the recital of sacred hymns."
+    },
+    {
+      "term": "āgama-texts",
+      "transliteration": "āgama-texts",
+      "translation": "Sectarian scriptures, particularly in Shaivism, Vaishnavism, and Shaktism, that include teachings on theology, philosophy, and rituals.",
+      "context": "Mentioned as the source for the four ways of approaching divinity."
+    },
+    {
+      "term": "japa",
+      "transliteration": "japa",
+      "translation": "Recitation",
+      "context": "The first of four approaches to divinity: recitation of divine names in standard formulae."
+    },
+    {
+      "term": "homa",
+      "transliteration": "homa",
+      "translation": "Fire oblation",
+      "context": "The second approach: offering oblations in fire."
+    },
+    {
+      "term": "dhyāna",
+      "transliteration": "dhyāna",
+      "translation": "Meditation",
+      "context": "The third approach: meditation on the transcendental and empirical aspects of divinity."
+    },
+    {
+      "term": "arcanā",
+      "transliteration": "arcanā",
+      "translation": "Worship",
+      "context": "The fourth approach: actual worship of divinity as an honoured guest, typically involving an icon."
+    },
+    {
+      "term": "śabda",
+      "transliteration": "śabda",
+      "translation": "Sound/Word",
+      "context": "Describes God as a pattern of holy sounds, corresponding to the japa approach."
+    },
+    {
+      "term": "agni",
+      "transliteration": "agni",
+      "translation": "Fire",
+      "context": "Describes God as represented in fire, corresponding to the homa approach. Also the main object of Vedic worship."
+    },
+    {
+      "term": "nirguṇa",
+      "transliteration": "nirguṇa",
+      "translation": "Without attributes/qualities",
+      "context": "Describes divinity as independent of concrete representation, corresponding to the dhyāna approach."
+    },
+    {
+      "term": "arcā",
+      "transliteration": "arcā",
+      "translation": "Icon/Idol",
+      "context": "Describes divinity visualized in an icon, corresponding to the arcanā approach."
+    },
+    {
+      "term": "bimba",
+      "transliteration": "bimba",
+      "translation": "Image/Icon",
+      "context": "Synonym for arcā."
+    },
+    {
+      "term": "miśra",
+      "transliteration": "miśra",
+      "translation": "Mixed",
+      "context": "One of the three classifications of temple worship (Vedic, Tāntrik, and Mixed)."
+    },
+    {
+      "term": "mūrti",
+      "transliteration": "mūrti",
+      "translation": "Form/Embodiment",
+      "context": "A human or semi-human form representing divinity, a key feature of Tāntrik ideology."
+    },
+    {
+      "term": "maṇḍala",
+      "transliteration": "maṇḍala",
+      "translation": "Circle/Diagram",
+      "context": "Mystical diagrams used in Tāntrik worship to represent divinity."
+    },
+    {
+      "term": "mantra",
+      "transliteration": "mantra",
+      "translation": "Sacred formula/Incantation",
+      "context": "Formulae of great import used in Tāntrik worship."
+    },
+    {
+      "term": "piṇḍa",
+      "transliteration": "piṇḍa",
+      "translation": "Individual body/Microcosm",
+      "context": "The individual constitution, seen as essentially identical to the cosmic organization."
+    },
+    {
+      "term": "brahmāṇḍa",
+      "transliteration": "brahmāṇḍa",
+      "translation": "Cosmos/Macrocosm",
+      "context": "The cosmic organization, seen as essentially identical to the individual constitution."
+    },
+    {
+      "term": "antar-yāga",
+      "transliteration": "antar-yāga",
+      "translation": "Internal ritual/sacrifice",
+      "context": "The symbolic or representational aspect of worship."
+    },
+    {
+      "term": "mānasi-pūjā",
+      "transliteration": "mānasi-pūjā",
+      "translation": "Mental worship",
+      "context": "Synonym for antar-yāga."
+    },
+    {
+      "term": "bahir-yāga",
+      "transliteration": "bahir-yāga",
+      "translation": "External ritual/sacrifice",
+      "context": "The actual or presentational aspect of worship."
+    },
+    {
+      "term": "upacāras",
+      "transliteration": "upacāras",
+      "translation": "Services/Offerings",
+      "context": "The sixteen services offered to the icon as an honored guest."
+    },
+    {
+      "term": "atithi-devo bhava",
+      "transliteration": "atithi-devo bhava",
+      "translation": "The guest is God",
+      "context": "An injunction explaining the practice of treating the deity's icon as an honored guest."
+    },
+    {
+      "term": "rājopacāras",
+      "transliteration": "rājopacāras",
+      "translation": "Royal services/honors",
+      "context": "Honors offered to the icon, treating the deity as a king of kings."
+    },
+    {
+      "term": "sambrama",
+      "transliteration": "sambrama",
+      "translation": "Excitement/Flurry",
+      "context": "The 'excitement' of external rituals, considered secondary to internal worship."
+    },
+    {
+      "term": "śuddhi",
+      "transliteration": "śuddhi",
+      "translation": "Purification",
+      "context": "A sequence in internal worship involving purification of elements."
+    },
+    {
+      "term": "nyāsa",
+      "transliteration": "nyāsa",
+      "translation": "Placement/Assignment",
+      "context": "A sequence in internal worship involving the placement of divine attributes on the worshipper's body."
+    },
+    {
+      "term": "mudrā",
+      "transliteration": "mudrā",
+      "translation": "Seal/Gesture",
+      "context": "A sequence in internal worship involving appropriate and effective hand gestures."
+    },
+    {
+      "term": "prāṇāyāma",
+      "transliteration": "prāṇāyāma",
+      "translation": "Breath control",
+      "context": "Regulation of breath to facilitate contemplation."
+    },
+    {
+      "term": "prāṇa-pratiṣṭhā",
+      "transliteration": "prāṇa-pratiṣṭhā",
+      "translation": "Establishment of life-force",
+      "context": "The ritual infusion of life into the deity's icon."
+    },
+    {
+      "term": "sohambhāvanā",
+      "transliteration": "sohambhāvanā",
+      "translation": "The feeling of 'I am He'",
+      "context": "The assumption of identity between the worshipper and the worshipped."
+    },
+    {
+      "term": "tejas",
+      "transliteration": "tejas",
+      "translation": "Lustre/Power",
+      "context": "The divine power extracted from the priest's breath and invested in the icon."
+    },
+    {
+      "term": "uccvāsa-niḥśvāsa",
+      "transliteration": "uccvāsa-niḥśvāsa",
+      "translation": "Exhalation and inhalation",
+      "context": "The priest's respirations, from which divine power (tejas) is extracted."
+    },
+    {
+      "term": "āvāhita",
+      "transliteration": "āvāhita",
+      "translation": "Invoked",
+      "context": "One of the steps in externalizing the deity into the icon."
+    },
+    {
+      "term": "sthāpita",
+      "transliteration": "sthāpita",
+      "translation": "Established",
+      "context": "One of the steps in externalizing the deity into the icon."
+    },
+    {
+      "term": "sannihita",
+      "transliteration": "sannihita",
+      "translation": "Present close at hand",
+      "context": "One of the steps in externalizing the deity into the icon."
+    },
+    {
+      "term": "sammukha",
+      "transliteration": "sammukha",
+      "translation": "Facing/In front",
+      "context": "One of the steps in externalizing the deity into the icon."
+    },
+    {
+      "term": "sanniruddha",
+      "transliteration": "sanniruddha",
+      "translation": "Confined/Restrained",
+      "context": "One of the steps in externalizing the deity into the icon."
+    },
+    {
+      "term": "avaguṇṭhita",
+      "transliteration": "avaguṇṭhita",
+      "translation": "Veiled/Concealed",
+      "context": "One of the steps in externalizing the deity into the icon."
+    },
+    {
+      "term": "visarjana",
+      "transliteration": "visarjana",
+      "translation": "Dismissal/Sending away",
+      "context": "The ritual of sending the deity back from the icon to the worshipper's heart."
+    },
+    {
+      "term": "mātṛkā-nyāsa",
+      "transliteration": "mātṛkā-nyāsa",
+      "translation": "Placement of the letters/seed-sounds",
+      "context": "A form of nyāsa involving placing the 50 seed-sounds on the body."
+    },
+    {
+      "term": "cakras",
+      "transliteration": "cakras",
+      "translation": "Wheels/Psychic centers",
+      "context": "Psychic energy centers in the body where seed-sounds are placed during mātṛkā-nyāsa."
+    },
+    {
+      "term": "devatā-nyāsa",
+      "transliteration": "devatā-nyāsa",
+      "translation": "Placement of the deity",
+      "context": "A form of nyāsa involving placing aspects of the deity on the limbs."
+    },
+    {
+      "term": "tattva-nyāsa",
+      "transliteration": "tattva-nyāsa",
+      "translation": "Placement of the principles/realities",
+      "context": "A form of nyāsa involving endowing the deity with the 24 basic factors of Sāṁkhya philosophy."
+    },
+    {
+      "term": "Sāṁkhya",
+      "transliteration": "Sāṁkhya",
+      "translation": "Enumeration",
+      "context": "A major school of Indian philosophy whose 24 basic factors are used in tattva-nyāsa."
+    },
+    {
+      "term": "śakti",
+      "transliteration": "śakti",
+      "translation": "Power/Energy",
+      "context": "The divine powers or aspects of God placed on the body during devatā-nyāsa."
+    },
+    {
+      "term": "Keśavādi-nyāsa",
+      "transliteration": "Keśavādi-nyāsa",
+      "translation": "Placement beginning with Keśava",
+      "context": "The Vaishnava form of devatā-nyāsa."
+    },
+    {
+      "term": "Śaivas",
+      "transliteration": "Śaivas",
+      "translation": "Followers of Śiva",
+      "context": "A major Hindu sect."
+    },
+    {
+      "term": "Śrīkaṇṭhādi-nyāsa",
+      "transliteration": "Śrīkaṇṭhādi-nyāsa",
+      "translation": "Placement beginning with Śrīkaṇṭha",
+      "context": "The Śaiva form of devatā-nyāsa."
+    },
+    {
+      "term": "Śāktas",
+      "transliteration": "Śāktas",
+      "translation": "Followers of Śakti",
+      "context": "A major Hindu sect."
+    },
+    {
+      "term": "Kalā-nyāsa",
+      "transliteration": "Kalā-nyāsa",
+      "translation": "Placement of the parts/kalās",
+      "context": "The Śākta form of devatā-nyāsa."
+    },
+    {
+      "term": "svayambhū",
+      "transliteration": "svayambhū",
+      "translation": "Self-manifest/Self-born",
+      "context": "An icon that is not man-made but appeared on its own."
+    },
+    {
+      "term": "deva-pratiṣṭhā",
+      "transliteration": "deva-pratiṣṭhā",
+      "translation": "Installed by the gods",
+      "context": "An icon believed to have been installed by celestial beings."
+    },
+    {
+      "term": "kautuka-bera",
+      "transliteration": "kautuka-bera",
+      "translation": "Festival/curiosity image",
+      "context": "A smaller replica of the main image, used for administering services (upacāra)."
+    }
+  ],
+  "cross_reference_map": [
+    {
+      "reference_text": "Viṣṇudharmottara",
+      "target": "A celebrated text on the origin of temples.",
+      "page": "4"
+    },
+    {
+      "reference_text": "Yajurveda",
+      "target": "An ancient Vedic text.",
+      "page": "10"
+    },
+    {
+      "reference_text": "Ṛgveda",
+      "target": "An ancient Vedic text.",
+      "page": "20"
+    },
+    {
+      "reference_text": "Taittirīya-brāhmaṇa",
+      "target": "A Vedic text.",
+      "page": "20"
+    },
+    {
+      "reference_text": "Viṣṇu-tilaka, Mānāsāra, Mukuṭāgama, Śilpa-ratna, Maya-mata, Īśāna-śiva-guru-pad-dhati",
+      "target": "Architectural texts (Śilpa Śāstras) dealing with temple classification.",
+      "page": "34"
+    },
+    {
+      "reference_text": "Viṣṇu-tantra, Mārkaṇḍeya-saṃhitā",
+      "target": "Texts that group temples into nine types.",
+      "page": "34"
+    },
+    {
+      "reference_text": "Kāmikāgama",
+      "target": "An Āgama text recognizing three regional styles.",
+      "page": "34"
+    },
+    {
+      "reference_text": "Viśvakarma-prakāśa",
+      "target": "An old text explaining the purpose of the temple pavilion (maṇḍapa).",
+      "page": "39"
+    },
+    {
+      "reference_text": "Agni-purāṇa, Haya-śīrśa, Viṣṇu-rahasya",
+      "target": "Purāṇic texts that praise and promise merit for temple building.",
+      "page": "41"
+    },
+    {
+      "reference_text": "Śrī-praśna",
+      "target": "A canonical text stating that the sanctum is the divinity's body and the icon its soul.",
+      "page": "45"
+    },
+    {
+      "reference_text": "Siddhānta-śekhara",
+      "target": "A text stating that a building containing the ritual 'womb' will prosper.",
+      "page": "48"
+    },
+    {
+      "reference_text": "Arcanā-navanīta",
+      "target": "An old text classifying holy places into five kinds.",
+      "page": "49"
+    },
+    {
+      "reference_text": "Vaikhānāsāgama, Maya-mata, Īśāna-śiva-guru-paddhati",
+      "target": "Ancient texts that mention the gateway-tower but do not consider it important.",
+      "page": "56"
+    },
+    {
+      "reference_text": "Katha Upanishad",
+      "target": "An Upanishad that speaks of the 'inverted tree'.",
+      "page": "60"
+    },
+    {
+      "reference_text": "Aparājita-paripṛccā and Dīpārṇava",
+      "target": "Texts describing the 'hṛdaya-varṇaka-vidhi' ritual for installing the 'golden person' in the kalaśa.",
+      "page": "66"
+    },
+    {
+      "reference_text": "Pārameśvara-saṃhitā",
+      "target": "A canonical text explaining the cosmic symbolism of the temple's parts.",
+      "page": "71"
+    },
+    {
+      "reference_text": "Kāraṇāgama",
+      "target": "An Āgama text recommending that wooden altars be covered by metal sheets.",
+      "page": "72"
+    },
+    {
+      "reference_text": "Nārāyaṇa-saṃhitā",
+      "target": "A text claiming the dispensing seat and the tower are the same, as places where gods assemble.",
+      "page": "74"
+    },
+    {
+      "reference_text": "Hayaśīrśa-saṃhitā",
+      "target": "A Pāñcarātra text giving details about the flag-mast.",
+      "page": "76"
+    },
+    {
+      "reference_text": "Mahābhārata",
+      "target": "The epic.",
+      "page": "77"
+    },
+    {
+      "reference_text": "Mānasāra (51,70)",
+      "target": "A text on architecture and iconography (Śilpa-śāstra).",
+      "page": "1"
+    },
+    {
+      "reference_text": "Marīci-saṃhitā",
+      "target": "An Āgamic text.",
+      "page": "2"
+    },
+    {
+      "reference_text": "Ajitāgama (kriyā, 20,1)",
+      "target": "An Āgamic text.",
+      "page": "2"
+    },
+    {
+      "reference_text": "Kāraṇāgama (1,30,1-2)",
+      "target": "An Āgamic text.",
+      "page": "2"
+    },
+    {
+      "reference_text": "Suprabhedāgama (1,8,1-2)",
+      "target": "An Āgamic text.",
+      "page": "3"
+    },
+    {
+      "reference_text": "Kāmikāgama (1,4,6-7)",
+      "target": "An Āgamic text.",
+      "page": "4"
+    },
+    {
+      "reference_text": "Aṃśumadāgama, 3-4",
+      "target": "An Āgamic text.",
+      "page": "5"
+    },
+    {
+      "reference_text": "Marihi's Ānanda-saṃhitā (1,35)",
+      "target": "An Āgamic text.",
+      "page": "5"
+    },
+    {
+      "reference_text": "Kāśyapiya-jñāna-kāṇḍa TTD, Tirupati, 1960",
+      "target": "A specific publication of an Āgamic text.",
+      "page": "6, 7"
+    },
+    {
+      "reference_text": "Viṣṇu-saṃhitā, 29,51",
+      "target": "An Āgamic/Pāñcarātra text.",
+      "page": "14"
+    },
+    {
+      "reference_text": "Parama-saṃhitā, 3,5-10",
+      "target": "An Āgamic/Pāñcarātra text.",
+      "page": "15"
+    },
+    {
+      "reference_text": "Arcanā-tilaka (of Bhārad-vāja-nṛsiṃha)",
+      "target": "A text on worship.",
+      "page": "15"
+    },
+    {
+      "reference_text": "Amśumad-āgama",
+      "target": "A specific Āgama text",
+      "page": "100"
+    },
+    {
+      "reference_text": "Kārṇāgama",
+      "target": "A specific Āgama text",
+      "page": "100"
+    },
+    {
+      "reference_text": "Skanda-purāṇa",
+      "target": "A specific Purāṇa text",
+      "page": "105"
+    },
+    {
+      "reference_text": "Suprabhedāgama",
+      "target": "A specific Āgama text",
+      "page": "113"
+    },
+    {
+      "reference_text": "Candra-jñānāgama",
+      "target": "A specific Āgama text",
+      "page": "113"
+    },
+    {
+      "reference_text": "Kāraṇāgama",
+      "target": "Kāraṇāgama text",
+      "page": "116"
+    },
+    {
+      "reference_text": "Amara-kośa, 2,7,34",
+      "target": "Amara-kośa text, chapter 2, section 7, verse 34",
+      "page": "116"
+    },
+    {
+      "reference_text": "Tantra-sāra",
+      "target": "Tantra-sāra text",
+      "page": "116"
+    },
+    {
+      "reference_text": "Siddha-yāmala",
+      "target": "Siddha-yāmala text",
+      "page": "116"
+    },
+    {
+      "reference_text": "Vaikhānasa texts",
+      "target": "The body of Vaikhānasa Āgama literature",
+      "page": "119, 121, 126"
+    },
+    {
+      "reference_text": "Śaiva texts",
+      "target": "The body of Śaiva Āgama literature",
+      "page": "119, 121"
+    },
+    {
+      "reference_text": "Pāñcarātra texts",
+      "target": "The body of Pāñcarātra Āgama literature",
+      "page": "119, 121"
+    },
+    {
+      "reference_text": "Śākta prescriptions",
+      "target": "The body of Śākta Āgama/Tantra literature",
+      "page": "121"
+    },
+    {
+      "reference_text": "Puruṣa-sūkta",
+      "target": "A specific hymn from the Rigveda",
+      "page": "128"
+    },
+    {
+      "reference_text": "Amara-kośa",
+      "target": "A Sanskrit lexicon",
+      "page": "131 (inferred)"
+    },
+    {
+      "reference_text": "Uttara-kāraṇāgama (4,1)",
+      "target": "An āgama text",
+      "page": "131 (inferred)"
+    },
+    {
+      "reference_text": "Uttara-kāraṇāgama",
+      "target": "An āgama text",
+      "page": "136"
+    },
+    {
+      "reference_text": "Puruṣottama-samhitā (32, 2)",
+      "target": "A samhitā text",
+      "page": "131 (inferred)"
+    },
+    {
+      "reference_text": "Puruṣottama-samhitā, (23,6)",
+      "target": "A samhitā text",
+      "page": "132, 133"
+    },
+    {
+      "reference_text": "Puruṣottama-samhitā, (19,5-7)",
+      "target": "A samhitā text",
+      "page": "134"
+    },
+    {
+      "reference_text": "Puruṣottama-samhitā, 23",
+      "target": "A samhitā text",
+      "page": "139"
+    },
+    {
+      "reference_text": "Nāradīya-samhitā (18)",
+      "target": "A samhitā text",
+      "page": "131 (inferred)"
+    },
+    {
+      "reference_text": "Nāradīya-samhitā, 18, 6",
+      "target": "A samhitā text",
+      "page": "134"
+    },
+    {
+      "reference_text": "Nāradīya-samhitā, 18,93",
+      "target": "A samhitā text",
+      "page": "136"
+    },
+    {
+      "reference_text": "Nāradīya-samhitā (18,7-8)",
+      "target": "A samhitā text",
+      "page": "137"
+    },
+    {
+      "reference_text": "Nāradīya-samhitā' (18, 17)",
+      "target": "A samhitā text",
+      "page": "139"
+    },
+    {
+      "reference_text": "Īśvara-samhitā (10,3)",
+      "target": "A samhitā text",
+      "page": "131 (inferred)"
+    },
+    {
+      "reference_text": "Īśvara-samhitā, 11,275",
+      "target": "A samhitā text",
+      "page": "133"
+    },
+    {
+      "reference_text": "Iśvara-samhitā, 10, 1-7",
+      "target": "A samhitā text",
+      "page": "134"
+    },
+    {
+      "reference_text": "Īśvara-samhitā 10,8",
+      "target": "A samhitā text",
+      "page": "134"
+    },
+    {
+      "reference_text": "Iśvara-samhitā 13",
+      "target": "A samhitā text",
+      "page": "136"
+    },
+    {
+      "reference_text": "Iśvara-samhitā",
+      "target": "A samhitā text",
+      "page": "137"
+    },
+    {
+      "reference_text": "Aniruddha-samhitā, 20, 1",
+      "target": "A samhitā text",
+      "page": "131 (inferred)"
+    },
+    {
+      "reference_text": "Aniruddha-samhitā, 20, 2-9",
+      "target": "A samhitā text",
+      "page": "134"
+    },
+    {
+      "reference_text": "Aniruddha-samhitā, 20,10",
+      "target": "A samhitā text",
+      "page": "134"
+    },
+    {
+      "reference_text": "Pādma-samhitā, 2,10",
+      "target": "A samhitā text",
+      "page": "131 (inferred)"
+    },
+    {
+      "reference_text": "Pādma-samhitā (10, 5)",
+      "target": "A samhitā text",
+      "page": "133"
+    },
+    {
+      "reference_text": "Pādma-sañcaryā, 20, 9-18",
+      "target": "A samhitā text",
+      "page": "134"
+    },
+    {
+      "reference_text": "Pādma-sañcaryā, 10,42",
+      "target": "A samhitā text",
+      "page": "139"
+    },
+    {
+      "reference_text": "Pūrva-kāraṇagāma, 141",
+      "target": "An āgama text",
+      "page": "133"
+    },
+    {
+      "reference_text": "Pūrvakāraṇāgama, 141, 2-3",
+      "target": "An āgama text",
+      "page": "136"
+    },
+    {
+      "reference_text": "Pūrva-kāraṇāgama, 141, 4-3",
+      "target": "An āgama text",
+      "page": "136"
+    },
+    {
+      "reference_text": "Pūrva-kāraṇāgama (141,3-4)",
+      "target": "An āgama text",
+      "page": "138"
+    },
+    {
+      "reference_text": "Pūrva-kāraṇāgama, 141",
+      "target": "An āgama text",
+      "page": "139"
+    },
+    {
+      "reference_text": "Śrī-praśna",
+      "target": "A text",
+      "page": "133"
+    },
+    {
+      "reference_text": "Śrī-praśna, 31,9",
+      "target": "A text",
+      "page": "134"
+    },
+    {
+      "reference_text": "Śrī-praśna, 31, 16",
+      "target": "A text",
+      "page": "134"
+    },
+    {
+      "reference_text": "praśna 31,15",
+      "target": "A text (likely Śrī-praśna)",
+      "page": "139"
+    },
+    {
+      "reference_text": "Pārameśvara-samhitā, 23,6",
+      "target": "A samhitā text",
+      "page": "134"
+    },
+    {
+      "reference_text": "Pārameśvara-samitā, 16, 7-8",
+      "target": "A samhitā text",
+      "page": "134"
+    },
+    {
+      "reference_text": "Pārameśvara-samhitā (16,28-29)",
+      "target": "A samhitā text",
+      "page": "137"
+    },
+    {
+      "reference_text": "Pārameśvara-samhitā (16,30)",
+      "target": "A samhitā text",
+      "page": "138"
+    },
+    {
+      "reference_text": "Rauravāgama (kriyā 18,8-9)",
+      "target": "An āgama text",
+      "page": "136"
+    },
+    {
+      "reference_text": "Rauravāgama-kriyā, 18, 8-9",
+      "target": "An āgama text",
+      "page": "136"
+    },
+    {
+      "reference_text": "Raurava-kriyāgama (18)",
+      "target": "An āgama text",
+      "page": "138"
+    },
+    {
+      "reference_text": "Chandra-jñāna, 21",
+      "target": "A text",
+      "page": "136"
+    },
+    {
+      "reference_text": "Ajitāgama 27, 2-7",
+      "target": "An āgama text",
+      "page": "136"
+    },
+    {
+      "reference_text": "Ajitāgama, 27, 21-23",
+      "target": "An āgama text",
+      "page": "136"
+    },
+    {
+      "reference_text": "Ajitāgama (27,23)",
+      "target": "An āgama text",
+      "page": "138"
+    },
+    {
+      "reference_text": "Dīptāgama, 83",
+      "target": "An āgama text",
+      "page": "136"
+    },
+    {
+      "reference_text": "Dīptāgama",
+      "target": "An āgama text",
+      "page": "136"
+    },
+    {
+      "reference_text": "Hayaśīrśa-samhiṭā, 36,4",
+      "target": "A samhitā text",
+      "page": "136"
+    },
+    {
+      "reference_text": "Nārāyaṇa-samhitā (44)",
+      "target": "A samhitā text",
+      "page": "137"
+    },
+    {
+      "reference_text": "Kāraṇāgama, 24, 424-5",
+      "target": "An āgama text",
+      "page": "137"
+    },
+    {
+      "reference_text": "Viṣvaksena-samhitā, 27,12-16",
+      "target": "A samhitā text",
+      "page": "140"
+    },
+    {
+      "reference_text": "Parama-puruśa-samhitā",
+      "target": "A samhitā text",
+      "page": "142"
+    },
+    {
+      "reference_text": "Gāruḍa-samhitā",
+      "target": "A samhitā text",
+      "page": "142"
+    },
+    {
+      "reference_text": "Vāsiṣṭha-samhitā",
+      "target": "A samhitā text",
+      "page": "142"
+    }
+  ],
+  "bibliography_network": [],
+  "keywords_by_frequency": []
+}

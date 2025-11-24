@@ -1,0 +1,93 @@
+{
+  "introduction": {
+    "title": "Introduction",
+    "start_page": 5,
+    "end_page": 6
+  },
+  "table_of_contents": {
+    "start_page": 7,
+    "end_page": 7
+  },
+  "chapters": [
+    {
+      "chapter_number": "I",
+      "title": "THE CONCEPT OF CONSECRATION",
+      "start_page": 1,
+      "end_page": 24
+    },
+    {
+      "chapter_number": "II",
+      "title": "CONSECRATION OF SHRINE",
+      "start_page": 25,
+      "end_page": 47
+    },
+    {
+      "chapter_number": "III",
+      "title": "CONSECRATION OF ICONS",
+      "start_page": 48,
+      "end_page": 72
+    }
+  ],
+  "appendixes": [
+    {
+      "appendix_id": "I",
+      "title": "EXCERPTS FROM VIŚVĀMITRA-SAṀHITĀ",
+      "start_page": 73,
+      "end_page": 89
+    },
+    {
+      "appendix_id": "II",
+      "title": "EXCERPTS FROM AJITĀGAMA",
+      "start_page": 90,
+      "end_page": 101
+    },
+    {
+      "appendix_id": "III",
+      "title": "EXCERPTS FROM AJITĀGAMA",
+      "start_page": 102,
+      "end_page": 105
+    },
+    {
+      "appendix_id": "IV",
+      "title": "EXCERPTS FROM SAME TEXT ŚAṄKU-STHĀPANĀ",
+      "start_page": 106,
+      "end_page": 107
+    },
+    {
+      "appendix_id": "V",
+      "title": "EXCERPTS FROM SAME TEXT ISHṬAKA-VIDHI",
+      "start_page": 108,
+      "end_page": 113
+    },
+    {
+      "appendix_id": "VI",
+      "title": "(EXCERPTS FROM SAME TEXT-UPAPĪṬHA)",
+      "start_page": 114,
+      "end_page": 115
+    },
+    {
+      "appendix_id": "VII",
+      "title": "(EXCERPTS FROM SAME TEXT-PRATIṢṬHĀ)",
+      "start_page": 116,
+      "end_page": 122
+    },
+    {
+      "appendix_id": "VIII",
+      "title": "EXCERPTS FROM ŚRĪ-PRAŚNA-SAṀHITĀ",
+      "start_page": 123,
+      "end_page": 130
+    },
+    {
+      "appendix_id": "IX",
+      "title": "EXCERPTS FROM KRIYĀDHIKĀRA",
+      "start_page": 131,
+      "end_page": 132
+    },
+    {
+      "appendix_id": "X",
+      "title": "EXCERPTS FROM ŚRĪ-PRAŚNA-SAṀHITĀ",
+      "start_page": 133,
+      "end_page": 143
+    }
+  ]
+}

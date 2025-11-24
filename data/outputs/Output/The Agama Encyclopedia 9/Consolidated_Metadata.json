@@ -1,0 +1,792 @@
+{
+  "book_title": "The Agama Encyclopedia 9",
+  "total_chapters": 3,
+  "total_pages": 0,
+  "all_historical_figures": [
+    {
+      "name": "Agastya",
+      "role": "Sage, Author",
+      "significance": "Author of 'Sakalādhikāra', a standard text on consecration followed in South India.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Bhṛgu",
+      "role": "Sage, Author",
+      "significance": "Author of 'Kriyādhikāra', a Vaiṣṇava Āgama text quoted for its explanation of consecration.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Marichi",
+      "role": "Author/Sage",
+      "significance": "Cited as the author of the Vimānārcanā-kalpa, a Vaikhānasā text that provides rules for dividing the sanctum floor-space.",
+      "dates": "Ancient"
+    },
+    {
+      "name": "Viśvakarmā",
+      "role": "Divine Architect and Sculptor",
+      "significance": "Invoked and worshipped during the consecration rituals as the presiding deity of architecture, sculpture, and the temple structure itself.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Ācārya / Guru / Sthāpaka",
+      "role": "Chief Priest",
+      "significance": "The main officiant responsible for conducting the entire consecration ceremony according to scriptural rules.",
+      "dates": "Role-based"
+    },
+    {
+      "name": "Ṛtviks",
+      "role": "Participating Priests",
+      "significance": "Priests who assist the Ācārya, particularly in the fire rituals (homa).",
+      "dates": "Role-based"
+    },
+    {
+      "name": "Yajamāna",
+      "role": "Sponsor/Patron",
+      "significance": "The person who has sponsored the project and participates in key rituals.",
+      "dates": "Role-based"
+    },
+    {
+      "name": "Sculptor (Śilpi)",
+      "role": "Artisan",
+      "significance": "Creates the icon and performs the initial preliminary consecration. Formally dismissed after the 'netronmilana' in some traditions.",
+      "dates": "Role-based"
+    }
+  ],
+  "complete_timeline": [],
+  "all_geographic_locations": [
+    {
+      "place": "South India",
+      "context": "Mentioned as the region where Agastya's 'Sakalādhikāra' is a standard text for consecration rituals.",
+      "significance": "Indicates a regional textual tradition for the practices described."
+    }
+  ],
+  "complete_terminology_index": [
+    {
+      "term": "sthāpanā",
+      "transliteration": "sthāpanā",
+      "translation": "installation, placing, establishing",
+      "context": "A term for consecration, literally meaning providing a firm foundation. Sometimes distinguished from pratiṣṭhā."
+    },
+    {
+      "term": "pratiṣṭhā",
+      "transliteration": "pratiṣṭhā",
+      "translation": "consecration, firm standing, establishment",
+      "context": "A key term for consecration, literally meaning providing a fixed basis. Derived from the invocation 'Om prati-tiṣṭha parameśvara'."
+    },
+    {
+      "term": "Āgama",
+      "transliteration": "Āgama",
+      "translation": "That which has come down; scripture",
+      "context": "A collection of scriptures that are the primary source for temple construction and consecration rituals."
+    },
+    {
+      "term": "niṣkala",
+      "transliteration": "niṣkala",
+      "translation": "without parts, formless, undifferentiated",
+      "context": "Describes the transcendent, formless nature of the deity before it is invoked into a form (sakala)."
+    },
+    {
+      "term": "Jñāna",
+      "transliteration": "Jñāna",
+      "translation": "Gnosis, knowledge",
+      "context": "The ultimate knowledge or gnosis that is the pathway to salvation."
+    },
+    {
+      "term": "Śiva",
+      "transliteration": "Śiva",
+      "translation": "The Auspicious One",
+      "context": "In Śaivāgama, represents the principle of pure consciousness."
+    },
+    {
+      "term": "Śakti",
+      "transliteration": "Śakti",
+      "translation": "Power, energy",
+      "context": "In Śaivāgama, represents the principle of primordial action or energy."
+    },
+    {
+      "term": "liṅga",
+      "transliteration": "liṅga",
+      "translation": "sign, symbol",
+      "context": "The aniconic symbol of Śiva, representing pure consciousness."
+    },
+    {
+      "term": "piṇḍikā",
+      "transliteration": "piṇḍikā",
+      "translation": "pedestal, seat",
+      "context": "The base or pedestal of the liṅga, representing Śakti. Also called pīṭha."
+    },
+    {
+      "term": "pīṭha",
+      "transliteration": "pīṭha",
+      "translation": "seat, pedestal",
+      "context": "The pedestal of the liṅga, representing Śakti. Also called piṇḍikā."
+    },
+    {
+      "term": "karmārcā",
+      "transliteration": "karmārcā",
+      "translation": "worship through action",
+      "context": "An icon that has been consecrated and is now fit for all worship rituals."
+    },
+    {
+      "term": "adhivāsa",
+      "transliteration": "adhivāsa",
+      "translation": "preliminary ceremony, dwelling in",
+      "context": "The sequence of immersing an icon in water, milk, grains, etc., as part of the consecration process."
+    },
+    {
+      "term": "karṣaṇādi pratiṣṭhānta",
+      "transliteration": "karṣaṇādi pratiṣṭhānta",
+      "translation": "from ploughing to consecration",
+      "context": "An expression describing the entire process of temple creation, from the first ritual on the soil to the final installation of the idol."
+    },
+    {
+      "term": "vāstu",
+      "transliteration": "vāstu",
+      "translation": "site, dwelling, architectural plan",
+      "context": "Refers to the temple site and its architectural disposition."
+    },
+    {
+      "term": "Vāstu-puruṣa",
+      "transliteration": "Vāstu-puruṣa",
+      "translation": "Person/spirit of the site",
+      "context": "The personification of the building site, conceived as a divine or demonic being, who must be propitiated."
+    },
+    {
+      "term": "maṇḍala",
+      "transliteration": "maṇḍala",
+      "translation": "circle, diagram",
+      "context": "A sacred geometric diagram, here referring to the square grid plan of the temple site."
+    },
+    {
+      "term": "prathameṣṭaka",
+      "transliteration": "prathameṣṭaka",
+      "translation": "first brick",
+      "context": "The ceremony of laying the first bricks of the foundation."
+    },
+    {
+      "term": "sthapati",
+      "transliteration": "sthapati",
+      "translation": "architect, master builder",
+      "context": "The chief architect-builder of the temple, identified with Brahmā."
+    },
+    {
+      "term": "yajamāna",
+      "transliteration": "yajamāna",
+      "translation": "patron of a sacrifice",
+      "context": "The patron who sponsors the construction of the temple, identified with Viṣṇu."
+    },
+    {
+      "term": "ācārya",
+      "transliteration": "ācārya",
+      "translation": "teacher, spiritual guide",
+      "context": "The officiating priest who performs the consecration, identified with Śiva."
+    },
+    {
+      "term": "prāsāda",
+      "transliteration": "prāsāda",
+      "translation": "palace, temple",
+      "context": "A term for a temple, etymologically derived from that which 'pleases the mind'."
+    },
+    {
+      "term": "vimāna",
+      "transliteration": "vimāna",
+      "translation": "celestial chariot, temple shrine",
+      "context": "A term for a temple, etymologically derived from being built with 'various measurements'."
+    },
+    {
+      "term": "Āgama",
+      "transliteration": "Āgama",
+      "translation": "Traditional doctrine or precept, a collection of sacred scriptures.",
+      "context": "The primary textual sources for temple construction and consecration rituals."
+    },
+    {
+      "term": "adhisthāna",
+      "transliteration": "adhisthāna",
+      "translation": "Basement or base.",
+      "context": "The foundation layer of the temple, which must be well laid before the sanctum is raised."
+    },
+    {
+      "term": "dhruvārcā",
+      "transliteration": "dhruvārcā",
+      "translation": "Fixed or permanent icon.",
+      "context": "A solitary main deity sculpted in stone and fixed to the ground in the sanctum."
+    },
+    {
+      "term": "kautuka-bera",
+      "transliteration": "kautuka-bera",
+      "translation": "Moveable icon.",
+      "context": "A metallic icon used for regular and daily worship, often placed alongside the dhruvārcā."
+    },
+    {
+      "term": "Brahma-sthāna",
+      "transliteration": "Brahma-sthāna",
+      "translation": "Place of Brahma.",
+      "context": "The central cell or zone of the sanctum floor-space, considered the most sacred spot."
+    },
+    {
+      "term": "daivika-bhāga",
+      "transliteration": "daivika-bhāga",
+      "translation": "Divine portion.",
+      "context": "The zone surrounding the Brahma-sthāna, designated for divine beings or the main icon in some traditions."
+    },
+    {
+      "term": "mānuṣa-bhāga",
+      "transliteration": "mānuṣa-bhāga",
+      "translation": "Human portion.",
+      "context": "The zone surrounding the daivika-bhāga."
+    },
+    {
+      "term": "paiśāca-bhāga",
+      "transliteration": "paiśāca-bhāga",
+      "translation": "Demonic/spirit portion.",
+      "context": "The outermost zone, considered unsuitable for the installation of primary deities."
+    },
+    {
+      "term": "śayāna",
+      "transliteration": "śayāna",
+      "translation": "Recumbent.",
+      "context": "Describing the posture of an icon lying down."
+    },
+    {
+      "term": "āsina",
+      "transliteration": "āsina",
+      "translation": "Seated.",
+      "context": "Describing the posture of a seated icon."
+    },
+    {
+      "term": "garbha-pada-vinyāsa",
+      "transliteration": "garbha-pada-vinyāsa",
+      "translation": "Arrangement of the plots of the inner sanctum.",
+      "context": "The title of a section in the Vimānārcanā-kalpa of Marichi."
+    },
+    {
+      "term": "liṅga",
+      "transliteration": "liṅga",
+      "translation": "Symbol or sign.",
+      "context": "An aniconic representation of Śiva, prescribed for installation in the Brahma-bhāga in Śaiva shrines."
+    },
+    {
+      "term": "brahma-śilā",
+      "transliteration": "brahma-śilā",
+      "translation": "Brahma stone.",
+      "context": "The foundation-slab for the installation of the main deity."
+    },
+    {
+      "term": "sthāvara",
+      "transliteration": "sthāvara",
+      "translation": "Immoveable.",
+      "context": "An immoveable icon, which the Nāradīya-saṁhitā prescribes must be in the Brahma-sthāna."
+    },
+    {
+      "term": "koṣṭha",
+      "transliteration": "koṣṭha",
+      "translation": "Plot, square, or cell.",
+      "context": "The individual cells that make up a site plan or maṇḍala."
+    },
+    {
+      "term": "Vāstu-maṇḍapa",
+      "transliteration": "Vāstu-maṇḍapa",
+      "translation": "Site plan pavilion/diagram.",
+      "context": "A diagrammatic plan of a site, such as the 81-cell plan from Bṛhat-saṁhitā."
+    },
+    {
+      "term": "maṇṭapa",
+      "transliteration": "maṇṭapa",
+      "translation": "Pavilion.",
+      "context": "A temporary or permanent structure erected for rituals."
+    },
+    {
+      "term": "vedi",
+      "transliteration": "vedi",
+      "translation": "Platform or altar.",
+      "context": "A raised platform constructed in the center of a maṇṭapa."
+    },
+    {
+      "term": "piṇḍikā",
+      "transliteration": "piṇḍikā",
+      "translation": "Pedestal.",
+      "context": "A pedestal built on the vedi for placing offerings or the icon."
+    },
+    {
+      "term": "śaṅku / kīla",
+      "transliteration": "śaṅku / kīla",
+      "translation": "Peg or stake.",
+      "context": "Metal or wooden pegs driven into the ground at the corners of the ritual area."
+    },
+    {
+      "term": "Vāstu-puruṣa",
+      "transliteration": "Vāstu-puruṣa",
+      "translation": "Cosmic Man or spirit of the site.",
+      "context": "A deity personifying the site, who must be propitiated during construction and consecration."
+    },
+    {
+      "term": "prāṇa-pratiṣṭhā",
+      "transliteration": "prāṇa-pratiṣṭhā",
+      "translation": "Establishment of life-breath.",
+      "context": "The ritual of infusing an icon or deity representation with life."
+    },
+    {
+      "term": "yajña",
+      "transliteration": "yajña",
+      "translation": "Sacrifice, worship, sacred ritual.",
+      "context": "The entire installation ceremony is regarded as a yajña."
+    },
+    {
+      "term": "Kṣetrapāla",
+      "transliteration": "Kṣetrapāla",
+      "translation": "Guardian of the field/locality.",
+      "context": "A guardian spirit of the area who is worshipped during consecration."
+    },
+    {
+      "term": "mātṛkā",
+      "transliteration": "mātṛkā",
+      "translation": "Mother goddesses.",
+      "context": "A group of sixteen goddesses worshipped during the rituals."
+    },
+    {
+      "term": "nava-graha",
+      "transliteration": "nava-graha",
+      "translation": "Nine planets.",
+      "context": "The nine celestial bodies of Hindu astrology, who are propitiated."
+    },
+    {
+      "term": "kuṇḍa",
+      "transliteration": "kuṇḍa",
+      "translation": "Pit or altar.",
+      "context": "A sacrificial altar for fire rituals (homa), which can have various shapes."
+    },
+    {
+      "term": "kalaśa / kumbha",
+      "transliteration": "kalaśa / kumbha",
+      "translation": "Water-pot.",
+      "context": "Sacred pots filled with water, herbs, and gems, representing deities."
+    },
+    {
+      "term": "homa",
+      "transliteration": "homa",
+      "translation": "Fire ritual.",
+      "context": "Sacrificial rites involving offerings into a consecrated fire."
+    },
+    {
+      "term": "bali",
+      "transliteration": "bali",
+      "translation": "Offering.",
+      "context": "Offerings of food made to various deities, especially guardians."
+    },
+    {
+      "term": "dikpāla",
+      "transliteration": "dikpāla",
+      "translation": "Guardians of the directions.",
+      "context": "Deities presiding over the cardinal and intermediate directions."
+    },
+    {
+      "term": "Śiva-kumbha",
+      "transliteration": "Śiva-kumbha",
+      "translation": "Pot of Śiva.",
+      "context": "The most important sacred water-pot, representing Sadāśiva."
+    },
+    {
+      "term": "Vardhanī",
+      "transliteration": "Vardhanī",
+      "translation": "The increaser.",
+      "context": "A pot placed to the left of the Śiva-kumbha, representing the goddess Manonmanī."
+    },
+    {
+      "term": "pañca-ratna",
+      "transliteration": "pañca-ratna",
+      "translation": "Five gems.",
+      "context": "A group of five precious stones (gold, diamond, sapphire, ruby, pearl) placed in sacred water-pots."
+    },
+    {
+      "term": "pañcāmṛta",
+      "transliteration": "pañcāmṛta",
+      "translation": "Five nectars.",
+      "context": "A mixture of five ingredients (milk, curds, ghee, honey, sugar) used in worship."
+    },
+    {
+      "term": "kōil",
+      "transliteration": "kōil",
+      "translation": "Tamil term for temple, referring to the superstructure (vimāna) over the sanctum",
+      "context": "Defining the sanctum as divine in character."
+    },
+    {
+      "term": "vimāna",
+      "transliteration": "vimāna",
+      "translation": "The superstructure or tower over the sanctum",
+      "context": "Used interchangeably with 'kōil'."
+    },
+    {
+      "term": "brahma-sthāna",
+      "transliteration": "brahma-sthāna",
+      "translation": "The central area of the shrine-complex",
+      "context": "The prescribed location for the main deity."
+    },
+    {
+      "term": "Brahma-bhāga",
+      "transliteration": "Brahma-bhāga",
+      "translation": "The midmost square within the sanctum",
+      "context": "An alternative term for the ideal location of the main deity."
+    },
+    {
+      "term": "bimba-pratiṣṭhā",
+      "transliteration": "bimba-pratiṣṭhā",
+      "translation": "Installation of icons",
+      "context": "The technical term for the overall ceremony."
+    },
+    {
+      "term": "kalaśas",
+      "transliteration": "kalaśas",
+      "translation": "Sacred water-pots",
+      "context": "Used in rituals to hold sanctified water and other items."
+    },
+    {
+      "term": "abhiṣeka",
+      "transliteration": "abhiṣeka",
+      "translation": "Ritual bathing of the icon",
+      "context": "Performed by pouring water from consecrated pots accompanied by Vedic hymns."
+    },
+    {
+      "term": "bali",
+      "transliteration": "bali",
+      "translation": "Food-offerings",
+      "context": "Placed in the eight directions for spirits."
+    },
+    {
+      "term": "ṣoḍaśopacāra-pūjā",
+      "transliteration": "ṣoḍaśopacāra-pūjā",
+      "translation": "Elaborate worship with sixteen services/offerings",
+      "context": "The final step in the preliminary consecration."
+    },
+    {
+      "term": "ācārya",
+      "transliteration": "ācārya",
+      "translation": "Chief priest or guru",
+      "context": "Selected to lead the consecration ceremony."
+    },
+    {
+      "term": "sthāpaka",
+      "transliteration": "sthāpaka",
+      "translation": "Installer; another term for the chief priest",
+      "context": "Highlights the priest's role in establishing the deity."
+    },
+    {
+      "term": "ṛtviks",
+      "transliteration": "ṛtviks",
+      "translation": "Priests who participate in fire-rituals",
+      "context": "Assisting the main ācārya."
+    },
+    {
+      "term": "yāga-śālā",
+      "transliteration": "yāga-śālā",
+      "translation": "Sacrificial hall",
+      "context": "A temporary structure built for conducting the homa rituals."
+    },
+    {
+      "term": "Rākṣoghna-homa",
+      "transliteration": "Rākṣoghna-homa",
+      "translation": "Fire ritual for destroying demonic/negative influences",
+      "context": "Performed for the pacification of spirits and purification of the area."
+    },
+    {
+      "term": "Vāstu-homa",
+      "transliteration": "Vāstu-homa",
+      "translation": "Fire ritual related to Vāstu, the science of architecture",
+      "context": "A preliminary rite before the main consecration."
+    },
+    {
+      "term": "toraṇa",
+      "transliteration": "toraṇa",
+      "translation": "Festoons or gateways",
+      "context": "Used to decorate the yāga-śālā."
+    },
+    {
+      "term": "bimba-śodhana",
+      "transliteration": "bimba-śodhana",
+      "translation": "Icon-cleansing",
+      "context": "Ritual to cleanse the icon of impurities from the sculpting process."
+    },
+    {
+      "term": "pañca-gavya",
+      "transliteration": "pañca-gavya",
+      "translation": "The five products of the cow (milk, curds, ghee, urine, dung)",
+      "context": "Used for purification baths."
+    },
+    {
+      "term": "netronmīlana",
+      "transliteration": "netronmīlana",
+      "translation": "Opening of the eyes",
+      "context": "A key ritual to bestow sight upon the icon."
+    },
+    {
+      "term": "akṣi-mocana",
+      "transliteration": "akṣi-mocana",
+      "translation": "Release of the eyes",
+      "context": "Synonym for netronmīlana."
+    },
+    {
+      "term": "jalādhivāsa",
+      "transliteration": "jalādhivāsa",
+      "translation": "Temporary habitation/immersion in water",
+      "context": "A major purificatory ritual for the icon."
+    },
+    {
+      "term": "tūlikā",
+      "transliteration": "tūlikā",
+      "translation": "A golden stylus covered with a cotton wick",
+      "context": "The instrument used for the 'opening of the eyes' ceremony."
+    },
+    {
+      "term": "prachcanna-paṭa",
+      "transliteration": "prachcanna-paṭa",
+      "translation": "A curtain",
+      "context": "Used to screen the icon during the 'netronmīlana' ritual."
+    },
+    {
+      "term": "adhivāsa",
+      "transliteration": "adhivāsa",
+      "translation": "Providing a temporary habitation",
+      "context": "A series of rituals for purification by immersing the icon in various substances."
+    },
+    {
+      "term": "vraṇa-bhanga",
+      "transliteration": "vraṇa-bhanga",
+      "translation": "Healing the wounds",
+      "context": "A preliminary ritual to ritually heal the scars on the icon from sculpting."
+    },
+    {
+      "term": "annādhivāsa",
+      "transliteration": "annādhivāsa",
+      "translation": "Temporary habitation/immersion in edible grains",
+      "context": "A purificatory ritual performed after jalādhivāsa."
+    },
+    {
+      "term": "nyāsa",
+      "transliteration": "nyāsa",
+      "translation": "Placement",
+      "context": "A ritual of placing divine energies, mantras, or cosmic principles onto the body of the icon."
+    },
+    {
+      "term": "jīva-nyāsa",
+      "transliteration": "jīva-nyāsa",
+      "translation": "Placement of the soul",
+      "context": "The sequence of infusing vital power into the icon."
+    },
+    {
+      "term": "śayyādhivāsa",
+      "transliteration": "śayyādhivāsa",
+      "translation": "Temporary habitation on a bed",
+      "context": "The final adhivāsa where the icon is laid to rest for the night."
+    },
+    {
+      "term": "nidrā-kalaśa",
+      "transliteration": "nidrā-kalaśa",
+      "translation": "Sleep-pot",
+      "context": "A ceremonial pot of water placed at the head of the icon's bed during śayyādhivāsa."
+    },
+    {
+      "term": "kṣīrādhivāsa",
+      "transliteration": "kṣīrādhivāsa",
+      "translation": "Immersion in milk",
+      "context": "One of the prescribed adhivāsas."
+    },
+    {
+      "term": "prāṇa-pratiṣṭhā",
+      "transliteration": "prāṇa-pratiṣṭhā",
+      "translation": "Infusion/establishment of life-breath",
+      "context": "The ritual of infusing vitality into the icon."
+    },
+    {
+      "term": "devālayādhivāsa",
+      "transliteration": "devālayādhivāsa",
+      "translation": "Temporary habitation for the temple",
+      "context": "Consecration ceremony for the entire temple structure."
+    },
+    {
+      "term": "kūrma-śilā",
+      "transliteration": "kūrma-śilā",
+      "translation": "Tortoise-slab",
+      "context": "The foundation slab placed in the pit under the icon."
+    },
+    {
+      "term": "brahma-śilā",
+      "transliteration": "brahma-śilā",
+      "translation": "Brahma's slab",
+      "context": "The slab placed above the kūrma-śilā."
+    },
+    {
+      "term": "aṣṭa-bandha",
+      "transliteration": "aṣṭa-bandha",
+      "translation": "Eight-fold bond",
+      "context": "A ritual adhesive made of eight ingredients used to fix the icon to its base."
+    },
+    {
+      "term": "piṇḍikā",
+      "transliteration": "piṇḍikā",
+      "translation": "Pedestal",
+      "context": "The pedestal on which the icon is finally installed."
+    },
+    {
+      "term": "muhūrta",
+      "transliteration": "muhūrta",
+      "translation": "An auspicious moment in time",
+      "context": "The predetermined time for the installation ceremony."
+    },
+    {
+      "term": "pīṭha-bandhana",
+      "transliteration": "pīṭha-bandhana",
+      "translation": "Binding to the pedestal",
+      "context": "The act of fixing the icon to its pedestal."
+    },
+    {
+      "term": "nīrājana",
+      "transliteration": "nīrājana",
+      "translation": "Waving of lights",
+      "context": "Ceremonial waving of camphor light before the icon."
+    },
+    {
+      "term": "kalā-āvahanā",
+      "transliteration": "kalā-āvahanā",
+      "translation": "Invoking the divine aspects/soul",
+      "context": "A ritual following the final installation."
+    }
+  ],
+  "cross_reference_map": [
+    {
+      "reference_text": "It was said earlier that the temple must properly be constructed before an icon can duly be installed in it.",
+      "target": "Chapter One (implied)",
+      "page": "25"
+    },
+    {
+      "reference_text": "Vimānārcanā-kalpa of Marichi (patala 15, 'garbha-pada-vinyāsa' section)",
+      "target": "Vimānārcanā-kalpa",
+      "page": "27"
+    },
+    {
+      "reference_text": "Iśāna-śiva-guru-deva-paddhati (kriyāpāda, patala 47 3-14)",
+      "target": "Iśāna-śiva-guru-deva-paddhati",
+      "page": "29"
+    },
+    {
+      "reference_text": "Śrī-praśna-saṁhitā (20, 27-29)",
+      "target": "Śrī-praśna-saṁhitā",
+      "page": "30"
+    },
+    {
+      "reference_text": "Nāradīya-saṁhitā (15, 157-158) also suggests the same division of the floor-space...",
+      "target": "Nāradīya-saṁhitā",
+      "page": "30"
+    },
+    {
+      "reference_text": "Mānasāra (34, 'gṛha-māna-sthāna-vinyāsa')",
+      "target": "Mānasāra",
+      "page": "31"
+    },
+    {
+      "reference_text": "Bṛhat-saṁhitā (53, 42)",
+      "target": "Bṛhat-saṁhitā",
+      "page": "32"
+    },
+    {
+      "reference_text": "Mānasāra (chap. 7 'pāda-vinyāsa' section)",
+      "target": "Mānasāra",
+      "page": "32"
+    },
+    {
+      "reference_text": "Pūrva-kārāṇa (70, 13)",
+      "target": "Pūrva-kārāṇa",
+      "page": "43"
+    },
+    {
+      "reference_text": "Kāmikāgama, 8, 12",
+      "target": "Kāmikāgama",
+      "page": "43"
+    },
+    {
+      "reference_text": "Pūrva-kāmika (69, 2)",
+      "target": "Pūrva-kāmika",
+      "page": "45"
+    },
+    {
+      "reference_text": "Like the several adhivāsas for the icon-consecration (described in the previous chapter)...",
+      "target": "Previous chapter's discussion on adhivāsas",
+      "page": "64"
+    },
+    {
+      "reference_text": "Nāradīya-saṃhitā (28, 117-118)",
+      "target": "Nāradīya-saṃhitā, chapter 28, verses 117-118",
+      "page": "Title Page"
+    },
+    {
+      "reference_text": "Iśāna-śiva-guru-deva-paddhati (kriyā-pāda, 44th paṭala)",
+      "target": "Iśāna-śiva-guru-deva-paddhati, kriyā-pāda, 44th section",
+      "page": "50"
+    },
+    {
+      "reference_text": "Kriyādhikāra, 6, 61",
+      "target": "Kriyādhikāra, chapter 6, verse 61",
+      "page": "50"
+    },
+    {
+      "reference_text": "Nāradīya-sam-hitā, 15th chap",
+      "target": "Nāradīya-saṃhitā, chapter 15",
+      "page": "51"
+    },
+    {
+      "reference_text": "Uttara-kāmika (45, 69)",
+      "target": "Uttara-kāmika Āgama, chapter 45, verse 69",
+      "page": "52"
+    },
+    {
+      "reference_text": "Bhrgu's Kriyādhikāra (6, 64)",
+      "target": "Bhrgu's Kriyādhikāra, chapter 6, verse 64",
+      "page": "52"
+    },
+    {
+      "reference_text": "Pūrvo-kāraṇa (57, 19-28)",
+      "target": "Pūrvo-kāraṇa Āgama, chapter 57, verses 19-28",
+      "page": "53"
+    },
+    {
+      "reference_text": "Viśvāmitra-saṃhitā, 14, 12",
+      "target": "Viśvāmitra-saṃhitā, chapter 14, verse 12",
+      "page": "54"
+    },
+    {
+      "reference_text": "Sarva-deva-pratiṣṭhā-prakāśa, 7, 10 ff",
+      "target": "Sarva-deva-pratiṣṭhā-prakāśa, chapter 7, verse 10 onwards",
+      "page": "54"
+    },
+    {
+      "reference_text": "Pūrva-kāraṇa (76, 35-37)",
+      "target": "Pūrva-kāraṇa Āgama, chapter 76, verses 35-37",
+      "page": "56"
+    },
+    {
+      "reference_text": "Pratiṣṭhā-vidhi, Kāśyapa-śilpokta",
+      "target": "Texts named Pratiṣṭhā-vidhi and Kāśyapa-śilpokta",
+      "page": "58"
+    },
+    {
+      "reference_text": "Bhagavat-pratiṣ-ṭhā-darpaṇa, following Śaivāgama-prayoga-candrikā",
+      "target": "Texts named Bhagavat-pratiṣṭhā-darpaṇa and Śaivāgama-prayoga-candrikā",
+      "page": "59"
+    },
+    {
+      "reference_text": "Sarva-deva-partiṣṭhā-prakāśa",
+      "target": "Sarva-deva-partiṣṭhā-prakāśa text",
+      "page": "64"
+    },
+    {
+      "reference_text": "Pratishṭhā-vidhi",
+      "target": "Pratishṭhā-vidhi text",
+      "page": "64"
+    },
+    {
+      "reference_text": "Bhrgu-saṃhitā",
+      "target": "Bhrgu-saṃhitā text",
+      "page": "68"
+    }
+  ],
+  "bibliography_network": [],
+  "keywords_by_frequency": []
+}

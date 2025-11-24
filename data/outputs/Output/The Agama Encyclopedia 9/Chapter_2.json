@@ -1,0 +1,573 @@
+{
+  "chapter_number": "II",
+  "chapter_title": "CONSECRATION OF SHRINE",
+  "number_of_pages": 23,
+  "sections": [
+    {
+      "section_number": "1",
+      "section_title": "Introduction to Temple Consecration Rituals",
+      "content": "This section establishes the foundational principle that a temple must be properly constructed before an icon can be installed. It highlights that the Āgama texts provide detailed instructions for temple construction, viewing every stage as a ritual. The process begins with laying the basement (adhisthāna) and raising the sanctum, which is the central focus. The texts detail the sanctum's form, dimensions, and nature, as it houses the icon. The consecration involves both the sanctum and the icon. The sanctum's floor-space is typically divided into zones to determine the placement of main and subsidiary icons. The Vaikhanāsa texts mention two methods of floor division: one for a solitary, fixed stone icon (dhruvārcā) and another for installing this main deity alongside a moveable metallic icon (kautuka-bera) for daily worship.",
+      "summary": "The chapter opens by stating that temple construction is a prerequisite for icon installation and is itself a ritual process guided by the Āgama texts. The sanctum and its floor plan are critical for consecration, with different methods for placing fixed and moveable icons.",
+      "key_concepts": [
+        "Temple construction as ritual",
+        "Sanctum (garbhagṛha)",
+        "Icon installation",
+        "Division of floor-space",
+        "Fixed icon (dhruvārcā)",
+        "Moveable icon (kautuka-bera)"
+      ],
+      "page_range": "25"
+    },
+    {
+      "section_number": "2",
+      "section_title": "Division of the Sanctum Floor-Space: Vaikhānasā Method",
+      "content": "The Vaikhānasā tradition presents two methods for dividing the sanctum's floor-space. The first method, for when only the dhruvārcā is worshipped, divides the square floor into forty-nine equal cells (a 7x7 grid). The central cell is the 'Brahma-sthāna', where a standing permanent stone image is installed. The surrounding zone of eight cells is the 'daivika-bhāga'; a portion of this is used if the image is seated (āsina). The next concentric zone of sixteen cells is the 'mānuṣa-bhāga'. If the image is recumbent (śayāna), it occupies part of the Brahma-sthāna and all of the daivika-bhāga. The outermost zone of twenty-four cells is the 'paiśāca-bhāga', which is considered unsuitable for any installations. The second method, used when a Kautuka-bera is also present, divides the floor into 256 cells (a 16x16 grid). The central sixteen cells form the 'Brahma-bhāga' for the Kautuka-bera. The surrounding eighty cells are the 'daivika-bhāga', where the main permanent image is installed. This zone is subdivided based on the image's posture (standing, seated, or recumbent). Surrounding this is the ninety-cell 'mānuṣa-bhāga' and the outermost, unsuitable 'paiśāca-bhāga'. This is supported by a quote from the 'Vimānārcanā-kalpa' of Marichi. [IMAGE: A diagram shows four concentric squares labeled, from inner to outer, ब्राह्म (Brāhma), दैविक (Daivika), मानुष (Mānuṣa), and पैशाच (Paiśāca). Arrows indicate the width of the squares as 1, 3, 5, and 7 units respectively. The caption reads 'Dhruva-bera located in Brahma-bhāga when only Dhruva-bera receives worship in the shrine'.]",
+      "summary": "Vaikhānasā texts describe two primary ways to divide the sanctum floor: a 49-cell grid for a solitary main icon, and a 256-cell grid when a moveable icon is also installed. Both methods use four concentric zones (Brahma, daivika, mānuṣa, paiśāca) with specific rules for icon placement based on type and posture.",
+      "key_concepts": [
+        "Vaikhānasā texts",
+        "49-cell grid (7x7)",
+        "256-cell grid (16x16)",
+        "Brahma-sthāna / Brahma-bhāga",
+        "Daivika-bhāga",
+        "Mānuṣa-bhāga",
+        "Paiśāca-bhāga",
+        "Icon posture (standing, seated, recumbent)"
+      ],
+      "page_range": "26-27"
+    },
+    {
+      "section_number": "3",
+      "section_title": "Alternative Divisions: Śaiva and Pāñcarātra Methods",
+      "content": "The Śaiva āgamas offer a different perspective. While they also accept the division into four concentric zones, the rules for icon placement vary. The Mayamata text largely agrees with the Vaikhānasā 49-cell method but specifies that a Śiva liṅga should be in the Brahma-bhāga, Viṣṇu images in the daivika-bhāga, and other deities in the mānuṣa-bhāga. The paiśāca-bhāga is designated for mother-goddesses, rākṣasas, yakṣas, etc. In contrast, the Iśāna-śiva-guru-deva-paddhati suggests a division based on twenty-two horizontal and vertical lines, with warnings against placing the main icon in the absolute center (Brahma-madhyagam), as it can bring ruin to the kingdom. The Pāñcarātra texts, such as the Śrī-praśna-saṁhitā and Nāradīya-saṁhitā, also accept the 7x7 division. They specify that the brahma-śilā (foundation slab) is laid in the Brahma-sthāna for a single icon, but at the junction of the daiva and mānuṣa zones if multiple icons are present. The Nāradīya-saṁhitā states that only an immoveable icon (sthāvara) should be in the Brahma-sthāna, while a mobile icon should be placed between the daiva and mānuṣa zones.",
+      "summary": "Śaiva and Pāñcarātra traditions provide alternative rules for sanctum division. Śaiva texts like Mayamata specify placements for different deities within the 49-cell grid, while others warn against using the exact center. Pāñcarātra texts also use the 49-cell grid, with rules varying for single versus multiple icons and for moveable versus immoveable icons.",
+      "key_concepts": [
+        "Śaiva āgamas",
+        "Mayamata",
+        "Iśāna-śiva-guru-deva-paddhati",
+        "Pāñcarātra texts",
+        "Śrī-praśna-saṁhitā",
+        "Nāradīya-saṁhitā",
+        "brahma-śilā",
+        "sthāvara (immoveable icon)"
+      ],
+      "page_range": "28-31"
+    },
+    {
+      "section_number": "4",
+      "section_title": "Site Plans (Vāstu-maṇḍala)",
+      "content": "The concept of 'Brahma-sthāna' extends beyond the temple sanctum to mean the central portion of any site, like a courtyard, village, or town. According to Mānasāra, this central area is unsuited for residence but ideal for a household shrine. The Āgama texts present numerous site plans (Vāstu-maṇḍalas) created by dividing a site with lines (koṣṭhas). Bṛhat-saṁhitā mentions an 81-cell plan (9x9 grid) created by ten lines on each side. Mānasāra is cited as enumerating thirty-two distinct site plans, usually square, ranging from 'Sakala' (a single undivided cell) to 'Candra-kānta' (1,024 cells). A comprehensive list of these 32 plans and their corresponding cell counts is provided, including common ones like Sthaṇḍila (49 cells), Caṇḍita (64 cells), and Parama-śāyika (81 cells). The 64-cell 'caṇḍita' plan is noted as being preferred for temples. [IMAGE: A diagram labeled 'Vāstu-mandapa from Bṛhat-saṁhitā' shows an 81-cell grid (9x9). The central 9 cells and two concentric perimeters of cells are shaded, while corner cells are empty.]",
+      "summary": "This section explains that the 'Brahma-sthāna' is a universal concept for the center of a site. It details the system of Vāstu-maṇḍalas, or site plans, citing the Bṛhat-saṁhitā's 81-cell plan and providing a full list of 32 plans from the Mānasāra text, which range from 1 to 1,024 cells.",
+      "key_concepts": [
+        "Brahma-sthāna",
+        "Vāstu-maṇḍala",
+        "koṣṭha (cell/plot)",
+        "Mānasāra",
+        "Bṛhat-saṁhitā",
+        "Site plans (Sakala, Pīṭha, Sthaṇḍila, Caṇḍita etc.)"
+      ],
+      "page_range": "31-33"
+    },
+    {
+      "section_number": "5",
+      "section_title": "The Vāstu-pūjā Ritual",
+      "content": "The procedure for Vāstu-pūjā, typically performed on a 64-cell plan for temples, is described. A large pavilion (maṇṭapa) is erected, and in its middle zone, a platform (vedi) is built. On this platform, a pedestal (piṇḍikā or pīṭha) is constructed. Metal or wooden pegs (śaṅku or kīla) are driven into the ground at the corners with specific mantras. Food offerings are made to divinities at these corners. The pedestal's surface is then prepared, and two sets of nine lines are drawn to create a Vāstu-maṇḍala of 64 cells, with deities invoked for each line. The central four cells are the 'heart' of the Vāstu-puruṣa, the Brahma-sthāna. Vāstu-pūjā involves worshipping deities in all the outer cells, culminating in the worship of the central area, invoking Brahma. This is preceded by the worship of the Yoga-pīṭha and followed by the installation of the Vāstu-puruṣa, who is infused with life (prāṇa-pratiṣṭhā). The entire installation is considered a yajña (sacred ritual).",
+      "summary": "The Vāstu-pūjā ritual for temple consecration is detailed, involving the construction of a pavilion and pedestal, the ritual driving of pegs, and the creation of a 64-cell maṇḍala. The worship proceeds from the outer cells inward, culminating in the invocation of Brahma and the life-infusion of the Vāstu-puruṣa, treating the ceremony as a sacred yajña.",
+      "key_concepts": [
+        "Vāstu-pūjā",
+        "maṇṭapa (pavilion)",
+        "vedi (platform)",
+        "piṇḍikā (pedestal)",
+        "śaṅku (peg)",
+        "Vāstu-puruṣa",
+        "prāṇa-pratiṣṭhā",
+        "yajña"
+      ],
+      "page_range": "34-37"
+    },
+    {
+      "section_number": "6",
+      "section_title": "Worship of Associated Deities",
+      "content": "The worship of Vāstu-puruṣa aims to pacify spirits of the land and propitiate the deity who will reside in the shrine. Texts like Kuṇḍa-ratnāvalī prescribe that in addition to the Vāstu-puruṣa, seats must be established for the sixteen mother goddesses (mātṛkā), the guardian spirit of the locality (kṣetrapāla), and the nine planetary constellations (nava-graha). The seat for the mātṛkās is a 16-cell grid, with the 16th cell for the devotee's tutelary deity. The seat for the kṣetrapāla is a maṇḍala of 49 cells, with its limbs being 49 divinities whose names are listed alphabetically. The seat for the Nava-graha is a 9-cell grid, with each planet assigned a cell, a symbolic shape (circle for Sūrya, crescent for Candra, etc.), and a facing direction. [TABLE: A 4x4 grid on page 36 shows the names of 16 goddesses in Devanagari with corresponding numbers. TABLE: A 7x7 grid on page 37, titled '।। क्षेत्रपाल मण्डलम् ।।' (Kṣetrapāla Maṇḍalam), shows 49 deity names in Devanagari. IMAGE: A complex diagram on page 38 shows various yantras and symbols associated with the nava-graha and other deities. TABLE: An 8x8 grid on page 40 contains names of 64 goddesses or spirits in Devanagari.]",
+      "summary": "Beyond the Vāstu-puruṣa, the consecration involves establishing and worshipping other key deities: the sixteen Mātṛkās, the 49-fold Kṣetrapāla (local guardian), and the nine Navagrahas (planets). Each has a specific maṇḍala, list of associated divinities, and symbolic representation.",
+      "key_concepts": [
+        "mātṛkā (mother goddesses)",
+        "kṣetrapāla (guardian spirit)",
+        "nava-graha (nine planets)",
+        "deity maṇḍalas"
+      ],
+      "page_range": "38-40"
+    },
+    {
+      "section_number": "7",
+      "section_title": "Pavilions, Altars, and Ritual Articles",
+      "content": "The consecration process involves many other details. These include the preliminary Prāchi-sādhanā, constructing pavilions (maṇṭapa), and installing sacrificial altars (kuṇḍas) of various shapes (square, circular, triangular, lotus-shaped, yoni-shaped, etc.). The installation of fire (agni-sthāpanā), sacred water-pots (kalaśa), and sacrificial rites (homas) are central. Offerings (bali) are made to guardians of directions (dikpāla). Texts like Rauravāgama prescribe building one or more pavilions in front of the shrine. Pūrva-kārāṇa suggests four pavilions in the four directions (Skanda, Viṣṇu, Brahma, Śiva). These pavilions have platforms (vedikā) with altar-places (kuṇḍas). Kāmikāgama prescribes nine altar-places of different shapes for the main eastern pavilion. A central element is the arrangement of sacred water-pots (kumbha), with the main Śiva-kumbha and Vardhanī-pot in the center, representing Sadāśiva and Manonmanī. The chapter concludes by listing the vast array of articles required for these elaborate rituals, including utensils, specific types of wood, offerings, precious stones (pañca-ratna), metals, herbs, grains, and vessels. [IMAGE: Pages 41 and 42 illustrate various shapes of Kuṇḍas. IMAGE: A photograph on page 44 shows a 'Sivakumbha and Vardhani'.]",
+      "summary": "This final section covers the practical and material aspects of consecration, including the construction of pavilions and differently shaped sacrificial altars (kuṇḍas). It describes the arrangement of sacred water-pots (kumbhas) representing various deities and concludes with an extensive list of the numerous articles, from offerings and utensils to precious stones and herbs, required for the complex rituals.",
+      "key_concepts": [
+        "kuṇḍa (sacrificial altar)",
+        "kalaśa / kumbha (sacred water-pot)",
+        "homa (fire ritual)",
+        "bali (offering)",
+        "dikpāla (guardian of direction)",
+        "Śiva-kumbha",
+        "pañca-ratna (five gems)",
+        "ritual articles"
+      ],
+      "page_range": "40-47"
+    }
+  ],
+  "chapter_summary": "Chapter Two, 'CONSECRATION OF SHRINE', provides a detailed overview of the ritual procedures involved in consecrating a Hindu temple, as prescribed in the Āgama texts. It begins by emphasizing that temple construction itself is a ritual that must precede the installation of an icon. The core of the chapter focuses on the division of the sanctum's floor-space into concentric zones (Brahma, daivika, mānuṣa, paiśāca), detailing the different methodologies prescribed by the Vaikhānasā, Śaiva, and Pāñcarātra traditions for placing fixed and moveable icons. It then broadens the scope to discuss various Vāstu-maṇḍalas (site plans) from texts like Mānasāra and Bṛhat-saṁhitā. The chapter meticulously describes the Vāstu-pūjā ritual, the worship of the Vāstu-puruṣa, and associated deities like the Mātṛkās, Kṣetrapāla, and Navagrahas. Finally, it covers the practical aspects of the ceremony, including the construction of pavilions (maṇṭapas), the various shapes of sacrificial altars (kuṇḍas), the arrangement of sacred water-pots (kumbhas), and the extensive list of materials required for the consecration rites. The chapter underscores that every element of consecration is a precise, rule-based sacred act (yajña) aimed at purifying the space and infusing it with divine presence.",
+  "key_arguments": [
+    "The construction of a temple is a sacred ritual in itself and a necessary precursor to the installation of an icon.",
+    "The spatial arrangement of the sanctum, based on a grid system of concentric zones, is critical for the proper consecration and placement of deities.",
+    "Different Hindu traditions (Vaikhānasā, Śaiva, Pāñcarātra) have distinct, though related, rules for the division of sacred space, demonstrating diversity within a common framework.",
+    "The consecration ceremony is a comprehensive yajña that involves not only the main deity but also the pacification and worship of the site's spirit (Vāstu-puruṣa) and numerous other guardian and planetary deities.",
+    "The successful performance of the consecration rituals requires strict adherence to textual prescriptions regarding procedures, materials, and the construction of temporary structures like pavilions and altars."
+  ],
+  "key_takeaways": [
+    "Temple consecration is not a simple installation but an elaborate, multi-stage ritual process.",
+    "The floor plan of the sanctum is a cosmic map (maṇḍala) with designated zones for different levels of sanctity.",
+    "There is significant variation in ritual details among different Āgamic traditions.",
+    "The concept of Vāstu involves harmonizing the building with cosmic and terrestrial energies, personified by the Vāstu-puruṣa.",
+    "An extensive array of specific natural and crafted materials is essential for the rituals, highlighting the deep connection between the temple, nature, and human craftsmanship."
+  ],
+  "historical_figures": [
+    {
+      "name": "Marichi",
+      "role": "Author/Sage",
+      "significance": "Cited as the author of the Vimānārcanā-kalpa, a Vaikhānasā text that provides rules for dividing the sanctum floor-space.",
+      "dates": "Ancient"
+    }
+  ],
+  "historical_events": [],
+  "geographic_locations": [],
+  "sanskrit_hindi_terms": [
+    {
+      "term": "Āgama",
+      "transliteration": "Āgama",
+      "translation": "Traditional doctrine or precept, a collection of sacred scriptures.",
+      "context": "The primary textual sources for temple construction and consecration rituals."
+    },
+    {
+      "term": "adhisthāna",
+      "transliteration": "adhisthāna",
+      "translation": "Basement or base.",
+      "context": "The foundation layer of the temple, which must be well laid before the sanctum is raised."
+    },
+    {
+      "term": "dhruvārcā",
+      "transliteration": "dhruvārcā",
+      "translation": "Fixed or permanent icon.",
+      "context": "A solitary main deity sculpted in stone and fixed to the ground in the sanctum."
+    },
+    {
+      "term": "kautuka-bera",
+      "transliteration": "kautuka-bera",
+      "translation": "Moveable icon.",
+      "context": "A metallic icon used for regular and daily worship, often placed alongside the dhruvārcā."
+    },
+    {
+      "term": "Brahma-sthāna",
+      "transliteration": "Brahma-sthāna",
+      "translation": "Place of Brahma.",
+      "context": "The central cell or zone of the sanctum floor-space, considered the most sacred spot."
+    },
+    {
+      "term": "daivika-bhāga",
+      "transliteration": "daivika-bhāga",
+      "translation": "Divine portion.",
+      "context": "The zone surrounding the Brahma-sthāna, designated for divine beings or the main icon in some traditions."
+    },
+    {
+      "term": "mānuṣa-bhāga",
+      "transliteration": "mānuṣa-bhāga",
+      "translation": "Human portion.",
+      "context": "The zone surrounding the daivika-bhāga."
+    },
+    {
+      "term": "paiśāca-bhāga",
+      "transliteration": "paiśāca-bhāga",
+      "translation": "Demonic/spirit portion.",
+      "context": "The outermost zone, considered unsuitable for the installation of primary deities."
+    },
+    {
+      "term": "śayāna",
+      "transliteration": "śayāna",
+      "translation": "Recumbent.",
+      "context": "Describing the posture of an icon lying down."
+    },
+    {
+      "term": "āsina",
+      "transliteration": "āsina",
+      "translation": "Seated.",
+      "context": "Describing the posture of a seated icon."
+    },
+    {
+      "term": "garbha-pada-vinyāsa",
+      "transliteration": "garbha-pada-vinyāsa",
+      "translation": "Arrangement of the plots of the inner sanctum.",
+      "context": "The title of a section in the Vimānārcanā-kalpa of Marichi."
+    },
+    {
+      "term": "liṅga",
+      "transliteration": "liṅga",
+      "translation": "Symbol or sign.",
+      "context": "An aniconic representation of Śiva, prescribed for installation in the Brahma-bhāga in Śaiva shrines."
+    },
+    {
+      "term": "brahma-śilā",
+      "transliteration": "brahma-śilā",
+      "translation": "Brahma stone.",
+      "context": "The foundation-slab for the installation of the main deity."
+    },
+    {
+      "term": "sthāvara",
+      "transliteration": "sthāvara",
+      "translation": "Immoveable.",
+      "context": "An immoveable icon, which the Nāradīya-saṁhitā prescribes must be in the Brahma-sthāna."
+    },
+    {
+      "term": "koṣṭha",
+      "transliteration": "koṣṭha",
+      "translation": "Plot, square, or cell.",
+      "context": "The individual cells that make up a site plan or maṇḍala."
+    },
+    {
+      "term": "Vāstu-maṇḍapa",
+      "transliteration": "Vāstu-maṇḍapa",
+      "translation": "Site plan pavilion/diagram.",
+      "context": "A diagrammatic plan of a site, such as the 81-cell plan from Bṛhat-saṁhitā."
+    },
+    {
+      "term": "maṇṭapa",
+      "transliteration": "maṇṭapa",
+      "translation": "Pavilion.",
+      "context": "A temporary or permanent structure erected for rituals."
+    },
+    {
+      "term": "vedi",
+      "transliteration": "vedi",
+      "translation": "Platform or altar.",
+      "context": "A raised platform constructed in the center of a maṇṭapa."
+    },
+    {
+      "term": "piṇḍikā",
+      "transliteration": "piṇḍikā",
+      "translation": "Pedestal.",
+      "context": "A pedestal built on the vedi for placing offerings or the icon."
+    },
+    {
+      "term": "śaṅku / kīla",
+      "transliteration": "śaṅku / kīla",
+      "translation": "Peg or stake.",
+      "context": "Metal or wooden pegs driven into the ground at the corners of the ritual area."
+    },
+    {
+      "term": "Vāstu-puruṣa",
+      "transliteration": "Vāstu-puruṣa",
+      "translation": "Cosmic Man or spirit of the site.",
+      "context": "A deity personifying the site, who must be propitiated during construction and consecration."
+    },
+    {
+      "term": "prāṇa-pratiṣṭhā",
+      "transliteration": "prāṇa-pratiṣṭhā",
+      "translation": "Establishment of life-breath.",
+      "context": "The ritual of infusing an icon or deity representation with life."
+    },
+    {
+      "term": "yajña",
+      "transliteration": "yajña",
+      "translation": "Sacrifice, worship, sacred ritual.",
+      "context": "The entire installation ceremony is regarded as a yajña."
+    },
+    {
+      "term": "Kṣetrapāla",
+      "transliteration": "Kṣetrapāla",
+      "translation": "Guardian of the field/locality.",
+      "context": "A guardian spirit of the area who is worshipped during consecration."
+    },
+    {
+      "term": "mātṛkā",
+      "transliteration": "mātṛkā",
+      "translation": "Mother goddesses.",
+      "context": "A group of sixteen goddesses worshipped during the rituals."
+    },
+    {
+      "term": "nava-graha",
+      "transliteration": "nava-graha",
+      "translation": "Nine planets.",
+      "context": "The nine celestial bodies of Hindu astrology, who are propitiated."
+    },
+    {
+      "term": "kuṇḍa",
+      "transliteration": "kuṇḍa",
+      "translation": "Pit or altar.",
+      "context": "A sacrificial altar for fire rituals (homa), which can have various shapes."
+    },
+    {
+      "term": "kalaśa / kumbha",
+      "transliteration": "kalaśa / kumbha",
+      "translation": "Water-pot.",
+      "context": "Sacred pots filled with water, herbs, and gems, representing deities."
+    },
+    {
+      "term": "homa",
+      "transliteration": "homa",
+      "translation": "Fire ritual.",
+      "context": "Sacrificial rites involving offerings into a consecrated fire."
+    },
+    {
+      "term": "bali",
+      "transliteration": "bali",
+      "translation": "Offering.",
+      "context": "Offerings of food made to various deities, especially guardians."
+    },
+    {
+      "term": "dikpāla",
+      "transliteration": "dikpāla",
+      "translation": "Guardians of the directions.",
+      "context": "Deities presiding over the cardinal and intermediate directions."
+    },
+    {
+      "term": "Śiva-kumbha",
+      "transliteration": "Śiva-kumbha",
+      "translation": "Pot of Śiva.",
+      "context": "The most important sacred water-pot, representing Sadāśiva."
+    },
+    {
+      "term": "Vardhanī",
+      "transliteration": "Vardhanī",
+      "translation": "The increaser.",
+      "context": "A pot placed to the left of the Śiva-kumbha, representing the goddess Manonmanī."
+    },
+    {
+      "term": "pañca-ratna",
+      "transliteration": "pañca-ratna",
+      "translation": "Five gems.",
+      "context": "A group of five precious stones (gold, diamond, sapphire, ruby, pearl) placed in sacred water-pots."
+    },
+    {
+      "term": "pañcāmṛta",
+      "transliteration": "pañcāmṛta",
+      "translation": "Five nectars.",
+      "context": "A mixture of five ingredients (milk, curds, ghee, honey, sugar) used in worship."
+    }
+  ],
+  "cross_references": [
+    {
+      "reference_text": "It was said earlier that the temple must properly be constructed before an icon can duly be installed in it.",
+      "target": "Chapter One (implied)",
+      "page": "25"
+    },
+    {
+      "reference_text": "Vimānārcanā-kalpa of Marichi (patala 15, 'garbha-pada-vinyāsa' section)",
+      "target": "Vimānārcanā-kalpa",
+      "page": "27"
+    },
+    {
+      "reference_text": "Iśāna-śiva-guru-deva-paddhati (kriyāpāda, patala 47 3-14)",
+      "target": "Iśāna-śiva-guru-deva-paddhati",
+      "page": "29"
+    },
+    {
+      "reference_text": "Śrī-praśna-saṁhitā (20, 27-29)",
+      "target": "Śrī-praśna-saṁhitā",
+      "page": "30"
+    },
+    {
+      "reference_text": "Nāradīya-saṁhitā (15, 157-158) also suggests the same division of the floor-space...",
+      "target": "Nāradīya-saṁhitā",
+      "page": "30"
+    },
+    {
+      "reference_text": "Mānasāra (34, 'gṛha-māna-sthāna-vinyāsa')",
+      "target": "Mānasāra",
+      "page": "31"
+    },
+    {
+      "reference_text": "Bṛhat-saṁhitā (53, 42)",
+      "target": "Bṛhat-saṁhitā",
+      "page": "32"
+    },
+    {
+      "reference_text": "Mānasāra (chap. 7 'pāda-vinyāsa' section)",
+      "target": "Mānasāra",
+      "page": "32"
+    },
+    {
+      "reference_text": "Pūrva-kārāṇa (70, 13)",
+      "target": "Pūrva-kārāṇa",
+      "page": "43"
+    },
+    {
+      "reference_text": "Kāmikāgama, 8, 12",
+      "target": "Kāmikāgama",
+      "page": "43"
+    },
+    {
+      "reference_text": "Pūrva-kāmika (69, 2)",
+      "target": "Pūrva-kāmika",
+      "page": "45"
+    }
+  ],
+  "quotations": [
+    {
+      "quote": "अथ गर्भागारपदविन्यासविधिं वक्ष्ये प्रागाग्रैरुत्तराग्रैश्च सूत्रैः षट्पञ्चाश‌द्विशतभागं च विभज्य तन्मध्ये षोडशभागं ब्राह्मम्। तत्परितश्चतुरधिकाशीतिभागं दैविकम्। तत्परितः षण्णवतिभागं मानुषम्। तद्बहिः षष्टिभागं पैशाचं भवति । तन्मध्ये वा स्थानकं देवमानुषयोरन्तरे चासनं किञ्चिदैविकमाश्रित्यमानुषांशे शयनं स्थापयेत्। ध्रुवार्चा चेद् गर्भागारं सप्तसप्त विभागं कृत्वा तन्मध्ये चैकं पदं ब्राह्मम्। तत्परिताश्चतुर्विंशतिभागं पैशाचं भवति । ब्रह्मस्थाने स्थापयेच्छान्तिकं दैविके पौष्टिकं देवमानुषयोर्मध्ये जयदम्। एवं ध्रुवार्चा संस्थापयेत्॥",
+      "source": "Vimānārcanā-kalpa of Marichi (patala 15, 'garbha-pada-vinyāsa' section)",
+      "context": "Providing the scriptural basis for the two Vaikhānasā methods of dividing the sanctum floor-space into 256 or 49 cells."
+    },
+    {
+      "quote": "गर्भागारे सप्तसप्तांशकें शं मध्ये ब्राह्म दैविकं चाष्टभागम् । मानुष्यं तत् षोडशांशं तु बाह्ये पैशाचं स्यात् तच्चर्विंशदंशम् । शैवं ब्राह्मे वैष्णवं दैविकांशे सर्वे देवा मानुषे स्थापनीयाः । पैशाचके मातरश्चासुराद्या रक्षयक्षाश्चापि गन्धर्वनागाः ॥",
+      "source": "Mayamata (implied)",
+      "context": "Prescribing the placement of different deities (Śiva, Viṣṇu, etc.) within the zones of a 49-cell grid according to Śaiva tradition."
+    },
+    {
+      "quote": "द्वारांशं गर्भभवने निश्चित्य तु चतुर्दिशम् । तद् द्वाविंशतिसूत्रैस्तु प्राचीनैश्चाप्युदङ्‌मुखैः। विभजेत् तत्र यन्मध्यकोष्ठं ब्रह्माह्वयं स्मृतम्॥ तच्च प्राच्यैरुदीचीनैः सूत्रैः षोढा विभज्य तु । षट्त्रिंशकोष्ठानि स्युस्तत्कोष्ठानां तु मध्यतः ॥ यः प्राच्योदीच्ययोः सन्धिर्ब्रह्मस्थानं तु मध्यतः ॥ तद्वर्ज्य हि प्रतिष्ठासु शिवादीनां तुं मध्यतः ॥ यदि मोहात्प्रमादाद्वा स्थापयेद्ब्रह्म मध्यगम्। लिंगादिकं तदा राज्यकर्तुराजविनाशकृत्।। ब्रह्मस्थानाद्यदैशाम्यां कोष्ठं तस्यैशकोणगः । सूत्रसन्धिः प्रतिष्ठायां लिंगमध्ये यथा भवेत् ॥ शिवमध्यं तथा ज्ञात्वा तत्रैव स्थापयेच्छिवम्। सप्तसप्तकंकोष्ठं गर्भगारं विभजेत् ॥",
+      "source": "Iśāna-śiva-guru-deva-paddhati (kriyāpāda, patala 47 3-14)",
+      "context": "Suggesting a different method of floor division (with 22 lines) and warning against installing an icon in the very center."
+    },
+    {
+      "quote": "द्वाराद् भित्त्यन्तभूमिं तु सप्तधा विभजेद् गुरुः । ब्रह्मस्थानं मध्यमं स्याद्देवस्थानमनन्तरम्। मानुषं तु ततः पश्चात्पैशाचं समुदीरितम् ।। एकबेरे ब्रह्मशिलां ब्रह्मस्थाने तु निक्षिपेत्। बहुबेरविधाने तु देवमानुषयोः पदे ॥",
+      "source": "Śrī-praśna-saṁhitā (20, 27-29)",
+      "context": "Describing the 7x7 division in Pāñcarātra texts and specifying where to lay the foundation slab (brahma-śilā) for one vs. multiple icons."
+    },
+    {
+      "quote": "गर्भागारं विभजेत् सप्तसप्तविभागतः । ब्रह्मदेवमनुष्याणां पिशाचानां पदानि तु। मध्यादारभ्य यत्नेन क्रमाज्ज्ञेयानि देशिकैः ॥ ब्राह्मे तु पिण्डिका स्थाप्या स्थावरार्चा यदा भवेत् अस्थावरविधाने तु दैवमानुषमध्यमे ।।",
+      "source": "Nāradīya-saṁhitā (implied)",
+      "context": "Stating that only an immoveable icon should be in the Brahma-sthāna, while a mobile one should be between the daiva and mānuṣa zones."
+    },
+    {
+      "quote": "एकाशीतिविभागे दश दश पूर्वोत्तरायता रेखाः ।",
+      "source": "Bṛhat-saṁhitā (53, 42)",
+      "context": "Describing the creation of an 81-cell plan using ten lines drawn east-west and north-south."
+    },
+    {
+      "quote": "ओं विशन्तु भूतले नागा लोकपालाश्च सर्वतः । मण्डपेऽत्रावतिष्ठन्तु ह्यायुर्बलकराः सदाः ॥",
+      "source": "Traditional Mantra",
+      "context": "Recited when driving pegs into the earth during Vāstu-pūjā."
+    },
+    {
+      "quote": "ओं रुद्रेभ्यश्च सर्पेभ्यो ये चान्ये तत्समाश्रिताः । बलिं तेभ्यः प्रयच्छामि गृह्णन्तु सततोत्सुकाः॥",
+      "source": "Traditional Mantra",
+      "context": "Recited when making food offerings at the corners of the ritual area."
+    },
+    {
+      "quote": "ओं भूर्भुवः स्वः ब्रह्मन् इहागच्छ इह तिष्ठ ओं ब्रह्मणे नमः।",
+      "source": "Traditional Mantra",
+      "context": "Invocatory formula to call Brahma to dwell in the central area of the maṇḍala."
+    },
+    {
+      "quote": "ओं भूर्भुवः स्वः वास्तुपुरुष महाबलपराक्रम सर्वदेवाश्रितशारीर ब्रह्मपुत्र सकलब्रह्माण्डधारक भगवन्निहागच्छ । भो वास्तुपुरुष इह तिष्ठ ।",
+      "source": "Traditional Mantra",
+      "context": "The invocatory formula for installing the Vāstu-puruṣa."
+    },
+    {
+      "quote": "एष वै प्रतिष्ठानामयज्ञो यत्रैतेन यज्ञेन यजन्ते सर्वमेव प्रतिष्ठितं भवति ॥",
+      "source": "Scriptural Text",
+      "context": "Stating that the installation ceremony is a yajña, and by performing it, everything becomes well-established."
+    },
+    {
+      "quote": "मण्डपस्य त्रिभागैके मध्यभागे तु वेदिका। रत्निमात्रसमुत्सेधा दर्पणोदरसन्निभा ।। कुण्डानि परितः कुर्यान्मानुषे तु पदे क्रमात्। युगाश्रं योनिचापं च त्र्यश्रं वृत्तमथाब्जकम्॥ सप्ताश्रं चैव वस्वश्रमिन्द्रादिषु प्रकल्पयेत्। प्राक्कुण्डईशयोर्मध्ये वृत्तं प्रधानिकं कुरु ॥",
+      "source": "Kāmikāgama (implied)",
+      "context": "Describing the construction of a vedi within a maṇḍapa and the arrangement of eight differently shaped kuṇḍas in the eight directions."
+    },
+    {
+      "quote": "प्रासादस्याग्रतः कुर्यान्मण्डपं वेदिकान्वितम्। नवकुण्डसमायुक्तं पञ्चकुण्डयुतं तु वा॥",
+      "source": "Pūrva-kāmika (69, 2)",
+      "context": "Suggesting that a single pavilion with a platform and either nine or five altars is sufficient for the consecration."
+    },
+    {
+      "quote": "मध्यमे शिवकुंभ तु वर्धनीसहितं न्यसेत् । दिङ्‌मूर्तिसंख्यया कुम्भस्तद्बहिः परितो न्यसेत्॥",
+      "source": "Scriptural Text",
+      "context": "Instructing the placement of the Śiva-kumbha and Vardhanī pot in the center, surrounded by other pots."
+    }
+  ],
+  "tables_and_charts": [
+    {
+      "type": "table",
+      "description": "A 4x4 grid containing the names of 16 goddesses or aspects in Devanagari script, numbered 1 to 16.",
+      "data_summary": "The table lists sixteen goddesses invoked during rituals. The names include गौयै (Gauryai), पद्मायै (Padmāyai), राच्यै (Rācyai), मेघायै (Meghāyai), सावित्र्यै (Sāvitryai), विजयायै (Vijayāyai), जयायै (Jayāyai), देवसेनायै (Devasenāyai), स्वधायै (Svadhāyai), स्वाहायै (Svāhāyai), मातृभ्यो (Mātṛbhyo), लोकमातृभ्यो (Lokamātṛbhyo), दृष्ट्ये (Dṛṣṭye), पुष्ट्ये (Puṣṭye), तुष्ट्ये (Tuṣṭye), and यात्मकुलदेवतायै (Yātmakuladevatāyai).",
+      "page": "36"
+    },
+    {
+      "type": "chart",
+      "description": "A 7x7 grid labeled '।। क्षेत्रपाल मण्डलम् ।।' (Kṣetrapāla Maṇḍalam). Each of the 49 cells contains a deity name in Devanagari, associated with the limbs of Kṣetrapāla.",
+      "data_summary": "This maṇḍala lists the 49 divinity-limbs of the guardian deity Kṣetrapāla. The names begin with Ajara, Āpakumbha, etc., covering the Sanskrit alphabet.",
+      "page": "37"
+    },
+    {
+      "type": "table",
+      "description": "An 8x8 grid with 64 cells, each containing a name of a goddess or spirit in Devanagari script.",
+      "data_summary": "This grid likely represents a 64-yogini maṇḍala or a similar arrangement of 64 divinities used in specific rituals. The names are varied and complex, such as 'निशान हो', 'का में सिद्धि', etc.",
+      "page": "40"
+    }
+  ],
+  "images_and_diagrams": [
+    {
+      "type": "diagram",
+      "description": "A diagram of four concentric squares representing the zones of a sanctum floor. The zones are labeled in Devanagari from innermost to outermost: ब्राह्म, दैविक, मानुष, पैशाच. Arrows with numbers (1, 3, 5, 7) indicate the relative widths.",
+      "significance": "Visually illustrates the Vaikhānasā method of dividing the sanctum floor-space into four distinct zones of sanctity for the installation of a solitary Dhruva-bera.",
+      "page": "26"
+    },
+    {
+      "type": "diagram",
+      "description": "A diagram labeled 'Vāstu-mandapa from Bṛhat-saṁhitā', showing a 9x9 grid of 81 cells. The central 3x3 cells and two surrounding perimeters are shaded differently.",
+      "significance": "Represents the Parama-śāyika plan, a common Vāstu-maṇḍala used for site planning, showing the division of space and the location of key zones.",
+      "page": "32"
+    },
+    {
+      "type": "diagram",
+      "description": "A complex chart with nine main panels and other elements, showing symbols for various deities and the Navagrahas. Includes a circle for the Sun, a crescent for the Moon, a triangle for Mars, a bow for Mercury, and other symbolic shapes and figures.",
+      "significance": "Illustrates the iconographic and symbolic representations used for the Navagrahas and other deities in a maṇḍala for worship during consecration rituals.",
+      "page": "38"
+    },
+    {
+      "type": "illustration",
+      "description": "A set of six line drawings showing different shapes for sacrificial altars (kuṇḍas).",
+      "significance": "Illustrates the variety of prescribed shapes for kuṇḍas used in homa rituals. Shapes shown are: Square Kunda, Crescent shaped Kunda, Triangular shaped Kunda, Circular Kunda, Six-angled Kunda, and Eight-angled Kunda.",
+      "page": "41"
+    },
+    {
+      "type": "illustration",
+      "description": "A set of four line drawings showing more shapes for sacrificial altars (kuṇḍas).",
+      "significance": "Continues the illustration of kuṇḍa shapes. Shapes shown are: Lotus-shaped Kunda, Eight-sided Kunda, Six-sided Kunda, and Yoni-Kunda (heart/leaf-shaped).",
+      "page": "42"
+    },
+    {
+      "type": "photograph",
+      "description": "A black and white photograph of two decorated pots, labeled 'Sivakumbha and Vardhani'.",
+      "significance": "Provides a visual example of the central sacred water-pots used in Śaiva consecration rituals, representing Sadāśiva and his śakti, Manonmanī.",
+      "page": "44"
+    }
+  ],
+  "footnotes_endnotes": [],
+  "controversial_points": [
+    "The text highlights a point of ritual caution that could be considered a 'controversial point' within the tradition: the severe negative consequences of incorrect icon placement. The Iśāna-śiva-guru-deva-paddhati warns that placing a liṅga in the absolute center of the Brahma-sthāna ('brahma madhyagam') out of ignorance or error will cause the destruction of the kingdom and its ruler ('rājyakarturājavināśakṛt'). This emphasizes the high stakes and precision required in these rituals."
+  ],
+  "alternative_viewpoints": [
+    "The chapter systematically presents alternative viewpoints from different Āgamic traditions on the division of the sanctum floor-space: Vaikhānasā texts propose a 49-cell plan for a single icon and a 256-cell plan for dual icons. Śaiva Āgamas (like Mayamata) use the 49-cell plan but specify different deities for different zones (Śiva in the center, Viṣṇu in the next zone). Another Śaiva text (Iśāna-śiva-guru-deva-paddhati) proposes a completely different grid based on 22 lines. Pāñcarātra texts largely agree with the 49-cell plan but have different rules for single vs. multiple icons.",
+    "There are differing prescriptions for the number of pavilions and altars. Some texts like Pūrva-kārāṇa suggest four pavilions. Others like Pūrva-kāmika suggest one pavilion is sufficient. Within a pavilion, there can be nine, five, or one altar-place."
+  ],
+  "keywords": [
+    "Consecration",
+    "Temple",
+    "Shrine",
+    "Āgama",
+    "Vāstu",
+    "Maṇḍala",
+    "Sanctum",
+    "Garbhagṛha",
+    "Icon installation",
+    "Dhruvārcā",
+    "Kautuka-bera",
+    "Vaikhānasā",
+    "Śaiva",
+    "Pāñcarātra",
+    "Brahma-sthāna",
+    "Vāstu-puruṣa",
+    "Vāstu-pūjā",
+    "Kuṇḍa",
+    "Kalaśa",
+    "Homa",
+    "Ritual"
+  ]
+}

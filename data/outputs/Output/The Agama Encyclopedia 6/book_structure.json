@@ -1,0 +1,49 @@
+{
+  "introduction": {
+    "title": "Introduction",
+    "start_page": 7,
+    "end_page": 8
+  },
+  "table_of_contents": {
+    "start_page": 5,
+    "end_page": 5
+  },
+  "chapters": [
+    {
+      "chapter_number": "I",
+      "title": "ĀLAYA",
+      "start_page": 1,
+      "end_page": 78
+    },
+    {
+      "chapter_number": "II",
+      "title": "WORSHIP IN TEMPLE",
+      "start_page": 79,
+      "end_page": 95
+    },
+    {
+      "chapter_number": "III",
+      "title": "RITUAL REQUIREMENTS",
+      "start_page": 96,
+      "end_page": 115
+    },
+    {
+      "chapter_number": "IV",
+      "title": "DAILY RITUALS",
+      "start_page": 116,
+      "end_page": 130
+    },
+    {
+      "chapter_number": "V",
+      "title": "FESTIVALS",
+      "start_page": 131,
+      "end_page": 144
+    },
+    {
+      "chapter_number": "VI",
+      "title": "SYMBOLISM OF RITUALS",
+      "start_page": 145,
+      "end_page": 153
+    }
+  ]
+}

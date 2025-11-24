@@ -1,0 +1,42 @@
+{
+  "preface": {
+    "title": "Preface",
+    "start_page": 8,
+    "end_page": 8
+  },
+  "introduction": {
+    "title": "Introduction",
+    "start_page": 7,
+    "end_page": 7
+  },
+  "table_of_contents": {
+    "start_page": 5,
+    "end_page": 5
+  },
+  "chapters": [
+    {
+      "chapter_number": "1",
+      "title": "THE WORSHIP RITUALS",
+      "start_page": 1,
+      "end_page": 17
+    },
+    {
+      "chapter_number": "2",
+      "title": "SNĀNA: RITUAL BATH",
+      "start_page": 18,
+      "end_page": 44
+    },
+    {
+      "chapter_number": "3",
+      "title": "FIVEFOLD PURIFICATION (PAÑCA-ŚUDDHI)",
+      "start_page": 45,
+      "end_page": 100
+    },
+    {
+      "chapter_number": "4",
+      "title": "ARTICLES IN WORSHIP",
+      "start_page": 101,
+      "end_page": 133
+    }
+  ]
+}
