@@ -90,5 +90,5 @@ Agama Shastra/
 tmp/
 *.tmp
 retrieval_outputs/
-
+output/
 # Note: chroma_db is NOT ignored - it needs to be deployed

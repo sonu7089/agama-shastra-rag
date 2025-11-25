@@ -1,0 +1,970 @@
+{
+  "book_title": "The Agama Encyclopedia 10",
+  "total_chapters": 5,
+  "total_pages": 0,
+  "all_historical_figures": [
+    {
+      "name": "Brahma, Viṣṇu, and Maheśvara",
+      "role": "Seers (ṛṣi)",
+      "significance": "Mentioned as the seers of the Prāṇa-pratiṣṭhā-mantra in the context of Rṣyādi-nyāsa, establishing the divine origin of the mantra.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Indra",
+      "role": "Lord of the gods",
+      "significance": "The status of Indra ('śukra-tattvam') is mentioned as the benefit of offering a seat (āsana) to the deity.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Talakādu Kṛṣṇa-Dīkṣita",
+      "role": "Editor",
+      "significance": "Edited the 'Arcanāprakāśa' (published 1962), the primary source compilation for the procedure described in this chapter.",
+      "dates": "Active 1962"
+    },
+    {
+      "name": "Śiva",
+      "role": "Primary Deity",
+      "significance": "The central deity to whom the Nityārcanā is offered.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Gaṇeśa",
+      "role": "Deity",
+      "significance": "Worshipped at the beginning of rituals to remove obstacles.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Durgā",
+      "role": "Deity",
+      "significance": "Worshipped at the main door along with Gaṇeśa.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Kṣetrapāla",
+      "role": "Deity",
+      "significance": "Guardian of the temple grounds, whose permission is sought before worship.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Caṇḍikeśvara",
+      "role": "Deity / Steward",
+      "significance": "An important devotee of Śiva who receives the 'nirmālya' (remains of worship).",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Naṭarāja",
+      "role": "Deity (Form of Śiva)",
+      "significance": "The iconic representation of Śiva worshipped during pradośa-pūjā.",
+      "dates": "Mythological"
+    },
+    {
+      "name": "Gayaprāta",
+      "role": "Ṛṣi (seer)",
+      "significance": "Mentioned as the ṛṣi of the Vedic hymn 'Apai...' used for manuṣya-gandha nirharaṇa (warding off the effect of human breath).",
+      "dates": "Ancient/Vedic period"
+    },
+    {
+      "name": "Kaṇḍu",
+      "role": "Ṛṣi (seer)",
+      "significance": "Mentioned as the ṛṣi of the Brahma-pāra-stotra, a hymn recited to gain eligibility for worship.",
+      "dates": "Ancient/Puranic period"
+    },
+    {
+      "name": "Merupṛṣṭha",
+      "role": "Ṛṣi (seer)",
+      "significance": "Mentioned as the ṛṣi of the mantra for sanctifying the seat (āsana).",
+      "dates": "Ancient/Puranic period"
+    },
+    {
+      "name": "Alasiṅga-bhaṭṭa",
+      "role": "Commentator",
+      "significance": "Author of the commentary on the Sāttvata-Saṃhitā text excerpted in the chapter.",
+      "dates": "His commentary was published in 1982."
+    },
+    {
+      "name": "Maheśvarānanda-nātha",
+      "role": "Compiler of the Tantra",
+      "significance": "Compiled the Paramānanda-Tantra, from which these excerpts are taken.",
+      "dates": "Unknown"
+    },
+    {
+      "name": "Āchārya-Raghunātha-miśra",
+      "role": "Editor",
+      "significance": "Edited the edition of the Paramānanda-Tantra published by Sampūrṇānanda Sanskrit University.",
+      "dates": "20th century (publication date 1985)"
+    }
+  ],
+  "complete_timeline": [
+    {
+      "event": "Publication of Arcanāprakāśa",
+      "date": "1962",
+      "significance": "The source text compiled by Talakādu Kṛṣṇa-Dīkṣita, upon which this chapter's description of Nityārcanā is based, was published by Manonmani-granthamālā."
+    },
+    {
+      "event": "Publication of the Sāttvata-Saṃhitā with the commentary of Alasiṅga-bhaṭṭa by Sampurnananda Sanskrit University.",
+      "date": "1982",
+      "significance": "Provides the specific edition of the source text used for the extensive excerpts at the end of the chapter."
+    },
+    {
+      "event": "Publication of the edited Paramānanda-Tantra",
+      "date": "1985",
+      "significance": "The bibliographic note indicates the specific modern publication from which this text is sourced, making it accessible for contemporary study."
+    },
+    {
+      "event": "No historical events mentioned.",
+      "date": "N/A",
+      "significance": "The chapter describes timeless ritual practices rather than historical occurrences."
+    }
+  ],
+  "all_geographic_locations": [
+    {
+      "place": "Cosmological/Mythological locations",
+      "context": "Mentioned during the Pīṭha-pūjā visualization.",
+      "significance": "These places (milky ocean, pearl-island) form the layers of the divine throne, representing the structure of the cosmos upon which the deity resides."
+    },
+    {
+      "place": "South India",
+      "context": "The chapter explicitly states that the described procedure is a standard one adopted in the Śiva-temples in South India.",
+      "significance": "This grounds the ritual practice geographically, indicating its prevalence in the Dravidian temple tradition which is heavily influenced by the Āgamas."
+    },
+    {
+      "place": "Ganges (Gaṅgā)",
+      "context": "Invoked into the kalaśa (water pot) during Kalaśa-Pūjā to sanctify the water for worship.",
+      "significance": "One of the most sacred rivers in Hinduism."
+    },
+    {
+      "place": "Yamunā",
+      "context": "Invoked into the kalaśa (water pot) during Kalaśa-Pūjā.",
+      "significance": "A major sacred river in Hinduism."
+    },
+    {
+      "place": "Godāvarī",
+      "context": "Invoked into the kalaśa (water pot) during Kalaśa-Pūjā.",
+      "significance": "A sacred river in South India."
+    },
+    {
+      "place": "Sarasvatī",
+      "context": "Invoked into the kalaśa (water pot) during Kalaśa-Pūjā.",
+      "significance": "A revered ancient river, also the goddess of knowledge."
+    },
+    {
+      "place": "Narmadā",
+      "context": "Invoked into the kalaśa (water pot) during Kalaśa-Pūjā.",
+      "significance": "A sacred river in Central India."
+    },
+    {
+      "place": "Sindhu",
+      "context": "Invoked into the kalaśa (water pot) during Kalaśa-Pūjā.",
+      "significance": "The Indus river, historically significant."
+    },
+    {
+      "place": "Kāverī",
+      "context": "Invoked into the kalaśa (water pot) during Kalaśa-Pūjā.",
+      "significance": "A sacred river in Southern India."
+    },
+    {
+      "place": "Vārāṇasī",
+      "context": "The place of publication of the Sāttvata-Saṃhitā text mentioned on the final page.",
+      "significance": "A major historical center for Sanskrit learning and publication in India."
+    },
+    {
+      "place": "Vārāṇasī (Varanasi)",
+      "context": "The place where the Sampūrṇānanda Sanskrit University is located, which published the source text.",
+      "significance": "A major historical and ongoing center for Sanskrit learning and Hindu religious life."
+    }
+  ],
+  "complete_terminology_index": [
+    {
+      "term": "Nityārcanā",
+      "transliteration": "Nityārcanā",
+      "translation": "daily worship",
+      "context": "The central topic of the chapter."
+    },
+    {
+      "term": "āvāhanā",
+      "transliteration": "āvāhanā",
+      "translation": "invocation",
+      "context": "First of the 16 upacāras."
+    },
+    {
+      "term": "āsana",
+      "transliteration": "āsana",
+      "translation": "providing seat",
+      "context": "Second of the 16 upacāras."
+    },
+    {
+      "term": "pādya",
+      "transliteration": "pādya",
+      "translation": "offer of water for the feet",
+      "context": "Third of the 16 upacāras."
+    },
+    {
+      "term": "arghya",
+      "transliteration": "arghya",
+      "translation": "respectful libation",
+      "context": "Fourth of the 16 upacāras."
+    },
+    {
+      "term": "ācamana",
+      "transliteration": "ācamana",
+      "translation": "water for ceremonial sipping",
+      "context": "An upacāra and part of preparatory rites."
+    },
+    {
+      "term": "snāna",
+      "transliteration": "snāna",
+      "translation": "providing a bath",
+      "context": "One of the upacāras."
+    },
+    {
+      "term": "vastra",
+      "transliteration": "vastra",
+      "translation": "offering clean garments",
+      "context": "One of the upacāras."
+    },
+    {
+      "term": "upavīta",
+      "transliteration": "upavīta",
+      "translation": "providing a sacred cord",
+      "context": "One of the upacāras."
+    },
+    {
+      "term": "gandha",
+      "transliteration": "gandha",
+      "translation": "offering sandal-paste",
+      "context": "One of the upacāras."
+    },
+    {
+      "term": "puṣpa",
+      "transliteration": "puṣpa",
+      "translation": "decorating with flowers",
+      "context": "One of the upacāras."
+    },
+    {
+      "term": "dhūpa",
+      "transliteration": "dhūpa",
+      "translation": "burning incense",
+      "context": "One of the upacāras."
+    },
+    {
+      "term": "dīpa",
+      "transliteration": "dīpa",
+      "translation": "waving of lights",
+      "context": "One of the upacāras."
+    },
+    {
+      "term": "naivedya",
+      "transliteration": "naivedya",
+      "translation": "offering of food",
+      "context": "One of the upacāras."
+    },
+    {
+      "term": "namaskāra",
+      "transliteration": "namaskāra",
+      "translation": "prostrations",
+      "context": "One of the upacāras."
+    },
+    {
+      "term": "pradakṣiṇa",
+      "transliteration": "pradakṣiṇa",
+      "translation": "circumambulation",
+      "context": "One of the upacāras."
+    },
+    {
+      "term": "udvāsana",
+      "transliteration": "udvāsana",
+      "translation": "send-off",
+      "context": "Last of the 16 upacāras."
+    },
+    {
+      "term": "pañcopacāra-pujā",
+      "transliteration": "pañcopacāra-pujā",
+      "translation": "five-sequence worship",
+      "context": "A shorter form of worship."
+    },
+    {
+      "term": "sandhyā",
+      "transliteration": "sandhyā",
+      "translation": "twilight prayers",
+      "context": "A mandatory preparatory rite for a priest."
+    },
+    {
+      "term": "Nyāsa",
+      "transliteration": "Nyāsa",
+      "translation": "placement, assignment",
+      "context": "A key ritual for purifying and divinizing the worshipper's body."
+    },
+    {
+      "term": "aṅga-nyāsa",
+      "transliteration": "aṅga-nyāsa",
+      "translation": "placement on the limbs/body",
+      "context": "A component of ṣaḍ-aṅga-nyāsa."
+    },
+    {
+      "term": "kara-nyāsa",
+      "transliteration": "kara-nyāsa",
+      "translation": "placement on the hands",
+      "context": "A component of ṣaḍ-aṅga-nyāsa."
+    },
+    {
+      "term": "ṣaḍ-aṅga-nyāsa",
+      "transliteration": "ṣaḍ-aṅga-nyāsa",
+      "translation": "six-limbed nyāsa",
+      "context": "A common and important form of nyāsa."
+    },
+    {
+      "term": "ṛṣi",
+      "transliteration": "ṛṣi",
+      "translation": "sage",
+      "context": "The seer of a mantra, a component of nyāsa."
+    },
+    {
+      "term": "chandas",
+      "transliteration": "chandas",
+      "translation": "metre",
+      "context": "The poetic metre of a mantra, a component of nyāsa."
+    },
+    {
+      "term": "devatā",
+      "transliteration": "devatā",
+      "translation": "deity",
+      "context": "The presiding deity of a mantra, a component of nyāsa."
+    },
+    {
+      "term": "bīja",
+      "transliteration": "bīja",
+      "translation": "seed",
+      "context": "The seed-syllable of a mantra, a component of nyāsa."
+    },
+    {
+      "term": "śakti",
+      "transliteration": "śakti",
+      "translation": "energy, power",
+      "context": "The energy of a mantra, a component of nyāsa."
+    },
+    {
+      "term": "kīlaka",
+      "transliteration": "kīlaka",
+      "translation": "pillar, peg",
+      "context": "The component that fastens a mantra, a component of nyāsa."
+    },
+    {
+      "term": "pīṭha-pūjā",
+      "transliteration": "pīṭha-pūjā",
+      "translation": "worship of the seat/pedestal",
+      "context": "Worship of the deity's cosmic throne, done after nyāsa."
+    },
+    {
+      "term": "paratattva",
+      "transliteration": "paratattva",
+      "translation": "supreme principle",
+      "context": "The ultimate, transcendent reality that is the true object of worship."
+    },
+    {
+      "term": "Nityārcanā",
+      "transliteration": "Nityārcanā",
+      "translation": "Daily worship",
+      "context": "The title of the chapter and the main subject, referring to the regular, daily ritual sequence in a temple."
+    },
+    {
+      "term": "Āgama",
+      "transliteration": "Āgama",
+      "translation": "Traditional doctrine or precept, a collection of sacred writings",
+      "context": "The primary textual source for the worship procedures, such as Kāmika Āgama."
+    },
+    {
+      "term": "ācārya",
+      "transliteration": "ācārya",
+      "translation": "priest",
+      "context": "The officiating priest who performs the worship."
+    },
+    {
+      "term": "bali-pīṭha",
+      "transliteration": "bali-pīṭha",
+      "translation": "altar-seat",
+      "context": "The pedestal, usually outside the main shrine, where offerings (bali) are placed for attendant deities."
+    },
+    {
+      "term": "dhvaja-stambha",
+      "transliteration": "dhvaja-stambha",
+      "translation": "flag-post",
+      "context": "The ceremonial flag-post located in the temple courtyard."
+    },
+    {
+      "term": "vṛśabha",
+      "transliteration": "vṛśabha",
+      "translation": "bull",
+      "context": "The image of the crouching bull, Nandi, Śiva's vehicle and devotee."
+    },
+    {
+      "term": "dvārapāla",
+      "transliteration": "dvārapāla",
+      "translation": "door-guardians",
+      "context": "The icons of guardian deities flanking the entrance to the sanctum."
+    },
+    {
+      "term": "astra-mantra",
+      "transliteration": "astra-mantra",
+      "translation": "weapon mantra ('om astrāya phaṭ')",
+      "context": "A mantra used for protection, purification, and opening locks."
+    },
+    {
+      "term": "pañca-gavya",
+      "transliteration": "pañca-gavya",
+      "translation": "mixture of the five products of the cow",
+      "context": "A purifying mixture of milk, curds, ghee, urine, and cowdung, used for cleaning and consecration."
+    },
+    {
+      "term": "nirmālya",
+      "transliteration": "nirmālya",
+      "translation": "old flowers/remains of worship",
+      "context": "The flowers, garlands, and other items from the previous day's worship, which are removed before the new worship begins."
+    },
+    {
+      "term": "Ātma-śuddhi",
+      "transliteration": "ātma-śuddhi",
+      "translation": "purification of oneself",
+      "context": "The initial set of rituals for the priest to purify his own body and mind."
+    },
+    {
+      "term": "Bhūta-śuddhi",
+      "transliteration": "bhūta-śuddhi",
+      "translation": "purification of the elements",
+      "context": "A yogic and meditative ritual to purify the five elements (bhūtas) within the priest's body."
+    },
+    {
+      "term": "Antaryāga",
+      "transliteration": "antaryāga",
+      "translation": "internal sacrifice/worship",
+      "context": "A mental worship where the entire ritual is visualized and performed internally."
+    },
+    {
+      "term": "Dravya-śuddhi",
+      "transliteration": "dravya-śuddhi",
+      "translation": "purification of the articles",
+      "context": "The ritual cleaning and consecration of all vessels and materials to be used in the worship."
+    },
+    {
+      "term": "Snapana",
+      "transliteration": "snapana",
+      "translation": "ceremonial bath",
+      "context": "The main ritual bath of the deity with various sacred liquids."
+    },
+    {
+      "term": "Abhiṣeka",
+      "transliteration": "abhiṣeka",
+      "translation": "ritual bath",
+      "context": "Synonym for Snapana, the act of anointing and bathing the deity."
+    },
+    {
+      "term": "āvāhana",
+      "transliteration": "āvāhana",
+      "translation": "Invocation",
+      "context": "The central act of invoking the divine presence into the idol or liṅga."
+    },
+    {
+      "term": "Āvaraṇārcana",
+      "transliteration": "āvaraṇārcana",
+      "translation": "worship of the enclosure",
+      "context": "The systematic worship of attendant deities who reside in concentric circles (āvaraṇas) around the main deity."
+    },
+    {
+      "term": "Bali-haraṇa",
+      "transliteration": "Bali-haraṇa",
+      "translation": "distribution of food-offerings",
+      "context": "The ritual procession to distribute food offerings (bali) to all the secondary deities and spirits in the temple complex."
+    },
+    {
+      "term": "Śayanotsava",
+      "transliteration": "śayanotsava",
+      "translation": "festival of putting to bed",
+      "context": "The final ritual of the night, where the processional deity is ceremonially put to rest."
+    },
+    {
+      "term": "Nityārcanā-vidhi",
+      "transliteration": "Nityārcanā-vidhi",
+      "translation": "Procedure for daily worship",
+      "context": "The title of the chapter, detailing the daily ritual worship of Vishnu."
+    },
+    {
+      "term": "Pāñcarātra",
+      "transliteration": "Pāñcarātra",
+      "translation": "A division of Āgama texts, primarily Vaiṣṇava",
+      "context": "The tradition from which this worship procedure is derived."
+    },
+    {
+      "term": "Āgama",
+      "transliteration": "Āgama",
+      "translation": "A collection of scriptures dealing with temple construction, rituals, and philosophy.",
+      "context": "The broader scriptural category for this text."
+    },
+    {
+      "term": "Tattva-vāda",
+      "transliteration": "Tattva-vāda",
+      "translation": "The philosophical school of Dvaita (dualism) founded by Madhvacharya.",
+      "context": "The specific philosophical outlook of the described ritual."
+    },
+    {
+      "term": "Sandhyā",
+      "transliteration": "Sandhyā",
+      "translation": "Daily prayers performed at dawn, noon, and dusk.",
+      "context": "Part of the priest's initial personal purification."
+    },
+    {
+      "term": "Prāṇāyāma",
+      "transliteration": "Prāṇāyāma",
+      "translation": "Breath control exercises.",
+      "context": "Included in the sandhyā ritual."
+    },
+    {
+      "term": "Japa",
+      "transliteration": "Japa",
+      "translation": "Repetitive chanting of a mantra.",
+      "context": "Part of the priest's morning duties."
+    },
+    {
+      "term": "Naivedya",
+      "transliteration": "Naivedya",
+      "translation": "Food offering to a deity.",
+      "context": "One of the five purposes of the water pots; a major section of the pūjā."
+    },
+    {
+      "term": "Bhūtoccatana",
+      "transliteration": "Bhūtoccatana",
+      "translation": "Rite of driving away evil spirits/influences.",
+      "context": "Performed to purify the sanctum before worship."
+    },
+    {
+      "term": "Saṃkalpa",
+      "transliteration": "Saṃkalpa",
+      "translation": "A solemn resolve or statement of purpose.",
+      "context": "The formal declaration made by the priest before starting the main worship."
+    },
+    {
+      "term": "Kalaśa-pūjā",
+      "transliteration": "Kalaśa-pūjā",
+      "translation": "Worship of the water pot.",
+      "context": "A ritual to invoke deities and sacred waters into the pot."
+    },
+    {
+      "term": "Śaṃkha-pūjā",
+      "transliteration": "Śaṃkha-pūjā",
+      "translation": "Worship of the conch.",
+      "context": "A ritual to worship the conch as a divine object."
+    },
+    {
+      "term": "Mudrā",
+      "transliteration": "Mudrā",
+      "translation": "Symbolic hand gesture.",
+      "context": "Used throughout the ritual, especially for consecration and invocation."
+    },
+    {
+      "term": "Pīṭha-pūjā",
+      "transliteration": "Pīṭha-pūjā",
+      "translation": "Worship of the pedestal/seat.",
+      "context": "Worship offered to the divine seat of the deity."
+    },
+    {
+      "term": "Ṣoḍaśopacāra",
+      "transliteration": "Ṣoḍaśopacāra",
+      "translation": "Sixteen-fold service/offering.",
+      "context": "The standard framework for an elaborate pūjā."
+    },
+    {
+      "term": "Pañcāmṛta",
+      "transliteration": "Pañcāmṛta",
+      "translation": "Five nectars (milk, curd, ghee, honey, sugar).",
+      "context": "Used for the ritual bathing (abhiṣeka) of the deity."
+    },
+    {
+      "term": "Bimbāvāhana",
+      "transliteration": "Bimbāvāhana",
+      "translation": "Invocation of the deity into the icon.",
+      "context": "The crucial step of transferring the divine presence into the object of worship."
+    },
+    {
+      "term": "Abhiṣeka",
+      "transliteration": "Abhiṣeka",
+      "translation": "Ritual bathing.",
+      "context": "The ceremonial bath given to the icon."
+    },
+    {
+      "term": "Nīrājana",
+      "transliteration": "Nīrājana",
+      "translation": "Waving of lights (also Ārātrikā).",
+      "context": "A concluding ritual of offering light to the deity."
+    },
+    {
+      "term": "Udvāsana",
+      "transliteration": "Udvāsana",
+      "translation": "Ritual of bidding farewell or sending off the deity.",
+      "context": "The act of withdrawing the invoked divine presence from the icon back into the devotee's heart."
+    },
+    {
+      "term": "Kṣamāpaṇa",
+      "transliteration": "Kṣamāpaṇa",
+      "translation": "Asking for forgiveness.",
+      "context": "Prayers recited at the end of the pūjā for any lapses."
+    },
+    {
+      "term": "Nityārcanā",
+      "transliteration": "Nityārcanā",
+      "translation": "Daily worship",
+      "context": "The title and main subject of the chapter."
+    },
+    {
+      "term": "Pāñcarātra",
+      "transliteration": "Pāñcarātra",
+      "translation": "A Vaishnava Āgamic tradition",
+      "context": "Specifies the mode of worship being described."
+    },
+    {
+      "term": "Śaḍaṅga-nyāsa",
+      "transliteration": "śaḍaṅga-nyāsa",
+      "translation": "Six-fold placement",
+      "context": "A ritual of placing six seed mantras on different parts of the body for purification and divinization."
+    },
+    {
+      "term": "Bali-pīṭha",
+      "transliteration": "bali-pīṭha",
+      "translation": "Offering pedestal/stone",
+      "context": "The main pedestal outside the shrine where offerings (bali) are made to attendant deities."
+    },
+    {
+      "term": "Nirmālya",
+      "transliteration": "nirmālya",
+      "translation": "Previous day's offerings, especially flowers",
+      "context": "These are removed from the deity as one of the first acts of the daily worship."
+    },
+    {
+      "term": "Pañca-śuddhi",
+      "transliteration": "pañca-śuddhi",
+      "translation": "Five purifications",
+      "context": "Purification of the place (sthāna), vessels (pātra), icon (bimba), self (ātma), and mantras (mantra)."
+    },
+    {
+      "term": "Parivārārcanā",
+      "transliteration": "Parivārārcanā",
+      "translation": "Worship of the attendant deities",
+      "context": "The worship of the retinue of deities surrounding the main one."
+    },
+    {
+      "term": "Bhūta-śuddhi",
+      "transliteration": "bhūta-śuddhi",
+      "translation": "Purification of the elements",
+      "context": "A meditative process to purify the five elements that constitute the priest's body."
+    },
+    {
+      "term": "Mantra-nyāsa",
+      "transliteration": "mantra-nyāsa",
+      "translation": "Placement of mantras",
+      "context": "The ritual of placing mantras or syllables on the body to transform it into a divine form."
+    },
+    {
+      "term": "Mānasa-yāga",
+      "transliteration": "mānasa-yāga",
+      "translation": "Mental sacrifice/worship",
+      "context": "An internalized, contemplative form of worship performed entirely in the mind."
+    },
+    {
+      "term": "Bahir-yāga",
+      "transliteration": "bahir-yāga",
+      "translation": "External sacrifice/worship",
+      "context": "The formal, physical rituals of worship."
+    },
+    {
+      "term": "Āvāhana",
+      "transliteration": "āvāhana",
+      "translation": "Invocation",
+      "context": "The ritual of invoking the deity's presence into an icon or vessel."
+    },
+    {
+      "term": "Jaṅgama-bera",
+      "transliteration": "jaṅgama-bera",
+      "translation": "Moveable icon",
+      "context": "Metallic icons used for various services like baths and processions, as distinct from the main, immoveable icon."
+    },
+    {
+      "term": "Mūla-bera",
+      "transliteration": "mūla-bera",
+      "translation": "Root/main icon",
+      "context": "The main, immoveable stone or wooden icon in the sanctum sanctorum."
+    },
+    {
+      "term": "Snāna",
+      "transliteration": "Snāna",
+      "translation": "Bath",
+      "context": "The ceremonial bathing of the deity."
+    },
+    {
+      "term": "Alaṅkārāsana",
+      "transliteration": "Alaṅkārāsana",
+      "translation": "Seat of decoration",
+      "context": "The ritual sequence of decorating the deity."
+    },
+    {
+      "term": "Bhojyāsana",
+      "transliteration": "Bhojyāsana",
+      "translation": "Seat of food",
+      "context": "The ritual sequence of offering food."
+    },
+    {
+      "term": "Bali-yātrā",
+      "transliteration": "Bali-yātrā",
+      "translation": "Bali procession",
+      "context": "The daily festival of offering food to attendant deities."
+    },
+    {
+      "term": "Śayyāsana",
+      "transliteration": "Śayyāsana",
+      "translation": "Seat of rest/bed",
+      "context": "The final ritual of putting the deity to bed for the night."
+    },
+    {
+      "term": "ॐ ज्ञानाय नमः।",
+      "transliteration": "om jñānāya namaḥ|",
+      "translation": "Om, salutations to Knowledge.",
+      "context": "Mantra for the heart in śaḍaṅga-nyāsa."
+    },
+    {
+      "term": "ॐ नमो भगवते वासुदेवाय",
+      "transliteration": "om namo bhagavate vāsudevāya",
+      "translation": "Om, salutations to the Lord Vāsudeva.",
+      "context": "The twelve-syllabled mantra, central to the worship."
+    },
+    {
+      "term": "नित्यार्चना",
+      "transliteration": "Nityārcanā",
+      "translation": "Daily Worship",
+      "context": "The title of the chapter, referring to the daily ritual worship of the Goddess."
+    },
+    {
+      "term": "साधकः",
+      "transliteration": "Sādhakaḥ",
+      "translation": "Practitioner / Aspirant",
+      "context": "The person performing the spiritual practice or ritual."
+    },
+    {
+      "term": "ब्रह्मरन्ध्र",
+      "transliteration": "Brahmarandhra",
+      "translation": "Aperture of Brahman",
+      "context": "The psychic center at the crown of the head, the goal for the rising Kuṇḍalinī."
+    },
+    {
+      "term": "ध्यान",
+      "transliteration": "Dhyāna",
+      "translation": "Meditation / Visualization",
+      "context": "Mental concentration and visualization of a deity's form."
+    },
+    {
+      "term": "मुद्रा",
+      "transliteration": "Mudrā",
+      "translation": "Seal / Gesture",
+      "context": "Symbolic hand gestures used in ritual to invoke energies or represent deities."
+    },
+    {
+      "term": "पूजा",
+      "transliteration": "Pūjā",
+      "translation": "Worship / Ritual",
+      "context": "The act of reverential worship, which is the main subject of the chapter."
+    },
+    {
+      "term": "द्वार-पूजा",
+      "transliteration": "Dvāra-Pūjā",
+      "translation": "Doorway Worship",
+      "context": "The ritual worship of the entrance to the sacred space."
+    },
+    {
+      "term": "भूतशुद्धि",
+      "transliteration": "Bhūta-śuddhi",
+      "translation": "Purification of Elements",
+      "context": "An internal yogic process of purifying the constituent elements of the body."
+    },
+    {
+      "term": "प्राणप्रतिष्ठा",
+      "transliteration": "Prāṇa-pratiṣṭhā",
+      "translation": "Establishment of Life-Force",
+      "context": "The ritual infusion of a divine body or idol with vital energy."
+    },
+    {
+      "term": "न्यास",
+      "transliteration": "Nyāsa",
+      "translation": "Placement",
+      "context": "The ritual placement of mantras or divine energies onto parts of the body."
+    },
+    {
+      "term": "यन्त्र",
+      "transliteration": "Yantra",
+      "translation": "Instrument / Diagram",
+      "context": "A mystical geometric diagram used as a tool for meditation and worship."
+    },
+    {
+      "term": "पीठपूजा",
+      "transliteration": "Pīṭha-pūjā",
+      "translation": "Worship of the Seat",
+      "context": "Worship of the pedestal or foundation upon which the deity/yantra is placed."
+    },
+    {
+      "term": "आवरणपूजा",
+      "transliteration": "Āvaraṇa-pūjā",
+      "translation": "Worship of the Enclosures",
+      "context": "The systematic worship of the attendant deities residing in the different enclosures of the yantra."
+    },
+    {
+      "term": "सृष्टिक्रम",
+      "transliteration": "Sṛṣṭikrama",
+      "translation": "Order of Creation",
+      "context": "A method of worship moving from the center outwards, usually for material gains."
+    },
+    {
+      "term": "संहारक्रम",
+      "transliteration": "Saṁhārakrama",
+      "translation": "Order of Dissolution",
+      "context": "A method of worship moving from the periphery inwards, usually for liberation."
+    }
+  ],
+  "cross_reference_map": [
+    {
+      "reference_text": "Kāmika, Ajita and Kāraṇa",
+      "target": "Āgama texts",
+      "page": "1"
+    },
+    {
+      "reference_text": "Śivārcana-candrikā, śaivāgama-candrikā, Sivāgamasāra and Iśāna-śiva-guru-deva-padhati",
+      "target": "Worship Manuals",
+      "page": "1"
+    },
+    {
+      "reference_text": "Arcanāprakāśa (Manonmani-granthamālā - 1962, edited by Talakādu Kṛṣṇa-Dīkṣita)",
+      "target": "Primary Source Compilation",
+      "page": "1"
+    },
+    {
+      "reference_text": "Ajitāgama (Kriyā, 20, 110-111)",
+      "target": "Specific passage in Ajitāgama",
+      "page": "16"
+    },
+    {
+      "reference_text": "Acintyā-viśva-sādākhya provides more details (12, 114 ft)",
+      "target": "Specific passage in Acintyā-viśva-sādākhya",
+      "page": "16"
+    },
+    {
+      "reference_text": "Kāmikāgama",
+      "target": "Āgama text",
+      "page": "2, 37"
+    },
+    {
+      "reference_text": "Tantra-sāra",
+      "target": "The text 'Tantra-sāra-samgraha', attributed to Madhvacharya.",
+      "page": "1"
+    },
+    {
+      "reference_text": "Puruṣa-sūkta",
+      "target": "A famous hymn of the Rigveda (RV 10.90).",
+      "page": "17"
+    },
+    {
+      "reference_text": "Śrī-sūkta",
+      "target": "A Sanskrit devotional hymn revering Sri as Lakshmi.",
+      "page": "7"
+    },
+    {
+      "reference_text": "Devi-sūkta (Vāgambhraṇi-sūkta)",
+      "target": "A hymn from the Rigveda (RV 10.125) attributed to the rishi Vāk Ambhṛṇī.",
+      "page": "7"
+    },
+    {
+      "reference_text": "Baḷitthā-sūkta",
+      "target": "A Vedic hymn, often used in rituals related to strength and protection.",
+      "page": "23"
+    },
+    {
+      "reference_text": "Pādmā-saṃhitā",
+      "target": "A Pāñcarātra text",
+      "page": "2, 10, etc."
+    },
+    {
+      "reference_text": "Vihagendra-saṃhitā",
+      "target": "A Pāñcarātra text",
+      "page": "2, 30"
+    },
+    {
+      "reference_text": "Īśvara-saṃhitā",
+      "target": "A Pāñcarātra text",
+      "page": "3, 23"
+    },
+    {
+      "reference_text": "Viṣṇu-tilaka-saṃhitā",
+      "target": "A Pāñcarātra text",
+      "page": "3, 15, 32"
+    },
+    {
+      "reference_text": "Śrī-praśna-saṃhitā",
+      "target": "A Pāñcarātra text",
+      "page": "4, 5, 17, 24, 25"
+    },
+    {
+      "reference_text": "Aniruddha-saṃhitā",
+      "target": "A Pāñcarātra text",
+      "page": "4, 15, 26"
+    },
+    {
+      "reference_text": "Ananta-saṃhitā",
+      "target": "A Pāñcarātra text",
+      "page": "5, 12, 21"
+    },
+    {
+      "reference_text": "Sāttvata-saṃhitā",
+      "target": "A Pāñcarātra text",
+      "page": "5, 40-60"
+    },
+    {
+      "reference_text": "Nāradīya-saṃhitā",
+      "target": "A Pāñcarātra text",
+      "page": "6"
+    },
+    {
+      "reference_text": "Pārameśvara-saṃhitā",
+      "target": "A Pāñcarātra text",
+      "page": "6, 10, 14, 22, 23, 34"
+    },
+    {
+      "reference_text": "Lakṣmī-tantra",
+      "target": "A Pāñcarātra text",
+      "page": "13"
+    },
+    {
+      "reference_text": "Jayākhya-saṃhitā",
+      "target": "A Pāñcarātra text",
+      "page": "17, 19, 21"
+    },
+    {
+      "reference_text": "Vasiṣṭha-saṃhitā",
+      "target": "A Pāñcarātra text",
+      "page": "22"
+    },
+    {
+      "reference_text": "Pauṣkara-saṃhitā",
+      "target": "A Pāñcarātra text",
+      "page": "26"
+    },
+    {
+      "reference_text": "Viṣṇu-tantra",
+      "target": "A Pāñcarātra text",
+      "page": "26"
+    },
+    {
+      "reference_text": "Nārāyaṇa-saṃhitā",
+      "target": "A Pāñcarātra text",
+      "page": "29"
+    },
+    {
+      "reference_text": "पूर्वोक्ताकुलपद्मान्तर्...",
+      "target": "An earlier, unincluded part of the Paramānanda-Tantra.",
+      "page": "1"
+    }
+  ],
+  "bibliography_network": [],
+  "keywords_by_frequency": []
+}

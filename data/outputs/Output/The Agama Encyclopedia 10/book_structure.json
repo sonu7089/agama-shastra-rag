@@ -1,0 +1,38 @@
+{
+  "table_of_contents": {
+    "start_page": 14,
+    "end_page": 14
+  },
+  "chapters": [
+    {
+      "chapter_number": "I",
+      "title": "INTRODUCTION",
+      "start_page": 1,
+      "end_page": 15
+    },
+    {
+      "chapter_number": "II",
+      "title": "NITYĀRCANA IN ŚIVA TEMPLES",
+      "start_page": 16,
+      "end_page": 110
+    },
+    {
+      "chapter_number": "III",
+      "title": "NITYĀRCANĀ-VIDHI (ACCORDING TO TANTRA-SĀRA)",
+      "start_page": 111,
+      "end_page": 136
+    },
+    {
+      "chapter_number": "IV",
+      "title": "NITYĀRCANĀ IN A VIṢṆU TEMPLE (PĀÑCARĀTRA MODE OF WORSHIP)",
+      "start_page": 137,
+      "end_page": 196
+    },
+    {
+      "chapter_number": "V",
+      "title": "NITYĀRCANA OF DEVĪ",
+      "start_page": 197,
+      "end_page": 214
+    }
+  ]
+}
