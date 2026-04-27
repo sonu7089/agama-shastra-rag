@@ -1,416 +1,239 @@
-# Book Data Enrichment & RAG System
+# Agama Shastra RAG
 
-A complete pipeline for extracting structured data from PDF books and building an intelligent RAG (Retrieval-Augmented Generation) system for querying book content.
+Agama Shastra RAG is a Python project for turning long-form Agama and temple studies PDFs into structured JSON, indexing that corpus in ChromaDB, and querying it through a retrieval-augmented chat interface powered by Gemini.
 
-## 🚀 Quick Start
+## Project Status
 
-```bash
-# 1. Run the quick start script
-./quickstart.sh
+This repository is usable, but it is still a work in progress.
 
-# 2. Extract book data
-python book_enrichment.py
+- The enrichment, indexing, retrieval, and Streamlit chat flows are present.
+- The repository already includes extracted JSON outputs and a prebuilt ChromaDB snapshot under `data/`.
+- A static web frontend exists in `src/web/frontend/`, but the API backend it expects is not implemented in this repository.
+- The included `tests/test_retrieval.py` is a manual retrieval inspection script, not an automated unit test suite.
 
-# 3. Index the data
-python indexer.py
+Assumption:
+The checked-in `data/outputs/Output/` and `data/chroma_db/` directories are intended to be sample or working corpus artifacts for local experimentation.
 
-# 4. Launch chat interface
-streamlit run app.py
+## Key Features
+
+- PDF-to-JSON enrichment pipeline using Gemini for structure extraction and content analysis
+- Structured outputs for front matter, chapters, appendixes, glossary, bibliography, references, and index sections
+- Two indexing strategies:
+  - standard chunking in `src/scripts/indexer.py`
+  - richer semantic chunking in `src/scripts/indexer_ultrarich.py`
+- ChromaDB-backed semantic retrieval with `SentenceTransformer` embeddings
+- Optional cross-encoder reranking for more precise retrieval
+- Streamlit chat UI with query optimization, conversation-aware retrieval, and citation-oriented prompting
+- Utility scripts for corpus validation, outlines, and query suggestions
+
+## Tech Stack
+
+- Python 3.11+
+- Google Gemini API via `google-generativeai`
+- ChromaDB
+- Sentence Transformers
+- PyTorch
+- Streamlit
+- PyPDF2
+- `python-dotenv`
+
+## Repository Structure
+
+```text
+agama-shastra-rag/
+├── assets/                    # Chat avatar assets
+├── data/
+│   ├── chroma_db/             # Prebuilt ChromaDB snapshot
+│   └── outputs/Output/        # Extracted structured book JSON
+├── src/
+│   ├── core/                  # Retrieval, reranking, utility logic
+│   ├── scripts/               # Enrichment and indexing entrypoints
+│   └── web/                   # Streamlit app, prompts, experimental frontend
+├── tests/                     # Manual retrieval inspection script
+├── .env.example
+├── requirements.txt
+└── README.md
 ```
-
-## 📦 System Components
-
-### 1. Book Data Enrichment (`book_enrichment.py`)
-Extracts structured data from PDF books using Google's Gemini API.
-
-### 2. Vector Indexer (`indexer.py`)
-Indexes extracted data into a vector database for efficient retrieval.
-
-### 3. Retrieval System (`retriever.py`)
-Provides semantic search and context retrieval using local embeddings.
-
-### 4. Chat Interface (`app.py`)
-Streamlit-based web interface for conversational interaction with your books.
-
-## ✨ Features
-
-### Data Extraction
-- **AI-Powered Structure Detection**: Automatically identifies chapters, sections, appendixes, and references
-- **Intelligent PDF Splitting**: Creates temporary PDFs for each section to reduce context size
-- **Image Description**: Describes images in detail within the content
-- **Comprehensive Summaries**: Generates summaries for each section and chapter
-- **Structured JSON Output**: Consistent format optimized for RAG systems
-- **Rich Metadata Extraction**: Historical figures, events, locations, terminology, quotations
-
-### RAG System
-- **Semantic Search**: Uses local embedding models (sentence-transformers)
-- **Multi-level Indexing**: Chapters, sections, entities, terminology, references
-- **Flexible Filtering**: Search by book, chapter, or content type
-- **Context-Aware Retrieval**: Intelligent context assembly for AI responses
-- **Chat Interface**: User-friendly web interface with conversation history
-- **Dual-Model Architecture**: Local embeddings + Gemini for generation
 
 ## Installation
 
-1. Install required packages:
+1. Create and activate a virtual environment.
+2. Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
 
-2. Get your **HuggingFace Token** (required for embedding model):
-   - Visit [https://huggingface.co/google/embeddinggemma-300m](https://huggingface.co/google/embeddinggemma-300m)
-   - Click "Request Access" and accept the terms
-   - Once approved, create a token at [https://huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)
-   - Copy the token
+3. Copy the example environment file:
 
-3. Get your **Gemini API key**:
-   - Visit [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
-   - Create a new API key
-   - Copy the key
+```bash
+cp .env.example .env
+```
 
-4. Create a `.env` file:
-   - Copy `.env.example` to `.env`
-   - Add your `HF_TOKEN` and `GEMINI_API_KEY`
+On Windows PowerShell:
+
+```powershell
+Copy-Item .env.example .env
+```
+
+## Configuration
+
+Set these values in `.env`:
+
+```env
+GEMINI_API_KEY=your_gemini_api_key
+HF_TOKEN=your_huggingface_token
+PDF_PATH=path/to/book.pdf
+OUTPUT_DIR=data/outputs/Output
+PDF_PAGE_OFFSET=0
+DB_PATH=data/chroma_db
+```
+
+Notes:
+
+- `GEMINI_API_KEY` is required for enrichment and chat generation.
+- `HF_TOKEN` is required because the repository uses the gated `google/embeddinggemma-300m` model.
+- `PDF_PATH` is required only when you run the enrichment pipeline on a new PDF.
+- `DB_PATH` is optional in code today, but documenting it makes local setup clearer.
+
+## Local Setup
+
+### 1. Use the included indexed corpus
+
+If you only want to explore the existing dataset, set:
+
+```env
+GEMINI_API_KEY=your_gemini_api_key
+HF_TOKEN=your_huggingface_token
+```
+
+Then launch the chat app:
+
+```bash
+streamlit run src/web/app.py
+```
+
+### 2. Process a new PDF
+
+Set `PDF_PATH` in `.env`, then run:
+
+```bash
+python -m src.scripts.book_enrichment
+```
+
+This generates structured JSON under `data/outputs/Output/<book-name>/`.
+
+### 3. Build or rebuild the vector index
+
+Standard indexing:
+
+```bash
+python -m src.scripts.indexer
+```
+
+Rebuild from scratch:
+
+```bash
+python -m src.scripts.indexer --clear
+```
+
+Ultra-rich indexing:
+
+```bash
+python -m src.scripts.indexer_ultrarich --clear
+```
 
 ## Usage
 
-### Basic Usage
+### Streamlit chat app
 
 ```bash
-python book_enrichment.py path/to/your/book.pdf --api-key YOUR_GEMINI_API_KEY
+streamlit run src/web/app.py
 ```
 
-### Using Environment Variable
+Default behavior:
+
+- reads `GEMINI_API_KEY` from `.env`
+- connects to `data/chroma_db`
+- loads available books from the Chroma collection
+- retrieves relevant chunks and asks Gemini to generate a grounded response
+
+### Retrieval CLI
 
 ```bash
-export GEMINI_API_KEY="your-api-key-here"
-python book_enrichment.py path/to/your/book.pdf
+python -m src.core.retriever --db data/chroma_db
 ```
 
-### Custom Output Directory
+### Utility commands
 
 ```bash
-python book_enrichment.py path/to/your/book.pdf --output CustomOutput --api-key YOUR_KEY
+python -m src.core.rag_utils stats
+python -m src.core.rag_utils outline
+python -m src.core.rag_utils validate
+python -m src.core.rag_utils suggestions
 ```
 
-## Output Structure
-
-The script creates the following directory structure:
-
-```
-Output/
-└── YourBookName/
-    ├── index.json                    # Book structure overview
-    ├── Chapter_1.json               # Detailed chapter 1 data
-    ├── Chapter_2.json               # Detailed chapter 2 data
-    ├── ...
-    ├── Appendix_A.json              # Appendix A data
-    ├── Appendix_B.json              # Appendix B data
-    ├── references_and_notes.json    # References section
-    └── temp/                        # Temporary PDFs (can be deleted)
-        ├── chapter_1.pdf
-        ├── chapter_2.pdf
-        └── ...
-```
-
-## JSON Output Format
-
-### index.json
-```json
-{
-  "chapters": [
-    {
-      "chapter_number": "1",
-      "title": "Introduction",
-      "start_page": 1,
-      "end_page": 25,
-      "sections": [
-        {
-          "section_number": "1.1",
-          "title": "Background",
-          "start_page": 1,
-          "end_page": 10
-        }
-      ]
-    }
-  ],
-  "appendixes": [...],
-  "references_and_notes": {...}
-}
-```
-
-### Chapter_X.json
-```json
-{
-  "chapter_number": "1",
-  "chapter_title": "Introduction",
-  "number_of_pages": 25,
-  "sections": [
-    {
-      "section_number": "1.1",
-      "section_title": "Background",
-      "content": "Full text content... [IMAGE: Description of image and what it conveys]",
-      "summary": "Section summary",
-      "key_concepts": ["concept1", "concept2"],
-      "page_range": "1-10"
-    }
-  ],
-  "chapter_summary": "Overall chapter summary",
-  "key_takeaways": ["takeaway1", "takeaway2"],
-  "keywords": ["keyword1", "keyword2"]
-}
-```
-
-### Appendix_X.json
-```json
-{
-  "appendix_id": "A",
-  "appendix_title": "Supplementary Material",
-  "number_of_pages": 10,
-  "content": "Full appendix content...",
-  "summary": "Appendix summary",
-  "purpose": "What this appendix provides",
-  "key_information": ["info1", "info2"]
-}
-```
-
-### references_and_notes.json
-```json
-{
-  "section_title": "References and Notes",
-  "number_of_pages": 20,
-  "content": "All references text...",
-  "summary": "Summary of references",
-  "reference_count": 150,
-  "reference_types": ["books", "journals", "websites"]
-}
-```
-
-## How It Works
-
-1. **Structure Extraction**: Uploads the full PDF to Gemini and extracts the book structure (chapters, sections, appendixes)
-2. **PDF Splitting**: Creates temporary PDFs for each section to reduce context size for AI processing
-3. **Individual Processing**: Processes each section separately with focused prompts
-4. **Content Extraction**: Extracts text, describes images, and generates summaries
-5. **JSON Output**: Saves structured data in consistent JSON format
-
-## Important Notes
-
-- **Image Handling**: The script processes PDFs as images (no text extraction), perfect for scanned books
-- **API Costs**: Be aware of Gemini API usage costs when processing large books
-- **Processing Time**: Large books may take considerable time to process
-- **Rate Limiting**: Built-in 1-second delays between requests
-- **Temp Files**: Temporary PDFs are created in the temp/ folder and can be deleted after processing
-
-## Customization
-
-You can modify the prompts in the script to:
-- Extract additional fields
-- Change summary styles
-- Add custom analysis
-- Adjust the JSON structure
-
-Key methods to customize:
-- `extract_structure()`: Modify structure extraction prompt
-- `process_chapter()`: Customize chapter processing
-- `process_appendix()`: Adjust appendix processing
-- `process_references()`: Change reference handling
-
-## Troubleshooting
-
-### API Key Issues
-```
-ValueError: Please provide API key via --api-key or GEMINI_API_KEY environment variable
-```
-**Solution**: Ensure you've provided a valid Gemini API key
-
-### File Processing Failed
-```
-ValueError: File processing failed
-```
-**Solution**: Check PDF file integrity and size limits
-
-### JSON Parsing Errors
-**Solution**: The script automatically handles markdown code blocks, but if issues persist, check the API response
-
-## Example Workflow
+### Manual enrichment for a single section
 
 ```bash
-# 1. Set up environment
-export GEMINI_API_KEY="your-key"
-
-# 2. Run the script
-python book_enrichment.py my_book.pdf
-
-# 3. Check output
-ls -la Output/my_book/
-
-# 4. Use in your RAG application
-# Load the JSON files and feed them to your vector database
+python -m src.scripts.manual_enrich --chapter 2
+python -m src.scripts.manual_enrich --appendix 1
+python -m src.scripts.manual_enrich --section introduction
 ```
 
-## 🎯 RAG System Usage
+## Data Flow
 
-### Indexing Books
-
-```bash
-# Index all books in Output folder
-python indexer.py
-
-# Clear and rebuild index
-python indexer.py --clear
-
-# Custom paths
-python indexer.py --output /path/to/output --db /path/to/chroma_db
+```text
+PDF
+  -> Gemini-based enrichment
+  -> structured JSON files
+  -> embedding generation
+  -> ChromaDB collection
+  -> retriever / reranker
+  -> Streamlit chat response
 ```
 
-### Using the Retriever (CLI)
+## Deployment
 
-```bash
-# Interactive retrieval mode
-python retriever.py
+No production deployment configuration is included yet.
 
-# With custom database path
-python retriever.py --db /path/to/chroma_db
-```
+Current practical deployment options:
 
-### Launching the Chat Interface
+- run the Streamlit app locally for demos
+- deploy the Streamlit app manually on a VM or Streamlit Community Cloud after provisioning secrets
+- add a proper API backend if you want to use the static frontend in `src/web/frontend/`
 
-```bash
-# Start Streamlit app
-streamlit run app.py
+Important limitation:
+`src/web/frontend/script.js` points to a backend `/chat` API, but that backend is not present in this repository today.
 
-# Custom port
-streamlit run app.py --server.port 8502
-```
+## Roadmap
 
-Then open your browser to `http://localhost:8501`
+- Add an actual automated test suite instead of manual inspection scripts
+- Expose retrieval and chat through a documented API layer
+- Add reproducible evaluation for retrieval quality and citation quality
+- Add dataset provenance and corpus preparation notes
+- Improve packaging with a `pyproject.toml` and pinned dependency strategy
+- Add CI for linting, tests, and documentation checks
 
-### Programmatic Usage
+## Contributing
 
-```python
-from retriever import BookRetriever
-import google.generativeai as genai
+Contributions are welcome, especially around:
 
-# Initialize
-retriever = BookRetriever(db_path="chroma_db")
-genai.configure(api_key="your_api_key")
-model = genai.GenerativeModel('gemini-2.5-pro')
+- retrieval quality improvements
+- prompt design and grounding behavior
+- packaging and developer experience
+- tests, CI, and documentation
 
-# Get context and generate response
-query = "What are the main themes?"
-context = retriever.get_context_for_rag(query, n_results=5)
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
-prompt = f"Context:\n{context}\n\nQuestion: {query}\n\nAnswer:"
-response = model.generate_content(prompt)
-print(response.text)
-```
+## Code of Conduct
 
-## 📊 Utilities
+This project follows the guidelines in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
-```bash
-# Show book statistics
-python rag_utils.py stats
+## Security
 
-# Generate book outlines
-python rag_utils.py outline
-
-# Validate book data
-python rag_utils.py validate
-
-# Get query suggestions
-python rag_utils.py suggestions
-```
-
-## 📚 Documentation
-
-For detailed RAG system documentation, see [RAG_README.md](RAG_README.md)
-
-Topics covered:
-- Architecture and design
-- Indexing strategies
-- Chunk types and metadata
-- Retrieval methods
-- Advanced usage
-- Performance optimization
-- Troubleshooting
-
-## 🏗️ System Architecture
-
-```
-PDF Book
-   ↓
-book_enrichment.py (Gemini API)
-   ↓
-Structured JSON Files
-   ↓
-indexer.py (Local Embeddings)
-   ↓
-Vector Database (ChromaDB)
-   ↓
-retriever.py (Semantic Search)
-   ↓
-app.py (Chat Interface)
-   ↓
-Gemini API (Response Generation)
-   ↓
-User Response
-```
-
-## 🔧 Configuration
-
-Create a `.env` file (copy from `.env.example`):
-
-```bash
-# HuggingFace Token (required for accessing gated models like embeddinggemma-300m)
-# Get your token from: https://huggingface.co/settings/tokens
-HF_TOKEN=your_huggingface_token_here
-
-# Gemini API Key (required for LLM responses)
-# Get your API key from: https://aistudio.google.com/app/apikey
-GEMINI_API_KEY=your_gemini_api_key_here
-
-# PDF Processing Configuration
-PDF_PATH=path/to/your/book.pdf
-OUTPUT_DIR=Output
-PDF_PAGE_OFFSET=0
-```
-
-**Important**: The `HF_TOKEN` is required because this project uses Google's `embeddinggemma-300m` model, which is a gated repository on HuggingFace. To get access:
-
-1. Visit [https://huggingface.co/google/embeddinggemma-300m](https://huggingface.co/google/embeddinggemma-300m)
-2. Click "Request Access" and accept the terms
-3. Once approved, create a token at [https://huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)
-4. Add the token to your `.env` file
-
-## Integration with RAG Systems
-
-The structured JSON output is designed to work seamlessly with RAG systems:
-
-1. **Chunking**: Each section is already a logical chunk
-2. **Metadata**: Rich metadata (chapter, section, page numbers) for filtering
-3. **Summaries**: Multiple summary levels for hierarchical retrieval
-4. **Keywords**: Pre-extracted keywords for better indexing
-5. **Embeddings**: Local model for fast, offline retrieval
-6. **Context Assembly**: Intelligent context formatting for LLMs
-
-## 🎨 Example Queries
-
-- "What are the main themes of this book?"
-- "Who is [historical figure]?"
-- "Explain the term [Sanskrit/Hindi term]"
-- "What happened in chapter 5?"
-- "Summarize the main arguments"
-- "What are the key dates in the timeline?"
-- "What sources does the author cite about [topic]?"
+If you discover a vulnerability, please follow [SECURITY.md](SECURITY.md).
 
 ## License
 
-This project is provided as-is for educational and commercial use.
-
-## Support
-
-For detailed documentation and troubleshooting:
-- See [RAG_README.md](RAG_README.md) for RAG system details
-- Review code comments for customization options
-- Check issue tracker for common problems
+This repository currently does not grant an open-source license. See [LICENSE](LICENSE) for the current status before reusing the code or bundled data.

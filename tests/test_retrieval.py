@@ -7,13 +7,16 @@ from datetime import datetime
 from pathlib import Path
 from dotenv import load_dotenv
 import sys
-# Add src directory to python path
-sys.path.append(str(Path(__file__).parent.parent / "src"))
+import pytest
+# Add project root to Python path so `src.*` imports resolve during direct runs
+sys.path.append(str(Path(__file__).parent.parent))
 
-from retriever import BookRetriever
+from src.core.retriever import BookRetriever
 
 # Load environment variables
 load_dotenv()
+
+pytestmark = pytest.mark.skip(reason="Manual retrieval inspection script; not part of the automated test suite.")
 
 def test_query(retriever, query, n_results=5, output_file=None):
     """Test a single query and display results"""
@@ -153,7 +156,7 @@ def main():
     print(f"\n💾 Output will be saved to: {output_file}")
     
     # Initialize retriever
-    db_path = "chroma_db"
+    db_path = "data/chroma_db"
     print(f"\n📂 Loading database from: {db_path}")
     retriever = BookRetriever(db_path=db_path)
     
